@@ -3,85 +3,168 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Apunts de Física — Viewer</title>
+  <title>Física Batxillerat C-2022</title>
 
   <!-- Estil propi -->
   <link rel="stylesheet" href="theme.css">
 
-  <!-- CSS “GitHub-like” per al markdown (opcional però recomanat) -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.5.1/github-markdown-light.min.css">
+  <!-- Markdown look & feel (opcional) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.5.1/github-markdown-light.min.css" integrity="sha384-7eQpQ5v3xF1wPpQv9u8Q+HnqD0nR8gCwFhS8J7r9y2mD0E0tqjXo4Qqf7HhF2P0C" crossorigin="anonymous">
 
-  <!-- Marked (MD → HTML) i DOMPurify (sanitització) -->
-  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <!-- Libs: DOMPurify + Marked + MathJax -->
+  <script defer src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js" integrity="sha384-3Qh4n7q9oY0fQ0n4G4+oZ6b6p6H7+8c9ZqGm1mH0kW9m9hS2P4Ww" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" integrity="sha384-A1k4G1vzv8+3q8a0m5m2bVjP7v1u+1m8jVtFJjW6yVq8Wm8fQy" crossorigin="anonymous"></script>
+  <script>
+    // Configuració MathJax (LaTeX inline i bloc)
+    window.MathJax = {
+      tex: {
+        inlineMath: [["$","$"],["\\(","\\)"]],
+        displayMath: [["$$","$$"],["\\[","\\]"]],
+        processEscapes: true,
+        packages: {'[+]': ['boldsymbol']}
+      },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+  <style>
+    :root { --maxw: 980px; }
+    html, body { height:100%; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans"; line-height:1.6; }
+    main.page { min-height: calc(100% - 64px); display:grid; place-items:center; padding: 1rem; }
+    article.card { width:100%; max-width: var(--maxw); background:#fff; border:1px solid #e5e7eb; border-radius: 12px; padding: 1.2rem; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
+    .toolbar { position: sticky; bottom: 0; background:#f8fafc; border-top:1px solid #e5e7eb; padding:.6rem 1rem; display:flex; gap:.75rem; align-items:center; justify-content:center; flex-wrap: wrap; }
+    .toolbar label { font-weight:600; }
+    .hint { color:#6b7280; font-size:.9rem; }
+    .error { color:#b91c1c; background:#fee2e2; border:1px solid #fecaca; padding:.75rem; border-radius:8px; }
+    .loading { color:#334155; background:#f1f5f9; border:1px dashed #cbd5e1; padding:.75rem; border-radius:8px; }
+    .markdown-body img { max-width:100%; height:auto; }
+    /* Centrat de fórmules de bloc (MathJax ja centra, assegurem marges) */
+    .mjx-container[display="true"] { margin: 1em auto !important; }
+  </style>
 </head>
 <body>
   <main class="page">
-    <article class="markdown-body card" id="content">
+    <article class="markdown-body card" id="content" aria-live="polite">
       <noscript>Cal JavaScript per renderitzar el Markdown.</noscript>
     </article>
   </main>
 
   <footer class="toolbar">
-    <form id="picker">
+    <form id="picker" style="display:flex; gap:.5rem; align-items:center;">
       <label for="mdfile">Obre un .md:</label>
-      <select id="mdfile" name="mdfile">
+      <select id="mdfile" name="mdfile" aria-label="Selecciona fitxer Markdown">
+        <!-- Defineix ací el catàleg dels teus fitxers -->
         <option value="bloc0-matematiques.md">bloc0-matematiques.md</option>
       </select>
       <button type="submit">Carrega</button>
-      <span class="hint">També pots usar ?md=bloc0-matematiques.md</span>
+      <span class="hint">També: ?md=bloc0-matematiques.md · Guarda l'últim en LocalStorage</span>
     </form>
   </footer>
 
   <script>
-    // Configuració Marked
-    marked.setOptions({ gfm: true, breaks: true });
+    // --- Paràmetres i catàleg
+    const MD_DIR = 'md/';
+    const CATALOG = [ 'bloc0-matematiques.md' ]; // afegeix més: 'tema1.md', 'tema2.md', ...
 
-    // Helper per llegir ?md=...
-    function getMDFromQuery() {
-      const params = new URLSearchParams(window.location.search);
-      const name = params.get("md") || "document.md";
-      // només arxius sota /md per seguretat
-      return "md/" + name.replace(/^\/+/, "");
+    // --- Helpers
+    const $content = document.getElementById('content');
+    const $form = document.getElementById('picker');
+    const $select = document.getElementById('mdfile');
+
+    // Sanititza un nom de fitxer per evitar navegació fora de /md
+    function sanitizeName(name) {
+      if (!name) return '';
+      // deixa lletres, números, guions, punts i barres. Bloqueja .. i barres inicials
+      name = name.replace(/^[\\/]+/, '').replace(/\.\.+/g, '.');
+      if (!/^[A-Za-z0-9_\-./]+$/.test(name)) return '';
+      return name;
     }
 
-    async function loadAndRender(mdPath) {
+    function mdFromQueryOrStorage() {
+      const params = new URLSearchParams(window.location.search);
+      const q = sanitizeName(params.get('md'));
+      if (q) return q;
+      const saved = localStorage.getItem('last-md');
+      if (saved && CATALOG.includes(saved)) return saved;
+      return CATALOG[0];
+    }
+
+    // Configuració Marked
+    const renderer = new marked.Renderer();
+    const origLink = renderer.link.bind(renderer);
+    renderer.link = (href, title, text) => {
+      const html = origLink(href, title, text);
+      return html.replace('<a ', '<a target="_blank" rel="noopener noreferrer" ');
+    };
+    marked.setOptions({
+      renderer,
+      gfm: true,
+      breaks: false, // millora tipogràfica
+      mangle: false,
+      headerIds: true
+    });
+
+    async function loadAndRender(mdName) {
+      const mdPath = MD_DIR + mdName;
+      $content.innerHTML = `<p class="loading">Carregant <code>${mdName}</code>…</p>`;
       try {
-        const res = await fetch(mdPath, { cache: "no-store" });
-        if (!res.ok) throw new Error(`No s'ha pogut carregar: ${mdPath}`);
+        const res = await fetch(mdPath, { cache: 'no-store' });
+        if (!res.ok) {
+          throw new Error(`HTTP ${res.status} carregant ${mdPath}`);
+        }
         const md = await res.text();
-        const html = DOMPurify.sanitize(marked.parse(md));
-        document.getElementById("content").innerHTML = html;
+        const rawHtml = marked.parse(md);
+        const safeHtml = DOMPurify.sanitize(rawHtml, { USE_PROFILES: { html: true } });
+        $content.innerHTML = safeHtml;
+        // Render LaTeX
+        if (window.MathJax && window.MathJax.typesetPromise) {
+          await window.MathJax.typesetPromise();
+        }
+        // Desa l'últim vist
+        localStorage.setItem('last-md', mdName);
       } catch (err) {
-        document.getElementById("content").innerHTML =
-          `<div class="error"><strong>Error:</strong> ${err.message}<br>
-           Assegura't d'executar-ho amb un servidor local (Live Server, etc.) i que el fitxer existeix a /md/.</div>`;
+        console.error(err);
+        $content.innerHTML = `
+          <div class="error">
+            <strong>Error de càrrega</strong><br>
+            ${err.message}<br>
+            Revisa que el fitxer existeix a <code>${mdPath}</code> i que <code>.nojekyll</code> és a l'arrel.
+          </div>`;
       }
     }
 
-    // Inicialitza
-    const initial = getMDFromQuery();
-    loadAndRender(initial);
+    // Inicialitza selector amb el catàleg definit
+    function populateSelect() {
+      // Si vols que es construeixi automàticament a partir de CATALOG
+      $select.innerHTML = CATALOG.map(name => `<option value="${name}">${name}</option>`).join('');
+    }
 
-    // Selector del footer
-    const form = document.getElementById("picker");
-    const select = document.getElementById("mdfile");
-
-    // Sincronitza selector amb la query inicial
-    select.value = initial.split("/").pop();
-
-    form.addEventListener("submit", (e) => {
+    // Gestió d'esdeveniments
+    $form.addEventListener('submit', (e) => {
       e.preventDefault();
-      const chosen = select.value;
-      // actualitza la URL (bonic per compartir)
+      const chosen = $select.value;
       const url = new URL(window.location.href);
-      url.searchParams.set("md", chosen);
-      window.history.pushState({}, "", url);
-      loadAndRender("md/" + chosen);
+      url.searchParams.set('md', chosen);
+      window.history.pushState({}, '', url);
+      loadAndRender(chosen);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 
-    // Per suport a back/forward
-    window.addEventListener("popstate", () => loadAndRender(getMDFromQuery()));
+    window.addEventListener('popstate', () => {
+      const current = mdFromQueryOrStorage();
+      $select.value = current;
+      loadAndRender(current);
+    });
+
+    // Boot
+    (function init() {
+      populateSelect();
+      const initial = mdFromQueryOrStorage();
+      $select.value = initial;
+      loadAndRender(initial);
+    })();
   </script>
 </body>
 </html>
