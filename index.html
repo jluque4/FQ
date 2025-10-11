@@ -8,163 +8,214 @@
   <!-- Estil propi -->
   <link rel="stylesheet" href="theme.css">
 
-  <!-- Markdown look & feel (opcional) -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.5.1/github-markdown-light.min.css" integrity="sha384-7eQpQ5v3xF1wPpQv9u8Q+HnqD0nR8gCwFhS8J7r9y2mD0E0tqjXo4Qqf7HhF2P0C" crossorigin="anonymous">
+  <!-- CSS “GitHub-like” per al markdown (opcional però recomanat) -->
+  <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Baloo+2:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.5.1/github-markdown-light.min.css">
 
-  <!-- Libs: DOMPurify + Marked + MathJax -->
-  <script defer src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js" integrity="sha384-3Qh4n7q9oY0fQ0n4G4+oZ6b6p6H7+8c9ZqGm1mH0kW9m9hS2P4Ww" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" integrity="sha384-A1k4G1vzv8+3q8a0m5m2bVjP7v1u+1m8jVtFJjW6yVq8Wm8fQy" crossorigin="anonymous"></script>
+  <!-- Marked (MD → HTML) i DOMPurify (sanitització) -->
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+
+  <!-- MathJax (LaTeX inline $...$ i bloc $$...$$) -->
   <script>
-    // Configuració MathJax (LaTeX inline i bloc)
     window.MathJax = {
       tex: {
-        inlineMath: [["$","$"],["\\(","\\)"]],
-        displayMath: [["$$","$$"],["\\[","\\]"]],
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
         processEscapes: true,
         packages: {'[+]': ['boldsymbol']}
       },
-      svg: { fontCache: 'global' }
+      svg: { fontCache: 'global' },
+      startup: { typeset: false }   // ← clau: no fer typeset automàtic
     };
   </script>
-  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" defer></script>
 
   <style>
-    :root { --maxw: 980px; }
-    html, body { height:100%; }
-    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans"; line-height:1.6; }
-    main.page { min-height: calc(100% - 64px); display:grid; place-items:center; padding: 1rem; }
-    article.card { width:100%; max-width: var(--maxw); background:#fff; border:1px solid #e5e7eb; border-radius: 12px; padding: 1.2rem; box-shadow: 0 1px 2px rgba(0,0,0,.04); }
-    .toolbar { position: sticky; bottom: 0; background:#f8fafc; border-top:1px solid #e5e7eb; padding:.6rem 1rem; display:flex; gap:.75rem; align-items:center; justify-content:center; flex-wrap: wrap; }
-    .toolbar label { font-weight:600; }
-    .hint { color:#6b7280; font-size:.9rem; }
-    .error { color:#b91c1c; background:#fee2e2; border:1px solid #fecaca; padding:.75rem; border-radius:8px; }
-    .loading { color:#334155; background:#f1f5f9; border:1px dashed #cbd5e1; padding:.75rem; border-radius:8px; }
-    .markdown-body img { max-width:100%; height:auto; }
-    /* Centrat de fórmules de bloc (MathJax ja centra, assegurem marges) */
+    /* opcional: marges bonics per a fórmules de bloc $$...$$ */
     .mjx-container[display="true"] { margin: 1em auto !important; }
   </style>
 </head>
 <body>
-  <main class="page">
-    <article class="markdown-body card" id="content" aria-live="polite">
-      <noscript>Cal JavaScript per renderitzar el Markdown.</noscript>
-    </article>
-  </main>
+  
+<!-- TOPBAR: selector de bloc + prev/next + cerca -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <label for="mdfile" class="sr-only">Obre un Bloc.md</label>
+      <select id="mdfile" name="mdfile" class="topbar-select"></select>
+      <button id="prevBtn" title="Anterior [">←</button>
+      <button id="nextBtn" title="Següent ]">→</button>
+    </div>
+    <div class="topbar-right">
+      <input id="quickFind" type="search" placeholder="Cerca en la pàgina… [/]" />
+    </div>
+  </header>
 
-  <footer class="toolbar">
-    <form id="picker" style="display:flex; gap:.5rem; align-items:center;">
-      <label for="mdfile">Obre un .md:</label>
-      <select id="mdfile" name="mdfile" aria-label="Selecciona fitxer Markdown">
-        <!-- Defineix ací el catàleg dels teus fitxers -->
-        <option value="bloc0-matematiques.md">bloc0-matematiques.md</option>
-      </select>
-      <button type="submit">Carrega</button>
-      <span class="hint">També: ?md=bloc0-matematiques.md · Guarda l'últim en LocalStorage</span>
-    </form>
-  </footer>
+  <!-- LAYOUT amb barra lateral TOC + contingut -->
+  <div class="layout">
+    <aside class="sidebar">
+      <nav id="toc"><!-- Índex generat automàticament --></nav>
+    </aside>
+
+    <main class="page">
+      <article class="markdown-body card" id="content">
+        <noscript>Cal JavaScript per renderitzar el Markdown.</noscript>
+      </article>
+    </main>
+  </div>
+
 
   <script>
-    // --- Paràmetres i catàleg
-    const MD_DIR = 'md/';
-    const CATALOG = [ 'bloc0-matematiques.md' ]; // afegeix més: 'tema1.md', 'tema2.md', ...
+  // ——— Llista de fitxers disponibles (edita segons els teus blocs) ———
+  const DOCS = [
+    { file: "bloc0-matematiques.md", title: "Bloc 0 — Matemàtiques" },
+    // { file: "bloc1-cinematica.md", title: "Bloc 1 — Cinemàtica" },
+    // { file: "bloc2-dinamica.md",   title: "Bloc 2 — Dinàmica"   },
+  ];
 
-    // --- Helpers
-    const $content = document.getElementById('content');
-    const $form = document.getElementById('picker');
-    const $select = document.getElementById('mdfile');
+  // ——— Marked: enllaços en pestanya nova, no trencar fórmules ———
+  const renderer = new marked.Renderer();
+  const origLink = renderer.link.bind(renderer);
+  renderer.link = (href, title, text) =>
+    origLink(href, title, text).replace('<a ', '<a target="_blank" rel="noopener noreferrer" ');
+  marked.setOptions({ gfm: true, breaks: false, mangle: false, headerIds: true, renderer });
 
-    // Sanititza un nom de fitxer per evitar navegació fora de /md
-    function sanitizeName(name) {
-      if (!name) return '';
-      // deixa lletres, números, guions, punts i barres. Bloqueja .. i barres inicials
-      name = name.replace(/^[\\/]+/, '').replace(/\.\.+/g, '.');
-      if (!/^[A-Za-z0-9_\-./]+$/.test(name)) return '';
-      return name;
-    }
+  // ——— Utils de query ———
+  function getMDFromQuery() {
+    const params = new URLSearchParams(window.location.search);
+    const name = params.get("md") || DOCS[0].file;
+    return "md/" + name.replace(/^\/+/, "");
+  }
+  function setMDToQuery(name) {
+    const url = new URL(window.location.href);
+    url.searchParams.set("md", name);
+    history.pushState({}, "", url);
+  }
 
-    function mdFromQueryOrStorage() {
-      const params = new URLSearchParams(window.location.search);
-      const q = sanitizeName(params.get('md'));
-      if (q) return q;
-      const saved = localStorage.getItem('last-md');
-      if (saved && CATALOG.includes(saved)) return saved;
-      return CATALOG[0];
-    }
+  // ——— MathJax typeset segur ———
+  async function typesetMath() {
+    if (!window.MathJax) return;
+    if (window.MathJax.startup?.promise) await window.MathJax.startup.promise;
+    if (window.MathJax.typesetPromise) await window.MathJax.typesetPromise();
+    else if (window.MathJax.typeset) window.MathJax.typeset();
+  }
 
-    // Configuració Marked
-    const renderer = new marked.Renderer();
-    const origLink = renderer.link.bind(renderer);
-    renderer.link = (href, title, text) => {
-      const html = origLink(href, title, text);
-      return html.replace('<a ', '<a target="_blank" rel="noopener noreferrer" ');
-    };
-    marked.setOptions({
-      renderer,
-      gfm: true,
-      breaks: false, // millora tipogràfica
-      mangle: false,
-      headerIds: true
+  // ——— Construcció del TOC a partir de H1–H3 ———
+  function buildTOC() {
+    const toc = document.getElementById("toc");
+    toc.innerHTML = "";
+    const headings = document.querySelectorAll("#content h1, #content h2, #content h3");
+    headings.forEach(h => {
+      const id = h.id || h.textContent.trim().toLowerCase().replace(/\s+/g, "-");
+      if (!h.id) h.id = id;
+      const a = document.createElement("a");
+      a.href = `#${id}`;
+      a.textContent = h.textContent.replace(/^#*\s*/, "");
+      a.className = h.tagName === "H1" ? "lvl-1" : h.tagName === "H2" ? "lvl-2" : "lvl-3";
+      toc.appendChild(a);
     });
+  }
 
-    async function loadAndRender(mdName) {
-      const mdPath = MD_DIR + mdName;
-      $content.innerHTML = `<p class="loading">Carregant <code>${mdName}</code>…</p>`;
-      try {
-        const res = await fetch(mdPath, { cache: 'no-store' });
-        if (!res.ok) {
-          throw new Error(`HTTP ${res.status} carregant ${mdPath}`);
-        }
-        const md = await res.text();
-        const rawHtml = marked.parse(md);
-        const safeHtml = DOMPurify.sanitize(rawHtml, { USE_PROFILES: { html: true } });
-        $content.innerHTML = safeHtml;
-        // Render LaTeX
-        if (window.MathJax && window.MathJax.typesetPromise) {
-          await window.MathJax.typesetPromise();
-        }
-        // Desa l'últim vist
-        localStorage.setItem('last-md', mdName);
-      } catch (err) {
-        console.error(err);
-        $content.innerHTML = `
-          <div class="error">
-            <strong>Error de càrrega</strong><br>
-            ${err.message}<br>
-            Revisa que el fitxer existeix a <code>${mdPath}</code> i que <code>.nojekyll</code> és a l'arrel.
-          </div>`;
+  // ——— Cerca simple dins la pàgina ———
+  function quickFindNext(query) {
+    if (!query) return;
+    const el = document.getElementById("content");
+    // Busca text pla; per simplicitat, fem scroll al primer match
+    const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+    let node;
+    query = query.toLowerCase();
+    while ((node = walker.nextNode())) {
+      const t = node.nodeValue.trim().toLowerCase();
+      if (t && t.includes(query)) {
+        const range = document.createRange();
+        range.selectNodeContents(node.parentNode);
+        const rect = range.getBoundingClientRect();
+        window.scrollBy({ top: rect.top - 100, behavior: "smooth" });
+        return;
       }
     }
+  }
 
-    // Inicialitza selector amb el catàleg definit
-    function populateSelect() {
-      // Si vols que es construeixi automàticament a partir de CATALOG
-      $select.innerHTML = CATALOG.map(name => `<option value="${name}">${name}</option>`).join('');
+  // ——— Carrega i renderitza ———
+  async function loadAndRender(mdPath) {
+    try {
+      const res = await fetch(mdPath, { cache: "no-store" });
+      if (!res.ok) throw new Error(`No s'ha pogut carregar: ${mdPath}`);
+      const md = await res.text();
+      const html = DOMPurify.sanitize(marked.parse(md), { USE_PROFILES: { html: true } });
+      const el = document.getElementById("content");
+      el.innerHTML = html;
+
+      // TOC + LaTeX
+      buildTOC();
+      await typesetMath();
+    } catch (err) {
+      document.getElementById("content").innerHTML =
+        `<div class="error"><strong>Error:</strong> ${err.message}</div>`;
     }
+  }
 
-    // Gestió d'esdeveniments
-    $form.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const chosen = $select.value;
-      const url = new URL(window.location.href);
-      url.searchParams.set('md', chosen);
-      window.history.pushState({}, '', url);
-      loadAndRender(chosen);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+  // ——— Inicialització UI ———
+  const select = document.getElementById("mdfile");
+  const prev = document.getElementById("prevBtn");
+  const next = document.getElementById("nextBtn");
+  const find = document.getElementById("quickFind");
 
-    window.addEventListener('popstate', () => {
-      const current = mdFromQueryOrStorage();
-      $select.value = current;
-      loadAndRender(current);
-    });
+  // Omple el selector amb DOCS
+  function populateSelect() {
+    select.innerHTML = DOCS.map(d => `<option value="${d.file}">${d.title}</option>`).join("");
+  }
 
-    // Boot
-    (function init() {
-      populateSelect();
-      const initial = mdFromQueryOrStorage();
-      $select.value = initial;
-      loadAndRender(initial);
-    })();
-  </script>
+  function currentIndexByFile(file) {
+    return DOCS.findIndex(d => d.file === file);
+  }
+
+  async function gotoFile(file) {
+    setMDToQuery(file);
+    select.value = file;
+    await loadAndRender("md/" + file);
+  }
+
+  // Events
+  select.addEventListener("change", () => gotoFile(select.value));
+  prev.addEventListener("click", () => {
+    const i = currentIndexByFile(select.value);
+    if (i > 0) gotoFile(DOCS[i-1].file);
+  });
+  next.addEventListener("click", () => {
+    const i = currentIndexByFile(select.value);
+    if (i >= 0 && i < DOCS.length - 1) gotoFile(DOCS[i+1].file);
+  });
+  find.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); quickFindNext(find.value.trim()); }
+  });
+
+  // Dreceres: [ i ] per navegar; / per cercar
+  window.addEventListener("keydown", (e) => {
+    if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+    if (e.key === "/") { e.preventDefault(); find.focus(); return; }
+    const i = currentIndexByFile(select.value);
+    if (e.key === "[" && i > 0) { e.preventDefault(); gotoFile(DOCS[i-1].file); }
+    if (e.key === "]" && i < DOCS.length - 1) { e.preventDefault(); gotoFile(DOCS[i+1].file); }
+  });
+
+  // Carrega inicial
+  (async function init() {
+    populateSelect();
+    const mdPath = getMDFromQuery();                    // p.ex. "md/bloc0-matematiques.md"
+    const file = mdPath.split("/").pop();               // p.ex. "bloc0-matematiques.md"
+    // Si la query no coincideix amb DOCS, força el primer
+    if (currentIndexByFile(file) === -1) {
+      await gotoFile(DOCS[0].file);
+    } else {
+      select.value = file;
+      await loadAndRender(mdPath);
+    }
+  })();
+
+  // Recarrega en canvis d'historial (back/forward)
+  window.addEventListener("popstate", () => loadAndRender(getMDFromQuery()));
+</script>
+
 </body>
 </html>
