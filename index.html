@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Apunts de Física — Viewer</title>
+
+  <!-- Estil propi -->
+  <link rel="stylesheet" href="theme.css">
+
+  <!-- CSS “GitHub-like” per al markdown (opcional però recomanat) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.5.1/github-markdown-light.min.css">
+
+  <!-- Marked (MD → HTML) i DOMPurify (sanitització) -->
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+</head>
+<body>
+  <main class="page">
+    <article class="markdown-body card" id="content">
+      <noscript>Cal JavaScript per renderitzar el Markdown.</noscript>
+    </article>
+  </main>
+
+  <footer class="toolbar">
+    <form id="picker">
+      <label for="mdfile">Obre un .md:</label>
+      <select id="mdfile" name="mdfile">
+        <option value="bloc0-matematiques.md">bloc0-matematiques.md</option>
+      </select>
+      <button type="submit">Carrega</button>
+      <span class="hint">També pots usar ?md=bloc0-matematiques.md</span>
+    </form>
+  </footer>
+
+  <script>
+    // Configuració Marked
+    marked.setOptions({ gfm: true, breaks: true });
+
+    // Helper per llegir ?md=...
+    function getMDFromQuery() {
+      const params = new URLSearchParams(window.location.search);
+      const name = params.get("md") || "document.md";
+      // només arxius sota /md per seguretat
+      return "md/" + name.replace(/^\/+/, "");
+    }
+
+    async function loadAndRender(mdPath) {
+      try {
+        const res = await fetch(mdPath, { cache: "no-store" });
+        if (!res.ok) throw new Error(`No s'ha pogut carregar: ${mdPath}`);
+        const md = await res.text();
+        const html = DOMPurify.sanitize(marked.parse(md));
+        document.getElementById("content").innerHTML = html;
+      } catch (err) {
+        document.getElementById("content").innerHTML =
+          `<div class="error"><strong>Error:</strong> ${err.message}<br>
+           Assegura't d'executar-ho amb un servidor local (Live Server, etc.) i que el fitxer existeix a /md/.</div>`;
+      }
+    }
+
+    // Inicialitza
+    const initial = getMDFromQuery();
+    loadAndRender(initial);
+
+    // Selector del footer
+    const form = document.getElementById("picker");
+    const select = document.getElementById("mdfile");
+
+    // Sincronitza selector amb la query inicial
+    select.value = initial.split("/").pop();
+
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const chosen = select.value;
+      // actualitza la URL (bonic per compartir)
+      const url = new URL(window.location.href);
+      url.searchParams.set("md", chosen);
+      window.history.pushState({}, "", url);
+      loadAndRender("md/" + chosen);
+    });
+
+    // Per suport a back/forward
+    window.addEventListener("popstate", () => loadAndRender(getMDFromQuery()));
+  </script>
+</body>
+</html>

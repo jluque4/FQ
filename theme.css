@@ -1,0 +1,129 @@
+:root{
+  --page-max: 980px;
+  --ink: #1f2937;
+  --accent: #0f4c81;
+  --paper: #fcfcfb;
+  --grid: rgba(2, 32, 71, 0.06);
+  --card: #ffffff;
+  --border: #e5e7eb;
+  --shadow: 0 6px 40px rgba(0,0,0,.05);
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Fons quadriculat */
+.page {
+  min-height: calc(100% - 64px);
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background-image:
+    linear-gradient(to right, var(--grid) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Targeta central (Markdown) */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 2rem 2.2rem;
+  max-width: var(--page-max);
+  width: 100%;
+  box-shadow: var(--shadow);
+}
+
+/* Títols markdown (classe de github-markdown-css) */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: var(--accent);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: .25rem;
+}
+.markdown-body h1 { font-weight: 800; }
+.markdown-body h2 { font-weight: 700; }
+.markdown-body h3 { font-weight: 600; }
+
+.markdown-body img {
+  display: block; margin: 1rem auto;
+  max-width: 100%; height: auto;
+  border-radius: 8px;
+}
+
+.markdown-body table { border-collapse: collapse; }
+.markdown-body th, .markdown-body td {
+  border: 1px solid var(--border);
+  padding: .5rem .6rem;
+}
+.markdown-body thead th { background: #f8fafc; }
+
+.markdown-body blockquote {
+  border-left: 4px solid var(--accent);
+  background: #f1f5f9;
+  color: #0b3a62;
+  padding: .6rem 1rem;
+}
+
+.markdown-body code {
+  background: #f8fafc; border: 1px solid #e2e8f0;
+  padding: .1rem .35rem; border-radius: 4px; font-size: .95em;
+}
+
+/* Barra inferior: selector de fitxer */
+.toolbar {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: .5rem 1rem;
+  border-top: 1px solid var(--border);
+  background: rgba(255,255,255,.75);
+  backdrop-filter: blur(6px);
+}
+
+#picker {
+  display: flex; align-items: center; gap: .6rem; flex-wrap: wrap;
+}
+#picker select, #picker button {
+  font: inherit;
+  padding: .35rem .6rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+}
+#picker button {
+  background: var(--accent);
+  color: #fff;
+  border-color: transparent;
+  cursor: pointer;
+}
+#picker button:hover { filter: brightness(0.96); }
+.hint { color: #64748b; font-size: .9rem; }
+
+/* Missatge d'error */
+.error {
+  padding: 1rem;
+  border: 1px dashed #ef4444;
+  background: #fff5f5;
+  color: #7f1d1d;
+  border-radius: 8px;
+}
+
+@media print {
+  .page { background: none; }
+  .card {
+    box-shadow: none; border: none;
+    padding: 0; max-width: 100%;
+  }
+  .toolbar { display: none; }
+}
