@@ -24,7 +24,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 **Continguts clau (C-2022):**
 - Descripció del moviment d’un cos puntual en una i dues dimensions.  
 - Representació de vectors posició, velocitat i acceleració.  
-- Moviments rectilinis i circulars: **MRU**, **MRUA** i **MCU**.  
+- Moviments rectilinis i circulars: **MRU**, **MRUA** , **MCU** i **MCUA**.  
 - Moviments compostos: llançaments horitzontals i oblics.  
 - Anàlisi gràfica de moviments: interpretació de gràfiques x–t, v–t i a–t.  
 - Aplicacions contextualitzades: moviments en esports, vehicles i trajectòries orbitals simples.
