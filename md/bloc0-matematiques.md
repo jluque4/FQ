@@ -1,7 +1,5 @@
 # Bloc 0. Qüestions generals de matemàtiques
 
-## 0 — Introducció
-
 L’alumnat ha de saber:
 - Calcular derivades senzilles per a magnituds variables.
 - Operar amb vectors: suma, resta i productes escalar i vectorial.
@@ -18,16 +16,16 @@ El currículum és **obert i competencial**: es poden plantejar qüestions no ex
 
 ---
 
-## 1 — Magnituds i unitats
+# 1 — Magnituds i unitats
 
-### 1.1 — Magnituds físiques
+## 1.1 — Magnituds físiques
 
 En física, com en totes les **ciències experimentals**, la **presa de dades** dels fenòmens que ocorren a la naturalesa és essencial.
 En aquesta presa de dades, tota qualitat d’un cos o fenomen que es pot **mesurar** rep el nom de **magnitud física**.
 
 Les magnituds físiques permeten **quantificar** i **comparar** propietats dels objectes o dels processos naturals (com ara la massa, la temperatura o la velocitat).
 
-### 1.2 — Tipus de magnituds
+## 1.2 — Tipus de magnituds
 
 Les **magnituds físiques** poden classificar-se en **dos tipus principals**:
 
@@ -41,7 +39,7 @@ Les **magnituds físiques** poden classificar-se en **dos tipus principals**:
 
 > *En una magnitud vectorial, la representació gràfica es fa mitjançant una fletxa: la seva longitud representa el mòdul, i la seva orientació indica la direcció i el sentit.*
 
-### 1.3 — Magnituds fonamentals
+## 1.3 — Magnituds fonamentals
 | Magnitud | Símbol | Unitat (SI) | Símbol |
 |---|---|---|---|
 | Longitud | $l$ | metre | m |
@@ -54,7 +52,7 @@ Les **magnituds físiques** poden classificar-se en **dos tipus principals**:
 
 > *Aquestes magnituds serveixen com a base per derivar-ne d’altres més complexes, com la força, l’energia o la potència.*
 
-### 1.4 — Magnituds derivades
+## 1.4 — Magnituds derivades
 
 Les **magnituds derivades** es construeixen a partir de les fonamentals mitjançant combinacions algebraiques.
 A la taula següent es mostren algunes de les més utilitzades en el batxillerat:
@@ -76,7 +74,7 @@ A la taula següent es mostren algunes de les més utilitzades en el batxillerat
 | Resistència | $R$ | ohm | $\Omega$ | Escalar |
 | Velocitat | $\vec{v}$ | metre/segon | m/s | Vectorial |
 
-### 1.5 — Múltiples i submúltiples del SI
+## 1.5 — Múltiples i submúltiples del SI
 
 En física sovint treballem amb **valors molt grans o molt petits**.
 Per evitar escriure nombres massa llargs, s’utilitzen **prefixos** que indiquen potències de deu.
@@ -96,9 +94,9 @@ Per evitar escriure nombres massa llargs, s’utilitzen **prefixos** que indique
 
 ---
 
-## 2 — Càlcul vectorial
+# 2 — Càlcul vectorial
 
-### 2.1 — Elements d’un vector
+## 2.1 — Elements d’un vector
 
 Un vector és una **fletxa orientada** que representa una **magnitud física amb direcció i sentit** (com una força, una velocitat o un desplaçament).
 
@@ -108,11 +106,11 @@ Un vector és una **fletxa orientada** que representa una **magnitud física amb
 | **Sentit**   | orientació de la fletxa sobre la línia d’acció                    |
 | **Mòdul**    | longitud del segment, proporcional a la intensitat de la magnitud |
 
-|     ![Un vector queda caracteritzat per mòdul, direcció i sentit](img/1.png)    |
+|     ![Un vector queda caracteritzat per mòdul, direcció i sentit](img/bloc0/1.png)    |
 | :-------------------------------------------------------------------------: |
 | *Components del vector:  mòdul, direcció i sentit.* |
 
-### 2.2 — Coordenades d’un vector
+## 2.2 — Coordenades d’un vector
 
 El vector definit pels punts d’origen $A(x_1, y_1)$ i extrem $B(x_2, y_2)$ s’expressa com:
 
@@ -124,29 +122,29 @@ Això vol dir que les **coordenades del vector** s’obtenen **restant les coord
 **Exemple:**
 Si $A(2,3)$ i $B(-3,1)$: $\overrightarrow{AB} = (-3 - 2, 1 - 3) = (-5, -2)$
 
-| ![Coordenades d’un vector](img/2.png) | ![Vector AB de coordenades (-5,-2)](img/3.png)|
+| ![Coordenades d’un vector](img/bloc0/2.png) | ![Vector AB de coordenades (-5,-2)](img/bloc0/3.png)|
 | :-----------------------------------: | :-------------------------------------------: |
 | *Les coordenades del vector* | *El vector d'origen (2,3) i extrem (-3,1) té coordenades (-5, -2).* |
 
-### 2.3 — Vector oposat i vector nul
+## 2.3 — Vector oposat i vector nul
 
 - Dos vectors són **oposats** si tenen **el mateix mòdul i direcció**, però **sentit contrari**: $\vec{BA}=-\vec{AB}$.
 - El **vector nul** és aquell en què l’origen i l’extrem coincideixen: $\vec{0}=(0,0)$.
 
-|       ![Vectors oposats](img/4.png)          |
+|       ![Vectors oposats](img/bloc0/4.png)          |
 | :------------------------------------------: |
 | *Els vectors $\vec{BA}$ i $\vec{AB}$ són oposats.* |
 
-### 2.4 — Vector lliure
+## 2.4 — Vector lliure
 
 Tots els vectors que tenen el **mateix mòdul, direcció i sentit** són equivalents i formen un **vector lliure**.
 Per comoditat, es col·loquen amb origen a l’origen de coordenades: $\vec{v}=(x,y)$.
 
-|        ![Vectors lliures equivalents](img/5.png)                |
+|        ![Vectors lliures equivalents](img/bloc0/5.png)                |
 | :-------------------------------------------------------------: |
 | *Els vectors a, b, c tenen el mateix mòdul, direcció i sentit.* |
 
-### 2.5 — Mòdul i argument
+## 2.5 — Mòdul i argument
 
 - El **mòdul** d’un vector és la seva longitud:
 
@@ -160,12 +158,12 @@ $$
 \theta=\arctan\\left(\frac{v_y}{v_x}\right)
 $$
 
-|                        ![Mòdul i components del vector](img/7.png)                        |
+|                        ![Mòdul i components del vector](img/bloc0/7.png)                        |
 | :---------------------------------------------------------------------------------------: |
 |       *El mòdul és la hipotenusa i les components $(v_x, v_y)$ són els catets.*           |
 
 
-### 2.6 — Representacions cartesiana i polar
+## 2.6 — Representacions cartesiana i polar
 
 - En **forma cartesiana:** $\vec{v}=(v_x,v_y)$
 - En **forma polar:** $\vec{v}=(v,\theta)$
@@ -176,11 +174,11 @@ $$
 v_x = v \cdot \cos \theta, \quad v_y = v \cdot \sin \theta
 $$
 
-|       ![Vector de mòdul v i argument θ](img/8.png)       |
+|       ![Vector de mòdul v i argument θ](img/bloc0/8.png)       |
 | :--------------------------------------------------: |
 | *Vector de mòdul v i argument $\theta$.* |
 
-### 2.7 — Relacions trigonomètriques
+## 2.7 — Relacions trigonomètriques
 
 Les relacions entre el mòdul i les components són:
 
@@ -190,33 +188,33 @@ $$
 \tan\theta=\frac{v_y}{v_x}
 $$
 
-|                     ![Circumferència trigonomètrica](img/29.png)                    |
+|                     ![Circumferència trigonomètrica](img/bloc0/29.png)                    |
 | :-----------------------------------------------------------------------------: |
 | *Relacions trigonomètriques bàsiques en la circumferència unitària.* |
 
-### 2.8 — Suma de vectors
+## 2.8 — Suma de vectors
 
 La **suma de vectors** es pot fer de dues maneres:
 
-### Gràficament
+### a) Gràficament
 
 Hi ha dos mètodes habituals:
 
 1. **Regla del paral·lelogram** — els vectors es col·loquen amb el mateix origen.
    El vector suma és la diagonal del paral·lelogram que formen.
 
-|         ![Suma de vectors – regla del paral·lelogram](img/11.png)        |
+|         ![Suma de vectors – regla del paral·lelogram](img/bloc0/11.png)        |
 | :------------------------------------------------------------------: |
 | *Suma de vectors mitjançant la regla del paral·lelogram.* |
 
 2. **Mètode del polígon** — es col·loca l’origen de cada vector en l’extrem de l’anterior.
    El vector suma uneix l’origen del primer amb l’extrem de l’últim.
 
-|         ![Suma de vectors – mètode del polígon](img/12.png)        |
+|         ![Suma de vectors – mètode del polígon](img/bloc0/12.png)        |
 | :------------------------------------------------------------: |
 | *Suma de vectors mitjançant el mètode del polígon.* |
 
-### Analíticament
+### b) Analíticament
 
 Si $\vec{a}=(a_x,a_y)$, $\vec{b}=(b_x,b_y)$, aleshores:
 
@@ -224,11 +222,11 @@ $$
 \vec{a}+\vec{b}=(a_x+b_x, a_y+b_y).
 $$
 
-|                   ![Suma analítica de vectors](img/13.png)                   |
+|                   ![Suma analítica de vectors](img/bloc0/13.png)                   |
 | :----------------------------------------------------------------------: |
 | *Suma analítica de vectors a partir de les seves components.* |
 
-### 2.9 — Diferència de vectors
+## 2.9 — Diferència de vectors
 
 Per calcular la diferència:
 
@@ -238,11 +236,11 @@ $$
 
 És a dir, sumem al vector $\vec{a}$ el vector **oposat** de $\vec{b}$.
 
-|                                      ![Diferència de vectors](img/14.png)                                     |
+|                                      ![Diferència de vectors](img/bloc0/14.png)                                     |
 | :-------------------------------------------------------------------------------------------------------: |
 | *La diferència $\vec{a} - \vec{b}$ s’obté sumant el vector oposat de b.* |
 
-### 2.10 — Producte d’un escalar per un vector
+## 2.10 — Producte d’un escalar per un vector
 
 Quan multipliquem un vector $\vec{v}$ per un **nombre real** $k\in\mathbb{R}$:
 
@@ -253,11 +251,11 @@ $$
 - $k>0$: mateix sentit; $k<0$: sentit contrari.  
 - $k>1$: s’allarga; $k<1$: s’escurça.
 
-|                            ![Producte d’un escalar per un vector](img/15.png)                           |
+|                            ![Producte d’un escalar per un vector](img/bloc0/15.png)                           |
 | :-------------------------------------------------------------------------------------------------: |
 | *Canvia la intensitat del vector mantenint la direcció.* |
 
-### 2.11 — Vector unitari
+## 2.11 — Vector unitari
 
 Un **vector unitari** és aquell de **mòdul 1** que indica **direcció i sentit**.
 
@@ -269,7 +267,7 @@ $$
 
 Això significa que té el mateix sentit i direcció, però **mòdul unitari**.
 
-|                            ![Vector unitari](img/16.png)                            |
+|                            ![Vector unitari](img/bloc0/16.png)                            |
 | :-----------------------------------------------------------------------------: |
 | *Un vector amb la mateixa direcció i sentit que v, però mòdul 1* |
 
@@ -281,11 +279,11 @@ $$
 
 el resultat és un vector amb **mòdul |k|** i la mateixa direcció.
 
-|   ![Producte d’un vector unitari per un escalar](img/17.png)  |
+|   ![Producte d’un vector unitari per un escalar](img/bloc0/17.png)  |
 | :-------------------------------------------------------: |
 | *Producte d’un vector unitari per un escalar.* |
 
-### 2.12 — Vectors unitaris i components cartesianes
+## 2.12 — Vectors unitaris i components cartesianes
 
 En el pla, definim els vectors unitaris bàsics:
 
@@ -293,7 +291,7 @@ $$
 \hat{\imath}=(1,0),\quad \hat{\jmath}=(0,1)
 $$
 
-| ![Vectors unitaris i j](img/18.png) |
+| ![Vectors unitaris i j](img/bloc0/18.png) |
 | :--------------------: |
 | *Vectors unitaris $\hat{i}$ i $\hat{j}$ al pla.* |
 
@@ -303,7 +301,7 @@ $$
 \hat{k} = (0, 0, 1)
 $$
 
-![Vector i+2j+3k](img/22.png) |
+![Vector i+2j+3k](img/bloc0/22.png) |
 | :-------------------------: |
 | *Vector tridimensional $\hat{i} + 2\hat{j} + 3\hat{k}$.* |
 
@@ -313,15 +311,15 @@ $$
 \vec{v}=v_x\hat{\imath}+v_y\hat{\jmath}+v_z\hat{k}
 $$
 
-| ![Vector en funció dels vectors unitaris i, j](img/19.png) |
+| ![Vector en funció dels vectors unitaris i, j](img/bloc0/19.png) |
 | :--------------------: |
 | *Representació d’un vector com a combinació lineal.* |
 
-### 2.13 — Producte escalar
+## 2.13 — Producte escalar
 
 El **producte escalar** de dos vectors és una operació que dona com a resultat **un escalar (un nombre)**.
 
-### Definició
+### a) Definició
 
 Donats dos vectors $\vec{a} \text{ i } \vec{b}$, el seu producte escalar és: 
 
@@ -331,11 +329,11 @@ $$
 
 on $\alpha$ és l’angle entre els dos vectors.
 
-|                                  ![Producte escalar de dos vectors](img/23.png)                                 |
+|                                  ![Producte escalar de dos vectors](img/bloc0/23.png)                                 |
 | :---------------------------------------------------------------------------------------------------------: |
 | *És el producte dels mòduls pel cosinus de l’angle que formen.* |
 
-###  Càlcul a partir de les components
+###  b) Càlcul a partir de les components
 
 Si $\vec{a} = (a_x, a_y, a_z), \quad \vec{b} = (b_x, b_y, b_z)$ aleshores:  
 
@@ -343,13 +341,13 @@ $$
 \vec{a}\cdot\vec{b}=a_x \cdot b_x+a_y \cdot b_y+a_z \cdot b_z.
 $$
 
-###  Propietats
+###  c) Propietats
 
 - És **commutatiu**: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
 - Si dos vectors són **perpendiculars**, llavors: $\vec{a}\perp\vec{b}$ $\Rightarrow$ $\vec{a} \cdot \vec{b} = 0$
 - El producte escalar mesura **el grau de paral·lelisme** entre vectors.
 
-### 2.14 — Angle entre dos vectors
+## 2.14 — Angle entre dos vectors
 
 El producte escalar ens permet calcular **l’angle entre dos vectors**:
 
@@ -359,11 +357,11 @@ $$
 \alpha=\arccos\left(\frac{\vec{a}\cdot\vec{b}}{|\vec{a}|\cdot|\vec{b}|}\right)
 $$
 
-|                          ![Angle entre dos vectors](img/24.png)                          |
+|                          ![Angle entre dos vectors](img/bloc0/24.png)                          |
 | :----------------------------------------------------------------------------------: |
 | *L’angle entre dos vectors es calcula a partir del seu producte escalar.* |
 
-### 2.15 — Producte vectorial
+## 2.15 — Producte vectorial
 
 El **producte vectorial** de dos vectors dona com a resultat **un altre vector**.
 
@@ -371,7 +369,7 @@ $$
 \vec{c}=\vec{a}\times\vec{b}
 $$
 
-### Característiques
+### a) Característiques
 
 | Propietat    | Descripció                                                                 |  
 | ------------ | -------------------------------------------------------------------------- |
@@ -379,31 +377,31 @@ $$
 | **Direcció** | Perpendicular al pla que conté $\vec{a}$ i $\vec{b}$ | 
 | **Sentit**   | Determinat per la **regla de la mà dreta**      |  
 
-|![Direcció del producte vectorial](img/25.png)|![Sentit del producte vectorial – regla de la mà dreta](img/26.png)|![Sentit contrari de b × a](img/27.png)|
+|![Direcció del producte vectorial](img/bloc0/25.png)|![Sentit del producte vectorial – regla de la mà dreta](img/bloc0/26.png)|![Sentit contrari de b × a](img/bloc0/27.png)|
 | :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------: |
 | *La direcció és perpendicular al pla dels vectors.* | *El sentit ve donat per la regla de la mà dreta.* | *El sentit de $\vec{b} \times \vec{a}$ és contrari al de $\vec{a} \times \vec{b}$.* |
 
-###  Expressió analítica (determinant 3x3)
+###  b) Expressió analítica (determinant 3x3)
 
-|           ![Càlcul del producte vectorial mitjançant determinant](img/28.png)           |
+|           ![Càlcul del producte vectorial mitjançant determinant](img/bloc0/28.png)           |
 | :---------------------------------------------------------------------------------: |
 | *Càlcul del producte vectorial mitjançant el determinant de components.* |
 
-### Propietats
+### c) Propietats
 
 * **No és commutatiu:** $\vec{a}\times\vec{b}=-(\vec{b}\times\vec{a})$
 * Si $\vec{a}$ i $\vec{b}$ són **paral·lels**, llavors: $\vec{a}\parallel\vec{b}$ $\Rightarrow$ $\vec{a}\times\vec{b}=\vec{0}$
 * El vector resultant és **perpendicular** als dos vectors originals: $\vec{a}\times\vec{b} \perp \vec{a} \text{ i } \vec{b}$
 
-### **Interpretació geomètrica**
+### d) Interpretació geomètrica
 
 El mòdul $|\vec{a}\times\vec{b}|$ representa l’**àrea del paral·lelogram** determinat pels vectors $\vec{a}$ i $\vec{b}$.
 
-|           ![Interpretació geomètrica](img/30.png)           |
+|           ![Interpretació geomètrica](img/bloc0/30.png)           |
 | :---------------------------------------------------------------------------------: |
 | *Interpretació geomètrica del mòdul del producte vectorial.* |
 
-### 2.16 — Resum del càlcul vectorial
+## 2.16 — Resum del càlcul vectorial
 | Operació | Expressió | Resultat | Tipus |
 |---|---|---|---|
 | $\vec{a}+\vec{b}$ | suma component a component | vector | Vectorial |
@@ -414,15 +412,15 @@ El mòdul $|\vec{a}\times\vec{b}|$ representa l’**àrea del paral·lelogram** 
 
 ---
 
-## 3 — Càlcul diferencial i integral
+# 3 — Càlcul diferencial i integral
 
-### 3.1 — Concepte de funció i representació
+## 3.1 — Concepte de funció i representació
 
 Una **funció** és una relació entre dues magnituds, una de **variable independent** i una altra de **dependent**. </br>
 En física, les funcions descriuen com una magnitud canvia en el temps o en l’espai.</br>
 Exemples: $y=f(x)$, $y=f(t)$, $y=f(x,y,z)$.
 
-### Exemples físics
+### a) Exemples físics
 
 | Gràfic               | Significat físic                                   |
 | :------------------- | :------------------------------------------------- |
@@ -430,26 +428,26 @@ Exemples: $y=f(x)$, $y=f(t)$, $y=f(x,y,z)$.
 | Velocitat – Temps    | La pendent del gràfic és l’acceleració.            |
 | Força – Desplaçament | L’àrea sota la corba és el treball realitzat.      |
 
-|            ![Representació gràfica d’una funció física](img/31d.png)           |
+|            ![Representació gràfica d’una funció física](img/bloc0/31d.png)           |
 | :-----------------------------------------------------------------------: |
 | *Gràfics velocitat–temps i posició–temps.* |
 
-### 3.2 — Càlcul diferencial (Derivades)
+## 3.2 — Càlcul diferencial (Derivades)
 
-### Definició
+### a) Definició
 
 La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitud respecte a una altra:
 
-| ![Pendent d’una corba com a derivada](img/32b.png) |
+| ![Pendent d’una corba com a derivada](img/bloc0/32b.png) |
 | :-----------------------------------------------------------: |
 | *Definició de derivada.* |
 
 
-|       ![Pendent d’una corba com a derivada](img/32a.png)   |
+|       ![Pendent d’una corba com a derivada](img/bloc0/32a.png)   |
 | :-----------------------------------------------------------: |
 | *La derivada representa la pendent de la recta tangent a la corba.* |
 
-### Interpretació física
+### b) Interpretació física
 
 | Magnitud | Derivada | Significat |
 |---|---|---|
@@ -457,7 +455,7 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 | Velocitat $\vec{v}(t)$ | $\vec{a}(t)=\dfrac{d\vec{v}}{dt}$ | Acceleració instantània |
 | Treball $W(t)$ | $P(t)=\dfrac{dW}{dt}$ | Potència instantània |
 
-### Regles bàsiques de derivació
+### c) Regles bàsiques de derivació
 
 | Operació | Regla | Exemple |
 |---|---|---|
@@ -466,15 +464,15 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 | Quocient | $\left(\frac{f}{g}\right)'=\frac{f'g-fg'}{g^2}$ | $\left(\frac{\sin x}{x}\right)'=\frac{x\cos x-\sin x}{x^2}$ |
 | Composta (cadena) | $(f\circ g)'=f'(g(x)) \cdot g'(x)$ | $(\sin(x^2))'=\cos(x^2)\cdot 2x$ |
 
-### Derivades immediates
+### d) Derivades immediates
 
-|         ![Taula de derivades immediates](img/33b.png)        |
+|         ![Taula de derivades immediates](img/bloc0/33b.png)        |
 | :-----------------------------------------------------: |
 | *Derivades habituals utilitzades en física.* |
 
-### 3.3 — Càlcul integral
+## 3.3 — Càlcul integral
 
-### Definició
+### a) Definició
 
 La **integral** és l’operació inversa de la derivada i representa l’**acumulació contínua** d’una magnitud.
 
@@ -482,11 +480,11 @@ $$
 \int_a^b f(x) \cdot \mathrm{d}x
 $$
 
-| ![Àrea sota la corba – interpretació geomètrica de la integral](img/34.png) |
+| ![Àrea sota la corba – interpretació geomètrica de la integral](img/bloc0/34.png) |
 | :---------------------------------------: | 
 | *La integral definida representa l’àrea sota la corba de la funció.* |
 
-### Interpretació física
+### b) Interpretació física
 
 | Magnitud | Integral | Significat |
 |---|---|---|
@@ -497,13 +495,13 @@ $$
 
 *Integrar és sumar infinites petites parts d’una magnitud.*
 
-###  Integrals immediates
+###  c) Integrals immediates
 
-|        ![Taula d’integrals immediates](img/35b.png)       |
+|        ![Taula d’integrals immediates](img/bloc0/35b.png)       |
 | :--------------------------------------------------: |
 | *Integrals habituals en física.* |
 
-### 3.4 — Aplicacions en Física
+## 3.4 — Aplicacions en Física
 
 | Fenomen | Expressió | Interpretació |
 |---|---|---|
@@ -513,11 +511,11 @@ $$
 | Treball | $W=\int F(x) \cdot \mathrm{d}x$ | Energia transferida pel moviment |
 | Energia | $E=\int P(t) \cdot \mathrm{d}t$ | Energia acumulada en el temps |
 
-|                 ![Relació posició–velocitat–acceleració](img/36b.png)                                 |
+|                 ![Relació posició–velocitat–acceleració](img/bloc0/36b.png)                                 |
 | :---------------------------------------------------------------------------------------------------: |
 | *Relació entre posició, velocitat i acceleració: derivar o integrar permet passar d’una a una altra.* |
 
-### Relació fonamental derivació–integració
+### a) Relació fonamental derivació–integració
 
 $$
 \frac{\mathrm{d}}{\mathrm{d}x}\left(\int f(x) \cdot \mathrm{d}x\right)=f(x)
@@ -527,7 +525,7 @@ $$
 
 *Derivar descompon, integrar acumula: són processos inversos.*
 
-### Resum del càlcul diferencial i integral
+### b) Resum del càlcul diferencial i integral
 | Operació | Significat | Resultat |
 |---|---|---|
 | Derivada $f'(x)$ | Canvi instantani | Pendent de la corba |
