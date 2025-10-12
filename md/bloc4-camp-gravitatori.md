@@ -187,7 +187,7 @@ La **força gravitatòria** és sempre **atractiva**, té **direcció radial** i
 
 Cada massa experimenta una força de la **mateixa magnitud** però de **sentit oposat**, formant un **parell d’acció i reacció** segons la tercera llei de Newton.
 
-| ![Força entre dues masses](img/bloc1/10.png) |
+| ![Força entre dues masses](img/bloc4/10.png) |
 |:-----------------------------------------------:|
 | *3ª Llei de Newton: LLei d'acció i reacció.* |
 
@@ -230,7 +230,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 > Per exemple, el punt on les forces de dues masses iguals es compensen és exactament el punt mig entre elles.
 
-| ![Superposició de forces gravitatòries](img/bloc1/11.png) |
+| ![Superposició de forces gravitatòries](img/bloc4/11.png) |
 |:-------------------------------------------------------------:|
 | *La força total és la suma vectorial de totes les forces individuals.* |
 
