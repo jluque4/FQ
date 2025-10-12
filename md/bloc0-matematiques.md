@@ -196,7 +196,7 @@ $$
 
 La **suma de vectors** es pot fer de dues maneres:
 
-### a) Gràficament
+### a. Gràficament
 
 Hi ha dos mètodes habituals:
 
@@ -214,7 +214,7 @@ Hi ha dos mètodes habituals:
 | :------------------------------------------------------------: |
 | *Suma de vectors mitjançant el mètode del polígon.* |
 
-### b) Analíticament
+### b. Analíticament
 
 Si $\vec{a}=(a_x,a_y)$, $\vec{b}=(b_x,b_y)$, aleshores:
 
@@ -319,7 +319,7 @@ $$
 
 El **producte escalar** de dos vectors és una operació que dona com a resultat **un escalar (un nombre)**.
 
-### a) Definició
+### a. Definició
 
 Donats dos vectors $\vec{a} \text{ i } \vec{b}$, el seu producte escalar és: 
 
@@ -333,7 +333,7 @@ on $\alpha$ és l’angle entre els dos vectors.
 | :---------------------------------------------------------------------------------------------------------: |
 | *És el producte dels mòduls pel cosinus de l’angle que formen.* |
 
-###  b) Càlcul a partir de les components
+###  b. Càlcul a partir de les components
 
 Si $\vec{a} = (a_x, a_y, a_z), \quad \vec{b} = (b_x, b_y, b_z)$ aleshores:  
 
@@ -341,7 +341,7 @@ $$
 \vec{a}\cdot\vec{b}=a_x \cdot b_x+a_y \cdot b_y+a_z \cdot b_z.
 $$
 
-###  c) Propietats
+###  c. Propietats
 
 - És **commutatiu**: $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
 - Si dos vectors són **perpendiculars**, llavors: $\vec{a}\perp\vec{b}$ $\Rightarrow$ $\vec{a} \cdot \vec{b} = 0$
@@ -369,7 +369,7 @@ $$
 \vec{c}=\vec{a}\times\vec{b}
 $$
 
-### a) Característiques
+### a. Característiques
 
 | Propietat    | Descripció                                                                 |  
 | ------------ | -------------------------------------------------------------------------- |
@@ -381,19 +381,19 @@ $$
 | :-----------------------------------------------: | :-----------------------------------------------: |:-----------------------------------------------: |
 | *La direcció és perpendicular al pla dels vectors.* | *El sentit ve donat per la regla de la mà dreta.* | *El sentit de $\vec{b} \times \vec{a}$ és contrari al de $\vec{a} \times \vec{b}$.* |
 
-###  b) Expressió analítica (determinant 3x3)
+###  b. Expressió analítica (determinant 3x3)
 
 |           ![Càlcul del producte vectorial mitjançant determinant](img/bloc0/28.png)           |
 | :---------------------------------------------------------------------------------: |
 | *Càlcul del producte vectorial mitjançant el determinant de components.* |
 
-### c) Propietats
+### c. Propietats
 
 * **No és commutatiu:** $\vec{a}\times\vec{b}=-(\vec{b}\times\vec{a})$
 * Si $\vec{a}$ i $\vec{b}$ són **paral·lels**, llavors: $\vec{a}\parallel\vec{b}$ $\Rightarrow$ $\vec{a}\times\vec{b}=\vec{0}$
 * El vector resultant és **perpendicular** als dos vectors originals: $\vec{a}\times\vec{b} \perp \vec{a} \text{ i } \vec{b}$
 
-### d) Interpretació geomètrica
+### d. Interpretació geomètrica
 
 El mòdul $|\vec{a}\times\vec{b}|$ representa l’**àrea del paral·lelogram** determinat pels vectors $\vec{a}$ i $\vec{b}$.
 
@@ -420,7 +420,7 @@ Una **funció** és una relació entre dues magnituds, una de **variable indepen
 En física, les funcions descriuen com una magnitud canvia en el temps o en l’espai.</br>
 Exemples: $y=f(x)$, $y=f(t)$, $y=f(x,y,z)$.
 
-### a) Exemples físics
+### a. Exemples físics
 
 | Gràfic               | Significat físic                                   |
 | :------------------- | :------------------------------------------------- |
@@ -434,7 +434,7 @@ Exemples: $y=f(x)$, $y=f(t)$, $y=f(x,y,z)$.
 
 ## 3.2 — Càlcul diferencial (Derivades)
 
-### a) Definició
+### a. Definició
 
 La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitud respecte a una altra:
 
@@ -447,7 +447,7 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 | :-----------------------------------------------------------: |
 | *La derivada representa la pendent de la recta tangent a la corba.* |
 
-### b) Interpretació física
+### b. Interpretació física
 
 | Magnitud | Derivada | Significat |
 |---|---|---|
@@ -455,7 +455,7 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 | Velocitat $\vec{v}(t)$ | $\vec{a}(t)=\dfrac{d\vec{v}}{dt}$ | Acceleració instantània |
 | Treball $W(t)$ | $P(t)=\dfrac{dW}{dt}$ | Potència instantània |
 
-### c) Regles bàsiques de derivació
+### c. Regles bàsiques de derivació
 
 | Operació | Regla | Exemple |
 |---|---|---|
@@ -464,7 +464,7 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 | Quocient | $\left(\frac{f}{g}\right)'=\frac{f'g-fg'}{g^2}$ | $\left(\frac{\sin x}{x}\right)'=\frac{x\cos x-\sin x}{x^2}$ |
 | Composta (cadena) | $(f\circ g)'=f'(g(x)) \cdot g'(x)$ | $(\sin(x^2))'=\cos(x^2)\cdot 2x$ |
 
-### d) Derivades immediates
+### d. Derivades immediates
 
 |         ![Taula de derivades immediates](img/bloc0/33b.png)        |
 | :-----------------------------------------------------: |
@@ -472,7 +472,7 @@ La **derivada** d’una funció mesura la **velocitat de canvi** d’una magnitu
 
 ## 3.3 — Càlcul integral
 
-### a) Definició
+### a. Definició
 
 La **integral** és l’operació inversa de la derivada i representa l’**acumulació contínua** d’una magnitud.
 
@@ -484,7 +484,7 @@ $$
 | :---------------------------------------: | 
 | *La integral definida representa l’àrea sota la corba de la funció.* |
 
-### b) Interpretació física
+### b. Interpretació física
 
 | Magnitud | Integral | Significat |
 |---|---|---|
@@ -495,7 +495,7 @@ $$
 
 *Integrar és sumar infinites petites parts d’una magnitud.*
 
-###  c) Integrals immediates
+###  c. Integrals immediates
 
 |        ![Taula d’integrals immediates](img/bloc0/35b.png)       |
 | :--------------------------------------------------: |
@@ -515,7 +515,7 @@ $$
 | :---------------------------------------------------------------------------------------------------: |
 | *Relació entre posició, velocitat i acceleració: derivar o integrar permet passar d’una a una altra.* |
 
-### a) Relació fonamental derivació–integració
+### a. Relació fonamental derivació–integració
 
 $$
 \frac{\mathrm{d}}{\mathrm{d}x}\left(\int f(x) \cdot \mathrm{d}x\right)=f(x)
@@ -525,7 +525,7 @@ $$
 
 *Derivar descompon, integrar acumula: són processos inversos.*
 
-### b) Resum del càlcul diferencial i integral
+### b. Resum del càlcul diferencial i integral
 | Operació | Significat | Resultat |
 |---|---|---|
 | Derivada $f'(x)$ | Canvi instantani | Pendent de la corba |

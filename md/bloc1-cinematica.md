@@ -19,7 +19,7 @@ Per simplificar, podem considerar el cos com un **mòbil puntual** o **partícul
 
 El sistema de coordenades més habitual és el **cartesià**, format per eixos perpendiculars que s’encreuen en un punt anomenat **origen O**.
 
-### En el pla
+### a. En el pla
 
 Si el moviment té lloc en un pla, s’utilitzen dos eixos perpendiculars:
 - **Eix X:** eix d’abscisses  
@@ -31,7 +31,7 @@ També es poden utilitzar **coordenades polars (r, θ)** per moviments circulars
 |:--------------------------------------:|
 | Sistema de coordenades cartesià en el pla |
 
-### En l’espai
+### b. En l’espai
 
 Si el moviment té lloc en l’espai, el sistema de coordenades cartesià consta de tres eixos **X, Y, Z**.  
 Altres sistemes en l’espai són les **coordenades cilíndriques** i les **esfèriques**.
@@ -84,13 +84,13 @@ La **posició** indica on es troba el mòbil en un instant determinat respecte a
 
 - Unitat SI: **metre (m)**
 
-### En el pla
+### a. En el pla
 
 $$
 \vec{r} = x \cdot \hat{\imath} + y \cdot \hat{\jmath}
 $$
 
-### En l’espai
+### b. En l’espai
 
 | ![Vector de posició quan el mòbil és en el punt P(x,y,z)](img/bloc1/4.png) |
 |:--------------------------------------:|
