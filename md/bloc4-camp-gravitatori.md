@@ -1,4 +1,4 @@
-# Bloc 1. Camp gravitatori
+# Bloc 4. Camp gravitatori
 
 # **1 — Concepte de camp físic**
 
@@ -23,7 +23,7 @@ Aquesta idea permet **descriure de manera unificada** molts fenòmens físics:
 una massa crea un **camp gravitatori**, una càrrega elèctrica crea un **camp elèctric**, etc.  
 Tots dos són casos particulars del concepte general de **camp físic**.
 
-| ![Tipus de camps](img/bloc1/1.png) |
+| ![Tipus de camps](img/bloc4/1.png) |
 |:--------------------------------------:|
 | *Tipus de camps físics.* |
 
@@ -51,7 +51,7 @@ Quan disminueix amb el quadrat de la distància ($1/r^2$), parlem de **camps cen
 
 Els **camps vectorials** es representen gràficament mitjançant **línies de camp**, que indiquen direcció, sentit i intensitat.
 
-| ![Lines de camp](img/bloc1/2.png) | ![Lines de camp](img/bloc1/3.png) |
+| ![Lines de camp](img/bloc4/2.png) | ![Lines de camp](img/bloc4/3.png) |
 |:-----------------------:| :-----------------------:|
 | *Direcció cap a la font del camp.* | *Línies de camp i intensitat.* |
 
@@ -63,7 +63,7 @@ Quan la intensitat és constant a tot arreu, parlem de **camp uniforme** (línie
 Quan varia amb la distància, parlem de **camp no uniforme** (línies radials o corbades).
 En aquest cas, les linies poden ser radials, corbades o irregulars, segons la naturalesa de la font.
 
-| ![Camp uniforme](img/bloc1/4.png) | ![Linies de camp radial central](img/bloc1/5.png) |
+| ![Camp uniforme](img/bloc4/4.png) | ![Linies de camp radial central](img/bloc4/5.png) |
 |:-----------------------:| :-----------------------:|
 | *Camp uniforme.* | *Linies de camp radial central. Mes linies més intensitat* |
 
@@ -71,7 +71,7 @@ En aquest cas, les linies poden ser radials, corbades o irregulars, segons la na
 - En un camp gravitatori, les línies apunten cap a la massa que el crea.
 - En un camp elèctric, les línies surten o entren segons el signe de la càrrega.
 
-| ![Tipus de camps](img/bloc1/6.png) |
+| ![Tipus de camps](img/bloc4/6.png) |
 |:--------------------------------------:|
 | *Exemples de camps elèctrics atractius i repulsius.* |
 
@@ -104,7 +104,7 @@ Això implica que, si la partícula torna al punt d’origen, el treball total �
 > Els camps conservatius permeten definir una **energia potencial associada**,  
 > i descriure els fenòmens en termes d’energia en lloc de forces.
 
-| ![Treballindependent del camí](img/bloc1/7.png) | ![Linies de camp radial central](img/bloc1/8.png) |
+| ![Treballindependent del camí](img/bloc4/7.png) | ![Linies de camp radial central](img/bloc4/8.png) |
 |:-----------------------:| :-----------------------:|
 | *Treball independent del camí.* | *Treball nul en recorregut tancat.* |
 
@@ -152,7 +152,7 @@ on:
 - $r$ és la **distància** entre les dues masses,  
 - $\hat{u}_r$ és el **vector unitari** que uneix les dues masses.
 
-| ![Representació vectorial de la força gravitatòria](img/bloc1/9.png) |
+| ![Representació vectorial de la força gravitatòria](img/bloc4/9.png) |
 |:------------------------------------------------------------------------:|
 | *Llei de gravitació universal: $\overrightarrow{F_{g}} = -G \cdot \frac{m_1 m_2}{r^2} \cdot \hat{u}_r$* |
 
