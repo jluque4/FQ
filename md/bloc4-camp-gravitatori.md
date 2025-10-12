@@ -1,4 +1,6 @@
-# **CG1 — Concepte de camp físic**
+# Bloc 1. Camp gravitatori
+
+# **1 — Concepte de camp físic**
 
 ---
 
@@ -11,10 +13,8 @@ Per explicar-ho, introduïm el **concepte de camp físic**.
 
 Aquesta magnitud pot ser de dos tipus principals:
 
-- **Camp escalar:** només cal un valor numèric en cada punt.  
-  *Exemples:* temperatura, pressió, densitat de l’aire.
-- **Camp vectorial:** cal indicar el **mòdul**, la **direcció** i el **sentit**.  
-  *Exemples:* velocitat del vent, camp de forces.
+- **Camp escalar:** només cal un valor numèric en cada punt. Exemples: temperatura, pressió, densitat de l’aire.
+- **Camp vectorial:** cal indicar el **mòdul**, la **direcció** i el **sentit**. Exemples: velocitat del vent, camp de forces.
 
 Un **camp de forces** és, per tant, un **tipus de camp vectorial**.  
 En cada punt de l’espai, si hi col·loquem una partícula, aquesta experimenta una força.  
@@ -22,6 +22,10 @@ En cada punt de l’espai, si hi col·loquem una partícula, aquesta experimenta
 Aquesta idea permet **descriure de manera unificada** molts fenòmens físics:  
 una massa crea un **camp gravitatori**, una càrrega elèctrica crea un **camp elèctric**, etc.  
 Tots dos són casos particulars del concepte general de **camp físic**.
+
+| ![Tipus de camps](img/bloc1/1.png) |
+|:--------------------------------------:|
+| *Tipus de camps físics.* |
 
 ---
 
@@ -47,9 +51,9 @@ Quan disminueix amb el quadrat de la distància ($1/r^2$), parlem de **camps cen
 
 Els **camps vectorials** es representen gràficament mitjançant **línies de camp**, que indiquen direcció, sentit i intensitat.
 
-| ![Línies de camp](img/camp_línies.png) |
-|:--------------------------------------:|
-| *Les línies de camp permeten visualitzar la direcció i intensitat del camp en cada punt.* |
+| ![Lines de camp](img/bloc1/2.png) | ![Lines de camp](img/bloc1/3.png) |
+|:-----------------------:| :-----------------------:|
+| *Direcció cap a la font del camp.* | *Línies de camp i intensitat.* |
 
 - **Direcció:** la tangent a la línia de camp en aquell punt.  
 - **Sentit:** cap a on actua la força.  
@@ -59,9 +63,17 @@ Quan la intensitat és constant a tot arreu, parlem de **camp uniforme** (línie
 Quan varia amb la distància, parlem de **camp no uniforme** (línies radials o corbades).
 En aquest cas, les linies poden ser radials, corbades o irregulars, segons la naturalesa de la font.
 
+| ![Camp uniforme](img/bloc1/4.png) | ![Linies de camp radial central](img/bloc1/5.png) |
+|:-----------------------:| :-----------------------:|
+| *Camp uniforme.* | *Linies de camp radial central. Mes linies més intensitat* |
+
 **Exemples:**
 - En un camp gravitatori, les línies apunten cap a la massa que el crea.
 - En un camp elèctric, les línies surten o entren segons el signe de la càrrega.
+
+| ![Tipus de camps](img/bloc1/6.png) |
+|:--------------------------------------:|
+| *Exemples de camps elèctrics atractius i repulsius.* |
 
 ---
 
@@ -92,24 +104,13 @@ Això implica que, si la partícula torna al punt d’origen, el treball total �
 > Els camps conservatius permeten definir una **energia potencial associada**,  
 > i descriure els fenòmens en termes d’energia en lloc de forces.
 
+| ![Treballindependent del camí](img/bloc1/7.png) | ![Linies de camp radial central](img/bloc1/8.png) |
+|:-----------------------:| :-----------------------:|
+| *Treball independent del camí.* | *Treball nul en recorregut tancat.* |
+
 El **camp gravitatori** i el **camp eléctric** en són exemples típics, peró el concepte és general:
 
 > Qualsevol camp on el treball sigui independent del recorregut és conservatiu.
-
----
-
-## **Resum gràfic**
-
-| **Figura** | **Tema visual** | **Idea principal** |
-|:------------|:----------------|:-------------------|
-| 1 | Tipus de camps | Diferència conceptual i classificació |
-| 2 | Forces centrals newtonianes | Direcció cap a la font del camp |
-| 3 | Línies de camp i intensitat | Densitat de línies = intensitat |
-| 4 | Camp uniforme | Força constant a tot l’espai |
-| 5 | Línies de camp radial | Exemple de camp central |
-| 6 | Camps atractius i repulsius | Direcció segons el tipus de font |
-| 7 | Treball independent del camí | Propietat conservativa |
-| 8 | Treball nul en recorregut tancat | Confirmació d’un camp conservatiu |
 
 ---
 
@@ -124,7 +125,7 @@ Permet una visió unificada de fenòmens aparentment diferents —com la gravita
 
 ---
 
-# **CG2 — Llei de la gravitació universal**
+# **2 — Llei de la gravitació universal**
 
 ---
 
@@ -137,15 +138,13 @@ va atribuir l’acceleració d’un planeta a una **força d’atracció mútua*
 
 Aquesta força existeix entre **qualsevol parella de masses de l’univers**.
 
-> **Enunciat de la llei de la gravitació universal:**  
+Enunciat de la **llei de la gravitació universal**: 
 > Tota partícula de matèria atrau qualsevol altra amb una força **directament proporcional** al producte de les seves masses i **inversament proporcional** al **quadrat de la distància** que les separa.
 
----
-
-### **Expressió vectorial**
+**Expressió vectorial:**
 
 $$
-\overrightarrow{F_{12}} = -\,G\,\frac{m_1 m_2}{r^2}\,\hat{u}_r
+\overrightarrow{F_{g}} = -G \cdot \frac{m_1 m_2}{r^2} \cdot \hat{u}_r \qquad \text{on} \qquad \hat{u}_r = \frac{\overrightarrow{r}}{r}
 $$
 
 on:  
@@ -153,14 +152,16 @@ on:
 - $r$ és la **distància** entre les dues masses,  
 - $\hat{u}_r$ és el **vector unitari** que uneix les dues masses.
 
-> El signe negatiu indica que la força és **d’atracció**:  
-> cada massa atrau l’altra seguint la direcció de la recta que les uneix.  
-> L’orientació del vector unitari justifica aquest signe:  
-> la direcció de la força gravitatòria és oposada a la del vector $\hat{u}_r$.
-
-| ![Representació vectorial de la força gravitatòria](img/gravitacio1.png) |
+| ![Representació vectorial de la força gravitatòria](img/bloc1/9.png) |
 |:------------------------------------------------------------------------:|
-| *Les dues masses s’atrauen amb forces iguals i oposades sobre la línia que les uneix.* |
+| *Llei de gravitació universal: $\overrightarrow{F_{g}} = -G \cdot \frac{m_1 m_2}{r^2} \cdot \hat{u}_r$* |
+
+
+El signe negatiu indica que la força és **d’atracció**:  
+- cada massa atrau l’altra seguint la direcció de la recta que les uneix.  
+- L’orientació del vector unitari justifica aquest signe:  
+- la direcció de la força gravitatòria és oposada a la del vector $\hat{u}_r$.
+
 
 ---
 
@@ -178,10 +179,6 @@ Les seves unitats garanteixen la coherència dimensional de la llei i asseguren 
 - les masses s’expressen en **quilograms (kg)**,
 - i la distància en **metres (m)**.
 
-| ![Balança de torsió de Cavendish](img/gravitacio2.png) |
-|:-------------------------------------------------------:|
-| *Cavendish va determinar experimentalment la constant de gravitació universal.* |
-
 ---
 
 ## **2.3 — Força entre dues masses: mòdul, direcció i sentit**
@@ -190,17 +187,18 @@ La **força gravitatòria** és sempre **atractiva**, té **direcció radial** i
 
 Cada massa experimenta una força de la **mateixa magnitud** però de **sentit oposat**, formant un **parell d’acció i reacció** segons la tercera llei de Newton.
 
+| ![Força entre dues masses](img/bloc1/10.png) |
+|:-----------------------------------------------:|
+| *3ª Llei de Newton: LLei d'acció i reacció.* |
+
 **Expressió escalar:**
 
 $$
-F = G\,\frac{m_1 m_2}{r^2}
+F = G \cdot \frac{m_1 m_2}{r^2}
 $$
 
 > És una **força central**, ja que actua al llarg de la línia que uneix els centres de les dues masses.
 
-| ![Força entre dues masses](img/gravitacio3.png) |
-|:-----------------------------------------------:|
-| *La força gravitatòria és atractiva i radial.* |
 
 ---
 
@@ -216,12 +214,7 @@ La llei de Newton té una forma **matemàtica molt similar** a la **llei de Coul
 | **Constant** | $G$ | $k = \frac{1}{4\pi\varepsilon_0}$ |
 | **Abast** | Universal | Depèn del medi |
 
-> La **gravetat és molt més feble** que la força elèctrica,  
-> però és sempre **atractiva** i predomina a **escala planetària i còsmica**.
-
-| ![Comparació entre forces gravitacional i elèctrica](img/gravitacio4.png) |
-|:-------------------------------------------------------------------------:|
-| *La força de Coulomb pot ser atractiva o repulsiva; la gravetat, sempre atractiva.* |
+> La **gravetat és molt més feble** que la força elèctrica, però és sempre **atractiva** i predomina a **escala planetària i còsmica**.
 
 ---
 
@@ -237,7 +230,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 > Per exemple, el punt on les forces de dues masses iguals es compensen és exactament el punt mig entre elles.
 
-| ![Superposició de forces gravitatòries](img/gravitacio5.png) |
+| ![Superposició de forces gravitatòries](img/bloc1/11.png) |
 |:-------------------------------------------------------------:|
 | *La força total és la suma vectorial de totes les forces individuals.* |
 
@@ -247,8 +240,8 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 | **Concepte** | **Expressió** | **Comentari** |
 |:--------------|:---------------|:---------------|
-| **Llei de Newton** | $\overrightarrow{F} = -G\frac{m_1 m_2}{r^2}\hat{u}_r$ | Força atractiva i central |
-| **Mòdul** | $F = G\frac{m_1 m_2}{r^2}$ | Disminueix amb $r^2$ |
+| **Llei de Newton** | $\overrightarrow{F} = -G \cdot \frac{m_1 m_2}{r^2} \cdot \hat{u}_r$ | Força atractiva i central |
+| **Mòdul** | $F = G \cdot \frac{m_1 m_2}{r^2}$ | Disminueix amb $r^2$ |
 | **Constant $G$** | $6.67\times10^{-11}\ \mathrm{N·m^2/kg^2}$ | Determinada per Cavendish |
 | **Comparació amb Coulomb** | Mateixa estructura formal | Gravitació només atractiva |
 | **Superposició** | $\overrightarrow{F_\text{total}} = \sum_i \overrightarrow{F_i}$ | Força resultant en sistemes múltiples |
@@ -257,8 +250,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 ## **2.7 — Conclusió**
 
-La **llei de la gravitació universal** de Newton estableix la base de tota la **mecànica celeste** i de la comprensió de l’estructura de l’univers.  
-Gràcies a ella, és possible descriure **òrbites planetàries, moviments de satèl·lits** i les interaccions gravitacionals entre cossos massius.
+La **llei de la gravitació universal** de Newton estableix la base de tota la **mecànica celeste** i de la comprensió de l’estructura de l’univers. Gràcies a ella, és possible descriure **òrbites planetàries, moviments de satèl·lits** i les interaccions gravitacionals entre cossos massius.
 
 > En el següent bloc (CG3), es desenvolupa el **camp gravitatori** com a extensió d’aquesta llei, introduint els conceptes de **potencial gravitatori** i **energia potencial**.
 
