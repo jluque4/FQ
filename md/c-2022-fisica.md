@@ -1,8 +1,8 @@
-# **Currículum de Física de Batxillerat (C-2022)**
+# Currículum de Física de Batxillerat (C-2022)
 
 ---
 
-## **1 — Introducció**
+# 1 — Introducció
 
 L’ensenyament de la **física al batxillerat** té com a finalitat aprofundir en la comprensió dels **fenòmens naturals i tecnològics** mitjançant la construcció de models, la formulació de lleis i la representació matemàtica del món físic.
 
@@ -17,9 +17,9 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## **2 — Blocs de contingut de 1r de Batxillerat**
+# 2 — Blocs de contingut de 1r de Batxillerat
 
-### **Bloc 1 — Cinemàtica**
+## Bloc 1 — Cinemàtica
 
 **Continguts clau (C-2022):**
 - Descripció del moviment d’un cos puntual en una i dues dimensions.  
@@ -31,7 +31,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-### **Bloc 2 — Estàtica i Dinàmica**
+## Bloc 2 — Estàtica i Dinàmica
 
 **Continguts clau (C-2022):**
 - Concepte de **força** com a causa del canvi de moviment.  
@@ -44,7 +44,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-### **Bloc 3 — Energia**
+## Bloc 3 — Energia
 
 **Continguts clau (C-2022):**
 - Treball i potència com a formes de transferència d’energia.  
@@ -57,9 +57,9 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## **3 — Blocs de contingut de 2n de Batxillerat**
+# 3 — Blocs de contingut de 2n de Batxillerat
 
-### **Bloc 4 — Camp gravitatori i electromagnètic**
+## Bloc 4 — Camp gravitatori i electromagnètic
 
 **Continguts clau (C-2022):**
 - Concepte general de **camp físic**.  
@@ -76,7 +76,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-### **Bloc 5 — Vibracions i ones**
+## Bloc 5 — Vibracions i ones
 
 **Continguts clau (C-2022):**
 - Moviment harmònic simple (MHS).  
@@ -88,7 +88,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-### **Bloc 6 — Física relativista, quàntica, nuclear i de partícules**
+## Bloc 6 — Física relativista, quàntica, nuclear i de partícules
 
 **Continguts clau (C-2022):**
 - **Física relativista:** teoria especial i conseqüències.  
@@ -99,7 +99,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## **4 — Competències específiques (CEF)**
+# 4 — Competències específiques (CEF)
 
 El currículum estableix **sis competències específiques** per a Física:
 
@@ -114,7 +114,7 @@ El currículum estableix **sis competències específiques** per a Física:
 
 ---
 
-## **5 — Qüestions generals de matemàtiques**
+# 5 — Qüestions generals de matemàtiques
 
 L’alumnat ha de dominar conceptes matemàtics essencials per a la resolució de problemes físics:
 
@@ -133,7 +133,7 @@ L’alumnat ha de dominar conceptes matemàtics essencials per a la resolució d
 
 ---
 
-## **6 — Criteris generals d’avaluació**
+# 6 — Criteris generals d’avaluació
 
 Les respostes han de demostrar **domini conceptual, claredat i raonament lògic**.
 
@@ -151,7 +151,7 @@ Les respostes han de demostrar **domini conceptual, claredat i raonament lògic*
 > Els errors no es penalitzaran doblement si deriven d’un resultat previ.  
 > Solucions correctes per procediments alternatius es valoraran favorablement.
 
-### 6.1 — Criteris generals de qualificació
+## 6.1 — Criteris generals de qualificació
 - Les respostes s’han d’ajustar a l’enunciat de la pregunta. Es valora sobretot que
 l’alumnat demostri que té clars els conceptes de caràcter físic sobre els quals tracta
 cada pregunta.
@@ -182,7 +182,7 @@ aquest problema.
 
 ---
 
-## **7 — Conclusió**
+# 7 — Conclusió
 
 El **Currículum de Física de Batxillerat (C-2022)** integra els fonaments de la mecànica, l’energia i la termodinàmica amb els camps electromagnètics i la física moderna, oferint una visió **completa i coherent del món físic**.
 
