@@ -1,10 +1,10 @@
 # Bloc 4. Camp gravitatori
 
-# **1 — Concepte de camp físic**
+# 1 — Concepte de camp físic
 
 ---
 
-## **1.1 — Què és un camp físic**
+## 1.1 — Què és un camp físic
 
 En molts fenòmens naturals, un cos pot **influir en un altre sense contacte directe**.  
 Per explicar-ho, introduïm el **concepte de camp físic**.
@@ -29,7 +29,7 @@ Tots dos són casos particulars del concepte general de **camp físic**.
 
 ---
 
-## **1.2 — Intensitat de camp**
+## 1.2 — Intensitat de camp
 
 La **intensitat de camp** indica “**com de fort**” és el camp en un punt determinat.  
 Es defineix com la **força per unitat de magnitud característica** (massa, càrrega, etc.) que actua sobre una partícula.
@@ -47,7 +47,7 @@ Quan disminueix amb el quadrat de la distància ($1/r^2$), parlem de **camps cen
 
 ---
 
-## **1.3 — Representació del camp**
+## 1.3 — Representació del camp
 
 Els **camps vectorials** es representen gràficament mitjançant **línies de camp**, que indiquen direcció, sentit i intensitat.
 
@@ -77,7 +77,7 @@ En aquest cas, les linies poden ser radials, corbades o irregulars, segons la na
 
 ---
 
-## **1.4 — Camps escalars i camps vectorials**
+## 1.4 — Camps escalars i camps vectorials
 
 Els camps físics es poden classificar segons el tipus de magnitud associada:
 
@@ -91,7 +91,7 @@ Els camps físics es poden classificar segons el tipus de magnitud associada:
 
 ---
 
-## **1.5 — Camps conservatius**
+## 1.5 — Camps conservatius
 
 Un **camp conservatiu** és aquell en què el **treball realitzat per la força del camp** sobre una partícula **només depèn** dels punts inicial i final, i **no del camí** recorregut.
 
@@ -114,7 +114,7 @@ El **camp gravitatori** i el **camp eléctric** en són exemples típics, peró 
 
 ---
 
-## **1.6 — Conclusió**
+## 1.6 — Conclusió
 
 El concepte de **camp físic** és essencial per comprendre com les forces actuen a distància.  
 Permet una visió unificada de fenòmens aparentment diferents —com la gravitació, l’electricitat o el magnetisme— sota una mateixa idea:  
@@ -125,11 +125,11 @@ Permet una visió unificada de fenòmens aparentment diferents —com la gravita
 
 ---
 
-# **2 — Llei de la gravitació universal**
+# 2 — Llei de la gravitació universal
 
 ---
 
-## **2.1 — Enunciat i expressió vectorial de la força gravitatoria**
+## 2.1 — Enunciat i expressió vectorial de la força gravitatoria
 
 Isaac Newton (1642–1727) va formular la **llei de la gravitació universal** a partir de les observacions astronòmiques de **Kepler**.
 
@@ -165,7 +165,7 @@ El signe negatiu indica que la força és **d’atracció**:
 
 ---
 
-## **2.2 — Constant de gravitació universal $G$ i unitats**
+## 2.2 — Constant de gravitació universal $G$ i unitats
 
 La constant de gravitació universal **determina la intensitat** d’aquesta interacció:
 
@@ -181,7 +181,7 @@ Les seves unitats garanteixen la coherència dimensional de la llei i asseguren 
 
 ---
 
-## **2.3 — Força entre dues masses: mòdul, direcció i sentit**
+## 2.3 — Força entre dues masses: mòdul, direcció i sentit
 
 La **força gravitatòria** és sempre **atractiva**, té **direcció radial** i **sentit cap al centre de la massa** que crea el camp.
 
@@ -202,7 +202,7 @@ $$
 
 ---
 
-## **2.4 — Comparació qualitativa amb la llei de Coulomb**
+## 2.4 — Comparació qualitativa amb la llei de Coulomb
 
 La llei de Newton té una forma **matemàtica molt similar** a la **llei de Coulomb** de l’electrostàtica.
 
@@ -218,7 +218,7 @@ La llei de Newton té una forma **matemàtica molt similar** a la **llei de Coul
 
 ---
 
-## **2.5 — Superposició de forces en sistemes de masses**
+## 2.5 — Superposició de forces en sistemes de masses
 
 Quan hi ha **més d’una massa** que actua sobre un cos, la força total és la **suma vectorial** de totes les forces individuals:
 
@@ -236,7 +236,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 ---
 
-## **2.6 — Resum del bloc CG2**
+## 2.6 — Resum del bloc CG2
 
 | **Concepte** | **Expressió** | **Comentari** |
 |:--------------|:---------------|:---------------|
@@ -248,7 +248,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 ---
 
-## **2.7 — Conclusió**
+## 2.7 — Conclusió
 
 La **llei de la gravitació universal** de Newton estableix la base de tota la **mecànica celeste** i de la comprensió de l’estructura de l’univers. Gràcies a ella, és possible descriure **òrbites planetàries, moviments de satèl·lits** i les interaccions gravitacionals entre cossos massius.
 
