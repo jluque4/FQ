@@ -255,3 +255,123 @@ La **llei de la gravitació universal** de Newton estableix la base de tota la *
 > En el següent bloc (CG3), es desenvolupa el **camp gravitatori** com a extensió d’aquesta llei, introduint els conceptes de **potencial gravitatori** i **energia potencial**.
 
 ---
+
+# 3 — El camp gravitatori
+
+## 3.1 — Definició
+
+El **camp gravitatori** és el camp de forces que una massa crea al seu voltant i que actua sobre altres masses.  
+En un punt de l’espai, la **intensitat del camp gravitatori** és la força per unitat de massa..
+
+$$
+\vec{g} = \frac{\vec{F}}{m}
+$$
+
+Com que la força gravitatoria és atractiva, el vector **g** apunta sempre **cap al centre de la massa que crea el camp**.  
+Les seves unitats són **N/kg** o **m/s²**, ja que equival a una acceleració.
+
+| ![Representació del camp gravitatori](img/bloc4/12.png) |
+|:--------------------------------------:|
+| *Representació del camp gravitatori. Més linies de camp representa més intensitat.* |
+
+---
+
+## 3.2 — Direcció, sentit i dependència amb la distància
+
+Per una massa puntual $M$:
+
+$$
+\vec{g} = -G\frac{M}{r^2}\hat{u_r}
+$$
+
+- **Direcció**: línia que uneix el punt amb el centre de la massa.
+- **Sentit**: cap a la massa que genera el camp.
+- **Mòdul**: proporcional a la massa $M$ i inversament proporcional al quadrat de la distància $r$.
+
+🖼️ *[Imatge 2: Línies de camp d’una massa puntual i de dues masses iguals]* 
+
+A mesura que ens allunyem del cos, la intensitat del camp disminueix ràpidament.
+ 
+| ![Disminució de g amb la distància](img/bloc4/13.png) |
+|:--------------------------------------:|
+| *Disminució de g amb la distància.* |
+
+---
+
+## 3.3 — Valor de g a la superfície d’un astre
+
+Per a un planeta de massa \(M\) i radi \(R\):
+
+$$
+g_0 = \frac{GM}{R^2}
+$$
+
+Aquesta és la **intensitat de camp gravitatori** (o acceleració de la gravetat) a la superfície del planeta.  
+El **pes** d’un cos és la força amb què la Terra (o un altre astre) l’atrau:
+
+$$
+\vec{p_0} = m\vec{g_0}
+$$
+
+---
+
+## 3.4 — Variació de g amb l’altura
+
+En un punt situat a una altura \(h\) respecte a la superfície:
+
+$$
+g_h = G\frac{M}{(R+h)^2}
+$$
+
+Com que $(R+h)^2 > R^2$, es compleix que $g_h < g_0$ :  
+la intensitat del camp disminueix amb l’altura.
+
+🖼️ *[Imatge 3: Intensitat del camp en funció de l’altura]*
+
+---
+
+## 3.5 — Camp d’un sistema de masses (principi de superposició)
+
+El **camp total** creat per diverses masses és la **suma vectorial** dels camps que crea cadascuna:
+
+$$
+\vec{g}_{total} = \sum_i \vec{g}_i = -G\sum_i \frac{m_i}{r_i^2}\hat{r_i}
+$$
+
+Això s’anomena **principi de superposició**.
+
+🖼️ *[Imatge 4: Camp creat per una distribució de masses puntuals]*  
+🖼️ *[Imatge 5: Equivalència entre massa esfèrica i massa puntual]*
+
+---
+
+## 3.6 — Components de g en coordenades
+
+Si expressem el camp gravitatori en components:
+
+- En **cartesianes**:  
+
+$$
+\vec{g} = g_x \hat{i} + g_y \hat{j} + g_z \hat{k}
+$$
+
+- En **polars** (entorn d’una massa central):  
+
+$$
+\vec{g} = -G\frac{M}{r^2}\hat{r}
+$$
+
+Aquestes formes permeten calcular el camp quan hi ha simetria esfèrica o en punts d’un sistema de masses.
+
+### 🧭 Referències visuals
+
+| Codi | Descripció |
+|------|-------------|
+| Imatge 1 | Variació del mòdul de g amb r |
+| Imatge 2 | Línies de camp d’una massa puntual / dues masses |
+| Imatge 3 | Disminució de g amb l’altura |
+| Imatge 4 | Camp d’una distribució de masses puntuals |
+| Imatge 5 | Equivalència massa esfèrica ↔ massa puntual |
+
+```
+
