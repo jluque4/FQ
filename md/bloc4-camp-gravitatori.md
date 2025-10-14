@@ -288,7 +288,7 @@ $$
 - **Sentit**: cap a la massa que genera el camp.
 - **Mòdul**: proporcional a la massa $M$ i inversament proporcional al quadrat de la distància $r$.
 
-🖼️ *[Imatge 2: Línies de camp d’una massa puntual i de dues masses iguals]* 
+<!--🖼️ *[Imatge 2: Línies de camp d’una massa puntual i de dues masses iguals]* -->
 
 A mesura que ens allunyem del cos, la intensitat del camp disminueix ràpidament.
  
@@ -326,7 +326,7 @@ $$
 Com que $(R+h)^2 > R^2$, es compleix que $g_h < g_0$ :  
 la intensitat del camp disminueix amb l’altura.
 
-🖼️ *[Imatge 3: Intensitat del camp en funció de l’altura]*
+<!--🖼️ *[Imatge 3: Intensitat del camp en funció de l’altura]* -->
 
 ---
 
@@ -340,9 +340,9 @@ $$
 
 Això s’anomena **principi de superposició**.
 
-🖼️ *[Imatge 4: Camp creat per una distribució de masses puntuals]*  
-🖼️ *[Imatge 5: Equivalència entre massa esfèrica i massa puntual]*
-
+<!--🖼️ *[Imatge 4: Camp creat per una distribució de masses puntuals]* ]: #
+🖼️ *[Imatge 5: Equivalència entre massa esfèrica i massa puntual]* -->
+ 
 ---
 
 ## 3.6 — Components de g en coordenades
@@ -363,6 +363,7 @@ $$
 
 Aquestes formes permeten calcular el camp quan hi ha simetria esfèrica o en punts d’un sistema de masses.
 
+<!--
 ### 🧭 Referències visuals
 
 | Codi | Descripció |
@@ -372,6 +373,7 @@ Aquestes formes permeten calcular el camp quan hi ha simetria esfèrica o en pun
 | Imatge 3 | Disminució de g amb l’altura |
 | Imatge 4 | Camp d’una distribució de masses puntuals |
 | Imatge 5 | Equivalència massa esfèrica ↔ massa puntual |
+-->
 
-```
+
 
