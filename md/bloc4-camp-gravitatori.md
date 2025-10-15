@@ -358,7 +358,7 @@ $$
 - En **polars** (entorn d’una massa central):  
 
 $$
-\vec{g} = -G\frac{M}{r^2}\hat{r}
+\vec{g} = -G\frac{M}{r^2}\hat{u_r}
 $$
 
 Aquestes formes permeten calcular el camp quan hi ha simetria esfèrica o en punts d’un sistema de masses.
