@@ -514,9 +514,11 @@ El **valor de l’energia total** determina el tipus de trajectòria possible:
 |     $E_m = 0$     |      Cas **límit**     |   Parabòlica (escapament just)  |
 |     $E_m > 0$     |    Cos **no lligat**   | Hiperbòlica (escapament sobrat) |
 
-|             ![Trajectòries segons energia](img/bloc4/18.png)             |
-| :----------------------------------------------------------------------: |
-| *Trajectòries possibles segons el valor de l’energia total.* |
+|             ![Trajectòries segons energia](img/bloc4/18.png) | ![Seccions còniques](img/bloc4/18b.png)|
+| :---------------------------------: | :-----------------------------------: |
+| *Trajectòries possibles segons el valor de l’energia total.* | *Seccions còniques.* |
+
+> Les seccions còniques són les corbes obtingudes en tallar un con amb un pla, i són fonamentals per descriure trajectòries en física.
 
 ---
 
