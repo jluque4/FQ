@@ -1,8 +1,8 @@
 # Bloc 4. Camp gravitatori
 
-# 1 — Concepte de camp físic
-
 ---
+
+# 1 — Concepte de camp físic
 
 ## 1.1 — Què és un camp físic
 
@@ -127,8 +127,6 @@ Permet una visió unificada de fenòmens aparentment diferents —com la gravita
 
 # 2 — Llei de la gravitació universal
 
----
-
 ## 2.1 — Enunciat i expressió vectorial de la força gravitatoria
 
 Isaac Newton (1642–1727) va formular la **llei de la gravitació universal** a partir de les observacions astronòmiques de **Kepler**.
@@ -248,7 +246,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 ---
 
-## 2.7 — Conclusió
+### — Conclusió
 
 La **llei de la gravitació universal** de Newton estableix la base de tota la **mecànica celeste** i de la comprensió de l’estructura de l’univers. Gràcies a ella, és possible descriure **òrbites planetàries, moviments de satèl·lits** i les interaccions gravitacionals entre cossos massius.
 
@@ -375,5 +373,166 @@ Aquestes formes permeten calcular el camp quan hi ha simetria esfèrica o en pun
 | Imatge 5 | Equivalència massa esfèrica ↔ massa puntual |
 -->
 
+---
 
+# 4 — Potencial i energia potencial gravitatòria
 
+## 4.1 — Potencial gravitatori
+
+Quan una massa crea un camp gravitatori, en qualsevol punt d’aquest camp hi ha associada una **energia per unitat de massa**.
+Aquesta magnitud rep el nom de **potencial gravitatori**.
+
+> El potencial indica **quant treball faria el camp** per portar una massa unitària des de l’infinit fins a un punt del camp.
+
+$$
+V_A = - W_{\infty \rightarrow A} = - \int_{\infty}^{r_A} \vec{F} \cdot \mathrm{d}\vec{r}
+$$
+
+**Expressió per a una massa M:**
+
+$$
+V = -\frac{G \cdot M}{r}
+$$
+
+* El potencial $V$ és una magnitud **escalar**.
+* El signe “−” indica que el camp és **atractiu**.
+* A mesura que ens **allunyem**, el valor del potencial s’aproxima a **zero** $\rightarrow V_{r_\infty} = 0.$
+* La seva **unitat** és el joule per quilogram (**J/kg**).
+
+|     ![Potencial d’una massa puntual](img/bloc4/14.png)    |
+| :-------------------------------------------------------: |
+| *Potencial d’una massa puntual en un punt A.* |
+
+---
+
+## 4.2 — Energia potencial
+
+Si la massa que es troba dins el camp no és unitària, la seva **energia potencial** és:
+
+$$
+E_p = m \cdot V = -\frac{G\cdot M\cdot m}{r}
+$$
+
+Aquesta energia representa la **capacitat del camp per fer treball** sobre la massa.
+Com més lluny és la massa, **menys negativa** és l’energia potencial (el camp té menys “efecte”).
+
+|         ![Potencial d’un conjunt de masses puntuals](img/bloc4/15.png)        |
+| :---------------------------------------------------------------------------: |
+| *Energia potencial gravitatòria.* |
+
+---
+
+## 4.3 — Relació amb el camp gravitatori
+
+El **camp gravitatori** i el **potencial** estan relacionats:
+on el camp és més intens, el potencial varia més ràpidament.
+
+**Per a una massa puntual:**
+
+$$
+g = \frac{G\cdot M}{r^2}
+\qquad\Rightarrow\qquad
+V = -\frac{G\cdot M}{r}
+$$
+
+Això vol dir que el camp (vector) es pot obtenir a partir del potencial (escalar).
+En un diagrama, el pendent de (V(r)) dona la intensitat del camp.
+
+<!--
+| ![Diagrames F-r i V-r](img/bloc4/16.png) |
+| :--------------------------------------: |
+|    *Fig. 1.28 – Gràfiques F–r i V–r.*    |
+-->
+
+---
+
+## 4.4 — Treball i diferència de potencial
+
+El **treball del camp gravitatori** quan una massa es mou entre dos punts **només depèn de les posicions inicial i final**, no del camí.
+
+$$
+W = m \cdot [V(B) - V(A)] = -\Delta E_p
+$$
+
+> Això confirma que el camp gravitatori és **conservatiu**.
+
+|                        ![Treball A→B](img/bloc4/15b.png)                      |
+| :---------------------------------------------------------------------------: |
+| *Treball per desplaçar una massa d’A a B (independent del camí).* |
+
+---
+
+## 4.5 — Energia mecànica
+
+En absència de fregaments, la **suma de l’energia cinètica i potencial** és constant:
+
+$$
+E_m = E_c + E_p = \text{constant}
+$$
+
+Això vol dir que si una massa **guanya energia cinètica**, **perd energia potencial**, i a l’inrevés.
+La variació d’una compensa la de l’altra.
+
+<!--
+| ![Força central i òrbita circular](img/bloc4/19.png) |
+| :--------------------------------------------------: |
+|   *Fig. 1.40 – Força central i moviment circular.*   |
+-->
+
+---
+
+<!--
+## 4.6 — Energia en moviments orbitals
+
+Per a un cos que gira al voltant d’un planeta (òrbita circular):
+
+$$
+v = \sqrt{\frac{G,M}{r}} \qquad
+E_c = \frac{G,M,m}{2r} \qquad
+E_p = -\frac{G,M,m}{r} \qquad
+E_m = -\frac{G,M,m}{2r}
+$$
+
+* L’energia total és **negativa**, perquè el cos està **lligat** al camp.
+* Si l’òrbita és més alta (r↑), el cos té **menys velocitat** i **energia total més gran** (menys negativa).
+
+|        ![Gràfiques Ec, Ep i E](img/bloc4/20.png)        |
+| :-----------------------------------------------------: |
+| *Fig. 1.41 – Variació d’Ec, Ep i E amb la distància r.* |
+
+---
+
+-->
+
+## 4.6 — Gràfiques i tipus d’òrbita
+
+El **valor de l’energia total** determina el tipus de trajectòria possible:
+
+| **Energia total** |  **Significat físic**  |         **Trajectòria**         |
+| :---------------: | :--------------------: | :-----------------------------: |
+|     $E_m < 0$     | Cos **lligat** al camp |   Òrbita circular o el·líptica  |
+|     $E_m = 0$     |      Cas **límit**     |   Parabòlica (escapament just)  |
+|     $E_m > 0$     |    Cos **no lligat**   | Hiperbòlica (escapament sobrat) |
+
+|             ![Trajectòries segons energia](img/bloc4/18.png)             |
+| :----------------------------------------------------------------------: |
+| *Trajectòries possibles segons el valor de l’energia total.* |
+
+---
+
+## 4.7 — Resum del bloc CG4
+
+| Concepte          | Expressió         | Comentari                   |
+| :---------------- | :---------------- | :-------------------------- |
+| Potencial         | $V = -GM/r$       | Energia per unitat de massa |
+| Energia potencial | $E_p = -GMm/r$    | Depèn de la posició         |
+| Treball del camp  | $W = -\Delta E_p$ | Independent del camí        |
+| Energia mecànica  | $E_m = E_c + E_p$ | Es conserva                 |
+<!--| Òrbita circular   | $E_m = -GMm/(2r)$ | Cos lligat al planeta       | -->
+
+---
+
+### — Conclusió
+
+> Els conceptes de **potencial** i **energia potencial** permeten descriure el camp gravitatori **en termes d’energia** en lloc de forces.
+> Això facilita l’estudi de moviments orbitals i problemes de conservació d’energia.
