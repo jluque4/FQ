@@ -328,12 +328,12 @@ la intensitat del camp disminueix amb l’altura.
 
 ---
 
-## 3.5 — Camp d’un sistema de masses (principi de superposició)
+## 3.5 — Camp d’un sistema de masses
 
 El **camp total** creat per diverses masses és la **suma vectorial** dels camps que crea cadascuna:
 
 $$
-\vec{g}_{total} = \sum_i \vec{g}_i = -G\sum_i \frac{m_i}{r_i^2}\hat{r_i}
+\vec{g}_{total} = \sum_i \vec{g_i} = -G\sum_i \frac{m_i}{r_i^2}\hat{r_i}
 $$
 
 Això s’anomena **principi de superposició**.
@@ -422,7 +422,24 @@ Com més lluny és la massa, **menys negativa** és l’energia potencial (el ca
 
 ---
 
-## 4.3 — Relació amb el camp gravitatori
+## 4.3 — Potencial gravitatori d’un sistema de masses
+
+El **potencial gravitatori total** creat per diverses masses és la **suma de les quantitats escalars** dels potencials que crea cadascuna:
+
+$$
+V_{total} = \sum_i V_i = - G \sum_i \frac{m_i}{r_i}
+$$
+
+Això s’anomena **principi de superposició**.
+> Sumem quantitats escalars que són sempre negatives i dona un resultat també negatiu.
+
+| ![Superposició de potencials gravitatòries](img/bloc4/19.png) |
+|:-------------------------------------------------------------:|
+| *El $V_{total}$ és la suma escalar de tots els $V_i$ individuals.* |
+
+---
+
+## 4.4 — Relació amb el camp gravitatori
 
 El **camp gravitatori** i el **potencial** estan relacionats:
 on el camp és més intens, el potencial varia més ràpidament.
@@ -446,7 +463,7 @@ En un diagrama, el pendent de (V(r)) dona la intensitat del camp.
 
 ---
 
-## 4.4 — Treball i diferència de potencial
+## 4.5 — Treball i diferència de potencial
 
 El **treball del camp gravitatori** quan una massa es mou entre dos punts **només depèn de les posicions inicial i final**, no del camí.
 
@@ -462,12 +479,18 @@ $$
 
 ---
 
-## 4.5 — Energia mecànica
+## 4.6 — Energia mecànica
 
 En absència de fregaments, la **suma de l’energia cinètica i potencial** és constant:
 
 $$
-E_m = E_c + E_p = \text{constant}
+E_m = E_c + E_p = \frac{1}{2} \cdot m \cdot v^2 - G \cdot \frac{M \cdot m}{r} = \text{constant}
+$$
+
+Per tant es compleix el **principi de conservació de l’energia**:
+
+$$
+\Delta E_m = \Delta E_c + \Delta E_p = 0
 $$
 
 Això vol dir que si una massa **guanya energia cinètica**, **perd energia potencial**, i a l’inrevés.
@@ -504,7 +527,7 @@ $$
 
 -->
 
-## 4.6 — Gràfiques i tipus d’òrbita
+## 4.7 — Gràfiques i tipus d’òrbita
 
 El **valor de l’energia total** determina el tipus de trajectòria possible:
 
@@ -522,7 +545,7 @@ El **valor de l’energia total** determina el tipus de trajectòria possible:
 
 ---
 
-## 4.7 — Resum del bloc CG4
+## 4.8 — Resum del bloc CG4
 
 | Concepte          | Expressió         | Comentari                   |
 | :---------------- | :---------------- | :-------------------------- |
