@@ -156,7 +156,7 @@ $$
 
 **Exemple:**
 
-Suposem un moviment en el pla amb $x(t) = 2t \quad \text{i} \quad y(t) = t^2$ aleshores la funció vectorial del moviment és:
+Suposem un moviment en el pla amb $x(t) = 2t$ i  $y(t) = t^2$ aleshores la funció vectorial del moviment és:
 
 $$
 \vec{r}(t) = 2t \cdot \hat{\imath} + t^2 \cdot\hat{\jmath}
