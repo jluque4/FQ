@@ -96,12 +96,14 @@ $$
 |:--------------------------------------:|
 | Vector de posició: $\vec{r} = x \cdot\hat{\imath} + y \cdot \hat{\jmath} + z \cdot \hat{k}$ |
 
+<!--
 La posició pot variar amb el temps. En aquest cas, parlem de la **funció del moviment** o **equació del moviment**:
 
 - En el pla:  
   $$ \vec{r}(t) = x(t) + y(t) $$
 - En l’espai:  
   $$ \vec{r}(t) = x(t) + y(t) + z(t) $$
+-->
 
 ---
 
@@ -129,6 +131,43 @@ El **desplaçament** indica el vector que uneix la posició inicial i la final, 
 | ![Espai recorregut i desplaçament](img/bloc1/6.png) |
 |:--------------------------------------:|
 | Espai recorregut i desplaçament |
+
+---
+
+## 3.4 — Equació del moviment
+
+Quan la posició d’un mòbil varia amb el temps, podem descriure el seu moviment mitjançant una **funció vectorial del temps**, anomenada **equació del moviment**.
+Aquesta funció associa a cada instant $t$ un vector de posició $\vec{r}(t)$ que indica on es troba el mòbil en aquell moment:
+
+$$
+\vec{r}(t) = x(t)\cdot \hat{\imath} + y(t)\cdot \hat{\jmath} + z(t)\cdot \hat{k}
+$$
+
+- Cada component  $x(t)$, $y(t)$ i $z(t)$ és una **funció escalar del temps**, que expressa com canvia la coordenada corresponent.
+- La combinació de les tres components forma una **funció vectorial**, perquè el seu resultat és un vector.
+
+> **Interpretació geomètrica:**  
+> Si representem gràficament totes les posicions successives $\vec{r}(t)$ en funció del temps, obtenim la **trajectòria** del mòbil.  
+> El vector de posició indica, en cada instant, la **direcció** i la **distància** des de l’origen fins al punt on es troba el mòbil.
+
+| ![Fig. 1.8 — Representació gràfica d’una funció vectorial del moviment](img/bloc1/7.png) |
+|:--------------------------------------:|
+| Equació vectorial del moviment. |
+
+**Exemple:**
+
+Suposem un moviment en el pla amb $x(t) = 2t \quad \text{i} \quad y(t) = t^2$ aleshores la funció vectorial del moviment és:
+
+$$
+\vec{r}(t) = 2t \cdot \hat{\imath} + t^2 \cdot\hat{\jmath}
+$$
+
+Per a cada valor de $t$, obtenim un punt de la trajectòria.
+
+> - En aquest cas, la component $x(t)$ indica com avança el mòbil horitzontalment, mentre que $y(t)$ mostra com canvia la seva alçada.  
+> - El conjunt de totes les posicions $\vec{r}(t)$ descriu el moviment complet en el pla.
+> - La funció $\vec{r}(t)$ permet saber **on** és el mòbil en cada instant.
+> - Si coneixem $\vec{r}(t)$, podem obtenir altres magnituds del moviment, com la **velocitat** i l’**acceleració**, derivant respecte al temps.
 
 ---
 

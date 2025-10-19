@@ -114,7 +114,7 @@ El **camp gravitatori** i el **camp eléctric** en són exemples típics, peró 
 
 ---
 
-## 1.6 — Conclusió
+### — Conclusió CG1
 
 El concepte de **camp físic** és essencial per comprendre com les forces actuen a distància.  
 Permet una visió unificada de fenòmens aparentment diferents —com la gravitació, l’electricitat o el magnetisme— sota una mateixa idea:  
@@ -246,7 +246,7 @@ Aquest és el **principi de superposició**, que permet calcular la **força res
 
 ---
 
-### — Conclusió
+### — Conclusió CG2
 
 La **llei de la gravitació universal** de Newton estableix la base de tota la **mecànica celeste** i de la comprensió de l’estructura de l’univers. Gràcies a ella, és possible descriure **òrbites planetàries, moviments de satèl·lits** i les interaccions gravitacionals entre cossos massius.
 
@@ -405,24 +405,7 @@ $$
 
 ---
 
-## 4.2 — Energia potencial
-
-Si la massa que es troba dins el camp no és unitària, la seva **energia potencial** és:
-
-$$
-E_p = m \cdot V = -\frac{G\cdot M\cdot m}{r}
-$$
-
-Aquesta energia representa la **capacitat del camp per fer treball** sobre la massa.
-Com més lluny és la massa, **menys negativa** és l’energia potencial (el camp té menys “efecte”).
-
-|         ![Potencial d’un conjunt de masses puntuals](img/bloc4/15.png)        |
-| :---------------------------------------------------------------------------: |
-| *Energia potencial gravitatòria.* |
-
----
-
-## 4.3 — Potencial gravitatori d’un sistema de masses
+## 4.2 — Potencial gravitatori d’un sistema de masses
 
 El **potencial gravitatori total** creat per diverses masses és la **suma de les quantitats escalars** dels potencials que crea cadascuna:
 
@@ -439,6 +422,23 @@ Això s’anomena **principi de superposició**.
 
 ---
 
+## 4.3 — Energia potencial
+
+Si la massa que es troba dins el camp no és unitària, la seva **energia potencial** és:
+
+$$
+E_p = m \cdot V = -\frac{G\cdot M\cdot m}{r}
+$$
+
+Aquesta energia representa la **capacitat del camp per fer treball** sobre la massa.
+Com més lluny és la massa, **menys negativa** és l’energia potencial (el camp té menys “efecte”).
+
+|         ![Potencial d’un conjunt de masses puntuals](img/bloc4/15.png)        |
+| :---------------------------------------------------------------------------: |
+| *Energia potencial gravitatòria.* |
+
+---
+
 ## 4.4 — Relació amb el camp gravitatori
 
 El **camp gravitatori** i el **potencial** estan relacionats:
@@ -450,10 +450,12 @@ $$
 g = \frac{G\cdot M}{r^2}
 \qquad\Rightarrow\qquad
 V = -\frac{G\cdot M}{r}
+\qquad\Rightarrow\qquad
+g = - \frac{dV}{dr}
 $$
 
 Això vol dir que el camp (vector) es pot obtenir a partir del potencial (escalar).
-En un diagrama, el pendent de (V(r)) dona la intensitat del camp.
+En un diagrama, el pendent de $V(r)$ dona la intensitat del camp.
 
 <!--
 | ![Diagrames F-r i V-r](img/bloc4/16.png) |
@@ -557,7 +559,7 @@ El **valor de l’energia total** determina el tipus de trajectòria possible:
 
 ---
 
-### — Conclusió
+### — Conclusió CG4
 
 > Els conceptes de **potencial** i **energia potencial** permeten descriure el camp gravitatori **en termes d’energia** en lloc de forces.
 > Això facilita l’estudi de moviments orbitals i problemes de conservació d’energia.
