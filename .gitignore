@@ -1,0 +1,9 @@
+# =======================================
+# Projecte: Física i Química
+# Finalitat: mantenir públic només el material didàctic (HTML, CSS, MD)
+# =======================================
+
+# --- Materials interns (no sincronitzar) ---
+# Documents amb notes, rúbriques o dades d’alumnes
+
+tmp.*

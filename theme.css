@@ -177,18 +177,6 @@ body {
   border-radius: 8px;
 }
 
-/* ==============================
-   Impressió
-   ============================== */
-@media print {
-  .page { background: none; }
-  .card {
-    box-shadow: none; border: none;
-    padding: 0; max-width: 100%;
-  }
-  .toolbar { display: none; }
-}
-
 /* ——— Topbar ——— */
 .topbar {
   position: sticky; top: 0; z-index: 10;
@@ -234,4 +222,34 @@ body {
 @media (max-width: 1000px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: static; height: auto; order: -1; }
+}
+
+/* ==============================
+   Impressió
+   ============================== */
+/* Impressió: amagar navegació i aplanar layout */
+@media print {
+  /* Amaga menús i elements només de pantalla */
+  .topbar,
+  .toolbar,
+  .sidebar,
+  #toc { display: none !important; }
+
+  /* Aplana el grid perquè el contingut principal ocupi tot l'ample */
+  .layout { display: block !important; }
+
+  /* Neteja estètica de targeta i fons */
+  .page { background: none !important; }
+  .card { box-shadow: none !important; border: none !important; padding: 0 !important; max-width: 100% !important; }
+
+  /* Salts de pàgina des del Markdown/HTML */
+  .pagebreak { break-before: page !important; page-break-before: always !important; }
+
+  /* Evita talls lletjos */
+  h1, h2, h3 { break-after: avoid; }
+  table, img, blockquote { break-inside: avoid; }
+
+  /* Amaga controls interactius */
+  button, input, select { display: none !important; }
+  .no-print { display: none !important; }
 }
