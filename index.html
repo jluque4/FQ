@@ -140,23 +140,46 @@
   }
 
   // ——— Carrega i renderitza ———
-  async function loadAndRender(mdPath) {
-    try {
-      const res = await fetch(mdPath, { cache: "no-store" });
-      if (!res.ok) throw new Error(`No s'ha pogut carregar: ${mdPath}`);
-      const md = await res.text();
-      const html = DOMPurify.sanitize(marked.parse(md), { USE_PROFILES: { html: true } });
-      const el = document.getElementById("content");
-      el.innerHTML = html;
+async function loadAndRender(mdPath) {
+  try {
+    const res = await fetch(mdPath, { cache: "no-store" });
+    if (!res.ok) throw new Error(`No s'ha pogut carregar: ${mdPath}`);
 
-      // TOC + LaTeX
-      buildTOC();
-      await typesetMath();
-    } catch (err) {
-      document.getElementById("content").innerHTML =
-        `<div class="error"><strong>Error:</strong> ${err.message}</div>`;
+    const md = await res.text();
+    const html = DOMPurify.sanitize(marked.parse(md), { USE_PROFILES: { html: true } });
+    const el = document.getElementById("content");
+    el.innerHTML = html;
+
+    // TOC + LaTeX
+    buildTOC();
+    await typesetMath();
+
+  } catch (err) {
+    const el = document.getElementById("content");
+
+    // Si l'arxiu és el fitxer ignorat, mostra targeta d'examen
+    if (mdPath.includes("ex-calcul-vectorial.md")) {
+      el.innerHTML = `
+        <div class="exam-card">
+          <h2>📘 Avaluació — Unitat 1: Què és la ciència?</h2>
+          <p><strong>Data:</strong> dimecres 12 de novembre de 2025</p>
+          <p><strong>Hora:</strong> 9:00 h</p>
+          <p><strong>Aula:</strong> 2.3</p>
+          <p class="muted">Recorda portar calculadora bàsica i bolígraf blau o negre.</p>
+          <hr>
+          <p>Aquest recurs és intern del professorat i no està disponible al web.  
+          L’avaluació es farà a classe en la data indicada.</p>
+          <p><a href="./index.html">← Tornar a l’inici</a></p>
+        </div>`;
+    } else {
+      // Missatge general per a la resta de fitxers
+      el.innerHTML = `
+        <div class="error">
+          <strong>Error:</strong> ${err.message}
+        </div>`;
     }
   }
+}
 
   // ——— Inicialització UI ———
   const select = document.getElementById("mdfile");

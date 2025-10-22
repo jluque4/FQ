@@ -253,3 +253,13 @@ body {
   button, input, select { display: none !important; }
   .no-print { display: none !important; }
 }
+
+.exam-card {
+  border: 1px solid var(--border);
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  box-shadow: 0 2px 14px rgba(0,0,0,.05);
+}
+.exam-card h2 { margin: 0 0 .5rem; color: var(--accent); }
+.exam-card .muted { color: #64748b; font-size: .95em; }
