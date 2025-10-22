@@ -162,9 +162,9 @@ async function loadAndRender(mdPath) {
         const examMarkdown = `
         # Avaluació — Bloc 0: *Càlcul Vectorial*
 
-         **Data:** dijous 22 de octubre de 2025  
-         **Hora:** 12:40 h  
-         **Aula:** 2.1  
+        - **Data:** dijous 22 de octubre de 2025  
+        - **Hora:** 12:40 h  
+        - **Aula:** 2.1  
 
         > Recorda portar calculadora bàsica i bolígraf blau o negre.  
         > L’avaluació es farà a classe en la data indicada.  
@@ -173,7 +173,7 @@ async function loadAndRender(mdPath) {
 
         > Aquest recurs és intern del professorat i no està disponible al web públic.  
         `;
-        
+
         // Renderitza el markdown dins del contenidor normal
         const html = DOMPurify.sanitize(marked.parse(examMarkdown), { USE_PROFILES: { html: true } });
         el.innerHTML = `<article class="markdown-body">${html}</article>`;  
