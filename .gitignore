@@ -6,4 +6,4 @@
 # --- Materials interns (no sincronitzar) ---
 # Documents amb notes, rúbriques o dades d’alumnes
 
-tmp.*
+md/tmp/
