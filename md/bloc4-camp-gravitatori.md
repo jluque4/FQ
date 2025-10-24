@@ -470,7 +470,7 @@ En un diagrama, el pendent de $V(r)$ dona la intensitat del camp.
 El **treball del camp gravitatori** quan una massa es mou entre dos punts **només depèn de les posicions inicial i final**, no del camí.
 
 $$
-W = m \cdot [V(B) - V(A)] = -\Delta E_p
+W = - m \cdot [V(B) - V(A)] = -\Delta E_p
 $$
 
 > Això confirma que el camp gravitatori és **conservatiu**.
