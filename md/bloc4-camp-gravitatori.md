@@ -547,7 +547,35 @@ El **valor de l’energia total** determina el tipus de trajectòria possible:
 
 ---
 
-## 4.8 — Resum del bloc CG4
+## 4.8 — Superfícies equipotencials
+
+En els **camps conservatius**, com el **gravitatori** o l’**elèctric**, és útil introduir el concepte de **superfícies equipotencials** per interpretar situacions energètiques de manera visual.
+
+> **Definició:**</br>
+> Una **superfície equipotencial** és el conjunt de punts on el **potencial $V$** té el **mateix valor**.
+> Si una massa es mou dins d’una superfície equipotencial, **el seu potencial no canvia**.
+
+---
+
+- **Treball nul dins d’una superfície equipotencial:** </br>
+
+   Si $V(A) = V(B)$, aleshores:
+   $$
+   W_{A\to B} = -m \cdot [V(B) - V(A)] = 0
+   $$
+   El camp **no realitza treball** quan la massa es mou dins d’una superfície equipotencial.
+
+-  **Perpendicularitat amb el camp:** </br>
+
+   Les **línies de camp** són sempre **perpendiculars** a les **superfícies equipotencials**, ja que el camp apunta **en el sentit decreixent de $V$** (cap on el potencial disminueix).
+
+|        ![Superfícies equipotencials](img/bloc4/20.png)        |
+| :-----------------------------------------------------: |
+| *Superfícies equipotencials perpendiculars a les línies de camp.* |
+
+---
+
+## 4.9 — Resum del bloc CG4
 
 | Concepte          | Expressió         | Comentari                   |
 | :---------------- | :---------------- | :-------------------------- |
