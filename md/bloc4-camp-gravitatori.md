@@ -591,3 +591,163 @@ En els **camps conservatius**, com el **gravitatori** o l’**elèctric**, és �
 
 > Els conceptes de **potencial** i **energia potencial** permeten descriure el camp gravitatori **en termes d’energia** en lloc de forces.
 > Això facilita l’estudi de moviments orbitals i problemes de conservació d’energia.
+
+---
+
+# 5 — Dinàmica orbital
+
+---
+
+## 5.1 — Equilibri en òrbites circulars
+
+Quan un cos (com un satèl·lit o la Lluna) gira al voltant d’un planeta, està sotmès a la **força gravitatòria** del planeta, que actua com a **força centrípeta** necessària per mantenir-lo en òrbita.
+
+$$
+F_g = F_c
+$$
+
+On:
+$$
+\frac{GMm}{r^2} = \frac{mv^2}{r}
+$$
+
+> L’equilibri entre la força d’atracció gravitatòria i la força centrípeta manté el cos en moviment circular.
+
+|        ![Equilibri de forces](img/bloc4/21.png)        |
+| :---------------------------------------------------: |
+| *La força gravitatòria actua com a força centrípeta.* |
+
+---
+
+## 5.2 — Deducció de la velocitat orbital
+
+De la igualtat anterior:
+
+$$
+\frac{GMm}{r^2} = \frac{mv^2}{r}
+$$
+
+Simplificant $m$, $r$ i aïllant $v$:
+
+$$
+v = \sqrt{\frac{GM}{r}}
+$$
+
+> La velocitat orbital **no depèn de la massa del satèl·lit**, sinó només de la massa del planeta $M$ i de la distància $r$.
+
+A mesura que augmenta $r$, la velocitat $v$ **disminueix**.
+
+<!--
+|         ![Velocitat orbital](img/bloc4/21.png)         |
+| :---------------------------------------------------: |
+| *La velocitat orbital és menor en òrbites més altes.* |
+-->
+
+---
+
+## 5.3 — Període orbital i dependència amb la distància
+
+El **període orbital** és el temps que triga el satèl·lit a fer una volta completa:
+
+$$
+T = \frac{2\pi r}{v}
+$$
+
+Substituint $v = \sqrt{\frac{GM}{r}}$:
+
+$$
+T = 2\pi \sqrt{\frac{r^3}{GM}}
+$$
+
+Això és la **tercera llei de Kepler**:
+
+> El quadrat del període és proporcional al cub del radi de l’òrbita.
+
+$$
+T^2 \propto r^3
+$$
+
+<!--
+
+|      ![Període orbital](img/bloc4/22.png)      |
+| :-------------------------------------------: |
+| *Òrbites més allunyades → període més llarg.* |
+-->
+
+---
+
+## 5.4 — Energies en òrbita circular
+
+Un satèl·lit en òrbita té:
+
+- **Energia cinètica:**
+
+$$
+E_c = \frac{1}{2}mv^2 = \frac{GMm}{2r}
+$$
+
+- **Energia potencial gravitatòria:**
+
+$$
+E_p = -\frac{GMm}{r}
+$$
+
+- L’**energia mecànica total** és:
+
+$$
+E_m = E_c + E_p = -\frac{GMm}{2r}
+$$
+
+<!--
+> L’energia total és negativa: el satèl·lit està **gravitacionalment lligat** al planeta.
+
+|                    ![Energies en òrbita](img/bloc4/24.png)                   |
+| :-------------------------------------------------------------------------: |
+| *L’energia potencial és el doble (en valor absolut) de l’energia cinètica.* |
+-->
+
+---
+
+## 5.5 — Canvis d’òrbita (variacions de r, v i Em)
+
+Quan un satèl·lit canvia d’altura (per exemple, de $r_1$ a $r_2$):
+
+* Si **augmenta $r$** → **disminueix $v$** i **augmenta $E_m$** (menys negativa).
+* Si **disminueix $r$** → **augmenta $v$** i **disminueix $E_m$** (més negativa).
+
+> Per pujar d’òrbita cal **afegir energia**; per baixar-ne, **cal perdre’n**.
+
+<!--
+|         ![Canvi d'òrbita](img/bloc4/25.png)         |
+| :------------------------------------------------: |
+| *Canvi d’òrbita per impuls o maniobra energètica.* |
+-->
+
+---
+
+<!--
+## 5.6 — Òrbites baixes i òrbites altes (comparació qualitativa)
+
+| **Tipus d’òrbita** | **Altura**                    | **Velocitat** | **Període**           | **Energia total** |
+| :----------------- | :---------------------------- | :------------ | :-------------------- | :---------------- |
+| Òrbita baixa (LEO) | Petita (pocs centenars de km) | Gran          | Curt (minuts o hores) | Més negativa      |
+| Òrbita alta (GEO)  | Gran (milers de km)           | Petita        | Llarg (fins a 24 h)   | Menys negativa    |
+
+> Com més lluny del planeta, més lent es mou el satèl·lit i més llarg és el seu període.
+
+| ![Òrbites baixes i altes](img/bloc4/26.png) |
+| :----------------------------------------: |
+| *Comparació entre òrbites baixes i altes.* |
+
+---
+-->
+
+### — Conclusió CG5
+
+La dinàmica orbital combina la **gravitació de Newton** amb la **cinemàtica circular**.
+A partir de la relació $F_g = F_c$ s’obtenen totes les expressions bàsiques de $v$, $T$ i $E_m$, que descriuen de manera completa el moviment dels satèl·lits i planetes.
+
+> En el següent bloc estudiarem els **moviments no circulars (òrbites el·líptiques)** i la seva relació amb les **lleis de Kepler**.
+
+---
+
