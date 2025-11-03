@@ -667,12 +667,9 @@ $$
 T^2 \propto r^3
 $$
 
-<!--
-
 |      ![Període orbital](img/bloc4/22.png)      |
 | :-------------------------------------------: |
 | *Òrbites més allunyades → període més llarg.* |
--->
 
 ---
 
