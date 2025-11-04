@@ -176,3 +176,152 @@ Per a cada valor de $t$, obtenim un punt de la trajectòria.
 > - La trajectòria és el camí recorregut.  
 > - El temps és una magnitud escalar.  
 > - La posició i el desplaçament són vectors fonamentals en la descripció del moviment.
+
+---
+
+## 3.5 — Velocitat
+
+La **velocitat** indica **com canvia la posició** d’un mòbil amb el temps, és a dir, la rapidesa i la direcció del moviment.
+
+És una **magnitud vectorial**: té mòdul, direcció i sentit.
+
+---
+
+### a. Velocitat mitjana
+
+Es defineix com el quocient entre el **desplaçament** i el **temps** emprat per efectuar-lo:
+
+$$
+\vec{v}_m = \frac{\Delta \vec{r}}{\Delta t} = \frac{\vec{r}_2 - \vec{r}_1}{t_2 - t_1}
+$$
+
+- Indica la **velocitat global** del moviment entre dos instants.
+- Té la **mateixa direcció i sentit** que el desplaçament.
+- La seva unitat en el SI és el **metre per segon (m/s)**.
+
+| ![Velocitat mitjana com a pendent del segment](img/bloc1/8a.png) |
+|:--:|
+| La $\vec{v}_m$ és la pendent del segment de la gràfica $\vec{r}(t)$. |
+
+---
+
+### b. Velocitat instantània
+
+Correspon a la **velocitat en un instant concret**.  
+S’obté com el límit de la velocitat mitjana quan $\Delta t \to 0$:
+
+$$
+\vec{v}(t) = \lim_{\Delta t \to 0} \frac{\Delta \vec{r}}{\Delta t} = \frac{d\vec{r}}{dt}
+$$
+
+- És la **derivada temporal del vector posició**.  
+- El seu mòdul s’anomena **celeritat** o **velocitat escalar**.
+
+> **Interpretació geomètrica:**  
+> El vector velocitat és **tangent a la trajectòria** en cada punt i el seu sentit indica el sentit del moviment.
+
+| ![Vector velocitat tangent a la trajectòria](img/bloc1/9.png) |
+|:--:|
+| La velocitat instantània és tangent a la trajectòria. |
+
+---
+
+### c. Components de la velocitat
+
+En el pla:
+$$
+\vec{v}(t) = \frac{dx}{dt} \cdot \hat{\imath} + \frac{dy}{dt} \cdot \hat{\jmath}
+$$
+
+En l’espai:
+$$
+\vec{v}(t) = \frac{dx}{dt}\cdot\hat{\imath} + \frac{dy}{dt}\cdot\hat{\jmath} + \frac{dz}{dt}\cdot\hat{k}
+$$
+
+---
+
+### d. Representació gràfica
+
+- En una gràfica **posició–temps (r–t)**, la velocitat és la **pendent** de la corba.
+- En una gràfica **velocitat–temps (v–t)**, l’**àrea sota la corba** representa el desplaçament.
+
+| ![Interpretació gràfica de la velocitat com a derivada](img/bloc1/10.png) | ![Interpretació gràfica de la velocitat com a integral](img/bloc1/11.png)|
+|:--:|:--:|
+| La pendent de la gràfica $r(t)$ dóna la velocitat | l’àrea sota $v(t)$ dóna el desplaçament. |
+
+---
+
+## 3.6 — Acceleració
+
+La **acceleració** mesura **com canvia la velocitat** d’un mòbil amb el temps.  
+També és una **magnitud vectorial**, amb unitat **metre per segon quadrat (m/s²)**.
+
+---
+
+### a. Acceleració mitjana
+
+És el quocient entre la **variació de la velocitat** i el **temps** emprat per a aquest canvi:
+
+$$
+\vec{a}_m = \frac{\Delta \vec{v}}{\Delta t} = \frac{\vec{v}_2 - \vec{v}_1}{t_2 - t_1}
+$$
+
+| ![Acceleració mitjana entre dos instants](img/bloc1/12.png) |
+|:--:|
+| L’acceleració mitjana indica com varia la velocitat al llarg del temps. |
+
+---
+
+### b. Acceleració instantània
+
+És la **derivada de la velocitat respecte al temps** o, equivalentment, la **segona derivada de la posició**:
+
+$$
+\vec{a}(t) = \frac{d\vec{v}}{dt} = \frac{d^2\vec{r}}{dt^2}
+$$
+
+> **Interpretació geomètrica:**  
+> El vector acceleració indica com canvia la direcció o el mòdul del vector velocitat.  
+> Si l’acceleració és constant i en la mateixa direcció que $\vec{v}$, el moviment és **rectilini uniformement accelerat (MRUA)**.
+
+---
+
+### c. Components de l’acceleració
+
+En el pla:
+$$
+\vec{a}(t) = \frac{d^2x}{dt^2}\cdot\hat{\imath} + \frac{d^2y}{dt^2}\cdot\hat{\jmath}
+$$
+
+En l’espai:
+$$
+\vec{a}(t) = \frac{d^2x}{dt^2}\cdot\hat{\imath} + \frac{d^2y}{dt^2}\cdot\hat{\jmath} + \frac{d^2z}{dt^2}\cdot\hat{k}
+$$
+
+---
+
+### d. Representació gràfica
+
+- En una gràfica **velocitat–temps (v–t)**, la **pendent** indica l’acceleració.
+- En una gràfica **acceleració–temps (a–t)**, l’**àrea sota la corba** indica la variació de velocitat.
+
+| ![Interpretació gràfica de l’acceleració](img/bloc1/13.png) |
+|:--:|
+| La pendent de $v(t)$ és l’acceleració; l’àrea sota $a(t)$ és el canvi de velocitat. |
+
+---
+
+### e. Casos particulars
+
+| Cas | Característiques | Exemple |
+|-----|------------------|----------|
+| **a = 0** | Moviment rectilini uniforme (velocitat constant) | MRU |
+| **a constant** | Moviment rectilini uniformement accelerat | MRUA |
+| **a variable** | Moviment general | Moviment oscil·latori, circular... |
+
+---
+
+> **Resum:**  
+> - La **velocitat** és la derivada de la posició.  
+> - L’**acceleració** és la derivada de la velocitat.  
+> - Les gràfiques $r(t)$, $v(t)$ i $a(t)$ estan relacionades per derivació i integració successiva.
