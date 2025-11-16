@@ -748,3 +748,139 @@ A partir de la relació $F_g = F_c$ s’obtenen totes les expressions bàsiques 
 
 ---
 
+# 6 — Lleis de Kepler
+
+---
+
+## 6.1 — Primera llei de Kepler
+
+> *Els planetes descriuen òrbites el·líptiques al voltant del Sol, amb el Sol situat en un dels focus.*
+
+Una **el·lipse** es defineix pels paràmetres següents:
+
+- **Semieix major**: $a$ 
+- **Semieix menor**: $b$  
+- **Semidistància focal**: $c$
+
+La relació entre ells és:
+
+$$
+a^2 = b^2 + c^2
+$$
+
+L’**excentricitat** és la mesura de com d’allargada és l’el·lipse:
+
+$$
+e = \frac{c}{a} = \sqrt{1 - \frac{b^2}{a^2}}
+$$
+
+> Si $e = 0$ → òrbita circular  
+> Si $0 < e < 1 $→ òrbita el·líptica  
+
+|        ![Primera llei de kepler](img/bloc4/23.png)   |
+| :---------------------------------------------------: |
+| *Òrbita el·líptica amb focus i definició de paràmetres.* |
+
+---
+
+## 6.2 — Segona llei de Kepler
+
+> *El radi vector que uneix el planeta amb el Sol escombra àrees iguals en temps iguals.*
+
+Això significa que:
+
+- Quan el planeta és al **periheli** (punt més pròxim al Sol), es mou **més de pressa**.  
+- Quan és a l’**afeli** (punt més llunyà), es mou **més lentament**.
+
+Aquesta llei expressa la **conservació del moment angular**:
+
+$$
+\vec{L} = \vec{r} \times m\vec{v}
+$$
+
+Com que la força gravitacional és **central** (dirigida cap al Sol), el **moment de la força** és nul:
+
+$$
+\vec{M} = \vec{r} \times \vec{F} = 0
+$$
+
+> Això implica que $\vec{L}$  és constant i que la velocitat areolar també ho és:
+
+$$
+\frac{ΔS}{Δt} = \text{const.}
+$$
+
+|        ![Segona llei de kepler](img/bloc4/24.png)   |
+| :---------------------------------------------------: |
+| *Àrees iguals en temps iguals — periheli i afeli.* |
+
+---
+
+## 6.3 — Tercera llei de Kepler
+
+> *El quadrat del període orbital és directament proporcional al cub de la distància mitjana al Sol.*
+
+$$
+T^2 = k \cdot r^3
+$$
+
+on la constant $k$ és comuna per a tots els planetes del sistema solar:
+
+$$
+k = \frac{4\pi^2}{G M}
+$$
+
+---
+
+## 6.4 — Moment angular i conservació
+
+El **moment angular** d’un planeta respecte del Sol és:
+
+$$
+L = mvr
+$$
+
+Com que la força és central, no hi ha moment de força extern $M=0$, i per tant:
+
+$$
+\frac{dL}{dt} = 0 \Rightarrow L = \text{constant}
+$$
+
+Això implica que el producte $v \cdot r$ es conserva:
+
+$$
+v_p r_p = v_a r_a
+$$
+
+on els subíndexs $p$ i $a$ indiquen **periheli** i **afeli**.
+
+|        ![Conservació moment angular](img/bloc4/25.png)   |
+| :---------------------------------------------------: |
+| *vectors de posició i velocitat en periheli i afeli.* |
+
+---
+
+## 6.5 — Energia en òrbites el·líptiques
+
+En un moviment el·líptic:
+
+- La velocitat és **màxima al periheli** i **mínima a l’afeli**.
+- L’**energia mecànica total** és constant i negativa:
+
+$$
+E = E_c + E_p = -\frac{G M m}{2a}
+$$
+
+---
+
+### — Conclusió CG6
+
+| **Llei** | **Forma matemàtica** | **Conseqüència** |
+|:----------|:----------------------|:------------------|
+| **1a — Òrbita el·líptica** | $r = \frac{a(1 - e^2)}{1 + e\cos\theta}$ | Trajectòries tancades, Sol en un focus |
+| **2a — Àrees iguals** | $\frac{dA}{dt} = \text{constant}$ | Conservació de moment angular |
+| **3a — Relació $T^2 \propto r^3$** | $T^2 = \frac{4\pi^2 r^3}{GM}$ | Planetes llunyans → períodes més llargs |
+
+---
+
+
