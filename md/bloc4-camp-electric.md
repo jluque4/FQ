@@ -82,7 +82,7 @@ Aquesta força actua al llarg de la recta que uneix les dues càrregues i és un
 
 ## 2.2 — Llei de Coulomb
 
-Per dues **càrregues puntuals** $q_1$ i $q_2$ separades una distància $r$ en el buit (o aire), la **força electrostàtica** ve donada per la **llei de Coulomb**:
+Per dues **càrregues puntuals** $q_1$ i $q_2$ separades una distància $r$, la **força electrostàtica** ve donada per la **llei de Coulomb**:
 
 $$
 \vec F = k \cdot \frac{q_1 q_2}{r^2}\cdot \hat u_r
