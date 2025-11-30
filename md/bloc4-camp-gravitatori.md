@@ -837,7 +837,7 @@ $$
 El **moment angular** d’un planeta respecte del Sol és:
 
 $$
-L = mvr
+L = mvrsin\alpha
 $$
 
 Com que la força és central, no hi ha moment de força extern $M=0$, i per tant:
