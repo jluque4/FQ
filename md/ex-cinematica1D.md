@@ -107,12 +107,13 @@ Un mòbil es desplaça sobre l’eix X amb una **acceleració constant** de $a =
 # P4 — Trobada entre dos mòbils
 
 Un motorista es troba inicialment **aturat** en un semàfor a la posició $x = 0$ m. En l’instant $t = 0$ s comença a moure’s cap a la **dreta** amb **acceleració constant** $ a_M = 1{.}5\ \text{m/s}^2.$ Al cap de $2\ \text{s}$, un automòbil es troba a $3\ \text{km}$ del motorista, sobre la mateixa recta, i es mou cap a l’**esquerra** amb **velocitat constant** de $v_C = 108\ \text{km/h}.$ 
-*Recorda passar la velocitat a **m/s** i pren com a **origen** $x=0$ la posició inicial del motorista i com a **sentit positiu** el moviment cap a la dreta.*
 
 **a)** Escriu les **equacions del moviment** $x(t), v(t) \text{ i } a(t)$ de cada vehicle i determina en **quin instant** el motorista té la **mateixa velocitat** que l’automòbil i en **quina posició** es troba en aquell moment.
 
 
 **b)** Calcula en **quin moment** es **troben** i en **quina posició** té lloc la trobada.  
+
+*Recorda passar la velocitat a **m/s** i pren com a **origen** $x=0$ la posició inicial del motorista i com a **sentit positiu** el moviment cap a la dreta.*
 
 ---
 
