@@ -80,7 +80,7 @@ Es donen els **gràfics posició–temps** $x(t)$ i **velocitat–temps** $v(t)$
 
 *Considera només la part del gràfic des de t=0 s fins a t=4 s* 
 
-![Gràfics](md/tmp/2.png)
+![Gràfics](img/bloc1/12.png)
 
 ---
 
