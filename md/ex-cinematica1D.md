@@ -154,7 +154,7 @@ Un motorista es troba inicialment **aturat** en un semàfor a la posició $x = 0
 | P3b | 39 | Gràfic v–t: no és una recta coherent amb $v(t)$ (pendent o tall amb eix malament) | -0,45 | 21 |
 | P3b | 40 | Gràfic a–t: acceleració no representada com a recta horitzontal amb valor constant | -0,35 | 21 |
 | P4a | 41 | Equacions del motorista: $x_M(t), v_M(t)$ incorrectes (arrencada des del repòs o a mal) | -0,45 | 15 |
-| P4a | 42 | Equació del cotxe $x_C(t)$ incorrecta (posició inicial 2 km o velocitat en m/s mal posada) | -0,45 | 16 |
+| P4a | 42 | Equació del cotxe $x_C(t)$ incorrecta (posició inicial 3 km o velocitat en m/s mal posada) | -0,45 | 16 |
 | P4a | 43 | Temps t* en què $v_M(t) = v_C$ mal calculat | -0,20 | 17 |
 | P4a | 44 | Posició del motorista $x_M(t*)$ en aquell instant incorrecta | -0,15 | 17 |
 | P4b | 45 | Plantejament de l’equació de trobada $x_M(t) = x_C(t)$ incorrecte | -0,40 | 16 |
