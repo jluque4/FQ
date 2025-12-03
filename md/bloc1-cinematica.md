@@ -266,7 +266,7 @@ $$
 \vec{a}_m = \frac{\Delta \vec{v}}{\Delta t} = \frac{\vec{v}_2 - \vec{v}_1}{t_2 - t_1}
 $$
 
-| ![Acceleració mitjana entre dos instants](img/bloc1/12.png) |
+| ![Acceleració mitjana entre dos instants](img/bloc1/13.png) |
 |:--:|
 | L’acceleració mitjana indica com varia la velocitat al llarg del temps. |
 
@@ -305,7 +305,7 @@ $$
 - En una gràfica **velocitat–temps (v–t)**, la **pendent** indica l’acceleració.
 - En una gràfica **acceleració–temps (a–t)**, l’**àrea sota la corba** indica la variació de velocitat.
 
-| ![Interpretació gràfica de l’acceleració](img/bloc1/13.png) |
+| ![Interpretació gràfica de l’acceleració](img/bloc1/14.png) |
 |:--:|
 | La pendent de $v(t)$ és l’acceleració; l’àrea sota $a(t)$ és el canvi de velocitat. |
 
