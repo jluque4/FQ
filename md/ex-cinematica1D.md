@@ -116,10 +116,6 @@ Un motorista es troba inicialment **aturat** en un semàfor a la posició $x = 0
 
 ---
 
-![Paper mil·limetrat](img/paper.jpg)
-
----
-
 <div class="pagebreak"></div>
 
 # Criteris específics d’avaluació i qualificació
