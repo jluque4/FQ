@@ -220,9 +220,9 @@ Característiques:
 * Si **Q < 0**, les línies de camp **entren** cap a la càrrega.
 * Igual que la gravetat, el camp disminueix amb la distància com $1/r^{2}$.
 
-| ![Disminució de g amb la distància](img/bloc4/13.png) |
+| ![Disminució de E amb la distància](img/bloc4/34.png) |
 |:--------------------------------------:|
-| *Disminució de g amb la distància.* |
+| *Disminució de $\vec{E}$ amb la distància.* |
 
 ---
 
