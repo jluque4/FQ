@@ -173,3 +173,139 @@ Aquesta idea serà essencial per resoldre problemes típics de PAU sobre:
 - interaccions entre **sistemes de diverses càrregues**.
 
 ---
+
+Perfecte — podem reformular **tot l'apartat del camp elèctric** evitant la idea de “càrrega de prova”, que ja no és l’enfocament modern recomanat, i substituint-la per la definició fonamental:
+
+> **El camp elèctric és la força elèctrica per unitat de càrrega.**
+
+A continuació tens l’apartat **3 — Camp elèctric** revisat i ajustat a aquest enfocament.
+
+---
+
+# 3 — Camp elèctric
+
+## 3.1 — Definició
+
+El camp elèctric és el camp de forces que una càrrega crea al seu voltant i que actua sobre altres càrregues.
+En un punt de l’espai, la intensitat del camp elèctric és la **força per unitat de càrrega**:
+
+$$
+\vec{E} = \frac{\vec{F}}{q}
+$$
+
+on:
+
+* $\vec{F}$ és la **força elèctrica** que experimentaria qualsevol càrrega situada en aquell punt,
+* $q$ és el **valor de la càrrega** sobre la qual actua la força.
+
+---
+
+## 3.2 — Camp elèctric creat per una càrrega puntual
+
+La força entre dues càrregues ve donada per la **llei de Coulomb**:
+
+$$
+\vec{F} = k \cdot \frac{Q\cdot q}{r^2} \cdot \hat u_r
+$$
+
+Si dividim entre la càrrega $q$ que rep la força, obtenim el camp creat per **Q**:
+
+$$
+\vec{E} = k\cdot \frac{Q}{r^{2}} \cdot \hat u_r
+$$
+
+Característiques:
+
+* Si **Q > 0**, les línies de camp **surten** de la càrrega.
+* Si **Q < 0**, les línies de camp **entren** cap a la càrrega.
+* Igual que la gravetat, el camp disminueix amb la distància com $1/r^{2}$.
+
+| ![Disminució de g amb la distància](img/bloc4/13.png) |
+|:--------------------------------------:|
+| *Disminució de g amb la distància.* |
+
+---
+
+## 3.3 — Línies de camp elèctric
+
+Les línies de camp són una representació visual del camp elèctric.
+En qualsevol punt:
+
+* La **tangent** a la línia indica la direcció de $\vec{E}$.
+* La **densitat de línies** mostra la intensitat del camp.
+* Surten de càrregues **positives**, entren en **negatives**.
+* No es tallen mai entre si.
+
+Configuracions importants:
+
+* **Una sola càrrega** → línies radials.
+
+| ![Representació del camp elèctric](img/bloc4/29.png) | ![Representació del camp elèctric](img/bloc4/30.png) |
+|:--------------------------------------:|:--------------------------------------:|
+| *Línies de camp elèctric d’una càrrega puntual positiva +Q.* | *Línies de camp elèctric d’una càrrega puntual negativa −Q.* |
+
+* **Dues càrregues iguals** → repulsió i zona simètrica sense línies.
+
+| ![Representació del camp elèctric](img/bloc4/31.png) | 
+|:--------------------------------------:|
+| *Línies de camp elèctric creat per dues càrregues puntuals iguals.* |
+
+* **Dipol** ($+Q$ i $–Q$) → línies corbades que connecten les dues càrregues.
+
+El camp elèctric per a dues càrregues de signe contrari però d’igual valor absolut és l’indicat en la figura, on s’observa que les línies es tanquen, ja que hi ha atracció entre les càrregues.
+
+> En aquest últim cas, tenim un dipol, és a dir, dues càrregues d’igual valor absolut però de signe contrari separades una distància relativament petita.
+
+| ![Representació del camp elèctric](img/bloc4/32.png) | 
+|:--------------------------------------:|
+| *Línies de camp creades per un dipol elèctric.* |
+
+---
+
+## 3.4 — Camp elèctric uniforme
+
+Es produeix en un **condensador pla** ideal amb una placa carregada positivament i l’altra negativament però el mateix valor absolut.
+
+Propietats:
+
+* El camp és **constant** en mòdul i direcció.
+* El sentit és **de la placa positiva cap a la negativa**.
+* Les línies de camp són paral·leles i equidistants.
+* Serveix per estudiar moviments rectilinis de càrregues sota una força constant.
+
+Per qualsevol càrrega $q$ dins del camp:
+
+$$
+\vec{F} = q\cdot \vec{E}
+$$
+
+| ![Representació del camp elèctric uniforme d’un condensador](img/bloc4/33.png) | 
+|:--------------------------------------:|
+| *Camp elèctric uniforme d’un condensador.* |
+
+---
+
+## 3.5 — Camp creat per un sistema de càrregues
+
+Quan diverses càrregues creen camp en el mateix punt, el camp total és la **suma vectorial** dels camps individuals:
+
+$$
+\vec{E}_{\text{total}} = \sum_i \vec{E}_i
+$$
+
+Això permet:
+
+* Calcular el camp en configuracions amb moltes càrregues.
+* Determinar punts on el camp es fa **zero**.
+* Analitzar dipols, quadrupols i geometries simètriques.
+
+**Exemple conceptual:**
+Dues càrregues positives iguals generen un punt al mig on:
+
+$$
+\vec{E}_1 + \vec{E}_2 = 0
+$$
+
+perquè els vectors són iguals i oposats.
+
+---
