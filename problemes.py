@@ -6,7 +6,7 @@ OUTPUT = "md/pau-problemes.md"
 rows = []
 
 # Carregar tots els JSON
-json_files = glob.glob("PAU/pau_*.json")
+json_files = glob.glob("docs/PAU/pau_*.json")
 
 entries = []
 for path in json_files:
@@ -37,8 +37,8 @@ for p in entries:
     desc = p["descripcio"]
 
     # Rutes PDF (no imatges!)
-    pdf_enun = f"../PAU/{p['imatge_enunciat']}"
-    pdf_sol = f"../PAU/{p['imatge_solucio']}"
+    pdf_enun = f"../docs/PAU/{p['imatge_enunciat']}"
+    pdf_sol = f"../docs/PAU/{p['imatge_solucio']}"
 
     # Icones clicables
     enun_icon = (
