@@ -42,12 +42,12 @@ for p in entries:
 
     # Icones clicables
     enun_icon = (
-    f'<a href="{pdf_enun}" target="_blank" type="application/pdf">'
+    f'<a href="{pdf_enun}" type="application/pdf">'
     f'<img src="img/pdf_a.png" width="29"/></a>'
 )
 
     sol_icon = (
-        f'<a href="{pdf_sol}" target="_blank" type="application/pdf">'
+        f'<a href="{pdf_sol}" type="application/pdf">'
         f'<img src="img/pdf_b.png" width="32"/></a>'
     )
 

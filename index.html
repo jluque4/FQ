@@ -154,6 +154,8 @@ async function loadAndRender(mdPath) {
     const html = DOMPurify.sanitize(marked.parse(md), { USE_PROFILES: { html: true } });
     const el = document.getElementById("content");
     el.innerHTML = html;
+    
+    enablePdfNewTab();
 
     // TOC + LaTeX
     buildTOC();
@@ -271,6 +273,21 @@ async function loadAndRender(mdPath) {
 
   // Recarrega en canvis d'historial (back/forward)
   window.addEventListener("popstate", () => loadAndRender(getMDFromQuery()));
+
+  function enablePdfNewTab() {
+    // On es pinta el markdown
+    const content = document.getElementById("content");
+    if (!content) return;
+
+    // Seleccionar tots els enllaços que acaben en .pdf
+    const pdfLinks = content.querySelectorAll('a[href$=".pdf"]');
+
+    pdfLinks.forEach(link => {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  }
+
 </script>
 
 </body>
