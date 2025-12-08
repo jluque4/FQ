@@ -1,0 +1,90 @@
+[
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Massa de Mart, radi orbital de Deimos i velocitat d'escapament del robot Curiosity.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) El 1877, l’astrònom Asaph Hall va descobrir els satèl·lits del planeta Mart: Fobos i Deimos... A partir de les dades suministrades, calculeu: a) La massa del planeta Mart. b) El radi de l’òrbita de Deimos i la velocitat d’escapament del robot Curiosity des de la superfície del planeta. Dades: RMart = 3390 km, gMart = 3,71 m/s², TDeimos = 30,35 h, mDeimos = 2×10¹⁵ kg, G = 6,67×10⁻¹¹ N·m²/kg².",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Efecte Doppler en una font sonora en moviment i càlcul d’intensitat/altres magnituds acústiques.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Hem construït aquesta gràfica a partir de dades de freqüència quan una font de so es movia acostant-se i allunyant-se... a) Identifiqueu el fenomen i determineu el canvi de freqüència quan la font ens sobrepassa a 100 m/s. b) Determineu la distància perquè el nivell sonor sigui 65 dB i la potència de la font sonora. Dada: I0 = 1,00×10⁻¹² W/m².",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Desintegració alfa del Rn-222 i càlcul de freqüència i longitud d’ona d’un fotó gamma.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció A — El radó 222 és un gas noble responsable de bona part de l'exposició a radiacions ionitzants... a) Escriviu l’equació nuclear de la desintegració alfa. b) Calculeu la freqüència i la longitud d’ona d’un fotó γ de 5,50 MeV. Dades: h = 6,63×10⁻³⁴ J·s, c = 3×10⁸ m/s.",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "Equilibri electrostàtic de dues esferes carregades i càlcul del camp elèctric al punt P.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Dues esferes metàl·liques massisses pengen d’un fil no conductor amb càrrega –5,80 μC i formen 30° amb la vertical... a) Calculeu la massa de cada esfera. b) Calculeu el camp elèctric al punt P. Dades: g = 9,81 m/s².",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Selector de velocitats: velocitat del protó i radi de curvatura quan només actua B.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció A — En un selector de velocitats, un protó es mou en camps creuats E = 2×10⁵ N/C j i B = 3×10³ G k... a) Determineu la velocitat perquè no es desviï. b) Si se suprimeix E, calculeu el radi de curvatura. Dades: q_p = 1,60×10⁻¹⁹ C, m_p = 1,67×10⁻²⁷ kg.",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Obtenció del Copernici i sèrie de desintegració alfa fins a Fermium.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció B — El copernici 277 (112Cn) es va sintetitzar bombardejant plom amb zinc... a) Completeu la reacció d’obtenció i calculeu el percentatge restant després d’un minut amb T½ = 0,17 ms. b) Escriviu tota la sèrie de desintegracions alfa fins arribar al Fermi (100Fm).",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "Energia potencial electrostàtica d’un dípol i treball per separar càrregues.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció B — Hi ha dues càrregues de la mateixa magnitud i signe contrari separades 20,0 cm... a) Calculeu l’energia potencial. b) Calculeu el treball necessari per separar-les fins a 50 cm. Dades: |q| = 1,00 μC.",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Flux magnètic variable en una espira en rotació i FEM màxima induïda.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — Una espira de 200 cm² gira a 191 rpm dins d’un camp magnètic B = 0,40 T... a) Expresseu el flux magnètic φ(t). b) Calculeu la FEM màxima generada. Dades: A = 2×10⁻² m².",
+    "imatge_enunciat": "examens/2015_sep.pdf",
+    "imatge_solucio": "examens/2015_sep_sol.pdf"
+  }
+]
+

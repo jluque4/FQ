@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Moviment harmònic simple en un pla horitzontal sense fricció: obtenció d’amplitud, freqüència, període, constant elàstica i valors de x, v i a en un instant donat.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) Una massa m = 0,3 kg, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima és 15 J.\n(a) Si entre els dos punts on la velocitat és nul·la hi ha 50 cm, calculeu amplitud, freqüència, període i la constant elàstica.\n(b) Calculeu posició, velocitat i acceleració a t = 3 s, sabent que a t = 0 s el cos té Ec màxima.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Generació de raigs X: càlcul de camp elèctric, energia cinètica d’impacte i freqüència dels fotons.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) Els raigs X es generen accelerant electrons amb 60 kV al llarg de 4 cm.\n(a) Determineu el camp elèctric aplicat: mòdul, direcció i sentit.\n(b) Calculeu l’energia cinètica dels electrons en xocar amb la placa positiva i la freqüència dels fotons emesos.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Camp gravitatori d’un planeta desconegut i anàlisi d’una òrbita hipotètica a 10 km/s al voltant de la Terra.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P3) Opció A — A la superfície d’un planeta, g_s = 9 m/s² i a h = 100 km és 8,7 m/s². Determineu el radi del planeta.\n(b) És possible una òrbita terrestre amb v = 10 km/s? Calculeu-ne el radi hipotètic i compareu-lo amb RTerra.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "Refracció del so en passar d’aigua a aire i càlcul de longitud d’ona en tots dos medis.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció A — Una balena emet sons de 20 Hz que arriben a la superfície amb un angle de 60° respecte de la normal.\n(a) Calculeu l’angle amb què el so surt a l’aire i si el poden sentir grills o saltamartins.\n(b) Calculeu λ dins l’aigua i λ a l’aire.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "Iode-131: reacció β⁻, longitud d’ona associada i temps per reduir-se al 12,5%.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P5) Opció A — El iode-131 té T½ = 8 dies.\n(a) Determineu el nombre màssic i atòmic del xenó format i calculeu la longitud d’ona d'una partícula β de 2×10^5 km/s.\n(b) Quants dies han de passar perquè la quantitat es redueixi al 12,5%?",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Electromagnetisme aplicat a un dispositiu amb barra giratòria: línies de camp, moviment i intervals amb FEM induïda.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció B — Una barra pot girar entre els pols d’un imant; un fil forma una bobina al voltant.\n(a) Feu el dibuix de les línies de camp i expliqueu com es mourà la barra.\n(b) A partir del gràfic Φ(t), determineu en quins intervals hi ha FEM induïda.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Radi 226: desintegració al cap de 100 anys i activitat inicial i final.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P4) Opció B — Radi amb T½ = 1,59×10³ anys.\n(a) Determineu la massa restant avui d’una mostra d’1 g guardada el 1911.\n(b) Calculeu activitat inicial i activitat actual.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Difracció i refracció del so: identificació del fenomen i representació gràfica de fronts d’ona.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) Opció B — En una figura es mostren fronts d’ona d’un so que travessa un obstacle.\n(a) Identifiqueu el fenomen, condicions i exemples.\n(b) Dibuixeu fronts d’ona quan el so es refracta entre medis i quan es produeix el so d’un clàxon en moviment. Expliqueu com canvien v, λ i f.",
+    "imatge_enunciat": "examens/2011_jun_2.pdf",
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+  }
+]

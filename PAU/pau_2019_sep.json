@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Oscil·lador harmònic: període, energia cinètica màxima i equació de l’ona que genera.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) La gràfica següent mostra l’energia potencial elàstica d’un osciŀlador harmònic en funció del quadrat de la seva elongació. L’osciŀlador té una massa de 62,5 g.\na) Calculeu el període d’osciŀlació. Si l’osciŀlador descriu un moviment vibratori harmònic amb una amplitud de 60 cm, calculeu-ne l’energia cinètica màxima.\nb) L’osciŀlació genera una ona en una corda que es propaga a una velocitat de 30 m·s–1. Escriviu l’equació de l’ona que es propaga per la corda.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Energia cinètica i període orbital de la sonda Juno al voltant de Júpiter.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) La sonda Juno descriu una òrbita polar al voltant del planeta Júpiter des del dia 5 de juliol de 2016. Suposeu que l’òrbita és circular i que l’altura de l’òrbita és de 4 300 km.\na) Calculeu l’energia cinètica de Juno i el seu període de rotació.\nb) Calculeu l’energia que caldria comunicar-li perquè abandonés el camp gravitatori de Júpiter.\nDades: Massa de Júpiter, MJ = 1,90 × 10^27 kg. Radi de Júpiter, RJ = 69 911 km. Massa de la sonda: 3 625 kg. G = 6,67 × 10–11 N·m²·kg–2.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Camp elèctric en el baricentre d’un triangle i variació d’energia potencial electrostàtica.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) Tres càrregues elèctriques puntuals de valor q = 1,0 nC es troben en un triangle equilàter de 10,0 cm. Dues són positives i la tercera és negativa.\na) Calculeu la intensitat del camp elèctric en el baricentre.\nb) Calculeu la variació d’energia potencial electrostàtica en separar-les fins a un triangle de costat 20,0 cm. Indiqueu si augmenta o disminueix i justifiqueu-ho.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "Inducció magnètica en una espira en moviment: sentit del corrent, FEM i intensitat.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Introduïm una espira metàl·lica rectangular de 5 Ω en un camp magnètic uniforme de 0,2 T. L’espira (3 cm × 6 cm) es mou a 2 m·s–1.\na) Indiqueu si circula corrent en entrar, quan hi és totalment immersa, i en sortir, i determineu el sentit de circulació.\nb) Calculeu la força electromotriu i la intensitat del corrent generat en cada cas.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Raigs gamma de 10 GeV: càlcul d’energia, freqüència, longitud d’ona i massa equivalent.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El telescopi MAGIC estudia raigs còsmics de molt alta energia que produeixen cascades de raigs gamma de 10 GeV.\na) Calculeu la freqüència i la longitud d’ona.\nb) Determineu la massa equivalent d’aquests fotons.\nDades: c = 3,00 × 10^8 m·s–1. 1 eV = 1,60 × 10–19 J. h = 6,63 × 10–34 J·s.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Gotes carregades entre plaques: diferència de potencial i càrrega necessària per a l’equilibri.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) Gotes petites d’oli adquireixen càrrega negativa i cauen entre dues plaques separades 2,00 cm, amb un camp elèctric uniforme de 5,92 × 10^4 N·C–1.\na) Dibuixeu un esquema i calculeu la diferència de potencial.\nb) Calculeu la càrrega d’una gota de 2,93 pg perquè estigui en equilibri.\nDada: g = 9,81 m·s–2.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "Transformador ideal: relació de transformació i intensitats eficaces als circuits.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Un transformador té NP espires i Ns espires.\na) Deduïu la fórmula de la tensió secundària i calculeu-la per NP=1200, Ns=300 i 230 V.\nb) Calculeu la intensitat eficaç en el primari si en el secundari circulen 2,0 A. Considereu-lo ideal.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Fusió protó–neutró: formació del deuteri i càlcul de l’energia i la freqüència del fotó emès.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) La reacció de fusió més simple és la de protó amb neutró → isòtop de l’hidrogen + fotó.\na) Quin isòtop es forma? Escriviu l’equació nuclear.\nb) Calculeu l’energia del fotó en J i eV i la seva freqüència.\nDades: masses dels isòtops 1H, n, 2H, 3H; c = 3,00 × 10^8 m·s–1; h = 6,63 × 10–34 J·s.",
+    "imatge_enunciat": "examens/2019_sep.pdf",
+    "imatge_solucio": "examens/2019_sep_sol.pdf"
+  }
+]
+

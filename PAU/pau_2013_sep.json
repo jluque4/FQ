@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Càlcul de la massa de la Lluna, la intensitat del camp gravitatori i la velocitat d'escapament.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) L’any 1969, el mòdul de comandament Columbia orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Calculeu: a) La massa de la Lluna i la intensitat del camp gravitatori a la superfície lunar. b) La velocitat d’escapament des de la superfície lunar. Dades: G = 6,67×10⁻¹¹, RLluna = 1,74×10³ km.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Força magnètica sobre electrons i condició per tal que no es desviïn.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) En una regió hi ha un camp magnètic constant cap a l’interior del paper. Dos electrons entren amb la mateixa rapidesa i direcció però en sentits contraris. a) Dibuixeu la força magnètica i les trajectòries indicant el sentit de gir. b) Substituïm el camp per un altre tal que els electrons no es desviïn. Dibuixeu com ha de ser aquest nou camp. Nota: No és vàlida la resposta B→ = 0.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Electroforesi: línies de camp, equipotencials, força elèctrica i força de fricció.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció A — Mostra entre dos elèctrodes separats 20 cm amb ΔV = 300 V. a) Dibuixeu línies de camp i equipotencials, indiqueu el potencial i calculeu E. Indiqueu el sentit de moviment de càrregues positives i negatives. b) Una molècula de timina (q = −1,60×10⁻¹⁹ C) es desplaça amb moviment rectilini i uniforme. Calculeu la força elèctrica i la força de fricció.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "MHS: amplitud, període, fase inicial, equació i energia mecànica.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció A — Gràfica del moviment d’un cos de 250 g unit a una molla. a) Calculeu amplitud, freqüència angular, període i fase inicial. b) Escriviu l’equació del moviment i calculeu l’energia mecànica total.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Efecte fotoelèctric: velocitat d'electrons arrencats, treball d’extracció i identificació d’un metall.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P5) Opció A — Tub de buit amb electrod A de potassi (W₀ = 2,29 eV) i llum de λ = 400 nm. a) Determineu la velocitat dels electrons arrencats. b) Canviem A per un altre material i es mesura un potencial de frenada Vf = 0,17 V. Determineu el treball d’extracció i identifiqueu el metall segons la taula donada.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Desintegració del Iode-131: fracció restant i reacció β−.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció B — L’isòtop ¹³¹I té T½ = 13,2 h. a) Determineu quina fracció resta després de 24 h. b) En un altre procés es produeix ¹³¹Xe. Escriviu el procés nuclear i identifiqueu la partícula emesa.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "Clarinet com a tub tancat-obert: càlcul de la llargada i variació del nivell sonor en dB.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció B — El tercer harmònic d’un clarinet vibra a 637 Hz. a) Determineu la llargada del tub. b) Si la intensitat es duplica, en quants dB augmenta el nivell de sensació sonora? Dada: v_so = 340 m/s.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Energia de formació d’un sistema de quatre càrregues i càrrega central necessària per anul·lar forces.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — Quatre càrregues positives d’1,00×10⁻⁵ C formen un quadrat de √2 m de costat. a) Calculeu l’energia de formació del sistema. b) Determineu la càrrega negativa que cal situar al centre perquè la força neta sobre cada càrrega sigui nul·la.",
+    "imatge_enunciat": "examens/2013_sep.pdf",
+    "imatge_solucio": "examens/2013_sep_sol.pdf"
+  }
+]

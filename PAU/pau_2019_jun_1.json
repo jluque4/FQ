@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Acceleració d’electrons mitjançant un camp elèctric i càlcul de la força magnètica en entrar en un camp B.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) El sincrotró Alba és una instal·lació de recerca que utilitza llum generada per electrons accelerats per a analitzar les propietats i l'estructura de la matèria. [...] Si en aquesta regió no hi ha camp elèctric i el camp magnètic és de 0,15 T, calculeu la magnitud de la força que actuarà sobre l’electró. Quin tipus de trajectòria descriurà l’electró en aquesta regió?",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Òrbita del nanosatèl·lit CubeCat-1 i càlcul del període i del pes a l’òrbita.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) El 29 de novembre de 2018, el nanosatèl·lit CubeCat-1, desenvolupat per estudiants i investigadors de la UPC, es va llançar a l’espai [...]. a) Calculeu el període orbital del CubeCat-1 i indiqueu el nombre de voltes completes que fa cada dia al voltant de la Terra. b) Quin és el pes del nanosatèl·lit en la seva òrbita?",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P3A",
+    "descripcio": "Determinació de la massa d’un astronauta mitjançant un MHS i del camp gravitatori de la Lluna amb un pèndol.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Un astronauta que és a l’espai vol mesurar la seva massa. S’asseu i es lliga a una cadira de 2,00 kg unida a una molla [...] Posteriorment aquest astronauta arriba a la Lluna, on fa oscil·lar un pèndol simple d’1,00 kg i 1,50 m de longitud. [...] Quina és la massa de la Lluna?",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P4A",
+    "descripcio": "Força elèctrica en un sistema de quatre càrregues i càlcul del treball necessari per portar-hi una càrrega.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Hem situat una partícula puntual amb càrrega q = 10 μC i dues partícules puntuals amb càrrega –q als vèrtexs d’un quadrat [...] Quin treball haurem de fer per portar una càrrega puntual de 0,50 μC des d’una distància molt gran fins al centre del quadrat?",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P5A",
+    "descripcio": "Reacció de fusió deuteri-triti i energia alliberada.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El Reactor Experimental Termonuclear Internacional (ITER) estudia la producció d’energia per fusió nuclear. [...] Calculeu l’energia que s’allibera en la reacció de fusió deuteri + triti → heli + neutró.",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P3B",
+    "descripcio": "Inducció magnètica en una espira sotmesa al camp d’un fil conductor infinit.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) Una espira rectangular i conductora es troba a prop d’un fil conductor rectilini infinit pel qual circula una intensitat [...]. Argumenteu si s’indueix corrent en diversos intervals de temps.",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P4B",
+    "descripcio": "Ona estacionària en una corda: nodes, ventres, longitud d’ona i temps entre màxims.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) La longitud de la corda d’un violoncel és 70 cm i la velocitat de propagació és 308 m/s. Per al tercer harmònic: representeu l’ona estacionària i calculeu la longitud d’ona i la distància entre nodes. [...]",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_1",
+    "problema": "P5B",
+    "descripcio": "Efecte fotoelèctric: energia dels fotons, funció de treball i velocitat màxima dels electrons.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) Quan s’il·lumina una superfície metàl·lica amb llum UV de λ = 300 nm, s’emeten electrons que s’aturen amb 1,04 V de potencial de frenada. [...] Deduiu l’expressió de la velocitat màxima dels fotoelectrons.",
+    "imatge_enunciat": "examens/2019_jun_1.pdf",
+    "imatge_solucio": "examens/2019_jun_1_sol.pdf"
+  }
+]
+

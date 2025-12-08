@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Òrbita d'un satèl·lit a Mart i caiguda lliure del mòdul Schiaparelli.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) El projecte ExoMars és una missió espacial amb la finalitat de buscar vida al planeta Mart. En una primera fase, el 2016, constava d’un satèŀlit, l’ExoMars Trace Gas Orbiter, en òrbita circular al voltant de Mart a 400 km d’altura, i d’un mòdul de descens, l’Schiaparelli, que havia d’aterrar a Mart. Però quan el mòdul de descens estava a 3,7 km d’altura sobre Mart, pràcticament aturat, els sistemes automàtics van interpretar erròniament que ja havia arribat a la superfície. Van aturar els retrocoets i el mòdul es va desprendre del paracaigudes. Com a resultat, l’Schiaparelli es va precipitar en caiguda lliure.\n\na) Calculeu el període de l’ExoMars Trace Gas Orbiter.\nb) Determineu el valor de l’acceleració de la gravetat a la superfície de Mart i la velocitat a la qual la nau va impactar a la superfície.\n(Considereu que la gravetat és constant durant la caiguda i la fricció amb l’atmosfera de Mart és negligible.)\n\nDades: Massa de Mart = 6,42 × 10^23 kg. Radi de Mart = 3,38 × 10^6 m. G = 6,67 × 10–11 N·m²·kg–2.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Funcionament d’un relé i efecte de modificacions en la força magnètica.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) La figura mostra l’esquema d’un relé. Quan circula un corrent elèctric per la bobina, l’extrem inferior de l’imant (nord) és atret per la bobina i el moviment es transmet per un pivot, de manera que es tanca el circuit B.\n\na) Especifiqueu quin ha de ser el sentit del corrent elèctric a la bobina perquè s’activi el relé (i es tanqui el circuit B) i dibuixeu les línies del camp magnètic generat per la bobina.\nb) En unes proves observem que el mecanisme no fa prou força per a tancar el contacte. Indiqueu quin efecte tindria cadascuna de les modificacions següents:\n   1) Augmentar la intensitat del corrent que circula per la bobina.\n   2) Situar un material ferromagnètic al nucli de la bobina.\n   3) Fer passar per la bobina un corrent altern en comptes d’un corrent continu.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P3A",
+    "descripcio": "Oscil·lacions i ona transversal generada per un vibrador.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Un sistema vibrador situat al punt x = 0 osciŀla tal com s’indica en aquest gràfic elongació-temps i transmet el moviment a una corda, de manera que es genera una ona transversal amb una longitud d’ona de 20,0 cm.\n\na) Determineu el període, l’amplitud i la freqüència de la vibració i la velocitat de propagació de l’ona per la corda. Escriviu l’equació de l’ona plana.\nb) Demostreu, a partir de l’equació d’ona, que la velocitat màxima dels punts de la corda és vmax = Aω.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P4A",
+    "descripcio": "Energia potencial electrostàtica i treball en un camp elèctric uniforme.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) L’enllaç iònic de la sal comuna (NaCl) es produeix per l’atracció electrostàtica entre el catió Na+ i l’anió Cl–.\n\na) Calculeu la separació entre aquests ions sabent que l’energia potencial elèctrica és –9,76 × 10−19 J.\nb) Si apliquem un camp elèctric uniforme de 50,0 N/C a l’ió Na+, calculeu el treball necessari per a separar els ions fins a 2 cm.\nDades: càrrega elemental = 1,60 × 10−19 C.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P5A",
+    "descripcio": "Desintegració del 60Fe i equacions nuclears successives.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) La presència de l’isòtop ferro 60 (60Fe) en roques lunars i sediments oceànics indica que una supernova va esclatar a les proximitats del Sistema Solar i va fer arribar aquest isòtop fins a la Terra. El 60Fe té un període de semidesintegració de 2,6 milions d’anys.\n\na) Percentatge de 60Fe restant si s’hagués originat:\n    — fa 4400 milions d’anys\n    — fa 13 milions d’anys\nb) Escriviu les dues equacions nuclears de les desintegracions β– successives.\nDada: Nombre atòmic del ferro: 26.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P3B",
+    "descripcio": "Moviment harmònic simple aplicat a l’agulla d’una màquina de cosir.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) L’agulla d’una màquina de cosir osciŀla amb un desplaçament vertical de 15 mm. S’indica que l’agulla fa 1200 puntades per minut. Suposeu MHS.\n\na) Escriviu l’equació del moviment i representeu la gràfica posició-temps durant dos períodes.\nb) Calculeu la velocitat i l’acceleració màximes de l’agulla.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P4B",
+    "descripcio": "Càlcul del camp elèctric i treball en un potencial variable dins d'una càpsula.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) En una càpsula de Petri amb aigua destil·lada submergim dues plaques metàŀliques connectades a 12,0 V i separades per 6,00 cm.\n\na) Calculeu el camp elèctric (suposant-lo uniforme) i representeu superfícies equipotencials.\nb) El voltímetre indica 7,0 V en un punt. Calculeu el treball necessari per a portar una càrrega de 0,1 μC fins a la placa positiva.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_1",
+    "problema": "P5B",
+    "descripcio": "Llei de la desintegració radioactiva: constants, nombre de nuclis i activitat.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i partícules",
+    "text": "P5) El període de semidesintegració d’un nucli radioactiu és 600 s. Disposem d’una mostra que inicialment té 10^10 nuclis.\n\na) Calculeu la constant de desintegració i el nombre de nuclis que queden després d’una hora.\nb) Calculeu l’activitat de la mostra dues hores després de l’instant inicial.",
+    "imatge_enunciat": "examens/2017_jun_1.pdf",
+    "imatge_solucio": "examens/2017_jun_1_sol.pdf"
+  }
+]

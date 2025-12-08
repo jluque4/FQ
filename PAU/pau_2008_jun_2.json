@@ -1,0 +1,100 @@
+[
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "MHS d’una massa unida a una molla: energia cinètica, energia mecànica i força en un punt concret.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) Una molla horitzontal està unida per l’extrem de l’esquerra a la paret i per l’extrem de la dreta a una partícula de massa 2 kg. Separem la partícula una distància de 25 cm cap a la dreta de la seva posició d’equilibri i la deixem anar. En aquest moment comencem a comptar el temps. La partícula descriu un moviment harmònic simple amb un període de 0,75 s. Quan la partícula es trobi a 0,10 m a la dreta del punt central de l’oscil·lació i s’estigui movent cap a la dreta, determineu:\na) L’energia cinètica de la partícula.\nb) L’energia mecànica del sistema.\nc) La força resultant que actua sobre la partícula. Doneu-ne el mòdul, la direcció i el sentit.",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q1",
+    "descripcio": "Aplicació de la tercera llei de Kepler per determinar el radi orbital de Júpiter.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Q1) A partir de les dades de la taula següent, calculeu el radi de l’òrbita del planeta Júpiter.\nPlaneta — Radi de l’òrbita (km) — Període de revolució (anys)\nTerra: 148·10⁶ km — 1,0 any\nJúpiter: — — 11,9 anys",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q2",
+    "descripcio": "Xoc inelàstic entre dos vagons idèntics: percentatge d’energia perduda.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "Q2) Un vagó de massa M es desplaça a una velocitat v per una via horitzontal sense fricció i xoca contra un altre vagó idèntic aturat. Si després de l’impacte ambdós vagons queden units, quin percentatge de l’energia inicial s’ha perdut en el xoc?",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "P2A",
+    "descripcio": "Dues càrregues positives: punt on el camp és nul, potencial i energia potencial del sistema.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) Opció A — Dues càrregues puntuals de +2 μC i +20 μC es troben separades per una distància de 2 m.\na) Calculeu el punt, situat entre les dues càrregues, en què el camp elèctric és nul.\nb) Busqueu el potencial elèctric en un punt situat entre les dues càrregues i a 20 cm de la càrrega menor.\nc) Determineu l’energia potencial elèctrica del sistema format per les dues càrregues.",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q3A",
+    "descripcio": "Flux magnètic Φ(t) i FEM induïda segons la llei de Faraday.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q3) En una experiència de laboratori, es mesura el flux magnètic a través d’una espira i s’observa que varia amb el temps segons una taula de valors Φ–t. Dibuixeu el gràfic Φ–t i, d’acord amb aquest, deduïu el valor de la força electromotriu del corrent induït a l’espira.",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q4A",
+    "descripcio": "Plataforma circular amb fregament estàtic: radi màxim sense lliscament.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "Q4) Una plataforma circular gira, en un pla horitzontal, respecte d’un eix vertical que passa pel seu centre, a una velocitat de 120/π rpm. Determineu la distància màxima respecte de l’eix a què pot situar-se una massa de manera que giri solidàriament amb la plataforma sense lliscar, sabent que el coeficient de fregament estàtic val 0,5.",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "P2B",
+    "descripcio": "Xoc elàstic entre dues masses penjades i altura assolida després del xoc.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "P2) Opció B — Dues masses M1 = 200 g i M2 = 400 g pengen de dos fils inextensibles d’1 m. Inicialment formen un angle de 60°. Deixem anar M1 i es produeix un xoc elàstic amb M2.\na) Velocitat de cada massa després del xoc.\nb) Variació de la quantitat de moviment de M1.\nc) Altura que assolirà M2 després del xoc.",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q3B",
+    "descripcio": "Qüestió tipus test sobre treball del pes i del fregament en trajectòries amb pendent.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "Q3) Llancem un cos de 1 kg cap amunt per un pendent de 37° i recorre 10 m fins a aturar-se i retornar.\n1. Treball del pes.\n2. Treball de la força de fricció.\n(Respostes d’elecció múltiple).",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "jun_2",
+    "problema": "Q4B",
+    "descripcio": "Inducció electromagnètica en espira propera a un fil conductor infinit (test).",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q4) Un fil conductor infinit amb corrent ascendent i una espira rectangular propera.\n1. Si augmenta la intensitat del corrent.\n2. Si l’espira es desplaça apropant-se al fil.\n(Respostes d’elecció múltiple).",
+    "imatge_enunciat": "examens/2008_jun_2.pdf",
+    "imatge_solucio": "examens/2008_jun_2_sol.pdf"
+  }
+]

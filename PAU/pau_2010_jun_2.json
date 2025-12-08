@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Òrbita de l’Estació Espacial Internacional: càlcul de la velocitat, el període i l’energia mecànica.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) L’Estació Espacial Internacional (ISS) té una massa de 3,7·10^5 kg i descriu una òrbita circular a 3,59·10^5 m sobre la superfície. Calculeu:\n(a) La velocitat i el temps que triga a fer una volta.\n(b) L’energia mecànica de la ISS i el signe del resultat.\nDADES: G = 6,67·10^-11; MTerra = 5,98·10^24 kg; RTerra = 6,37·10^6 m.",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Desintegració radioactiva: període de semidesintegració, nombre d’àtoms desintegrats i temps fins a 5% restant.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P2) Una mostra inicial de 6,00·10^23 àtoms radioactius es mesura cada segon. Es dona una gràfica N(t).\n(a) Determineu T½ i quants àtoms s’hauran desintegrat després de 15 s.\n(b) Quant temps cal perquè només quedi el 5% de la mostra?",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Ones del mar: freqüència, longitud d’ona, velocitat i equació temporal del moviment d’una boia.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Opció A — Dues boies separades 2 m oscil·len igual. Fan 30 oscil·lacions per minut i pugen 20 cm.\n(a) Determineu f, λ i v.\n(b) Escriviu l’equació y(t) i la de la velocitat.",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "Càlcul del camp elèctric al punt A i del treball necessari per portar una càrrega fins a l’origen.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Càrregues de q = −1,60·10^-19 C als punts (a,0) i (−a,0), amb a = 30 nm.\n(a) Calculeu Ex, Ey al punt A = (0,a).\n(b) Calculeu el treball per portar Q = 3,20·10^-19 C des d'A a l’origen.",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "Inducció electromagnètica en una bobina sotmesa a moviments verticals del terra durant un terratrèmol.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció A — Un imant penja sobre una bobina connectada a un voltímetre.\n(a) Expliqueu què indica el voltímetre si el terra puja, baixa o no es mou.\n(b) Si s'aplica corrent altern a la bobina, quin efecte té sobre l’imant?",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Diapasó: elongació i velocitat després d’un temps i anàlisi del fenomen d’interferència.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Opció B — Un diapasó vibra amb f = 1000 Hz i A = 1 mm, amb els dos extrems en fase.\n(a) Calculeu y i v a t = 3,3·10^-4 s.\n(b) Raoneu si hi ha interferència i determineu els punts de màxim.",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Accelerador lineal d’ions: camp elèctric, força sobre K⁺ i energia i velocitat del ió.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció B — Tub de 20 cm amb ΔV = 50 kV per accelerar ions K+.\n(a) Calculeu E i la força sobre l’ió.\n(b) Calculeu Ec guanyada i la velocitat final. Discuta si cal tenir en compte relativitat.",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2010,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Electró en camp magnètic i FEM induïda en una espira girant.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — En una regió hi ha B = 5,0·10^-5 T en direcció y.\n(a) Calculeu la velocitat de l’electró perquè F_mag sigui igual i contrària al pes.\n(b) Una espira de 0,025 m² gira a 100π rad/s: determineu la FEM induïda ε(t).",
+    "imatge_enunciat": "examens/2010_jun_2.pdf",
+    "imatge_solucio": "examens/2010_jun_2_sol.pdf"
+  }
+]

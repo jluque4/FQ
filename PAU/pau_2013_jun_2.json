@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Satèl·lits Galileo: càlcul del període orbital i de la velocitat en òrbita circular.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) El sistema de navegació europeu Galileu estarà format per trenta satèl·lits distribuïts en tres plans orbitals a 2,36×10^4 km d’altura sobre la Terra, i cadascun descriurà una òrbita circular. Calculeu: a) Quin període de rotació tindran aquests satèl·lits? b) Quina serà la velocitat orbital dels satèl·lits? Dades: G = 6,67×10^-11, RTerra = 6,37×10^6 m, MTerra = 5,98×10^24 kg.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Electrons en una cambra acceleradora: càlcul del camp elèctric, ΔV i energia guanyada.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) En una cambra acceleradora de 30,0 cm, els electrons entren per l’esquerra i surten per la dreta movent-se amb MRUA amb acceleració 1,20×10^13 m/s². a) Calculeu el camp elèctric a l’interior de la cambra, direcció i sentit. b) Calculeu la diferència de potencial entre parets i l’energia guanyada per cada electró. Dades: q_e = -1,60×10^-19 C, m_e = 9,11×10^-31 kg.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Efecte fotoelèctric sobre plom: velocitat màxima, funció de treball i determinació de la constant de Planck.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P3) Opció A — Radiació UV sobre plom produeix efecte fotoelèctric. Quan λ = 1,50×10^-7 m, Vf = 4,01 V; quan λ = 1,00×10^-7 m, Vf = 8,15 V. Calculeu: a) Les velocitats màximes dels electrons extrets. b) L’energia mínima W i la constant de Planck a partir de les dades. Dades: q_e = −1,60×10^-19 C, c = 3×10^8 m/s, m_e = 9,11×10^-31 kg.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "Flux magnètic i FEM induïda en una bobina quadrada de 2000 espires.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Un camp magnètic penetra perpendicularment en una bobina quadrada de 2000 espires i 2,5 cm de costat. El camp varia segons una gràfica. a) Determineu Φ(t) en dos intervals: 0–5 s i 5–8 s. b) Calculeu la FEM induïda en cada interval: 0–5 s, 5–8 s, 8–10 s.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "Corda de guitarra: mode fonamental, velocitat i variació del nivell sonor amb 3 guitarres.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) Opció A — Una corda de guitarra vibra entre dos punts fixos. Per a 330 Hz (nota mi) determineu: a) La longitud d’ona del fonamental i la velocitat de propagació. b) Si un espectador percep 30 dB a 3 m amb una guitarra, quants dB percebrà amb tres guitarres idèntiques?",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Poloni-210: desintegració alfa, càlcul de λ i massa restant després de 20 dies.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció B — El Po-210 té T½ = 138 dies. a) Escriviu la reacció de desintegració i calculeu λ. b) Si inicialment hi ha 5 mg, determineu la massa restant després de 20 dies. Dades: Z(Po)=84, Z(Pb)=82.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Moviment harmònic simple: k, massa, energia total, amplitud, ω, fase i equació del moviment.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció B — Una massa lligada a una molla presenta x = 1,00 m i v = −5,44 m/s a t=0; Ek=12,00 J i Ep=4,00 J. a) Calculeu k, la massa i l’energia total. b) Determineu A, ω, fase i escriviu l’equació x(t).",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2013,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Generador amb bobina rotatòria: expressió de la FEM(t) i càlcul de les voltes del transformador.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — Bobina de 200 espires (àrea 16 cm²) que gira tallant un camp B = 2×10^-4 T a 25 Hz. a) Representeu ε(t) amb valors extrems i temps corresponents. b) Si la FEM eficaç al primari (10 voltes) és 0,05 V, determineu voltes del secundari per obtenir 2,5 V i la intensitat necessària al primari perquè al secundari hi circulin 20 mA.",
+    "imatge_enunciat": "examens/2013_jun_2.pdf",
+    "imatge_solucio": "examens/2013_jun_2_sol.pdf"
+  }
+]

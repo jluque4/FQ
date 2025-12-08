@@ -1,0 +1,73 @@
+[
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P1",
+    "descripcio": "Càlcul de la velocitat orbital i energia mecànica per al satèl·lit MPO en òrbita circular al voltant de Mercuri.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) BepiColombo és una missió espacial que té per objectiu l’exploració de Mercuri. La missió va ser llançada l’any 2018, i hi arribarà el 2025 ... [text complet pàg. 2 del PDF] ... Dades: G = 6,67 × 10–11 N m2 kg–2, MM = 3,285 × 10^23 kg, any terrestre = 365,25 dies.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P2",
+    "descripcio": "Moviment harmònic simple combinat: massa en molla i massa en moviment circular. Equacions, energia i representacions.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Al laboratori dissenyem un experiment amb dues masses que fan moviments independents ... [text complet pàg. 4 del PDF] ... Representació de l’energia mecànica, potencial i cinètica.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P3",
+    "descripcio": "Camp elèctric terrestre: càlcul de la càrrega equivalent, força sobre un electró i dimensió d'una gota amb càrrega extra.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) La superfície de la Terra és principalment aigua que conté ions en dissolució ... [text complet pàg. 6 del PDF] ... Dades: RT = 6,37×10^6 m, ρ = 10^3 kg/m³, me = 9,11×10−31 kg, |e| = 1,602×10−19 C.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P4",
+    "descripcio": "Camp magnètic d’un parallamps i força magnètica sobre un electró en moviment.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Un parallamps és una barra metàŀlica vertical que atrau i dirigeix grans descàrregues ... [text complet pàg. 8 del PDF] ... Dades: μ0 = 4π×10−7, |e| = 1,602×10−19 C.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P5",
+    "descripcio": "Aplicació de la intensitat sonora: potència, energia i càlcul de l’alçada d'explosió d’un coet.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) L’Ainhoa està intrigada per saber a quina altura exploten els coets ... [text complet pàg. 10 del PDF] ... Dades: I0 = 10−12 W/m², velocitat del so = 340 m/s.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P6",
+    "descripcio": "Desintegració alfa del Po-210, activitat temporal i energia electroestàtica d’una configuració amb electrons.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P6) El poloni (Z = 84) fou descobert el 1898 ... [text complet pàg. 12 del PDF] ... Dades: |e| = 1,602×10−19 C.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun",
+    "problema": "P7",
+    "descripcio": "Efecte fotoelèctric: treball d’extracció, potencial de frenada, velocitat dels electrons i longitud d’ona de De Broglie.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P7) Observem que en una mostra metàŀlica apareix l’efecte fotoelèctric ... [text complet pàg. 14 del PDF] ... Dades: c = 3×10⁸ m/s, h = 6,626×10−34 J·s, me = 9,11×10−31 kg.",
+    "imatge_enunciat": "examens/2024_jun.pdf",
+    "imatge_solucio": "examens/2024_jun_sol.pdf"
+  }
+]
+

@@ -1,0 +1,100 @@
+[
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "P1",
+    "descripcio": "Vagoneta impulsada per un ressort: energia, velocitats i força de fricció al pla inclinat.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "P1) Una atracció de fira consisteix en una vagoneta que, a partir del repòs, és impulsada una distància de 100 cm per un ressort horitzontal inicialment comprimit. La vagoneta puja fins a una altura de 10 m i a partir d’aquí baixa per un pla inclinat 45° en què una força de fricció constant fa que s’aturi just quan arriba a l’altura zero. La vagoneta té una massa total de 1 000 kg, la constant elàstica del ressort és 2,50·10^5 N/m i suposem que sobre la vagoneta no hi actuen forces de fricció ni mentre és impulsada ni mentre puja.\na) Calculeu la velocitat de la vagoneta just després que la molla la impulsi.\nb) La velocitat amb què arribarà al punt més alt de l’atracció.\nc) El mòdul de la força de fricció que fa que la vagoneta s’aturi.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q1",
+    "descripcio": "Electró en camp elèctric: acceleració, direcció, trajectòria parabòlica i equació de la corba.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q1) Un electró penetra en un camp elèctric uniforme de mòdul E = 4,00·10^4 N/C a una velocitat v0 = 10^6 m/s, perpendicular a la direcció del camp. Calculeu el mòdul de l’acceleració que experimenta l’electró i indiqueu-ne la direcció i el sentit. Dibuixeu la trajectòria aproximada. Justifiqueu quina serà l’equació de la gràfica i calculeu-la.\nDADES: me = 9,11·10^-31 kg; qe = –1,60·10^-19 C.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q2",
+    "descripcio": "Càlcul de l’índex de refracció mitjançant la llei de Snell.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q2) Un raig làser penetra des de l’aire fins a un material desconegut. L’angle d’incidència és 20° i l’angle de refracció és 14,90°. Determineu l’índex de refracció del material.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "P2A",
+    "descripcio": "Ona harmònica en corda: velocitat, període, longitud d’ona i velocitat màxima.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Opció A — L’equació d’una ona transversal és y(x,t) = 0,03·sin(2πt − πx). Calculeu:\na) La velocitat de propagació, el període i la longitud d’ona.\nb) L’expressió de la velocitat d’oscil·lació i la velocitat màxima.\nc) A t = 2,0 s i x = 0,75 m, el desplaçament i la velocitat.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q3A",
+    "descripcio": "B(t) aplicat a un circuit: equació del camp i FEM induïda.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q3) En un circuit de 50 cm² hi apliquem un camp magnètic perpendicular que varia segons la gràfica donada.\na) Determineu l’equació B(t).\nb) Calculeu la força electromotriu induïda.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q4A",
+    "descripcio": "Òrbites el·líptiques: justificació de la velocitat màxima i mínima del cometa.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Q4) Els cometes descriuen òrbites el·líptiques molt allargades. En quina posició tenen velocitat més gran i en quina més petita? Justifiqueu-ho amb arguments energètics.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "P2B",
+    "descripcio": "Satèl·lits GPS: velocitat angular, altura orbital, energia mecànica i efecte de doblar l’altura.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P2) Opció B — Tots els satèl·lits GPS fan dues voltes a la Terra cada 24 hores.\na) Velocitat angular i altura de l’òrbita.\nb) Energia mecànica i velocitat lineal del satèl·lit.\nc) Nova velocitat i període si orbita al doble d’altura.\nDADES: G, MTerra, RTerra, MSAT.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q3B",
+    "descripcio": "Pèndol simple: velocitat al punt més baix i tensió de la corda (qüestió tipus test).",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "Q3) Pèndol de 40 cm que arriba a 37°.\n1. Velocitat al punt més baix: a) 2,50 m/s; b) 2,80 m/s; c) 1,26 m/s.\n2. Tensió de la corda: a) màxima al punt més alt; b) màxima al punt més baix; c) fa treball positiu.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q4B",
+    "descripcio": "Força magnètica i elèctrica sobre protó i electró (qüestió tipus test).",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q4) Un protó i un electró surten en sentits oposats.\n1. En un camp magnètic B = +B k: trieu l’opció correcta.\n2. En un camp elèctric E = +E j: trieu l’opció correcta.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Moviment harmònic simple d’un insecte en una teranyina: constant elàstica, massa equivalent i acceleració màxima.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) Les aranyes detecten vibracions a la teranyina. Un insecte de massa 1,58 g produeix una vibració de 12 Hz. a) Calculeu la constant elàstica de la teranyina. b) Determineu la massa d’un insecte que tindria un període de 0,12 s i calculeu l’acceleració màxima si l’amplitud és 2,0 mm. (g = 9,81 m/s²).",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Camp elèctric uniforme entre plaques: diferència de potencial i càrrega de micropartícules en equilibri o acceleració.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) Volem un camp elèctric uniforme de 5000 N/C cap amunt entre dues plaques separades 10 mm. a) Feu un esquema, indiqueu el signe de les plaques i calculeu ΔV. b) Dues partícules de pols (0,50 μg) es troben entre les plaques: A queda suspesa i B accelera cap avall amb 14,7 m/s². Determineu qA i qB.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P3A",
+    "descripcio": "Òrbita del satèl·lit Galatea: velocitat orbital, massa de Neptú i intensitat de camp a la superfície.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P3) Opció A — Galatea, satèl·lit de Neptú, segueix òrbita circular. Donats T = 0,428 dies i R = 6,20×10⁴ km. a) Calculeu la velocitat orbital i la massa de Neptú. b) Determineu la intensitat del camp gravitatori a la superfície de Neptú.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P4A",
+    "descripcio": "Superposició de camps magnètics creats per fils i força sobre un conductor amb intensitat.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Tres fils infinits amb I = 0,30 A entren en el paper i formen un quadrat de 0,20 m. a) Representeu els camps creats en C i calculeu B_total. b) Determineu la força sobre 2,00 m del conductor C.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P5A",
+    "descripcio": "Semidesintegració del 235U: activitat inicial d’1 g i massa restant després de 10⁸ anys.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P5) Opció A — El 235U té T1/2 = 7,00×10⁸ anys. a) Calculeu l’activitat inicial d’1,000 g. b) Determineu la massa restant després de 10⁸ anys.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P3B",
+    "descripcio": "Òrbita de l’EEI i llançament d’un coet per escapar de la Terra: velocitat orbital, període i Δv d’escapament.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P3) Opció B — L’EEI orbita a 385 km d’altura. a) Calculeu la velocitat orbital i el temps entre dues visualitzacions. b) Determineu la velocitat addicional perquè un coet escapi del camp terrestre (massa de l'estació negligible).",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P4B",
+    "descripcio": "Transformador ideal: relació de transformació, esquema de connexió i corrents al primari i secundari.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció B — Amb bobines de 1000 i 500 espires es vol obtenir 110 V a partir de 220 V. a) Feu un esquema i expliqueu el muntatge. b) Calculeu els valors màxims de tensió i intensitat al primari i la intensitat al secundari.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2015,
+    "convocatoria": "jun_1",
+    "problema": "P5B",
+    "descripcio": "Fotoelèctric: energia dels fotons, treball d’extracció, energia cinètica i potencial de frenada.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P5) Opció B — Una cèl·lula fotoelèctrica és il·luminada amb llum blava (4750 Å), freq. llindar 4,75×10¹⁴ Hz. a) Calculeu energia dels fotons i treball d’extracció. b) Calculeu EC màxima i el potencial de frenada.",
+    "imatge_enunciat": "examens/2015_jun_1.pdf",
+    "imatge_solucio": "examens/2015_jun_1_sol.pdf"
+  }
+]
+

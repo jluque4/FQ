@@ -1,0 +1,83 @@
+[
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Longituds d’ona de la veu de Freddie Mercury i nivell d’intensitat sonora d’un concert multitudinari.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) Freddie Mercury ha passat a la història com una de les millors veus del rock. [...] a) Calculeu les longituds d’ona dels sons més greus i més aguts que Mercury podia emetre. b) Si 350 000 espectadors canten a cappella amb 10–7 W cadascun, quin nivell d’intensitat sonora es percep a 1 km? Dades: I0 = 10–12 W·m–2, velocitat del so 340 m·s–1.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Càrrega total d’un llamp, camp magnètic associat i força magnètica sobre una càrrega en repòs.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Durant una tempesta cau un llamp de 400 kA i 50 μs. a) Quina càrrega total transporta? Quin camp magnètic crea a 100 m? b) Quina força magnètica actua sobre una partícula carregada en repòs? Dades: μ0 = 4π·10–7 T·m·A–1, |e| = 1,602×10–19 C.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P3",
+    "descripcio": "Estudi de l’òrbita de la Parker Solar Probe: nombre de voltes, dimensions de l’òrbita i vectors cinemàtics.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) La sonda solar Parker presenta una òrbita el·líptica al voltant del Sol. a) Determineu, observant la gràfica, quantes voltes completa en 1 000 dies i la longitud de l’eix major entre A i C. b) Dibuixeu l’òrbita i representeu els vectors velocitat i acceleració en B. En quina posició és màxima la velocitat?",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P4",
+    "descripcio": "Força elèctrica entre dues esferes carregades i camp necessari per mantenir-ne una en equilibri.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Dues esferes de 20 g pengen de fils de 50 cm i tenen càrregues iguals però de signe contrari. a) Calculeu la força elèctrica i les càrregues sabent que formen 15° i estan separades 10 cm. b) Si retirem una de les càrregues, determineu quin camp cal crear perquè l’altra no es mogui.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P5",
+    "descripcio": "Desintegració beta del carboni 14 i datació d’un sarcòfag antic.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El carboni 14 es desintegra a 14N per emissió β. a) Escriviu la reacció nuclear completa, incloent l’antineutrí. b) Una mostra presenta només un 58 % del 14C original: determineu-ne l’antiguitat. Període de semidesintegració: 5 730 anys.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P6",
+    "descripcio": "Caiguda lliure experimentada a la Lluna i càlcul del període orbital lunar.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) L’astronauta David Scott deixa caure una ploma i un martell a la Lluna: recorren 1 m en 1,1 s. a) Calculeu g a la Lluna i la seva massa. b) Determineu el període orbital de la Lluna al voltant de la Terra. Dades: G, MTerra, RLluna, distància Terra–Lluna.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P7",
+    "descripcio": "Camp elèctric i potencial generats per dues càrregues puntuals alineades.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P7) Dues càrregues de –5,0 μC i 7,0 μC estan separades 10 cm. a) Calculeu el camp elèctric en un punt situat entre elles a 3 cm i 7 cm de cada càrrega. b) Determineu en quin punt el potencial és nul.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_1",
+    "problema": "P8",
+    "descripcio": "Efecte fotoelèctric en una cèl·lula fotoelèctrica d’un material alcalí per a diverses longituds d’ona.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P8) Una cèl·lula fotoelèctrica té funció de treball 1,20 eV i s’il·lumina amb llums de λ1=1,04 μm, λ2=0,6 μm i λ3=0,5 μm. a) Calculeu la freqüència i l’energia de cada fotó. b) Dibuixeu la gràfica de l’energia cinètica màxima dels electrons arrencats. Hi ha electrons arrencats en tots els casos? Justifiqueu-ho.",
+    "imatge_enunciat": "examens/2020_jun_1.pdf",
+    "imatge_solucio": "examens/2020_jun_1_sol.pdf"
+  }
+]
+

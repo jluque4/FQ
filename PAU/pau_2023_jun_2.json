@@ -1,0 +1,73 @@
+[
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Camp gravitatori de Sagitari A*, velocitat orbital de l’estrella S2, massa del forat negre i radi on la velocitat d’escapament és inferior a la de la llum.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) El Premi Nobel de Física de l’any 2020 es va concedir a tres científics [...] a) Quin és el mòdul de la velocitat de S2 quan es troba a una distància de 3,00×10^13 m? b) Calculeu la massa de Sagitari A* i la distància a partir de la qual la velocitat d’escapament és menor que c, utilitzant energia mecànica. Dades: G = 6,67×10⁻¹¹ N·m²/kg², MSol = 1,99×10³⁰ kg, c = 3,00×10⁸ m/s.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Determinació de la posició i magnitud de dues càrregues a partir de les línies de camp elèctric, i forma de les equipotencials lluny de les càrregues.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) En el pla (x, y) de la figura següent es representen les línies de camp elèctric [...] a) Determineu les coordenades de l’ió positiu i negatiu i la càrrega de cadascun. b) Forma aproximada de les superfícies equipotencials a grans distàncies.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P3",
+    "descripcio": "Oscil·lador harmònic simple: amplitud, període, constant elàstica, equació del moviment i gràfica de la velocitat.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Una massa de 2 kg està unida a una molla i oscil·la amb un moviment harmònic simple. La gràfica mostra x(t) [...] a) A partir de la gràfica determineu amplitud, període, constant elàstica i equació x(t). b) Deriveu v(t) i representeu-la indicant punts d’acceleració nul·la i intervals on l’acceleració és positiva o negativa.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P4",
+    "descripcio": "Canó d’electrons: càlcul del camp elèctric, velocitat després de l’acceleració i orientació del camp magnètic per dirigir el feix.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Un canó d’electrons accelera electrons des d’un càtode fins a un ànode amb ΔV = 220 V i separació de 20,0 cm [...] a) Calculeu el camp elèctric i representeu-lo. b) Velocitat dels electrons en travessar l’ànode i en impactar en el blanc; direcció del camp magnètic necessari per corbar la trajectòria.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P5",
+    "descripcio": "Procés S de nucleosíntesi: reaccions gamma, beta menys i alfa en el cicle del bismut.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El procés S es dona en supernoves i genera elements pesants. S’estudia la cadena del bismut 209Bi [...] a) Escriviu les tres reaccions inicials: captura de neutró, β– i α. b) Reaccions finals amb captura de 3 neutrons i decaïment β–; balanç global del cicle.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P6",
+    "descripcio": "Força magnètica sobre un fil mesurada amb balança i càlcul del camp d’un conductor paral·lel.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) En un experiment, un fil travessa un camp magnètic homogeni generat per un imant. La balança llegeix 239 g sense corrent i 243 g amb I = 8,00 A [...] a) Determineu B i justifiqueu l’augment de pes aparent. b) Distància r d’un segon conductor perquè generi la mateixa força.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_2",
+    "problema": "P7",
+    "descripcio": "Efecte fotoelèctric amb mètode del potencial invers: càlcul de h, freqüència llindar i emissió amb λ = 350 nm.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P7) En un experiment de mètode del potencial invers s’obtenen tres valors de potencial de frenada per a diferents freqüències [...] a) Quin elèctrode s’ha de posar a potencial alt? Relació entre V_f i f i càlcul de la constant de Planck. b) Freqüència llindar i emissió per llum de 350 nm.",
+    "imatge_enunciat": "examens/2023_jun_2.pdf",
+    "imatge_solucio": "examens/2023_jun_2_sol.pdf"
+  }
+]
+

@@ -1,0 +1,73 @@
+[
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Càlcul de la massa de Mart, intensitat del camp gravitatori a la superfície, període orbital i energia mecànica dels satèl·lits Fobos i Deimos.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) Els dos satèl·lits de Mart, Fobos i Deimos... [text complet extret de l’enunciat a la pàgina 2 del PDF]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Camp magnètic creat per un fil conductor infinit i una espira circular. Direcció, sentit i valors extrem del camp total.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Un fil conductor molt llarg segueix l’eix z... [text complet extret de la pàgina 4 del PDF]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P3",
+    "descripcio": "Determinació de la freqüència, longitud d’ona i velocitat d’ones superficials. MHS d’una boia i màxims de velocitat i acceleració.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Des de la platja, observem que la distància entre les crestes... [text complet extret de la pàgina 6]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P4",
+    "descripcio": "Energia alliberada en la cadena protó-protó, energia d’un got d’aigua i reaccions de formació de triti. Discussió sobre sostenibilitat de la fusió.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P4) Arran de l’anunci fet el desembre del 2022... [text complet extret de la pàgina 8]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P5",
+    "descripcio": "Identificació del signe de càrregues a partir del potencial, direcció del camp i treball del camp sobre un electró.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P5) Quan mesurem els valors de potencial elèctric... [text complet extret de la pàgina 10]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P6",
+    "descripcio": "Corrent induït en funció de la variació de flux, regla de Lenz i càlcul de la intensitat induïda.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) Una espira es troba fixa en una regió on hi ha un camp magnètic... [text complet extret de la pàgina 12]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  },
+  {
+    "any": 2023,
+    "convocatoria": "jun_1",
+    "problema": "P7",
+    "descripcio": "Anàlisi de l’efecte fotoelèctric, energia cinètica màxima i funcionament d’un dispositiu de seguretat basat en electrons emesos.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P7) En un centre d’estètica disposen d’una màquina de bronzejar... [text complet extret de la pàgina 14]",
+    "imatge_enunciat": "examens/2023_jun_1.pdf",
+    "imatge_solucio": "examens/2023_jun_1_sol.pdf"
+  }
+]
+

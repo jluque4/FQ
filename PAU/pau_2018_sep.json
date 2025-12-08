@@ -1,0 +1,88 @@
+[
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Càlcul de la massa de l'estrella Ross 128 i del camp gravitatori a la superfície de l'exoplaneta Ross 128 b.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) Un dels exoplanetes amb més possibilitats d’acollir vida és el Ross 128 b. Gira al voltant de l’estrella Ross 128 amb un període orbital de 9,9 dies, en una òrbita pràcticament circular de radi 7,42 × 106 km, i la seva massa és 1,35 vegades la massa de la Terra.\na) Calculeu la massa de l’estrella Ross 128.\nb) Suposant que l’exoplaneta Ross 128 b tingui la mateixa densitat que la Terra, calculeu-ne el radi i el mòdul de la intensitat del camp gravitatori a la seva superfície.\nDades: G = 6,67 × 10–11 N·m2·kg–2; Massa de la Terra = 5,98 × 1024 kg; Radi de la Terra = 6,37 × 106 m.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Estudi d’un moviment harmònic simple i efectes sobre una ona sonora associada.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) La figura mostra la gràfica posició-temps d’un objecte que descriu un moviment harmònic simple (MHS).\na) Determineu l’amplitud i la freqüència i escriviu l’equació del moviment x(t). Representeu la gràfica x-t d’un MHS amb la mateixa amplitud però la meitat de freqüència.\nb) Quins efectes sobre la freqüència i la longitud d’ona tindran els canvis següents?\n— L’ona es reflecteix en una superfície.\n— L’ona passa de l’aire a l’aigua.\n— El focus sonor es mou cap a nosaltres.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Equilibri entre forces elèctriques i gravitatòries i moviment d’una partícula de pols a la Lluna.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) A prop de la Lluna hi ha un camp elèctric que, en la cara il·luminada, està dirigit cap a l’exterior i, en la cara fosca, cap al centre. A la superfície de la cara il·luminada, el mòdul del camp és 10 N·C–1; a la superfície de la cara fosca és 1,0 N·C–1.\na) Calculeu la relació càrrega/massa que ha de tenir una partícula de pols perquè es trobi en equilibri a la cara il·luminada. Indiqueu el signe de la càrrega.\nb) Una partícula amb q = +10 nC i m = 0,020 mg és a la cara fosca. Calculeu la força total i el temps per recórrer 10 m des del repòs.\nDada: g(Lluna) = 1,62 m·s–2.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "Força magnètica sobre una partícula carregada i càlcul de la seva trajectòria circular.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Una partícula amb càrrega q = –1,60 × 10–19 C i massa m = 1,70 × 10–27 kg entra amb velocitat v → en un camp magnètic uniforme B → . El radi del moviment és r = 0,30 m.\na) Dibuixeu la força inicial i calculeu la velocitat.\nb) Calculeu el període i la velocitat angular. Calculeu l’energia cinètica en entrar al camp i després d’una volta completa.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Formació i desintegració del carboni 14 i càlcul del percentatge restant.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El carboni 14 és un isòtop radioactiu que produeix partícules β–.\na) Completeu la reacció de formació del 14C i la de desintegració.\nb) Quin percentatge del 14C original quedarà en una mòmia de 4 000 anys?\nDada: Període de semidesintegració = 5 730 anys.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Camp elèctric i energia potencial electrostàtica en un model de núvol amb càrregues puntuals.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) Un núvol es modelitza amb dues càrregues: +40 C a 10 km d’altura i –30 C a 4 km. El punt P és a la figura.\na) Calculeu el vector camp elèctric al punt P.\nb) Calculeu l’energia potencial electrostàtica emmagatzemada en el núvol.\nDada: k = 8,99 × 10⁹ N·m²·C–2.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "Flux magnètic i força electromotriu induïda en una espira quadrada amb camp variable.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Una espira quadrada de 5 cm de costat està sotmesa a un camp magnètic variable Bz(t) = B0 cos(ωt) amb B0 = 5,0 × 10–6 T i ω = 6,0 × 108 rad·s–1.\na) Escriviu l’expressió del flux magnètic i calculeu el valor màxim.\nb) Escriviu l’expressió de la força electromotriu induïda.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  },
+
+  {
+    "any": 2018,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Fotoelèctric: energia dels fotons i energia cinètica dels electrons emesos.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) Un material alcalí té funció de treball 1,30 eV. Hi incideix llum de 500 nm.\na) Calculeu la freqüència i l’energia dels fotons.\nb) Calculeu l’energia cinètica dels electrons extrets.\nDades: h = 6,63 × 10–34 J·s; me = 9,11 × 10–31 kg; 1 eV = 1,60 × 10–19 J; c = 3,00 × 108 m·s–1.",
+    "imatge_enunciat": "examens/2018_sep.pdf",
+    "imatge_solucio": "examens/2018_sep_sol.pdf"
+  }
+]

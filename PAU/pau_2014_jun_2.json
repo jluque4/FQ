@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Caiguda lliure d’un meteorit sobre la Lluna: velocitat d'impacte i comparació d'energies mecàniques.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) Un meteorit de 400 kg de massa cau sobre la Lluna amb trajectòria perpendicular a la superfície. A 10 000 km de la superfície la seva velocitat és 15 000 km/h. a) Determineu la velocitat d'arribada a la superfície. b) Calculeu l’energia mecànica en aquell punt i la d’un cos en òrbita a la mateixa altura. Dades: G = 6,67×10^-11, MLluna = 7,35×10^22 kg, RLluna = 1,74×10^6 m.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Camp elèctric i acceleració d’ions Xe⁺ en un motor iònic; càlcul de ΔV per dues separacions.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) En motors iònics s’acceleren ions Xe+ entre plaques separades 10 cm fins a v = 3,0×10^5 m/s. a) Calculeu l’acceleració i el camp elèctric constant. b) Calculeu la diferència de potencial entre plaques i determineu-la de nou si la separació és 6 cm. Dades: q = +1,60×10^-19 C, m = 132 u.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Desintegració alfa del Po-210 i quantitat restant després de 20 dies (T½ = 37 dies).",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció A — El poloni-210 és un emissor α. a) Escriviu la reacció de desintegració sabent que produeix un isòtop del plom. b) Amb T1/2 = 37 dies, determineu la massa restant al cap de 20 dies si inicialment hi havia 5 mg.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "FEM induïda en una vareta que es mou sobre una forca i força necessària per mantenir v constant.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Una vareta metàl·lica es desplaça a v = 6 m/s sobre una forca conductora en un camp B = 0,25 T sortint del paper. R_vareta = 30 Ω. a) Calculeu la FEM induïda i expliqueu el sentit del corrent. b) Determineu la intensitat i la força necessària per mantenir v constant.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "MHS de l’agulla d’una màquina de cosir: equació del moviment, velocitat i acceleració màximes.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) Opció A — L’agulla d’una màquina de cosir oscil·la 20 mm en total i pot fer 1800 puntades/min. a) Determineu la freqüència i escriviu l’equació del moviment si en t=0 és a la màxima altura. b) Calculeu la velocitat i l’acceleració màximes.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Efecte fotoelèctric: Ec, λ de De Broglie i nova λ per duplicar l’energia cinètica.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P3) Opció B — Un dispositiu fotoelèctric funciona amb λ = 850 nm i W = 1,20 eV. a) Calculeu l’Ec dels fotoelectrons i λ_de Broglie. b) Determineu quina λ incident duplicaria Ec.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Força magnètica sobre protons i radi del moviment circular dins l’aula.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció B — Protons entren en una aula amb v = 2,00×10^6 m/s (i→). Hi ha un camp B = 0,500 j→ T. a) Determineu la força magnètica. b) Calculeu el radi de la trajectòria i comproveu si impactarien contra els alumnes.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2014,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Ona estacionària en una corda de violí: mode fonamental, 3r i 5è harmònic, velocitat i freqüències.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) Opció B — Una corda de 32 cm vibra en el mode fonamental a 196 Hz. a) Expliqueu l’ona estacionària, nodes i ventres, calculeu λ i la velocitat de propagació. b) Dibuixeu els modes n=3 i n=5 i calculeu-ne les freqüències.",
+    "imatge_enunciat": "examens/2014_jun_2.pdf",
+    "imatge_solucio": "examens/2014_jun_2_sol.pdf"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Òrbita circumpolar del satèl·lit Terra: període i energia necessària per situar-lo en òrbita.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) El satèl·lit Terra de la NASA està dissenyat per recollir dades ... segueix una òrbita circumpolar a 760 km de la superfície de la Terra, massa 4,86×10^3 kg.\n(a) Quin és el període de l'òrbita?\n(b) Calculeu l’energia necessària per enviar-lo a l’òrbita des de la superfície.\nDades: G = 6,67×10^-11; MTerra = 5,98×10^24 kg; RTerra = 6,38×10^6 m.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Determinació del període de semidesintegració a partir d’una gràfica i reacció alfa del Po-210.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P2) El gràfic mostra l’evolució del nombre d’àtoms d’un isòtop radioactiu durant 200 dies.\n(a) Determineu el període de semidesintegració i quants àtoms quedaran després de 3 períodes.\n(b) Sospitem que és poloni 210 (Z=84). Escriviu la reacció nuclear de l’emissió alfa.\nTaula: Hg, Tl, Pb, Bi, Po, At, Rn.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P3A",
+    "descripcio": "Camp elèctric d'una membrana cel·lular i energia per transportar un ió Na⁺.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció A — Una membrana cel·lular presenta un ΔV i un gruix indicat en la figura.\n(a) Calculeu el camp elèctric intern: mòdul, direcció i sentit.\n(b) Calculeu l’energia per transportar Na⁺ de la cara negativa a la positiva.\nDada: Q_Na+ = 1,60×10^-19 C.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P4A",
+    "descripcio": "Estudi experimental d'un MHS: obtenció de k, període i càlcul d'elongació i acceleració a t=3 s.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció A — Set masses diferents es pengen d'una molla i es representa T^2 vs m.\n(a) Calculeu k i determineu el període per 32 g. Expliqueu si k depèn de la massa.\n(b) Amb m=100 g i A=10 cm, calculeu y(t) i a(t) a t=3 s, sabent que s'ha deixat anar des del punt més baix.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P5A",
+    "descripcio": "Camp d’un fil infinit i corrent induït en una espira segons la variació temporal d’I(t).",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció A — Espira rectangular prop d'un fil rectilini infinit.\n(a) Dibuixeu B i discutiu si és constant.\n(b) Segons el gràfic d'I(t), expliqueu si s’indueix corrent en 0–20 s, 20–80 s i 80–120 s i en quin interval és màxim.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P3B",
+    "descripcio": "Camp elèctric uniforme: diferències de potencial i càrrega requerida per a l’equilibri.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció B — Regió amb camp elèctric constant E = 500 N/C cap avall.\n(a) Calculeu VA−VB, VB−VC i VA−VC.\n(b) Una partícula de massa 2 g es vol mantenir en equilibri en el punt C. Determineu la càrrega necessària i si pot estar en equilibri en altres punts.\nDada: g = 9,80 m/s².",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P4B",
+    "descripcio": "Ona transversal: càlcul de λ, v, ω, k, equació d’ona i velocitat i acceleració en un punt determinat.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció B — Ona transversal d’un emissor que vibra a 25 Hz, A = 3 cm i λ = 24 cm.\n(a) Calculeu v, ω, k i l’equació de l’ona.\n(b) Calculeu v(x=6 m, t=3 s) i a(x=6 m, t=3 s).",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "jun_1",
+    "problema": "P5B",
+    "descripcio": "Ciclotró amb protons: freqüència, energia cinètica i longitud d’ona de De Broglie.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — Ciclotró amb B = 9,00×10^-3 T i radi 0,50 m.\n(a) Calculeu la freqüència del moviment circular.\n(b) Calculeu l’energia cinètica i la longitud de De Broglie.\nDades: q_p = 1,60×10^-19 C; m_p = 1,67×10^-27 kg; h = 6,62×10^-34 J·s.",
+    "imatge_enunciat": "examens/2012_jun_1.pdf",
+    "imatge_solucio": "examens/2012_jun_1_sol.pdf"
+  }
+]

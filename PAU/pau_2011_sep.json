@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Determinació de la velocitat màxima d'un moviment harmonic i càlcul de la constant elàstica i de la massa associada.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) La massa dels astronautes a l’espai es mesura amb un aparell que es basa en el moviment vibratori harmònic. Per a una massa de 60 kg, la freqüència d’oscil·lació és 0,678 Hz.\n(a) Calculeu la velocitat màxima si l’amplitud és 20 cm.\n(b) Amb una freqüència mesurada de 0,6064 Hz, calculeu la constant elàstica i la massa de l’astronauta.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Càlcul del camp magnètic i força entre dos axons modelats com fils rectilinis amb corrent.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) Dos axons paral·lels condueixen un corrent de 0,66×10⁻⁶ A en el mateix sentit.\n(a) Indiqueu direcció i sentit del camp magnètic que produeix cada axó en la posició de l’altre i dibuixeu la força corresponent.\n(b) Calculeu el mòdul de la força sobre 2 cm de l’axó 2 sabent que el camp creat per l’altre val 1,1×10⁻¹⁰ T.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Corda de guitarra: longitud d’ona del fonamental i freqüències del segon i quart harmònic.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Opció A — La corda d’una guitarra fa 0,65 m i vibra a 440 Hz.\n(a) Determineu la longitud d’ona del fonamental, nodes i ventres, i la velocitat de propagació.\n(b) Dibuixeu el segon i quart harmònic i calculeu-ne la freqüència.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "Càrregues alineades: posició per a força nul·la i treball en traslladar una càrrega.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Tres càrregues QA = −2 μC, QB = −4 μC i QC = −8 μC estan alineades.\n(a) Si la força total sobre QC és zero, calculeu la distància entre QC i QA.\n(b) Calculeu el treball necessari per portar QC a un punt equidistant entre A i B.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Desintegració alfa del Poloni-210: índexs nuclears, temps per reduir-se al 30% i energia alliberada.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P5) Opció A — El poloni-210 té un període de semidesintegració de 138,4 dies.\n(a) Determineu els índexs x i y i el temps perquè la massa es redueixi al 30%.\n(b) Calculeu l’energia alliberada per nucli (en J i en MeV).",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Força elèctrica i energia potencial en un triangle equilàter amb càrregues.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció B — Tres càrregues de Q = 10⁻⁵ C ocupen els vèrtexs d’un triangle equilàter.\n(a) Calculeu la força total sobre una de les positives i representeu les forces.\n(b) Calculeu l’energia potencial total i el treball per traslladar una càrrega al centre del costat.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "Efecte fotoelèctric: obtenció de la constant de Planck i de la funció de treball a partir de dades experimentals.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P4) Opció B — Es mesura Ec per a diverses freqüències incidentes.\n(a) Determineu la constant de Planck.\n(b) Determineu la funció de treball del material.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  },
+
+  {
+    "any": 2011,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Força magnètica sobre una càrrega i FEM induïda en una espira girant en un camp magnètic.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — En un camp B = 0,2 j T:\n(a) Calculeu la força sobre una càrrega positiva que es mou a v = 2 k m/s.\n(b) Determineu la FEM induïda en una espira quadrada de 0,01 m² que gira a 30 rad/s.",
+    "imatge_enunciat": "examens/2011_sep.pdf",
+    "imatge_solucio": "examens/2011_sep_sol.pdf"
+  }
+]

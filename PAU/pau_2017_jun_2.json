@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Camp gravitatori d'una estrella de neutrons i velocitat d'escapament.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) A finals de l’any 1933, a la Universitat de Stanford (EUA), Fritz Zwicky i Walter Baade van proposar per primera vegada l’existència de les estrelles de neutrons. Aquestes estrelles, formades només per neutrons, es poden originar després de l’explosió d’una supernova. Els neutrons que les formen són el resultat de la fusió de protons i electrons, provocada per la compressió que exerceix el camp gravitatori d’aquestes estrelles. Per a una estrella de neutrons determinada que té una massa de 2,9 × 10^30 kg i un radi de 10 km, calculeu:\na) El mòdul de la intensitat de camp gravitatori que l’estrella de neutrons crea a la seva pròpia superfície.\nb) La velocitat mínima que hem de donar a un coet en el moment del llançament des de la superfície de l’estrella perquè es pugui escapar de l’atracció d’aquesta (ignoreu els possibles efectes relativistes). Demostreu l’expressió utilitzada per a fer el càlcul i feu esment del principi de conservació en què us baseu.\nDada: G = 6,67 × 10–11 N·m²·kg–2.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Velocitat, equació i fase d'una ona superficial al mar.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Un remer assegut a la seva barca, de comportament estacionari respecte a l’aigua, observa que les crestes de les ones passen per la proa cada 4,00 s, que l’amplitud de les crestes és de 0,30 m i que la distància entre dues crestes és de 9,00 m.\na) Calculeu la velocitat de propagació de les ones. Determineu l’equació de l’ona suposant que la fase inicial és zero.\nb) En un instant donat, calculeu la diferència de fase entre dos punts que disten 4,00 m l’un de l’altre.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Comparació entre fotons i electrons en microscopis: energia, quantitat de moviment i resolució.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P3) Per a fer observacions, els microscopis òptics fan servir fotons i els microscopis electrònics utilitzen electrons. El poder de resolució d’un microscopi és la capacitat que té per a diferenciar com a punts separats dos punts molt propers i està determinat (en part) per la longitud d’ona de la radiació emprada, de tal manera que com més petita és la longitud d’ona de la radiació, més gran és la resolució del microscopi.\na) Calculeu l’energia dels fotons utilitzats en un microscopi òptic de llum visible de 400 nm de longitud d’ona. Quina és la quantitat de moviment d’aquests fotons?\nb) Fem servir un microscopi electrònic en què els electrons que ens permeten fer l’observació són accelerats per una diferència de potencial, de manera que assoleixen una quantitat de moviment de 3,31 × 10–25 kg·m·s–1. Calculeu la relació que hi ha entre el poder de resolució d’aquest microscopi electrònic i el del microscopi òptic de l’apartat anterior. Quin dels dos microscopis té més poder de resolució?\nDades: c = 3,00 × 10^8 m/s, h = 6,63 × 10–34 J·s.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "Selector de velocitats amb camps perpendiculars i moviment d’ions He⁺.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) En un selector de velocitats, un camp elèctric i un camp magnètic formen un angle de 90° entre si. El selector deixa passar ions de He+ amb una velocitat de 3,20 × 10^5 m/s, que no es desvien de la trajectòria rectilínia inicial. El camp elèctric té un mòdul de 2,00 × 10^5 N/C.\na) Indiqueu, d’una manera justificada, la direcció i el sentit del camp elèctric i de la força magnètica que actua sobre un ió He+ amb una càrrega d’1,60 × 10–19 C. Calculeu també el mòdul del camp magnètic en aquest dispositiu.\nb) Calculeu el radi de l’òrbita que descriu un ió He+ si només hi actua el camp magnètic. La massa d’aquests ions és de 6,68 × 10–27 kg.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "Forces electrostàtiques entre càrregues i energia potencial del sistema.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P5) Tres càrregues elèctriques q1 = 1,00 μC, q2 = 3,00 μC i q3 = 12,00 μC estan fixades en tres dels vèrtexs del rectangle, tal com es veu en la figura. La distància d1 és de 2,00 m i la distància d2 és de 4,00 m.\na) Representeu en un esquema les forces elèctriques que actuen sobre la càrrega q1 per efecte de les altres dues càrregues. Representeu-hi també la força total i calculeu-ne el mòdul.\nb) Calculeu el potencial elèctric en el punt P i l’energia potencial de la distribució de les tres càrregues.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Cadena de desintegració del tori i càlcul de la fracció restant.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P3) La desintegració del tori, 232Th, fins a arribar al plom, 208Pb, passa per diferents isòtops i elements: 228Ra, 228Ac, 228Th, 224Ra, 220Rn, 216Po, 212Pb, 212Bi, 212Po i 208Pb.\na) Completeu les reaccions que permeten arribar al 208Pb a partir del 232Th.\nb) Tenint en compte que el període de semidesintegració del 232Th és d’1,4 × 10^10 anys, quin tant per cent de 232Th roman sense desintegrar-se al cap de 2,0 × 10^10 anys?",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Força magnètica sobre un conductor en el primer motor elèctric de Faraday.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) La figura de l’esquerra mostra un dels dispositius experimentals que Faraday va construir l’any 1821 i que es considera el primer motor elèctric. L’esquema de la dreta representa un circuit equiparable format per una pila, un imant i un conductor que gira al voltant de l’imant. També hi ha representada una línia de camp amb un vector B perpendicular al fil en el punt P.\na) Representeu el vector de camp magnètic en el punt P. Indiqueu i justifiqueu el sentit de gir del fil.\nb) Calculeu el mòdul de la força magnètica que actua sobre 1 cm del conductor, suposant un camp constant de 0,1 T i un corrent de 10 A.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2017,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Model clàssic de l'àtom d'hidrogen: força electrostàtica, camp i energia mecànica.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P5) En el model clàssic de l’àtom d’hidrogen, l’electró gira al voltant del protó en una òrbita circular de radi r = 53 pm.\na) Calculeu el mòdul de la força elèctrica que actua sobre l’electró. Representeu aquesta força en dos punts de l’òrbita separats 90°. Calculeu el mòdul del camp elèctric creat pel protó en un punt de la trajectòria.\nb) Calculeu l’energia mecànica del sistema protó–electró i expresseu-la en eV.\nDades: q_e = –1,6 × 10–19 C, q_p = 1,6 × 10–19 C, m_e = 9,11 × 10–31 kg, 1 eV = 1,60 × 10–19 J.",
+    "imatge_enunciat": "examens/2017_jun_2.pdf",
+    "imatge_solucio": "examens/2017_jun_2_sol.pdf"
+  }
+]

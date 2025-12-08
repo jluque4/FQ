@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Oscil·lacions mecàniques microscòpiques i determinació de la constant elàstica i de la massa d’un virus.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) L’any 2004 es va aconseguir mesurar la massa d’un virus. Es va determinar la freqüència d’oscil·lació d’un braç horitzontal petitíssim, primer sense el virus i després amb el virus adherit. Sense el virus, la freqüència d’oscil·lació era de 2,00 × 10^15 Hz, i amb el virus, aquesta freqüència va ser de 2,87 × 10^14 Hz. \na) Si suposem que el braç horitzontal sense el virus adherit es comporta com una molla amb una massa oscil·lant de 2,10 × 10–16 g lligada a un extrem, quina és la constant elàstica d’aquesta suposada molla? \nb) Partint de la mateixa suposició anterior sobre el comportament oscil·latori del sistema, calculeu la massa del virus.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Deducció de la tercera llei de Kepler i càlcul de la massa del Sol amb dades orbitals.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Determinar la massa i les posicions dels cossos celestes va ser, sens dubte, un gran repte per als primers astrònoms. Gràcies a les valuoses dades sobre les posicions dels astres que Tycho Brahe va recollir al llarg de la seva vida, Johannes Kepler va poder formular les seves famoses tres lleis.\na) Deduïu la tercera llei de Kepler a partir de la segona llei de Newton i de la llei de la gravitació universal, suposant que els planetes descriuen moviments circulars uniformes al voltant del Sol.\nb) Determineu la massa del Sol emprant les dades que necessiteu de la taula següent: Mercuri, Venus, Terra, Mart.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P3A",
+    "descripcio": "Balanç energètic de l’efecte fotoelèctric: longitud d’ona llindar i energia cinètica màxima.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P3) a) Escriviu l’equació del balanç energètic en l’efecte fotoelèctric. Digueu el significat de cada un dels termes i deduïu l’expressió de la longitud d’ona llindar únicament a partir de la funció de treball i constants universals. \nb) Il·luminem una placa de sodi (funció de treball 2,36 eV) amb radiació de freqüència 660 THz. Calculeu l’energia cinètica màxima dels fotoelectrons i el potencial de frenada necessari per aturar-los.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P4A",
+    "descripcio": "Càlcul de la càrrega total de la Terra i condició d’equilibri per a una gota carregada.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Després de diversos mesuraments es va determinar que hi ha un camp elèctric que envolta la Terra, de magnitud 150 N·m–1 i dirigit cap al centre del planeta.\na) Quin és el valor de la càrrega elèctrica de la Terra?\nb) Quants electrons de més ha de tenir una gota d’aigua de 18 µm de radi perquè estigui estacionària prop de la superfície terrestre?",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P5A",
+    "descripcio": "Funcionament d’un altaveu: efecte del corrent continu i altern sobre el moviment de la bobina.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P5) a) Un altaveu està format per un imant permanent i una bobina. Com es mourà el conjunt bobina-membrana si fem circular un corrent continu que, vist des de dalt, gira en sentit horari? I si el corrent és altern? Justifiqueu les respostes indicant la direcció i el sentit del camp magnètic produït per la bobina.\nb) Justifiqueu quin efecte tindria augmentar el nombre de voltes o la intensitat del corrent sobre el camp magnètic produït per la bobina.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P3B",
+    "descripcio": "Desintegració beta del ruteni-106 i evolució temporal de l’activitat radioactiva.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P3) El novembre del 2017 es va enregistrar un augment de les concentracions de l’isòtop ruteni 106, de període de semidesintegració 374 dies. \na) Escriviu l’equació nuclear completa de la desintegració i indiqueu el tipus de procés.\nb) Calculeu l’activitat del ruteni 106 al cap de 210 dies.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P4B",
+    "descripcio": "Ruptura dielèctrica de l’aire i treball per apropar electrons en un triangle equilàter.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) a) Un camp elèctric superior a 3,00 × 10^6 V·m–1 provoca ruptura dielèctrica. Calculeu la mínima diferència de potencial entre la mà i un pom metàl·lic a 1,00 mm de distància.\nb) Calculeu el treball necessari perquè tres electrons inicialment separats quedin a 0,1 nm formant un triangle equilàter.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  },
+
+  {
+    "any": 2019,
+    "convocatoria": "jun_2",
+    "problema": "P5B",
+    "descripcio": "Moviment circular d’un ió en un camp magnètic i càlcul de la seva massa i del camp magnètic necessari.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P5) a) Un ió amb càrrega igual a la de l’electró fa 7 voltes en 1,29 ms en un camp magnètic perpendicular. Representeu la trajectòria i dibuixeu el vector força en dues posicions. Calculeu la massa de l’ió.\nb) Un protó amb velocitat 5,00 × 10^5 m·s–1 entra en una regió amb camp magnètic. Si la força és 8,00 × 10–14 N, calculeu el mòdul, direcció i sentit del camp magnètic.",
+    "imatge_enunciat": "examens/2019_jun_2.pdf",
+    "imatge_solucio": "examens/2019_jun_2_sol.pdf"
+  }
+]

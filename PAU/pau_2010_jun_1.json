@@ -1,0 +1,82 @@
+[
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Càrrega penjada dins d’un condensador planoparal·lel en equilibri: camp elèctric entre plaques i angle del fil.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P1) Entre les armadures del condensador planoparal·lel de la figura apliquem una diferència de potencial de 200 V. A l’interior del condensador roman en equilibri una càrrega de 15 µC, de 20 g de massa, penjada d’un fil, tal com indica la figura. a) Determineu el camp elèctric a l’interior del condensador. Indiqueu-ne el mòdul, la direcció i el sentit. b) Dibuixeu les forces que actuen sobre la càrrega. Calculeu l’angle que forma el fil amb la vertical θ. Nota: l’eix z indica la vertical. Dada: g = 9,80 m/s².",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Ona harmònica transversal en una corda: paràmetres (λ, k, f, T, ω) i equació de l’ona amb condicions inicials.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Una ona harmònica transversal es propaga per una corda a una velocitat de 6,00 m/s. L’amplitud de l’ona és 20 mm i la distància mínima entre dos punts que estan en fase és 0,40 m. Considerem la direcció de la corda com l’eix x i que l’ona es propaga en el sentit positiu d’aquest eix. a) Calculeu la longitud d’ona, el nombre d’ona, la freqüència, el període i la freqüència angular (pulsació). b) Escriviu l’equació de l’ona sabent que, en l’instant inicial, l’elongació d’un punt situat a l’origen de coordenades és màxima. Calculeu l’expressió de la velocitat amb què vibra un punt de la corda situat a una distància de 10 m respecte de l’origen de la vibració. Quina és la velocitat màxima d’aquest punt?",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P3A",
+    "descripcio": "Efecte fotoelèctric: a partir de la freqüència llindar i de l’energia cinètica màxima dels fotoelectrons, determinar la freqüència de la radiació incident i les longituds d’ona dels fotons i dels electrons.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "P3) Opció A — Fem incidir radiació electromagnètica d’una freqüència determinada sobre un metall que té una freqüència llindar de 6,00·10^16 Hz. Observem que l’energia cinètica màxima dels electrons emesos és 6,62·10^−17 J. a) Calculeu la freqüència de la radiació electromagnètica incident. b) Calculeu la longitud d’ona dels fotons incidents i la dels electrons emesos amb la màxima energia cinètica. Dades: h = 6,62·10^−34 J·s; c = 3,00·10^8 m/s; m_e = 9,11·10^−31 kg.",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P4A",
+    "descripcio": "Comparació del moviment d’un protó i un electró que entren amb la mateixa velocitat en un camp magnètic uniforme i, després, en un camp elèctric uniforme.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Un protó i un electró, amb la mateixa velocitat, entren en una regió de l’espai on hi ha un camp magnètic uniforme dirigit cap a l’interior del paper. a) Dibuixeu les forces que actuen sobre cada partícula en l’instant en què entren a la regió on hi ha el camp. Són iguals els mòduls d’aquestes forces? Descriviu i justifiqueu el moviment que seguirà cadascuna de les partícules. Imagineu-vos que en aquesta regió, en comptes d’un camp magnètic, hi ha un camp elèctric uniforme dirigit cap a la dreta. b) Dibuixeu les forces que actuen sobre cada partícula en l’instant en què entren a la regió on hi ha el camp. Són iguals els mòduls d’aquestes forces? Descriviu i justifiqueu el moviment que seguirà cadascuna de les partícules.",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P5A",
+    "descripcio": "Òrbita gairebé circular de la Terra: determinació de la massa del Sol i de l’energia mecànica total de la Terra en l’òrbita.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P5) Opció A — L’òrbita de la Terra al voltant del Sol es pot considerar circular, amb un període d’un any i un radi d’1,50·10^8 km. Considerant únicament el sistema format pel Sol i la Terra: a) Calculeu la massa del Sol. b) Determineu l’energia mecànica total (cinètica i potencial) de la Terra. Dades: G = 6,67·10^−11 N·m²·kg^−2; M_Terra = 5,98·10^24 kg.",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P3B",
+    "descripcio": "Tomografia per emissió de positrons (PET) amb 18F: completat de la reacció nuclear, neutrons i protons, semidesintegració i viabilitat d’emmagatzematge.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P3) Opció B — La tècnica de diagnòstic per imatge mitjançant tomografia per emissió de positrons (PET) es fonamenta en l’anihilació entre matèria i antimatèria. Els positrons, emesos pels nuclis de fluor 18F injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor 18F es pot escriure mitjançant la reacció nuclear: 18_9F → x^yO + e⁺ + ν. a) Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor 18F. Completeu la reacció nuclear, és a dir, determineu x, y i z si cal. b) El període de semidesintegració del 18F és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de 18F. Quin percentatge de partícules quedarà al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P4B",
+    "descripcio": "Fil conductor entre els pols d’un imant sobre una balança: relació entre força i intensitat, camp magnètic i sentit del corrent.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció B — Es col·loca per sobre d’una balança un imant amb els pols N i S enfrontats. Entre aquests dos pols passa un fil conductor horitzontal que no toca l’imant. El fil s’aguanta mitjançant dos suports aïllants que recolzen sobre el plat de la balança. En absència de corrent elèctric pel fil, la balança indica un pes de 2,400 N. Quan circula corrent elèctric pel fil conductor, la balança indica pesos aparents més petits, que depenen de la intensitat del corrent, a causa de l’aparició d’una força magnètica cap amunt. S’han fet circular diverses intensitats i s’ha obtingut la gràfica F–I corresponent. a) Determineu l’equació que relaciona la força amb la intensitat. Calculeu la força magnètica que actua sobre el fil elèctric quan la intensitat del corrent és 2,0 A i quan és 2,5 A. b) Considereu que el tram de fil situat entre els pols de l’imant té una longitud de 6 cm i que el camp magnètic és uniforme dins d’aquesta zona i nul a fora. Calculeu el camp magnètic entre els pols de l’imant. En quin sentit circula el corrent elèctric?",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  },
+  {
+    "any": 2010,
+    "convocatoria": "jun_1",
+    "problema": "P5B",
+    "descripcio": "Òrbita circular de l’Sputnik 1: període, velocitat orbital i intensitat del camp gravitatori en l’òrbita.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P5) Opció B — El 4 d’octubre de 1957 es va llançar a l’espai el primer satèl·lit artificial, l’Sputnik 1, que va descriure una òrbita a 586 km d’altura sobre la superfície de la Terra. Suposant que aquesta òrbita era circular i sabent que la massa de l’Sputnik 1 era 83,6 kg, calculeu: a) El període de rotació del satèl·lit en l’òrbita que descrigué al voltant de la Terra. b) La velocitat a què anava l’Sputnik 1 en girar i la intensitat del camp gravitatori en la seva òrbita. Dades: G = 6,67·10^−11 N·m²·kg^−2; M_Terra = 5,98·10^24 kg; R_Terra = 6,37·10^6 m.",
+    "imatge_enunciat": "examens/2010_jun_1.pdf",
+    "imatge_solucio": "examens/2010_jun_1_sol.pdf"
+  }
+]

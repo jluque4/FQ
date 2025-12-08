@@ -1,0 +1,82 @@
+[
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Òrbita del cometa Halley: càlcul del semieix major i intensitat del camp gravitatori al periheli i afeli.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) Edmond Halley... [text complet de P1 extret del PDF d’enunciats]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Partícula unida a un fil en un camp elèctric: forces, treball i velocitat aplicant conservació d’energia.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Una partícula carregada és a sobre d’una taula... [text complet de P2]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P3",
+    "descripcio": "Determinació de k i f a partir d’un gràfic T²–m i equació del MHS amb màxims de v i a.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) Per a estudiar les característiques d’una molla... [text complet P3]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P4",
+    "descripcio": "Espectròmetre de masses: deducció del radi i separació dels ions 12C− i 14C−.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Volem utilitzar un espectròmetre de masses... [text complet P4]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P5",
+    "descripcio": "Determinar T½ de dues mostres radioactives a partir de taules i gràfics d’activitat.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) En un accident de trànsit... [text complet P5]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P6",
+    "descripcio": "Transformador no ideal: intensitats en primari i secundari i espirejat mínim requerit.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) Una línia de mitjana tensió de 25,0 kV... [text complet P6]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P7",
+    "descripcio": "Equació d’una ona sonora i explicació detallada de l’efecte Doppler per a un observador en moviment.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P7) La sirena d’una alarma... [text complet P7]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_2",
+    "problema": "P8",
+    "descripcio": "Materialització fotó→e−e+, freqüència i λ corresponents i preguntes sobre antimatèria i anihilació.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P8) A l’abadia de Westminster... [text complet P8]",
+    "imatge_enunciat": "examens/2022_jun_2.pdf",
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+  }
+]

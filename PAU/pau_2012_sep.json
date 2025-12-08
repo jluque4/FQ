@@ -1,0 +1,89 @@
+[
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Exoplaneta al voltant de WASP-18: radi orbital, energia cinètica i energia mecànica del sistema.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "P1) Al voltant de l’estrella WASP-18, que té una massa de 2,66×10^30 kg, s’ha descobert un planeta que gira en òrbita circular amb període excepcionalment curt: 22,6 h. La massa del planeta és deu vegades la de Júpiter.\na) Calculeu el radi de l’òrbita.\nb) Calculeu l’energia cinètica del planeta i l’energia mecànica del sistema planeta–estrella.\nDades: MJúpiter = 1,90×10^27 kg; G = 6,67×10−11.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P2",
+    "descripcio": "Desintegració del Tecneci-99: fracció restant després d’un dia i identificació del nucli pare.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "P2) En una gammagrafia òssia s’injecta un isòtop radioactiu (99Tc) que emet raigs gamma.\na) Quant s’haurà reduït el nombre de nuclis al cap d’un dia?\nb) El 99_43Tc prové d’una desintegració beta. Indiqueu el nombre de protons i neutrons del nucli pare.\nDades: t1/2(99Tc) = 6,00 h.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "descripcio": "Espectròmetre de masses: trajectòria circular, treball nul i radis/impactes per ions 20Ne+ i 22Ne+.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció A — Un feix d’ions 20Ne+ i 22Ne+ entra en un espectròmetre amb v = 1,00×10^5 m/s i B = 0,23 T.\na) Expliqueu la trajectòria i el treball de la força magnètica.\nb) Calculeu la distància del punt d’entrada al punt d’impacte per a cada ió.\nDades: masses 20,0 u i 22,0 u; Q = 1,60×10^−19 C; 1 u = 1,66×10^−27 kg.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P4A",
+    "descripcio": "Força elèctrica sobre Q3 per dues càrregues, components i treball entre P3 i P4.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P4) Opció A — Tres càrregues Q1 = 3,0 μC; Q2 = −5,0 μC; Q3 = −8,0 μC situades a P1 = (−1,0, 3,0), P2 = (3,0, 3,0) i P3 = (3,0, 0,0).\na) Dibuixeu les forces sobre Q3 i calculeu la força total en components cartesianes.\nb) Calculeu el treball del camp en desplaçar Q3 de P3 a P4 = (−1,0, −3,0).",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P5A",
+    "descripcio": "Corda de guitarra: fonamental, λ, velocitat del so i tercer harmònic amb nodes i ventres.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P5) Opció A — Una corda de guitarra de 78 cm vibra al fonamental amb f = 220 Hz.\na) Dibuixeu el perfil de l’ona, calculeu λ i la velocitat de propagació.\nb) Dibuixeu el tercer harmònic i calculeu la posició de nodes i ventres.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "descripcio": "Càrrega puntual: càlcul de q i distància a partir de V i E; línies de camp i equipotencials.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P3) Opció B — Una càrrega crea a distància d un potencial de −6,00×10^3 V i un camp de 667 N/C.\na) Calculeu q i d.\nb) Expliqueu la forma de les línies de camp i les superfícies equipotencials.\nDada: k = 9,00×10^9.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P4B",
+    "descripcio": "So pur: càlcul de λ, ω i T; efecte Doppler qualitatiu (observador i reflexió).",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P4) Opció B — Un altaveu vibra amb f = 300 Hz i A = 1,00 mm; v_so = 340 m/s.\na) Calculeu λ, ω i T.\nb) Compareu f i λ enregistrades per un observador quan: l’altaveu s’acosta; el so es reflecteix en una paret.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  },
+
+  {
+    "any": 2012,
+    "convocatoria": "sep",
+    "problema": "P5B",
+    "descripcio": "Electró en camp magnètic: trajectòria circular, freqüència (en GHz) i camp elèctric per compensació.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P5) Opció B — Un electró entra amb v = 3,00×10^5 m/s en una regió amb B = 1,20 T perpendicular.\na) Dibuixeu i justifiqueu la trajectòria, el sentit de gir i calculeu la freqüència.\nb) Determineu el camp elèctric necessari perquè l’electró travessi la regió sense desviar-se.",
+    "imatge_enunciat": "examens/2012_sep.pdf",
+    "imatge_solucio": "examens/2012_sep_sol.pdf"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P1",
+    "descripcio": "Deducció del camp gravitatori orbital i comparació de l’energia d’escapament de la Terra i de la Lluna.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P1) a) Un satèl·lit descriu una trajectòria circular de radi R al voltant d’una massa central. El temps que triga a donar-hi una volta sencera és T. Deduïu l’expressió per calcular la intensitat del camp gravitatori g en funció de R i T. Considerant l’òrbita de la Lluna (384×10^6 m, 27,3 dies), calculeu g en els punts de l’òrbita. [1,25p]\nb) Deduïu l’expressió de l’energia cinètica mínima necessària perquè un coet de massa m pugui escapar d’un objecte astronòmic de massa M i radi R. Compareu l’energia mínima d’escapament de la Terra i la Lluna utilitzant MTerra = 81,3 MLluna i RTerra = 3,67 RLluna. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P2",
+    "descripcio": "Representació del camp elèctric d’un dipol i càlcul del camp i potencial a l’origen.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Un dipol elèctric està format per dues càrregues ±Q. a) Representeu 12 línies de camp i 3 línies equipotencials per càrrega dins el requadre. [1,25p]\nb) Q = 1,50 μC, posada a x = −5 cm i x = +5 cm. Calculeu el camp elèctric i el potencial a l’origen, donant components o mòdul-direcció-sentit. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P3",
+    "descripcio": "Ona harmònica transversal que modelitza el moviment d’una anguila: equació d’ona, velocitats i acceleracions.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P3) El moviment d’una anguila es modelitza com una ona transversal generada al cap, de freqüència 0,50 Hz, amplitud 5,00 cm i λ = 20,0 cm.\na) Calculeu v, ω, k i deduïu l’equació d’ona satisfent les condicions inicials. [1,25p]\nb) Determineu la velocitat i acceleració màximes de l’osciŀlació. Per a una anguila de 58,0 cm determineu velocitat i acceleració transversals a la cua al cap de 10 s. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P4",
+    "descripcio": "Funcionament d’un ciclotró, deducció de la velocitat i freqüència, i càlcul de la velocitat final i la longitud d’ona de De Broglie.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Un ciclotró accelera partícules positives dins de dues 'D' semicirculars amb un camp magnètic perpendicular i un camp elèctric altern.\na) Deduïu v = rB(q/m), comproveu que el temps dins d’una D no depèn de v i deduïu la freqüència de l’alta tensió. [1,25p]\nb) Per r = 0,50 m i B = 0,20 T determineu la velocitat final dels protons, la longitud d’ona de De Broglie i el radi necessari per arribar a 0,1c. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P5",
+    "descripcio": "Cadena de desintegració del radó 222 fins al plom 206 i determinació del període de semidesintegració en un dels nuclis intermedis.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) El radó 222Rn es desintegra successivament fins arribar al plom 206Pb.\na) Escriviu totes les reaccions nuclears de la cadena de desintegració. [1,25p]\nb) A partir del gràfic d’una de les desintegracions d’una mostra inicial de 8×10^23 nuclis, determineu T1/2, identifiqueu el nucli corresponent i calculeu el temps perquè es desintegrin 7,95×10^23 nuclis. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P6",
+    "descripcio": "Camp gravitatori superficial a Mart i treball fet per la grua en un descens controlat.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) L’aterratge del Perseverance consisteix en un descens controlat de 20,0 m amb g uniforme.\na) A partir de ΔV = 74,4 J/kg determineu g i identifiqueu l’esquema correcte de línies equipotencials. [1,25p]\nb) Si el vehicle descendeix a velocitat constant, determineu el treball fet per la grua. Massa del vehicle: 1025 kg. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P7",
+    "descripcio": "Identificació d’un instrument musical mitjançant l’espectre i càlcul de la potència sonora d’un quintet.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P7) A partir de l’espectre de freqüències determineu si l’instrument és un oboè o un piano i calculeu la longitud del tub o corda.\na) Identificació i càlcul de L. [1,25p]\nb) Un quintet genera 80 dB a 1,5 m. Calculeu la potència sonora de cada instrument. [1,25p]\nDada: I0 = 10^−12 W/m².",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  },
+  {
+    "any": 2022,
+    "convocatoria": "jun_1",
+    "problema": "P8",
+    "descripcio": "Efecte fotoelèctric en cesi: càlcul del treball d’extracció, energies cinètiques i longitud d’ona de De Broglie.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P8) El càtode és de cesi i té freqüència llindar f0 = 4,59×10^14 Hz.\na) Calculeu el treball d’extracció i determineu per a quins làsers (blau, verd, infraroig) s’obté emissió, completant la taula i representant Ec vs f. [1,25p]\nb) Amb un làser de 8×10^14 Hz, determineu velocitat i longitud d’ona de De Broglie dels electrons emesos. [1,25p]",
+    "imatge_enunciat": "examens/2022_jun_1.pdf",
+    "imatge_solucio": "examens/2022_jun_1_sol.pdf"
+  }
+]
+

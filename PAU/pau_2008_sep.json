@@ -1,0 +1,100 @@
+[
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "descripcio": "Cos que llisca per un quadrant i continua en horitzontal: energia, fregament i força normal en punt intermedi.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "P1) Deixem anar un cos d’1 kg de massa des del punt A, situat sobre una pista constituïda per un quadrant de circumferència de radi R = 1,5 m i en la qual es considera negligible el fregament. Quan el cos arriba a la part inferior del quadrant (punt C), llisca sobre una superfície horitzontal fins que queda aturat a una distància de 2,7 m del punt C.\nTrobeu:\na) La velocitat del cos en el punt C.\nb) El coeficient de fregament cinètic entre la pista i el cos a la part horitzontal.\nc) La força que fa el cos sobre la pista quan passa pel punt B.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q1",
+    "descripcio": "Determinació de l’equació d’una ona marina que mou una boia.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "Q1) La Xarxa XIOM fa servir boies per estudiar l’onatge. L’onatge té una alçada mitjana de 70 cm i un període de 5 s. Escriviu l’equació del moviment d’una boia que es mou com aquesta onada.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q2",
+    "descripcio": "Càlcul de l’energia mecànica del sistema Terra–Lluna.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Q2) Calculeu el valor de l’energia mecànica de la Lluna. Considereu únicament el sistema format per la Terra i la Lluna.\nDADES: G = 6,67·10⁻¹¹; MT = 5,98·10²⁴ kg; ML = 7,36·10²² kg; D_TL = 3,84·10⁸ m.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "P2A",
+    "descripcio": "Camp elèctric de dues càrregues, potencial i treball necessari per traslladar una tercera càrrega.",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "P2) Opció A — Dues càrregues de +3 µC i −7 µC es troben als punts (0,3) i (0,−5). Calculeu:\na) El camp elèctric en P(4,0).\nb) V(O) − V(P).\nc) El treball per traslladar una càrrega de +5 µC des d’O fins a P.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q3A",
+    "descripcio": "Ajust lineal ΔL–F d’una molla i càlcul de la seva constant elàstica.",
+    "bloc": "Bloc 1 — Mecànica",
+    "text": "Q3) En una experiència es mesura l’allargament d’una molla en funció de la massa penjada. Taula:\n m(g): 200 300 400 500 600 700\n ΔL(cm): 32,7 49,0 65,3 81,7 98,0 114,3\n a) Representeu ΔL(F) i determineu l’equació de la recta.\n b) Determineu la constant elàstica de la molla.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q4A",
+    "descripcio": "Refracció d’una ona lluminosa: càlcul de freqüència, velocitat en vidre i longitud d’ona.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q4) Un raig groc de 580 nm es propaga per l’aire a 3·10⁸ m/s i incideix en un vidre d’índex n = 1,55.\na) Freqüència de la llum i velocitat en el vidre.\nb) Freqüència i longitud d’ona en el vidre.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "P2B",
+    "descripcio": "Oscil·lador massa–molla horitzontal: període, equació del moviment i energia cinètica a x = 2 cm.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P2) Opció B — Una massa de 380 g lligada a una molla de k = 15 N/m. Desplacem 10 cm i deixem anar.\na) Període.\nb) Equació del moviment.\nc) Energia cinètica quan x = 2 cm.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q3B",
+    "descripcio": "Qüestions de test sobre mirall pla i lent divergent.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q3) Preguntes d’elecció múltiple:\n1. Imatge en mirall pla.\n2. Imatge formada per una lent divergent.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  },
+
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q4B",
+    "descripcio": "Electró en camp magnètic i camp creat pel seu moviment (test).",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "text": "Q4) Un electró descriu un moviment circular en un camp magnètic constant.\n1. Direcció i sentit del camp responsable del moviment.\n2. Camp magnètic generat pel moviment de l’electró.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf"
+  }
+]

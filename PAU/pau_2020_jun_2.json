@@ -1,0 +1,82 @@
+[
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P1",
+    "descripcio": "Determinació de la constant elàstica, la massa i representació de les energies en un MHS.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "P1) La gràfica següent ens mostra l’energia potencial elàstica en funció de l’elongació (x) per a un sistema format per una massa unida a una molla horitzontal que compleix la llei de Hooke. a) Trobeu el valor de la constant elàstica de la molla. Quan fem osciŀlar el sistema, descriu 10 osciŀlacions completes en 6,52 s. Calculeu la massa de l’objecte. b) Representeu, sobre el mateix gràfic, l’energia cinètica i la mecànica per a un MHS d’amplitud 10 cm.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P2",
+    "descripcio": "Camps magnètics creats per fils perpendiculars i condicions d’equilibri d’una brúixola.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P2) Posem dos cables prims conductors perpendiculars sobre una taula sense contacte elèctric. Una brúixola es col·loca 1 m per sobre de l’encreuament. a) Representeu els camps magnètics creats pels fils A i B. Si pel fil A circulen 5 A, quina intensitat ha de circular per B perquè la brúixola quedi paral·lela al fil B? b) Si pel fil A circulen 10 A i la brúixola queda orientada 30° respecte al fil B, determineu la intensitat que passa per B.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P3",
+    "descripcio": "Massa de Júpiter i radi orbital de Callisto mitjançant lleis de Kepler.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P3) Io descriu una òrbita de radi 4,22 × 10⁸ m i període 1,53 × 10⁵ s. a) Calculeu la massa de Júpiter. b) Determineu el radi de l’òrbita de Callisto, de període 1,44 × 10⁶ s. Dada: G = 6,67×10⁻¹¹ N m² kg⁻².",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P4",
+    "descripcio": "Funcionament d’un accelerador lineal, camp elèctric i energia adquirida per un electró.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P4) Un accelerador lineal consisteix en cilindres metàl·lics amb càrregues alternades. La diferència de potencial entre cilindres és 250 kV. a) Determineu els signes necessaris de les càrregues i calculeu la distància entre cilindres per obtenir un camp de 8,00×10⁶ N/C. b) Calculeu quant espais calen perquè un electró surti amb 1,0 MeV i estimeu la seva velocitat no relativista. Dades: me, e, c.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P5",
+    "descripcio": "Semidesintegració del Cs-137 i identificació d’una reacció nuclear de fissió.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P5) Un estudi relaciona el Cs-137 en vins amb episodis nuclears històrics. Segons la gràfica, l’activitat del vi de 1957 ha passat de 2500 mBq/l a 600 mBq/l el 2020. a) Calculeu el període de semidesintegració i dibuixeu la corba per al vi de 1972. b) Completeu l’equació nuclear indicada i classifiqueu el procés.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P6",
+    "descripcio": "Període orbital de la Lluna i posició on les forces gravitatòries de Terra i Lluna s’anul·len.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P6) La Lluna és a 3,84×10⁸ m de la Terra. a) Calculeu el període orbital i l’energia potencial gravitatòria de la Lluna. b) A quina distància de la Terra es cancel·len les forces gravitatòries de Terra i Lluna? Dada: G.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P7",
+    "descripcio": "Determinar λ, v i n d’una ona electromagnètica dins un vidre i direccions de propagació de E i B.",
+    "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
+    "text": "P7) El camp E(x,t)=28 cos(2,4×10¹⁵ t – 1,2×10⁷ x)k. a) Determineu la longitud d’ona, la velocitat de propagació dins el vidre i l’índex de refracció. Determineu també la longitud d’ona al buit. b) Indiqueu la direcció de propagació i l’eix d’oscil·lació del camp magnètic.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  },
+  {
+    "any": 2020,
+    "convocatoria": "jun_2",
+    "problema": "P8",
+    "descripcio": "Hidrogen muònic: radi de l’òrbita i freqüència del fotó emès en una transició.",
+    "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
+    "text": "P8) En l’hidrogen muònic el muó substitueix l’electró i té massa 200 vegades major. a) Determineu el radi de l’òrbita fonamental i compareu el volum amb l’hidrogen habitual. b) A partir de les energies donades per als nivells n=1 i n=2, calculeu la freqüència i la longitud d’ona del fotó emès.",
+    "imatge_enunciat": "examens/2020_jun_2.pdf",
+    "imatge_solucio": "examens/2020_jun_2_sol.pdf"
+  }
+]
