@@ -37,8 +37,8 @@ for p in entries:
     desc = p["descripcio"]
 
     # Rutes PDF (no imatges!)
-    pdf_enun = f"../PAU/{p['imatge_enunciat']}"
-    pdf_sol = f"../PAU/{p['imatge_solucio']}"
+    pdf_enun = f"./PAU/{p['imatge_enunciat']}"
+    pdf_sol = f"./PAU/{p['imatge_solucio']}"
 
     # Icones clicables
     enun_icon = (
