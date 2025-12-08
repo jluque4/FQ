@@ -1,0 +1,116 @@
+bloc4:
+  id: "4"
+  nom: "Camp gravitatori i electromagnètic"
+  subarees:
+
+    gravitatori:
+      id: "CG"
+      rang: [4000, 4249]
+      items:
+        "4000": "Velocitat orbital"
+        "4001": "Període orbital / relació orbital"
+        "4002": "Energia mecànica orbital"
+        "4003": "Velocitat d'escapament"
+        "4004": "Acceleració normal / força centrípeta en òrbita"  
+
+    camp_electric:
+      id: "CE"
+      rang: [4250, 4499]
+      items:
+        "4250": "Energia / potencial elèctric general"
+        "4251": "Força electrostàtica en equilibri"
+        "4252": "Camp elèctric per superposició"
+        "4253": "Potencial elèctric"
+        "4254": "Treball elèctric (q·ΔV)"
+        "4255": "Càrrega equivalent d'una esfera per camp E"        
+
+    camp_magnetic:
+      id: "CM"
+      rang: [4500, 4749]
+      items:
+        "4500": "Camp magnètic generat per corrent (Oersted)"
+        "4501": "Força de Lorentz (qvB)"
+        "4502": "Moviment circular / trajectòria en camp B"
+        "4503": "Superposició de camps magnètics"
+        "4504": "Càlcul del camp magnètic terrestre"
+
+    induccio:
+      id: "CI"
+      rang: [4750, 4999]
+      items: {}
+
+# --------------------------------------------------------------
+
+bloc5:
+  id: "5"
+  nom: "Vibracions, ones i òptica"
+  subarees:
+
+    mhs:
+      id: "VI"
+      rang: [5000, 5249]
+      items:
+        "5000": "Equació del moviment MHS"
+        "5001": "Energia mecànica MHS"
+        "5002": "Energia cinètica MHS"
+        "5003": "Energia potencial MHS"
+        "5004": "Constant elàstica k"
+        "5005": "Velocitat instantània en MHS"
+        "5006": "Període MHS (T)"
+        "5007": "Força elàstica F = -kx"
+        "5755": "Moviment circular projectat (relació amb MHS)"    
+
+    ones:
+      id: "ON"
+      rang: [5250, 5499]
+      items:
+        "5500": "Interferència: màxims i mínims"
+        "5501": "Diferència de fase / camins"
+        "5502": "Intensitat sonora (I)"
+        "5503": "Nivell sonor (dB)"
+        "5504": "Energia acústica"                                 
+
+    ones_estacionaries:
+      id: "OS"
+      rang: [5500, 5749]
+      items: {}
+
+    optica:
+      id: "OP"
+      rang: [5750, 5999]
+      items:
+        "5750": "Focal d'una lent (f)"
+        "5751": "Potència d'una lent (P)"
+        "5752": "Equació de lents (1/f = 1/s + 1/s')"
+        "5753": "Ampliació / mida de la imatge"
+        "5754": "Diagrama de raigs"
+
+# --------------------------------------------------------------
+
+bloc6:
+  id: "6"
+  nom: "Física relativista, quàntica i nuclear"
+  subarees:
+
+    relativitat:
+      id: "RE"
+      rang: [6000, 6249]
+      items: {}
+
+    quantica:
+      id: "QM"
+      rang: [6250, 6599]
+      items:
+        "6250": "Treball d'extracció"
+        "6251": "Potencial de frenada"
+        "6252": "Energia del fotó (E = hf)"
+        "6253": "Energia cinètica / velocitat de l’electró"
+        "6254": "Longitud d’ona de De Broglie"
+
+    nuclear:
+      id: "NU"
+      rang: [6600, 6999]
+      items:
+        "6600": "Desintegració nuclear (alfa, beta, gamma)"
+        "6601": "Activitat radioactiva A(t)"
+        "6602": "Semivida (T1/2)"

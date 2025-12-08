@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) BepiColombo és una missió espacial que té per objectiu l’exploració de Mercuri. La missió va ser llançada l’any 2018, i hi arribarà el 2025 ... [text complet pàg. 2 del PDF] ... Dades: G = 6,67 × 10–11 N m2 kg–2, MM = 3,285 × 10^23 kg, any terrestre = 365,25 dies.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"4-CG-40004002"
   },
   {
     "any": 2024,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) Al laboratori dissenyem un experiment amb dues masses que fan moviments independents ... [text complet pàg. 4 del PDF] ... Representació de l’energia mecànica, potencial i cinètica.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"5-VI-500050015002500350045755"
   },
   {
     "any": 2024,
@@ -27,7 +29,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P3) La superfície de la Terra és principalment aigua que conté ions en dissolució ... [text complet pàg. 6 del PDF] ... Dades: RT = 6,37×10^6 m, ρ = 10^3 kg/m³, me = 9,11×10−31 kg, |e| = 1,602×10−19 C.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"4-CE-42514252425342554254"
   },
   {
     "any": 2024,
@@ -37,7 +40,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Un parallamps és una barra metàŀlica vertical que atrau i dirigeix grans descàrregues ... [text complet pàg. 8 del PDF] ... Dades: μ0 = 4π×10−7, |e| = 1,602×10−19 C.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"4-CM-450045034501"
   },
   {
     "any": 2024,
@@ -47,7 +51,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) L’Ainhoa està intrigada per saber a quina altura exploten els coets ... [text complet pàg. 10 del PDF] ... Dades: I0 = 10−12 W/m², velocitat del so = 340 m/s.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"5-ON-550255035504"
   },
   {
     "any": 2024,
@@ -57,7 +62,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P6) El poloni (Z = 84) fou descobert el 1898 ... [text complet pàg. 12 del PDF] ... Dades: |e| = 1,602×10−19 C.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"6-NU-660066016602"
   },
   {
     "any": 2024,
@@ -67,7 +73,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P7) Observem que en una mostra metàŀlica apareix l’efecte fotoelèctric ... [text complet pàg. 14 del PDF] ... Dades: c = 3×10⁸ m/s, h = 6,626×10−34 J·s, me = 9,11×10−31 kg.",
     "imatge_enunciat": "examens/2024_jun.pdf",
-    "imatge_solucio": "examens/2024_jun_sol.pdf"
+    "imatge_solucio": "examens/2024_jun_sol.pdf",
+    "id":"6-QM-62506251625262536254"
   }
 ]
 

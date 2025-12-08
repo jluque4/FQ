@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) Els sistemes planetaris tendeixen a formar-se en ressonància... a) Suposem que aquesta estrella té la massa del Sol... calculeu la distància del sisè planeta i el mòdul de l’acceleració normal. [1,25 p] b) El cinquè planeta completa 4 òrbites mentre el sisè en completa 3. Calculeu el radi orbital i l’energia mecànica del planeta. Dades: G = 6,67×10⁻¹¹..., MT = 5,98×10²⁴ kg, MS = 1,98×10³⁰ kg.",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "4-CG-400140024004"
   },
   {
     "any": 2024,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) Dos altaveus estan separats una distància 2d i emeten un senyal harmònic... a) Calculeu totes les freqüències entre 200 i 400 Hz per les quals la persona A senti màxim. També quina freq. maxima A però mínima B. [1,25 p] b) Amb potència 2,36×10⁻³ W per altaveu, calculeu intensitat i nivell d’intensitat sonora en A. Dades: I0 = 10⁻¹² W/m², v_so = 340 m/s.",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "5-ON-5500550155025503"
   },
   {
     "any": 2024,
@@ -27,7 +29,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) El Fun-Fly-Stick és un enginyós generador d’electricitat estàtica... a) Feu un dibuix de forces i calculeu la càrrega de l’objecte de 10 g a 55 cm de la vareta. [1,25 p] b) Ara amb q = –2 μC per a tots dos i separació 60 cm: camp al punt central, potencial i treball per portar un electró des de l’infinit. Dades: g = 9,8 m/s², |e| = 1,602×10⁻¹⁹ C.",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "4-CE-4251425242534254"
   },
   {
     "any": 2024,
@@ -37,7 +40,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) L’experiment d’Oersted (1820)... a) Representeu BTerra i Bfil i determineu si la brúixola és sobre o sota del fil. [1,25 p] b) Si l’agulla forma 45° amb el corrent quan circulen 20 A i la separació és 10 cm, calculeu BTerra. Dada: B_fil = μ0 I / (2π r).",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "4-CM-450045034504"
   },
   {
     "any": 2024,
@@ -47,7 +51,8 @@
     "bloc": "Bloc 5 — Ones (Òptica)",
     "text": "P5) Un ull hipermetrop enfoca darrere la retina... a) L’Anna situa el llibre a 35 cm i vol la imatge a 70 cm: calculeu f i potència de la lent. [1,25 p] b) Per una lent convergent de 20 cm, objecte a 25 cm: posició de la imatge, mida i característiques; dibuix del diagrama de raigs. [1,25 p]",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "5-OP-57505751575257535754"
   },
   {
     "any": 2024,
@@ -57,7 +62,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P6) Al jaciment neolític de la Draga... a) Escriviu la reacció 14C → 14N + e– + ν̅, tipus de reacció i relació λ–T1/2. [1,25 p] b) Calculeu λ, percentatge de 14C restant després de 6010 anys i activitat en el moment de la mort si l’actual és 3,63 Bq. [1,25 p] Dades: T½ = 5730 anys.",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "6-NU-660066016602"
   },
   {
     "any": 2024,
@@ -67,7 +73,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P7) Una massa de 100 g fa 40 oscil·lacions per minut i té amplitud total de 15 cm... a) Període, constant de la molla, equació i representació de la força elàstica. [1,25 p] b) Energia mecànica, Ec(x) i velocitat a y = +3 cm. [1,25 p]",
     "imatge_enunciat": "examens/2024_sep.pdf",
-    "imatge_solucio": "examens/2024_sep_sol.pdf"
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "5-VI-50005001500250035004500550065007"
   }
 ]
 
