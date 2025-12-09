@@ -1,0 +1,90 @@
+[
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q4A",
+    "descripcio": "Refracció d’una ona lluminosa: càlcul de freqüència, velocitat en vidre i longitud d’ona.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q4) Un raig groc de 580 nm es propaga per l’aire a 3·10⁸ m/s i incideix en un vidre d’índex n = 1,55.\na) Freqüència de la llum i velocitat en el vidre.\nb) Freqüència i longitud d’ona en el vidre.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf",
+    "id": "6-OP-575257535754"
+  },
+  {
+    "any": 2008,
+    "convocatoria": "sep",
+    "problema": "Q3B",
+    "descripcio": "Qüestions de test sobre mirall pla i lent divergent.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q3) Preguntes d’elecció múltiple:\n1. Imatge en mirall pla.\n2. Imatge formada per una lent divergent.",
+    "imatge_enunciat": "examens/2008_sep.pdf",
+    "imatge_solucio": "examens/2008_sep_sol.pdf",
+    "id": "6-OP-5751"
+  },
+  {
+    "any": 2009,
+    "convocatoria": "jun",
+    "problema": "Q2",
+    "descripcio": "Càlcul de l’índex de refracció mitjançant la llei de Snell.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q2) Un raig làser penetra des de l’aire fins a un material desconegut. L’angle d’incidència és 20° i l’angle de refracció és 14,90°. Determineu l’índex de refracció del material.",
+    "imatge_enunciat": "examens/2009_jun_1.pdf",
+    "imatge_solucio": "examens/2009_jun_1_sol.pdf",
+    "id": "6-OP-5750"
+  },
+  {
+    "any": 2009,
+    "convocatoria": "jun_2",
+    "problema": "Q3B",
+    "descripcio": "Òptica i física moderna: propietats de les lents divergents i energia de fotons UV i IR.",
+    "bloc": "Bloc 6 — Física moderna / Òptica",
+    "text": "Q3) 1. Les persones miops utilitzen lents divergents: les imatges són… (triar una opció).\n2. Energia dels fotons UV i IR comparada amb l’energia necessària per trencar un enllaç molecular.",
+    "imatge_enunciat": "examens/2009_jun_2.pdf",
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "6-OP-57516252"
+  },
+  {
+    "any": 2009,
+    "convocatoria": "sep",
+    "problema": "Q1",
+    "descripcio": "Formació d’imatge amb una lupa: posició de l’objecte, naturalesa i orientació de la imatge.",
+    "bloc": "Bloc 6 — Òptica",
+    "text": "Q1) Una lupa és una lent convergent que s’utiliza per a veure més grans els objectes propers. Feu la representació gràfica per trobar la imatge que produeix una lupa quan situem un objecte entre la lent i el focus. Si volem veure la fletxa més gran, haurem situat bé l’objecte? La imatge serà dreta o invertida? Real o virtual?",
+    "imatge_enunciat": "examens/2009_sep.pdf",
+    "imatge_solucio": "examens/2009_sep_sol.pdf",
+    "id": "6-OP-57505751"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "sep",
+    "problema": "P5",
+    "descripcio": "Òptica geomètrica: hipermetropia, distància focal, potència i formació de la imatge.",
+    "bloc": "Bloc 5 — Ones (Òptica)",
+    "text": "P5) Un ull hipermetrop enfoca darrere la retina... a) L’Anna situa el llibre a 35 cm i vol la imatge a 70 cm: calculeu f i potència de la lent. [1,25 p] b) Per una lent convergent de 20 cm, objecte a 25 cm: posició de la imatge, mida i característiques; dibuix del diagrama de raigs. [1,25 p]",
+    "imatge_enunciat": "examens/2024_sep.pdf",
+    "imatge_solucio": "examens/2024_sep_sol.pdf",
+    "id": "5-OP-57505751575257535754"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P3A",
+    "bloc": "Bloc 6 — Òptica",
+    "descripcio": "Angle límit, reflexió total, bloc transparent i distància màxima per veure l’objecte.",
+    "text": "Exercici 3, opció A...\na) A partir de la llei de Snell, deduïu... \nb) A quina distància màxima...\n[TEXT COMPLET P3A]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "6-OP-575057515754"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "bloc": "Bloc 6 — Òptica",
+    "descripcio": "Refracció: càlcul de la posició d’un objecte submergit, angle límit, velocitat de la llum en aigua, freqüència i longitud d’ona dins la piscina.",
+    "text": "Exercici 3, opció B\nL’Alaitz es troba dalt d’un trampolí... observa un objecte submergit.\na) Calculeu la distància x fins a l’objecte.\nb) Angle límit, velocitat dins de l’aigua, freqüència i longitud d’ona.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "6-OP-575057515754"
+  }
+]
