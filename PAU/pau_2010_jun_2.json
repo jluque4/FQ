@@ -8,7 +8,7 @@
     "text": "P1) L’Estació Espacial Internacional (ISS) té una massa de 3,7·10^5 kg i descriu una òrbita circular a 3,59·10^5 m sobre la superfície. Calculeu:\n(a) La velocitat i el temps que triga a fer una volta.\n(b) L’energia mecànica de la ISS i el signe del resultat.\nDADES: G = 6,67·10^-11; MTerra = 5,98·10^24 kg; RTerra = 6,37·10^6 m.",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "4-CG-400040014002"
   },
 
   {
@@ -20,7 +20,7 @@
     "text": "P2) Una mostra inicial de 6,00·10^23 àtoms radioactius es mesura cada segon. Es dona una gràfica N(t).\n(a) Determineu T½ i quants àtoms s’hauran desintegrat després de 15 s.\n(b) Quant temps cal perquè només quedi el 5% de la mostra?",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "6-NU-660266016601"
   },
 
   {
@@ -32,7 +32,7 @@
     "text": "P3) Opció A — Dues boies separades 2 m oscil·len igual. Fan 30 oscil·lacions per minut i pugen 20 cm.\n(a) Determineu f, λ i v.\n(b) Escriviu l’equació y(t) i la de la velocitat.",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "5-ON-50065509550855095005"
   },
 
   {
@@ -44,7 +44,7 @@
     "text": "P4) Opció A — Càrregues de q = −1,60·10^-19 C als punts (a,0) i (−a,0), amb a = 30 nm.\n(a) Calculeu Ex, Ey al punt A = (0,a).\n(b) Calculeu el treball per portar Q = 3,20·10^-19 C des d'A a l’origen.",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "4-CE-4252425142534254"
   },
 
   {
@@ -56,7 +56,7 @@
     "text": "P5) Opció A — Un imant penja sobre una bobina connectada a un voltímetre.\n(a) Expliqueu què indica el voltímetre si el terra puja, baixa o no es mou.\n(b) Si s'aplica corrent altern a la bobina, quin efecte té sobre l’imant?",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "4-CI-475047514503"
   },
 
   {
@@ -68,7 +68,7 @@
     "text": "P3) Opció B — Un diapasó vibra amb f = 1000 Hz i A = 1 mm, amb els dos extrems en fase.\n(a) Calculeu y i v a t = 3,3·10^-4 s.\n(b) Raoneu si hi ha interferència i determineu els punts de màxim.",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "5-VI-50005005500655125513"
   },
 
   {
@@ -80,7 +80,7 @@
     "text": "P4) Opció B — Tub de 20 cm amb ΔV = 50 kV per accelerar ions K+.\n(a) Calculeu E i la força sobre l’ió.\n(b) Calculeu Ec guanyada i la velocitat final. Discuta si cal tenir en compte relativitat.",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "4-CE-4252425142546253"
   },
 
   {
@@ -92,6 +92,6 @@
     "text": "P5) Opció B — En una regió hi ha B = 5,0·10^-5 T en direcció y.\n(a) Calculeu la velocitat de l’electró perquè F_mag sigui igual i contrària al pes.\n(b) Una espira de 0,025 m² gira a 100π rad/s: determineu la FEM induïda ε(t).",
     "imatge_enunciat": "examens/2010_jun_2.pdf",
     "imatge_solucio": "examens/2010_jun_2_sol.pdf",
-    "id": ""
+    "id": "4-CM-450147504751"
   }
 ]

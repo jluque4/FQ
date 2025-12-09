@@ -8,7 +8,7 @@
     "text": "P1) Entre dues plaques metàl·liques conductores, de 30 cm de llargària, hi ha un camp elèctric uniforme vertical d'intensitat E = 10^4 V/m.\n(a) A quina velocitat horitzontal s'ha de llançar un electró perquè en surti fregant un dels extrems?\n(b) Expliqueu la trajectòria i calculeu el treball de la força elèctrica sobre l'electró.\nDades: m_e = 9,11×10^-31 kg; q_e = 1,602×10^-19 C.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "4-CE-42524251425842544257"
   },
 
   {
@@ -20,7 +20,7 @@
     "text": "P2) Disposem de dades del Sistema Solar: distàncies en UA, períodes orbitals i masses relatives.\n(a) Calculeu la constant de la tercera llei de Kepler per Venus, Júpiter i Saturn, i el valor més correcte per al Sistema Solar.\n(b) Calculeu la massa del Sol i l'acceleració de la gravetat a Mart.\nDades: 1 UA = 1,496×10^11 m; M_Terra = 5,974×10^24 kg; R_Terra = 6,378×10^6 m; G = 6,67×10^-11.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "4-CG-40014005"
   },
 
   {
@@ -32,7 +32,7 @@
     "text": "P3) Opció A — Una vuvuzela produeix un so de 235 Hz i harmònics entre 470 Hz i 1.645 Hz.\n(a) Considereu el tub obert pels dos extrems: calculeu-ne la longitud.\n(b) Un espectador percep 116 dB a 1 m. Quants decibels percep a 50 m?\nDades: v_so = 340 m/s; I0 = 10^-12 W/m².",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "5-ON-5507550855025503"
   },
 
   {
@@ -44,7 +44,7 @@
     "text": "P4) Opció A — Una massa de 0,5 kg oscil·la unida a una molla en una superfície sense fregament.\nEs dóna una gràfica d'EM en funció d'A².\n(a) Determineu la freqüència d'oscil·lació.\n(b) Calculeu la velocitat màxima per una amplitud de 0,1414 m.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "5-VI-5004500650055008"
   },
 
   {
@@ -56,7 +56,7 @@
     "text": "P5) Opció A — Espira de radi r = 25 cm sotmesa a un camp magnètic perpendicular. Es dóna gràfica de B(t).\n(a) Determineu si hi ha corrent induït en cada interval i el sentit.\n(b) Calculeu la intensitat induïda sabent que R = 5 Ω.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "5-VI-5004500650055008"
   },
 
   {
@@ -68,7 +68,7 @@
     "text": "P3) Opció B — El triti és un isòtop radioactiu de l'hidrogen amb dos neutrons.\n(a) Completeu les reaccions nuclears que el generen a l'atmosfera i en reactors.\n(b) Representeu la gràfica de massa vs temps per una mostra inicial de 120 g durant 60 anys.\nDades: T½ ≈ 12 anys.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -80,7 +80,7 @@
     "text": "P4) Opció B — Antena que emet ones EM de 900 MHz i potència 4 W.\n(a) Calculeu quants fotons emet en un minut.\n(b) Determineu si poden produir efecte fotoelèctric en un metall amb funció de treball 4,1 eV.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "6-QM-625262506257"
   },
 
   {
@@ -92,6 +92,6 @@
     "text": "P5) Opció B — Un electró arriba a tenir una massa efectiva 10 vegades superior.\n(a) Determineu l’energia cinètica guanyada (en J i MeV).\n(b) Escriu l’equació d’aniquilació e⁻ + e⁺ → 2γ i calculeu l’energia i la freqüència dels fotons.",
     "imatge_enunciat": "examens/2011_jun_1.pdf",
     "imatge_solucio": "examens/2011_jun_1_sol.pdf",
-    "id": ""
+    "id": "6-QM-660962526252"
   }
 ]

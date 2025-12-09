@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) A partir de les dades sobre Júpiter i la Terra del quadre següent, trobeu:\na) L’acceleració de la gravetat a la superfície de Júpiter.\nb) La velocitat d’escapament de la superfície de Júpiter.\nc) Els anys que tarda Júpiter a fer una volta entorn del Sol.\nDades bàsiques: Radi equatorial: Júpiter 71 492 km, Terra 6 378 km. Distància mitjana al Sol: Júpiter 778 330 000 km, Terra 149 600 000 km. Massa: Júpiter 318 MTerra, Terra 5,98×10^24 kg. Gravetat superficial Terra: 9,8 m/s².",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "4-CG-400540034001"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 1 — Mecànica",
     "text": "Q1) Un bloc de massa 20 kg cau lliscant per un pla inclinat, salvant un desnivell de 25 m. Si parteix del repòs i assoleix una velocitat final de 15 m/s, determineu l’energia perduda per fricció.",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "1-MC-10001001"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "Q2) Un protó i un electró, ambdós a la mateixa velocitat v₀, penetren en una regió de camp magnètic uniforme perpendicular a la velocitat. Dibuixeu i justifiqueu la trajectòria que descriu cada partícula. Determineu la relació existent entre els radis de les seves òrbites. Dades: mp=1,67×10⁻²⁷ kg; me=9,11×10⁻³¹ kg; e=−1,6×10⁻¹⁹ C.",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "4-CM-450145034502"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Opció A — Una esfera petita de massa 250 g i càrrega q penja d’un fil. Apliquem un camp elèctric de 10³ N/C dirigit al sentit negatiu de l’eix x i s’observa que queda en repòs quan el fil forma un angle de 37° amb la vertical.\na) Dibuixeu les forces i determineu el signe de q.\nb) Calculeu la tensió del fil.\nc) Determineu el valor de la càrrega q.",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "4-CE-425142574257"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 1 — Mecànica",
     "text": "Q3) En la gràfica es mostra com varia l’acceleració d’un cos de massa 10 kg que es mou en línia recta. Quin treball s’ha efectuat per moure’l de x = 0 fins a x = 8 m?",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "1-MC-10001001"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "Q4) Una radiació UV de freqüència 1,5×10¹⁵ Hz incideix sobre coure. La freqüència llindar és 1,1×10¹⁵ Hz.\na) Calculeu l’energia cinètica màxima dels fotoelectrons.\nb) Expliqueu què passaria si la llum tingués λ = 3,0×10⁻⁷ m.",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "6-QM-6252625062566257"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 1 — Mecànica",
     "text": "P2) Opció B — Dues partícules es mouen sobre un pla horitzontal sense fregament amb velocitats inicials v₁=(2,−3) per a m₁=2 kg i v₂=(−3,−3) per a m₂=4 kg. Després del xoc, la velocitat de m₁ és (−3,−2).\na) Calculeu el mòdul de la velocitat de m₂ després del xoc.\nb) Determineu si el xoc és elàstic.\nc) Calculeu la variació d’energia cinètica de cada partícula.",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "1-MC-100810051001"
   },
 
   {
@@ -84,7 +91,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "Q3) Qüestió d’elecció múltiple:\n1. Expressió correcta de l’energia d’escapament.\n2. Si g = g₀/16, determineu la distància al centre de la Terra.\nOpcions: a), b), c).",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "4-CG-40034005"
   },
 
   {
@@ -95,6 +103,7 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "Q4) Generem ones de 20 Hz i amplitud 2 cm que recorren 10 m en 5 s.\n1. Velocitat màxima de vibració.\n2. Diferència de fase entre punts separats 5 cm.\nOpcions: a), b), c).",
     "imatge_enunciat": "examens/2008_jun_1.pdf",
-    "imatge_solucio": "examens/2008_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2008_jun_1_sol.pdf",
+    "id": "5-ON-5005500655115509"
   }
 ]

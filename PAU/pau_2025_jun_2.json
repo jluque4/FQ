@@ -1,0 +1,68 @@
+[
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P1",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "descripcio": "Velocitat orbital, període i energia mecànica d'un objecte en òrbita; caiguda de l’EEI fins al mar.",
+    "text": "Exercici 1. Camps gravitatoris\nLa brossa espacial deixada per satèl·lits antics... [TEXT COMPLET DEL P1 DEL PDF]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "4-CG-400140034002"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P2A",
+    "bloc": "Bloc 4 — Camp elèctric",
+    "descripcio": "Experiment de Millikan: esquemes, camp E, càrrega de la gota i pèrdua d’un electró.",
+    "text": "Exercici 2, opció A...\na) Feu un esquema del dispositiu emprat per Millikan... \nb) Tenint en compte que la densitat de l’oli és...\n[TEXT COMPLET P2A]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "4-CE-4251425742524254"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P2B",
+    "bloc": "Bloc 4 — Electromagnetisme",
+    "descripcio": "Inducció electromagnètica: flux, FEM induïda, sentit del corrent, força magnètica i intensitat.",
+    "text": "Exercici 2, opció B...\na) Calculeu l’expressió del flux magnètic... \nb) Suposem que la barra presenta una resistència...\n[TEXT COMPLET P2B]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "4-CI-4750475145014503"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P3A",
+    "bloc": "Bloc 6 — Òptica",
+    "descripcio": "Angle límit, reflexió total, bloc transparent i distància màxima per veure l’objecte.",
+    "text": "Exercici 3, opció A...\na) A partir de la llei de Snell, deduïu... \nb) A quina distància màxima...\n[TEXT COMPLET P3A]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "6-OP-575057515754"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P3B",
+    "bloc": "Bloc 5 — Ones",
+    "descripcio": "Flauta travessera: harmònics, nodes i ventres, modes de vibració i freqüències.",
+    "text": "Exercici 3, opció B...\na) Per a tocar la nota més greu... \nb) Tapem un dels extrems...\n[TEXT COMPLET P3B]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "5-ON-550655095510"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun2",
+    "problema": "P4",
+    "bloc": "Bloc 6 — Nuclear i radioactivitat",
+    "descripcio": "Desintegració beta, neutrins, activitat i volum de sang d’un pacient.",
+    "text": "Exercici 4...\na) Ens diuen que el nucli inicial té un excés de neutrons... \nb) Per trobar l’activitat al cap de 10 h...\n[TEXT COMPLET P4]",
+    "imatge_enunciat": "examens/2025_jun_2.pdf",
+    "imatge_solucio": "examens/2025_jun_2_sol.pdf",
+    "id": "6-NU-660066016602"
+  }
+]

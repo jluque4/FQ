@@ -6,8 +6,8 @@
     "descripcio": "Òrbita circular i energia mecànica del satèl·lit MPO al voltant de Mercuri; càlcul de v, nombre d’òrbites anuals i massa màxima perquè pugui escapar.",
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "Exercici 1. Camp gravitatori — Opció 1)\nLa missió BepiColombo explorarà Mercuri i posarà en òrbita el satèl·lit Mercury Planetary Orbiter (MPO) al voltant del planeta amb un radi orbital mitjà de 3.360 km.\n(a) Considereu un satèl·lit que fa una òrbita circular al voltant de Mercuri. Deduïu l’expressió de la velocitat orbital del satèl·lit en funció del radi orbital i la massa de Mercuri [...] Calculeu la velocitat orbital del MPO i quantes voltes fa en un any terrestre. (1,25 p)\n(b) A partir de l’expressió general de l’energia mecànica, obtingueu-ne l’equació per al cas particular d’un satèl·lit en òrbita circular [...] Determineu la massa màxima del MPO perquè amb 4,5·10^9 J pugui escapar. (1,25 p)\nDades: G = 6,67·10⁻¹¹, MM = 3,285·10²³ kg, any terrestre = 365,25 dies.",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "4-CG-4000400140024003"
 
   },
@@ -18,8 +18,8 @@
     "descripcio": "Òrbita i energia mecànica de l’EEI: càlcul de v, nombre de voltes per dia, energia a 280 km i energia cinètica d’impacte.",
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "Exercici 1. Camp gravitatori — Opció 2)\nL’Estació Espacial Internacional (EEI) orbita a 400 km per sobre la superfície terrestre.\n(a) Deduïu l’expressió de la velocitat orbital en funció del radi orbital. Calculeu la velocitat de l’EEI i les voltes que fa cada dia. (1,25 p)\n(b) En rebaixar l’òrbita a 280 km, calculeu l’energia mecànica i justifiqueu-ne el signe. Calculeu l’energia cinètica d’impacte en caure sense fregament. (1,25 p)\nDades: G = 6,67·10⁻¹¹, MT = 5,98·10²⁴ kg, RT = 6,37·10⁶ m, M_EEI = 430·10³ kg.",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "4-CG-400040014002"
   },
 
@@ -30,8 +30,8 @@
     "descripcio": "Camp magnètic produït per un llamp núvol-terra modelat com un fil infinit; línies de camp, gràfica B(r), força sobre un electró.",
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "Exercici 2. Camp electromagnètic\nSuposem un llamp núvol-terra negatiu que passa per un parallamps. Es crea un camp magnètic que modelarem com el d’un fil infinit.\n(a) Calculeu B a 10 cm per un corrent de 100 kA. Dibuixeu parallamps, sentit del corrent i tres línies de camp. (1,25 p)\n(b) Representeu el mòdul de B(r) entre 10 i 50 cm. Un electró es troba a 10 cm amb velocitat paral·lela al parallamps. Calculeu la força i indiqueu direcció i sentit. (1,25 p)\nDades: μ0 = 4π·10⁻⁷, B = μ0 I / (2π r), |e| = 1,602·10⁻¹⁹ C.",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "4-CM-450045014502"
   },
 
@@ -42,8 +42,8 @@
     "descripcio": "Moviment harmònic simple vertical i moviment circular equivalent: equació del moviment, energia total, constant elàstica, velocitat i Ec(t).",
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "Exercici 3. Vibracions i ones\nUna massa de 0,5 kg en una molla segueix un MHS vertical. Una segona massa gira a 19 cm del centre d’un disc amb ω = 6,41 rad/s. Les dues ombres tenen el mateix moviment.\n(a) Escriviu y(t) des del punt més baix. Trobeu energia mecànica i constant elàstica. (1,25 p)\n(b) Calculeu v(t) i Ec(t). Representeu Em, Ep i Ec en funció de la posició. (1,25 p)",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "5-VI-500050015002500350045005"
   },
 
@@ -54,8 +54,8 @@
     "descripcio": "Desintegració alfa del Po-210: activitat al cap d’una setmana i treball elèctric en formació d’un àtom d’heli.",
     "bloc": "Bloc 6 — Física nuclear i de partícules",
     "text": "Exercici 4. Física moderna — Opció 1)\nEl Po-210 (T½ = 138 dies) es desintegra per emissió alfa produint Pb.\n(a) Escriviu la desintegració i calculeu l’activitat de 5 mg al cap d’una setmana. (1,25 p)\n(b) En captar dos electrons, calculeu el treball efectuat pel camp en cada pas i l’energia potencial final. (1,25 p)\nDades: |e| = 1,602·10⁻¹⁹ C, k = 8,99·10⁹ N·m²/C².",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "6-NU-6600660166024250"
   },
   {
@@ -65,8 +65,8 @@
     "descripcio": "Efecte fotoelèctric: treball d’extracció, potencial de frenada, velocitat dels electrons i longitud d’ona de De Broglie.",
     "bloc": "Bloc 6 — Física moderna",
     "text": "Exercici 4. Física moderna — Opció 2)\nUn metall presenta efecte fotoelèctric per λ ≤ 650 nm.\n(a) Calculeu el treball d’extracció i el potencial de frenada per llum de 300 nm. (1,25 p)\n(b) Trobeu v(λ), la velocitat per λ = 500 nm i la λ de De Broglie associada. (1,25 p)\nDades: c = 3,00·10⁸ m/s, |e| = 1,602·10⁻¹⁹ C, me = 9,11·10⁻³¹ kg, h = 6,626·10⁻³⁴ J·s.",
-    "imatge_enunciat": "examens/2025_jun.pdf",
-    "imatge_solucio": "examens/2025_jun_sol.pdf",
+    "imatge_enunciat": "examens/2025_jun_1.pdf",
+    "imatge_solucio": "examens/2025_jun_1_sol.pdf",
     "id": "6-QM-62506251625262536254"
   }
 ]

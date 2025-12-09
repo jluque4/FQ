@@ -8,7 +8,7 @@
     "text": "P1) La primera missió europea dedicada a estudiar l’origen de l’Univers enviarà a l’espai el satèl·lit Planck, que analitzarà la radiació de fons provinent del Big Bang. El satèl·lit Planck es llançarà l’any 2009, tindrà una massa de 1 800 kg i se situarà en una òrbita al voltant de la Terra que es troba a 1,5 milions de kilòmetres del centre del planeta. Suposeu que el satèl·lit descriurà una òrbita circular.\nCalculeu:\na) La velocitat del satèl·lit i els dies que tardarà a fer una volta a la Terra.\nb) L’energia cinètica, l’energia potencial gravitatòria i l’energia mecànica del satèl·lit Planck quan estigui en aquesta òrbita.\nc) La velocitat a la qual arribaria a la superfície terrestre si la velocitat orbital esdevingués nul·la.\nDADES: MTerra=5,98·10^24 kg; RTerra=6,38·10^6 m; G=6,67·10^–11 N·m²·kg⁻².",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "4-CG-4000400140024003"
   },
   {
     "any": 2009,
@@ -19,7 +19,7 @@
     "text": "Q1) Una lupa és una lent convergent que s’utiliza per a veure més grans els objectes propers. Feu la representació gràfica per trobar la imatge que produeix una lupa quan situem un objecte entre la lent i el focus. Si volem veure la fletxa més gran, haurem situat bé l’objecte? La imatge serà dreta o invertida? Real o virtual?",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "6-OP-57505751"
   },
   {
     "any": 2009,
@@ -30,7 +30,7 @@
     "text": "Q2) L’èmbol d’una màquina de vapor té un recorregut D = 100 cm i comunica a l’eix una velocitat angular de 60 rpm. Si el moviment de l’èmbol és un mhs, determineu la velocitat quan és a 20 cm d’un dels extrems del recorregut.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "5-VI-5000500650085005"
   },
   {
     "any": 2009,
@@ -41,7 +41,7 @@
     "text": "P2) Opció A — El tambor d’una assecadora és un cilindre d’acer de radi 20 cm. La velocitat augmenta de 0 a 900 rpm en 10 s.\na) Escriviu ω(t) i α(t).\nb) Acceleració tangencial i centrípeta als 5 s.\nc) Força màxima sobre un jersei mullat de 0,5 kg a 900 rpm.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "5-VI-500650055005"
   },
   {
     "any": 2009,
@@ -52,7 +52,7 @@
     "text": "Q3) Es dona la gràfica del potencial interior d’un condensador. Determineu:\na) La diferència de potencial entre armadures.\nb) L’equació de la recta que ajusta la gràfica i la intensitat del camp elèctric.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "4-CE-42534252"
   },
   {
     "any": 2009,
@@ -63,7 +63,7 @@
     "text": "Q4) Una font emet llum monocromàtica de 550 nm amb potència 2 mW. Energia d’extracció: 2,10 eV.\na) Energia cinètica màxima dels electrons.\nb) Nombre de fotons emesos en un minut.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "6-QM-625262506253"
   },
   {
     "any": 2009,
@@ -74,7 +74,7 @@
     "text": "P2) Opció B — Tenim dues càrregues q1=+10⁻³ C a (0,3) i q2=−10⁻⁴ C a (−3,0).\na) Components del camp elèctric a (0,0).\nb) Energia potencial del sistema.\nc) Treball per portar una càrrega Q=+10⁻⁴ C des de l’infinit fins a (0,−3).",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "4-CE-425242504254"
   },
   {
     "any": 2009,
@@ -85,7 +85,7 @@
     "text": "Q3) La corda del violí vibra a 440 Hz i transmet una ona acústica d’amplitud 5 mm.\n1. Trieu l’equació correcta de l’ona.\n2. Distància mínima entre dos punts en fase.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "5-ON-550955095006"
   },
   {
     "any": 2009,
@@ -96,7 +96,7 @@
     "text": "Q4) En una pista d’esquí sense fregament (tram AB) seguida d’un tram amb fregament (BC):\n1. Velocitat al punt B.\n2. Distància que recorrerà fins aturar-se, BC.",
     "imatge_enunciat": "examens/2009_sep.pdf",
     "imatge_solucio": "examens/2009_sep_sol.pdf",
-    "id": ""
+    "id": "1-MC-100010011002"
   }
 ]
 

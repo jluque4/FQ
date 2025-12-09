@@ -7,7 +7,8 @@
     "bloc": "Bloc 1 — Mecànica",
     "text": "P1) En unes muntanyes russes, una vagoneta de massa M1 = 2 500 kg arrenca del repòs en el punt A i recorre una pista com la representada a la figura. Després de recórrer el trajecte, xoca amb una altra vagoneta de massa M2 = 3 500 kg, que estava aturada al punt D, i queden unides. El fregament és negligible. A és a 25 m d’altura i C a 20 m.\na) Calculeu la velocitat que tindrà el conjunt després del xoc.\nb) Dibuixeu forces sobre M1 al punt B i calculeu-ne els valors. El punt B és el punt més baix d’un arc de 20 m de radi.\nc) Calculeu el radi mínim de curvatura al punt C perquè no perdi el contacte.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "1-MC-100010051003"
   },
   {
     "any": 2009,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "Q1) Calculeu la velocitat mínima a la qual s’ha de llançar verticalment cap amunt un satèl·lit perquè arribi a una altura igual al radi de la Terra.\nDADES: G = 6,67·10−11; MT = 5,98·10^24 kg; RT = 6,37·10^6 m.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "4-CG-40024003"
   },
   {
     "any": 2009,
@@ -27,7 +29,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "Q2) Una cubeta d’ones genera ones superficials amb f = 2 Hz. L’ona triga 1,0 s a recórrer 30 cm. Calculeu la longitud d’ona.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "5-ON-55085509"
   },
   {
     "any": 2009,
@@ -37,7 +40,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Opció A — Un dipol té q positiva a (0,0) i q negativa a (3,0), |q| = 10−4 C.\na) Potencial al punt (0,4).\nb) Acceleració d’un protó al punt mig del segment.\nc) Energia necessària per separar les càrregues al doble de distància.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "4-CE-4253425242514250"
   },
   {
     "any": 2009,
@@ -47,7 +51,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "Q3) Una molla sense fregament amb m = 0,5 kg es desplaça 50 cm i es deixa anar. Es dona la gràfica d’Ep = kx²/2. Determineu k i la velocitat quan l’elongació és 20 cm.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "5-VI-5004500450085005"
   },
   {
     "any": 2009,
@@ -57,7 +62,8 @@
     "bloc": "Bloc 1 — Mecànica",
     "text": "Q4) Cotxes d’una atracció giren a 3,0 m/s descrivint un cercle de 8,0 m. a) Components intrínseques de l’acceleració. b) Si la velocitat baixa uniformement de 3,0 a 1,0 m/s en 10 s, calculeu l'acceleració angular i tangencial.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "1-MC-10031004"
   },
   {
     "any": 2009,
@@ -67,7 +73,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) Opció B — Un cos de 10 kg penjat d’una molla s’allarga 2 cm. S’estira 3 cm addicionals i es deixa oscil·lar.\na) Escriviu l’equació del moviment.\nb) Velocitat al cap de 5 s.\nc) Força recuperadora al cap de 6 s.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "5-VI-500050054004"
   },
   {
     "any": 2009,
@@ -77,7 +84,8 @@
     "bloc": "Bloc 6 — Física moderna / Òptica",
     "text": "Q3) 1. Les persones miops utilitzen lents divergents: les imatges són… (triar una opció).\n2. Energia dels fotons UV i IR comparada amb l’energia necessària per trencar un enllaç molecular.",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "6-OP-57516252"
   },
   {
     "any": 2009,
@@ -87,6 +95,7 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "Q4) Si la distància Terra–Sol es reduís a la meitat:\n1. Com canviaria la força?\n2. Com canviaria la durada de l’any? (triar opcions).",
     "imatge_enunciat": "examens/2009_jun_2.pdf",
-    "imatge_solucio": "examens/2009_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2009_jun_2_sol.pdf",
+    "id": "4-CG-40054001"
   }
 ]
