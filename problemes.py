@@ -29,7 +29,7 @@ entries.sort(key=lambda x: (-x["any"], conv_priority(x["convocatoria"]), x["prob
 # -------------------------------------------------------
 # GENERAR LES FILES DEL MARKDOWN
 # -------------------------------------------------------
-for p in entries:
+for num, p in enumerate(entries):
     year = p["any"]
     conv = p["convocatoria"]
     pid = p["problema"]
@@ -51,7 +51,7 @@ for p in entries:
         f'<img src="img/pdf_b.png" width="32"/></a>'
     )
 
-    rows.append(f"| {year} | {pid} | {bloc} | {desc} | {enun_icon} | {sol_icon} |")
+    rows.append(f"| {num+1} | {year} | {pid} | {bloc} | {desc} | {enun_icon} | {sol_icon} |")
 
 
 # -------------------------------------------------------
@@ -61,8 +61,8 @@ content = [
     "# PAU — Problemes 2008-2025",
     "",
     "",
-    "| Any | ID | Bloc | Descripció | Exam | Resp |",
-    "|--|--|:---|:---|:--:|:--:|",
+    "| N | Any | ID | Bloc | Descripció | Exam | Resp |",
+    "|--|--|--|:---|:---|:--:|:--:|",
 ] + rows
 
 with open(OUTPUT, "w", encoding="utf8") as f:
