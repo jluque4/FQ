@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) Edmond Halley... [text complet de P1 extret del PDF d’enunciats]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P2) Una partícula carregada és a sobre d’una taula... [text complet de P2]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -27,7 +29,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Per a estudiar les característiques d’una molla... [text complet P3]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -37,7 +40,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Volem utilitzar un espectròmetre de masses... [text complet P4]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -47,7 +51,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P5) En un accident de trànsit... [text complet P5]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -57,7 +62,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P6) Una línia de mitjana tensió de 25,0 kV... [text complet P6]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -67,7 +73,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P7) La sirena d’una alarma... [text complet P7]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   },
   {
     "any": 2022,
@@ -77,6 +84,7 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P8) A l’abadia de Westminster... [text complet P8]",
     "imatge_enunciat": "examens/2022_jun_2.pdf",
-    "imatge_solucio": "examens/2022_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2022_jun_2_sol.pdf",
+    "id":""
   }
 ]

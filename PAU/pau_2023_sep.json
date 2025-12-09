@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) El mes de novembre del 2021, la NASA va llançar la missió DART (Double Asteroid Redirection Test) ... a) A partir de la llei de la gravitació universal, trobeu l’expressió de la intensitat del camp gravitatori a la superfície de Didymos i calculeu-ne el valor. També determineu la força gravitatòria mitjana entre Didymos i Dimorphos. [1,25 punts] b) Deduïu l’expressió de la velocitat orbital en funció del radi. Argumenteu si Dimorphos orbitarà més ràpid en la nova òrbita o en l’original. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"4-CG-400540064000"
   },
   {
     "any": 2023,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P2) En una cubeta amb aigua i dues plaques connectades a una font s’han mesurat diversos valors de potencial ... a) Empleneu la taula amb la mitjana del potencial, dibuixeu les equipotencials i les línies de camp i determineu el mòdul d’E a partir de la gràfica. [1,25 punts] b) Per a una càrrega positiva de 3,00 mC col·locada al punt P, indiqueu la trajectòria, representeu la direcció i sentit de la força, i calculeu la força i el treball del camp entre x = 8 cm i x = 0 cm. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"4-CE-4256425242514254"
   },
   {
     "any": 2023,
@@ -27,7 +29,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) En un tub obert pels dos extrems submergit en aigua fem vibrar un diapasó de 442 Hz ... a) Identifiqueu els harmònics, dibuixeu nodes i ventres, justifiqueu que la longitud d’ona no varia i determineu la longitud per al cinquè harmònic. [1,25 punts] b) Determineu la velocitat del so a l’aire a partir de les ressonàncies i expliqueu si variaria substituint l’aigua per glicerina. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"5-OS-5505550655075508"
   },
   {
     "any": 2023,
@@ -37,7 +40,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Un espectròmetre de masses conté un selector de velocitats amb camps E i B perpendiculars ... a) Determineu ΔV perquè ions de 2,00×10^5 m/s no es desviïn i expliqueu quin elèctrode queda a potencial alt. [1,25 punts] b) Representeu la trajectòria en el segon camp magnètic i determineu la distància a què impacta un ió 20Ne−. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"4-CM-450545014502"
   },
   {
     "any": 2023,
@@ -47,7 +51,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) a) Justifiqueu si es pot determinar la massa d’un objecte penjat d’una molla a partir del període d’oscil·lació i si el resultat seria el mateix a la Lluna. [1,25 punts] b) Deduïu l’equació del moviment d’un MHS amb A = 6,00 cm, f = 10,0 Hz i acceleració màxima inicial. Calculeu v_max i a_max. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"5-VI-5006500050055008"
   },
   {
     "any": 2023,
@@ -57,7 +62,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P6) En centrals nuclears, l’energia prové de la fissió de l'urani ... a) Calculeu el defecte de massa i energia d’enllaç per nucleó de l’urani 235 i determineu quin nucli de la taula és més estable. [1,25 punts] b) Escriviu la reacció de fissió quan un dels nuclis és bari-141 i calculeu quants grams d’urani 235 calen per generar 25 000 kWh. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"6-NU-66036604660566066607"
   },
   {
     "any": 2023,
@@ -67,6 +73,7 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P7) Volem construir un sensor UV sensible a 300 nm... a) Calculeu la longitud d’ona llindar del material perquè l’energia mínima dels electrons sigui 1 eV. [1,25 punts] b) Completeu la taula amb les longituds d’ona llindar de W, Mg i K i determineu quin material és adequat per al sensor. [1,25 punts]",
     "imatge_enunciat": "examens/2023_sep.pdf",
-    "imatge_solucio": "examens/2023_sep_sol.pdf"
+    "imatge_solucio": "examens/2023_sep_sol.pdf",
+    "id":"6-QM-62556250"
   }
 ]

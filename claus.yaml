@@ -11,7 +11,11 @@ bloc4:
         "4001": "Període orbital / relació orbital"
         "4002": "Energia mecànica orbital"
         "4003": "Velocitat d'escapament"
-        "4004": "Acceleració normal / força centrípeta en òrbita"  
+        "4004": "Acceleració normal / força centrípeta en òrbita"
+        "4005": "Intensitat del camp gravitatori (g = GM/r²)"
+        "4006": "Força gravitatòria entre dos cossos"
+        "4007": "Radi crític on v_esc < c (criteri de Schwarzschild Newtonià)"
+        "4008": "Velocitat de llançament per assolir òrbita circular"   # NOU
 
     camp_electric:
       id: "CE"
@@ -22,7 +26,10 @@ bloc4:
         "4252": "Camp elèctric per superposició"
         "4253": "Potencial elèctric"
         "4254": "Treball elèctric (q·ΔV)"
-        "4255": "Càrrega equivalent d'una esfera per camp E"        
+        "4255": "Càrrega equivalent d'una esfera per camp E"
+        "4256": "Camp E determinat a partir del potencial"
+        "4257": "Determinació del signe i magnitud de la càrrega segons línies de camp"
+        "4258": "Velocitat adquirida per acceleració elèctrica (q·ΔV → 1/2 mv²)"
 
     camp_magnetic:
       id: "CM"
@@ -33,11 +40,21 @@ bloc4:
         "4502": "Moviment circular / trajectòria en camp B"
         "4503": "Superposició de camps magnètics"
         "4504": "Càlcul del camp magnètic terrestre"
+        "4505": "Condició del selector de velocitats (v = E/B)"
+        "4506": "Força magnètica sobre un conductor recte"
+        "4507": "Força entre dos fils paral·lels"
+        "4508": "Camp magnètic d'una espira circular (Biot–Savart)"
 
     induccio:
       id: "CI"
       rang: [4750, 4999]
-      items: {}
+      items:
+        "4750": "Flux magnètic a través d'una espira"
+        "4751": "Llei de Faraday (FEM induïda)"
+        "4752": "Regla de Lenz"
+        "4753": "Corrent induït I = ε/R"
+        "4754": "Transformador ideal: equacions principals"        # NOU
+        "4755": "Relació d’espires i tensió (V1/V2 = n1/n2)"      # NOU
 
 # --------------------------------------------------------------
 
@@ -58,7 +75,8 @@ bloc5:
         "5005": "Velocitat instantània en MHS"
         "5006": "Període MHS (T)"
         "5007": "Força elàstica F = -kx"
-        "5755": "Moviment circular projectat (relació amb MHS)"    
+        "5008": "Acceleració màxima en MHS"
+        "5755": "Moviment circular projectat (relació amb MHS)"
 
     ones:
       id: "ON"
@@ -68,7 +86,14 @@ bloc5:
         "5501": "Diferència de fase / camins"
         "5502": "Intensitat sonora (I)"
         "5503": "Nivell sonor (dB)"
-        "5504": "Energia acústica"                                 
+        "5504": "Energia acústica"
+        "5505": "Harmònics en tub obert"
+        "5506": "Nodes i ventres en ones estacionàries"
+        "5507": "Longitud d’ona (λ) en ones estacionàries"
+        "5508": "Velocitat del so a partir de λ i f"
+        "5509": "Velocitat d’una ona superficial (v = λ·f)"
+        "5510": "Determinació de la freqüència d’una ona superficial"
+        "5511": "Potència sonora irradiada (P = I·A)"              # NOU
 
     ones_estacionaries:
       id: "OS"
@@ -95,7 +120,9 @@ bloc6:
     relativitat:
       id: "RE"
       rang: [6000, 6249]
-      items: {}
+      items:
+        "6000": "Redshift gravitatori"                              # NOU
+        "6001": "Variació de freqüència per diferència de potencial gravitatori"  # NOU
 
     quantica:
       id: "QM"
@@ -106,6 +133,9 @@ bloc6:
         "6252": "Energia del fotó (E = hf)"
         "6253": "Energia cinètica / velocitat de l’electró"
         "6254": "Longitud d’ona de De Broglie"
+        "6255": "Freqüència / longitud d’ona llindar en efecte fotoelèctric"
+        "6256": "Relació experimental V_f – f (mètode del potencial invers)"
+        "6257": "Condició d’emissió fotoelèctrica per λ donada"
 
     nuclear:
       id: "NU"
@@ -114,3 +144,14 @@ bloc6:
         "6600": "Desintegració nuclear (alfa, beta, gamma)"
         "6601": "Activitat radioactiva A(t)"
         "6602": "Semivida (T1/2)"
+        "6603": "Defecte de massa"
+        "6604": "Energia d’enllaç per nucleó"
+        "6605": "Estabilitat nuclear"
+        "6606": "Reacció de fissió"
+        "6607": "Energia alliberada en fissió"
+        "6608": "Captura de neutrons (procés S)"
+        "6609": "Desintegració beta menys (β–)"
+        "6610": "Emissió gamma"
+        "6611": "Balanç global de reaccions nuclears"
+
+
