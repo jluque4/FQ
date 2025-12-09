@@ -17,8 +17,7 @@ Els subgrups són:
 
 ### 1. Òrbites circulars
 
-**Descripció:**  
-Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
+**Temàtica**: Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -41,8 +40,7 @@ Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbit
 
 ### 2. Energia mecànica i velocitat d’escapament
 
-**Descripció:**  
-Problemes on l’objectiu principal és treballar amb **energia mecànica orbital**, **energia potencial gravitatoria**, o **velocitat d’escapament**, incloent l’energia necessària per situar un satèl·lit en òrbita o alliberar-se del camp gravitatori d’un planeta.
+**Temàtica**: Problemes on l’objectiu principal és treballar amb **energia mecànica orbital**, **energia potencial gravitatoria**, o **velocitat d’escapament**, incloent l’energia necessària per situar un satèl·lit en òrbita o alliberar-se del camp gravitatori d’un planeta.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -89,8 +87,7 @@ Problemes on l’objectiu principal és treballar amb **energia mecànica orbita
 
 ### 3. Òrbites el·líptiques i lleis de Kepler
 
-**Descripció:**  
-Problemes que impliquen trajectòries **no circulars**, aplicació de les **lleis de Kepler**, moviment en **afeli/periheli**, conservació del **moment angular**, i velocitats extremes en punts de l’òrbita el·líptica.
+**Temàtica**: Problemes que impliquen trajectòries **no circulars**, aplicació de les **lleis de Kepler**, moviment en **afeli/periheli**, conservació del **moment angular**, i velocitats extremes en punts de l’òrbita el·líptica.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -117,21 +114,21 @@ Problemes que impliquen trajectòries **no circulars**, aplicació de les **llei
 
 ### 4. Principi de superposició, força, camp i potencial gravitatori.
 
-**Descripció:**  
-Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **$Fg = G·m1·m2/r²**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
+****Temàtica****: Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **$Fg = G·m1·m2/r²**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
-|--|--|--|:---|:--:|:--:|
+|--|--|--|---|:--:|:--:|
+|-|-|-|-|-|-|
 
 ---
 
 # Bloc 4 — Camp electromagnètic
 
-Aquest bloc inclou tres grans àrees temàtiques: camp elèctric, camp magnètic i inducció electromagnètica. A continuació es presenten les taules de problemes classificats segons aquests grups.
+Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnètic (CM) i inducció electromagnètica (CI). Cada subàrea conté els conceptes essencials del currículum i la taula corresponent de problemes PAU.
 
 ### 1. Camp Elèctric
 
-Temàtica: energia i potencial elèctric, força electrostàtica, superposició de camps, treball elèctric, camp a partir del potencial, línies de camp, acceleració per camp elèctric.
+**Temàtica**: energia i potencial elèctric, força electrostàtica, superposició de camps, treball elèctric, camp a partir del potencial, línies de camp, acceleració per camp elèctric.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -215,7 +212,7 @@ Temàtica: energia i potencial elèctric, força electrostàtica, superposició 
 
 ### 2. Camp Magnètic
 
-Temàtica: força de Lorentz, moviment de càrregues en camp B, superposició de camps magnètics, corrents i conductors, força entre fils, espira circular, camp terrestre, selector de velocitats, ciclotró.
+**Temàtica**: força de Lorentz (qvB); moviment circular en camps magnètics; superposició vectorial de camps B; conductors rectes i forces sobre fils; camp magnètic d’espira (Biot–Savart); selector de velocitats; ciclotró i freqüència de gir; camp magnètic terrestre.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -267,7 +264,7 @@ Temàtica: força de Lorentz, moviment de càrregues en camp B, superposició de
 
 ### 3. Inducció Electromagnètica 
 
-Temàtica: flux magnètic, llei de Faraday, llei de Lenz, corrent induït, transformadors, tensió i intensitat, rendiment.
+**Temàtica**: flux magnètic; llei de Faraday; llei de Lenz; FEM induïda; corrent induït (I = ε/R); transformadors ideals (equacions principals); relació d’espires; intensitats i potències; rendiment energètic.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -306,11 +303,11 @@ Temàtica: flux magnètic, llei de Faraday, llei de Lenz, corrent induït, trans
 
 # Bloc 5 — vibravions, ones i òptica
 
-Aquest bloc agrupa tres grans subàrees: Moviment Harmònic Simple (VI), Ones i Ones Estacionàries (ON/OS) i Òptica (OP). A continuació es presenten les taules de problemes classificats per temàtica.
+Aquest bloc integra els tres pilars de la física de propagació: moviment harmònic simple (VI), ones i ones estacionàries (ON/OS) i òptica geomètrica (OP). A cada subàrea se li associa la taula de problemes corresponent.
 
 ### 1. Moviment Harmònic Simple
 
-Temes: equació del moviment MHS, energia mecànica, energia cinètica/potencial, constant elàstica, període, força elàstica, acceleració, gràfics T²–m.
+**Temàtica**: equació del moviment MHS; energia mecànica, cinètica i potencial; constant elàstica; període i freqüència; força elàstica; acceleració màxima; anàlisi gràfic T²–m.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -360,7 +357,7 @@ Temes: equació del moviment MHS, energia mecànica, energia cinètica/potencial
 
 ### 2. Ones i Ones estacionàries
 
-Temes: longitud d’ona, velocitat d’ona (v = λ·f), interferències, diferència de fase, intensitat i nivell sonor, harmònics, tubs i cordes, nodes i ventres, velocitat del so, potència sonora, equació general d’una ona, efecte Doppler.
+**Temàtica**: longitud d’ona i velocitat de propagació; índex de refracció; interferències i diferències de fase; intensitat i nivell sonor; energia acústica; harmònics en tubs i cordes; nodes i ventres; equació general d’una ona sonora; efecte Doppler.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -368,9 +365,9 @@ Temes: longitud d’ona, velocitat d’ona (v = λ·f), interferències, diferè
 | 2 | 2022 | P3 | Modelització del volcà com un tub sonor amb un extrem tancat i càlcul d’intensitat sonora. | <a href="PAU/examens/2022_sep.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2022_sep_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
 | 3 | 2020 | P7 | Determinar λ, v i n d’una ona electromagnètica dins un vidre i direccions de propagació de E i B. | <a href="PAU/examens/2020_jun_2.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2020_jun_2_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
 
-## 3. Òptica
+### 3. Òptica
 
-Temes: lents fines, potència, equació de les lents, ampliació, diagrama de raigs, formació d’imatges, moviment circular projectat relacionat amb MHS.
+**Temàtica**: lents fines; potència òptica; equació de les lents fins (1/f = 1/s + 1/s′); ampliació i mida d’imatges; construcció de diagrames de raigs; relació entre moviment circular projectat i MHS.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -387,11 +384,11 @@ Temes: lents fines, potència, equació de les lents, ampliació, diagrama de ra
 
 # Bloc 6 — Física relativista, quàntica i nuclear
 
-Aquest bloc agrupa tres subàrees fonamentals: Relativitat (RE), Quàntica (QM) i Nuclear (NU). A continuació es presenten les taules de problemes classificats segons cada temàtica.
+Aquest bloc recull tres grans àrees de la física moderna: relativitat (RE), quàntica (QM) i física nuclear (NU). Les taules de problemes associen cada qüestió PAU a la seva temàtica científica.
 
 ### 1. Relativitat
 
-Temes: redshift gravitatori, variacions de freqüència per diferència de potencial gravitatori, efectes relativistes.
+**Temàtica**: redshift gravitatori; variacions de freqüència per diferències de potencial gravitatori; efectes relativistes sobre la propagació d’ones electromagnètiques.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -399,7 +396,7 @@ Temes: redshift gravitatori, variacions de freqüència per diferència de poten
 
 ### 2. Física Quàntica
 
-Temes: efecte fotoelèctric, treball d’extracció, potencial de frenada, energia del fotó, energies cinètiques d’electrons, longitud d’ona de De Broglie, condicions d’emissió, creació de parelles, radi de Bohr, equivalència massa-energia del fotó.
+**Temàtica**: efecte fotoelèctric; treball d’extracció; potencial de frenada; energia dels fotons (E = hf); energia cinètica i velocitat dels electrons; longitud d’ona de De Broglie; llindars d’emissió; materialització (h·f ≥ 2mc²); radi de Bohr; equivalència massa-energia.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
@@ -442,7 +439,7 @@ Temes: efecte fotoelèctric, treball d’extracció, potencial de frenada, energ
 
 ### 3. Física Nuclear (NU)
 
-Temes: desintegracions alfa/beta/gamma, activitat radioactiva, semivida, defecte de massa, energia d’enllaç, estabilitat nuclear, fissió, energia alliberada, captura de neutrons, reaccions nuclears, anihilació matèria–antimatèria.
+**Temàtica**: desintegracions alfa, beta i gamma; activitat i evolució temporal; semivida; defecte de massa i energia d’enllaç; estabilitat nuclear; fissió i energia alliberada; captura de neutrons; balanç en reaccions nuclears; anihilació matèria–antimatèria.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
