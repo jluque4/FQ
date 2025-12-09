@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) La distància mitjana del planeta Júpiter al Sol és 5,203 vegades la distància mitjana de la Terra al Sol. La massa de Júpiter és 317,8 vegades la massa de la Terra i té un radi 10,52 vegades el radi terrestre.\n(a) Calculeu la durada de l'any de Júpiter.\n(b) Calculeu la velocitat d'escapament a la superfície de Júpiter.\nDades: RTerra = 6367 km; g = 9,80 m/s².",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "P2) Una radiació ultraviolada de λ = 200 nm incideix sobre una placa de plom i emet electrons amb Ec màxima d’1,97 eV.\n(a) Calculeu la funció de treball del plom.\n(b) Calculeu la longitud d'ona associada als electrons emesos.\nDades: c = 3,00·10⁸ m/s; h = 6,63·10⁻³⁴ J·s; me = 9,11·10⁻³¹ kg; 1 eV = 1,602·10⁻¹⁹ J.",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció A — Tenim Q1 = 4 μC al punt (-2,0) i Q2 = -3 μC al punt (2,0).\n(a) Quina càrrega hem de posar al punt (4,0) perquè el camp a (0,0) sigui nul?\n(b) Quant val la seva energia potencial electrostàtica en aquesta posició?\nDada: k = 9,0·10⁹ N·m²/C².",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Opció A — La flauta es modela com un tub obert de 70,0 cm.\n(a) Dibuixeu el fonamental i calculeu f1, f2 i f3.\n(b) Si una flauta produeix 65 dB a 2 m, quants dB en produeixen tres flautes?\nDada: v_so = 340 m/s.",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció A — En una cambra d’ionització apareixen un electró i un positró amb la mateixa energia. B = 2·10⁻⁴ T.\n(a) Indiqueu la trajectòria de cadascun i calculeu-ne la velocitat.\n(b) Calculeu l’energia en repòs de l’electró i l’energia mínima perquè un fotó generi un parell e⁺e⁻.\nDades: q_e = ±1,602·10⁻¹⁹ C; m_e = 9,11·10⁻³¹ kg; h = 6,626·10⁻³⁴ J·s; c = 3,00·10⁸ m/s.",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció B — Electrons accelerats amb 5,0·10³ V arriben a una zona on E = 1,0·10⁴ N/C cap avall.\n(a) Determineu Ec i la velocitat en sortir del canó.\n(b) Determineu la força i l'acceleració a la zona del camp vertical i justifiqueu si cal tenir en compte el pes.",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Opció B — Molla de k = 125 N/m amb massa de 200 g, desplaçada 12 cm.\n(a) Calculeu Ec_max, Ep_max i v_max.\n(b) Calculeu període, freqüència i l’equació x(t) prenent t=0 com l’instant de sortida.\n",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — Un timbre funciona a 12,0 V i 0,200 A. Un transformador té 20 espires al secundari.\n(a) Amb 220 V al primari, determineu Np i la intensitat al primari.\n(b) Expliqueu què passa si el primari s’alimenta amb 24 V en corrent continu.",
     "imatge_enunciat": "examens/2010_sep.pdf",
-    "imatge_solucio": "examens/2010_sep_sol.pdf"
+    "imatge_solucio": "examens/2010_sep_sol.pdf",
+    "id": ""
   }
 ]

@@ -7,7 +7,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P1) Una massa m = 0,3 kg, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima és 15 J.\n(a) Si entre els dos punts on la velocitat és nul·la hi ha 50 cm, calculeu amplitud, freqüència, període i la constant elàstica.\n(b) Calculeu posició, velocitat i acceleració a t = 3 s, sabent que a t = 0 s el cos té Ec màxima.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Els raigs X es generen accelerant electrons amb 60 kV al llarg de 4 cm.\n(a) Determineu el camp elèctric aplicat: mòdul, direcció i sentit.\n(b) Calculeu l’energia cinètica dels electrons en xocar amb la placa positiva i la freqüència dels fotons emesos.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P3) Opció A — A la superfície d’un planeta, g_s = 9 m/s² i a h = 100 km és 8,7 m/s². Determineu el radi del planeta.\n(b) És possible una òrbita terrestre amb v = 10 km/s? Calculeu-ne el radi hipotètic i compareu-lo amb RTerra.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Opció A — Una balena emet sons de 20 Hz que arriben a la superfície amb un angle de 60° respecte de la normal.\n(a) Calculeu l’angle amb què el so surt a l’aire i si el poden sentir grills o saltamartins.\n(b) Calculeu λ dins l’aigua i λ a l’aire.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P5) Opció A — El iode-131 té T½ = 8 dies.\n(a) Determineu el nombre màssic i atòmic del xenó format i calculeu la longitud d’ona d'una partícula β de 2×10^5 km/s.\n(b) Quants dies han de passar perquè la quantitat es redueixi al 12,5%?",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció B — Una barra pot girar entre els pols d’un imant; un fil forma una bobina al voltant.\n(a) Feu el dibuix de les línies de camp i expliqueu com es mourà la barra.\n(b) A partir del gràfic Φ(t), determineu en quins intervals hi ha FEM induïda.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P4) Opció B — Radi amb T½ = 1,59×10³ anys.\n(a) Determineu la massa restant avui d’una mostra d’1 g guardada el 1911.\n(b) Calculeu activitat inicial i activitat actual.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció B — En una figura es mostren fronts d’ona d’un so que travessa un obstacle.\n(a) Identifiqueu el fenomen, condicions i exemples.\n(b) Dibuixeu fronts d’ona quan el so es refracta entre medis i quan es produeix el so d’un clàxon en moviment. Expliqueu com canvien v, λ i f.",
     "imatge_enunciat": "examens/2011_jun_2.pdf",
-    "imatge_solucio": "examens/2011_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2011_jun_2_sol.pdf",
+    "id": ""
   }
 ]

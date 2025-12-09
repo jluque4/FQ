@@ -7,7 +7,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P1) La massa dels astronautes a l’espai es mesura amb un aparell que es basa en el moviment vibratori harmònic. Per a una massa de 60 kg, la freqüència d’oscil·lació és 0,678 Hz.\n(a) Calculeu la velocitat màxima si l’amplitud és 20 cm.\n(b) Amb una freqüència mesurada de 0,6064 Hz, calculeu la constant elàstica i la massa de l’astronauta.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "5-VI-500650055004"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Dos axons paral·lels condueixen un corrent de 0,66×10⁻⁶ A en el mateix sentit.\n(a) Indiqueu direcció i sentit del camp magnètic que produeix cada axó en la posició de l’altre i dibuixeu la força corresponent.\n(b) Calculeu el mòdul de la força sobre 2 cm de l’axó 2 sabent que el camp creat per l’altre val 1,1×10⁻¹⁰ T.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "4-CM-450045034506"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Opció A — La corda d’una guitarra fa 0,65 m i vibra a 440 Hz.\n(a) Determineu la longitud d’ona del fonamental, nodes i ventres, i la velocitat de propagació.\n(b) Dibuixeu el segon i quart harmònic i calculeu-ne la freqüència.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "5-ON-550755085505"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — Tres càrregues QA = −2 μC, QB = −4 μC i QC = −8 μC estan alineades.\n(a) Si la força total sobre QC és zero, calculeu la distància entre QC i QA.\n(b) Calculeu el treball necessari per portar QC a un punt equidistant entre A i B.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "4-CE-4251425242544253"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P5) Opció A — El poloni-210 té un període de semidesintegració de 138,4 dies.\n(a) Determineu els índexs x i y i el temps perquè la massa es redueixi al 30%.\n(b) Calculeu l’energia alliberada per nucli (en J i en MeV).",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "6-NU-6600660266016608"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció B — Tres càrregues de Q = 10⁻⁵ C ocupen els vèrtexs d’un triangle equilàter.\n(a) Calculeu la força total sobre una de les positives i representeu les forces.\n(b) Calculeu l’energia potencial total i el treball per traslladar una càrrega al centre del costat.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "4-CE-4251425242504254"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "P4) Opció B — Es mesura Ec per a diverses freqüències incidentes.\n(a) Determineu la constant de Planck.\n(b) Determineu la funció de treball del material.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "6-QM-625662506253"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — En un camp B = 0,2 j T:\n(a) Calculeu la força sobre una càrrega positiva que es mou a v = 2 k m/s.\n(b) Determineu la FEM induïda en una espira quadrada de 0,01 m² que gira a 30 rad/s.",
     "imatge_enunciat": "examens/2011_sep.pdf",
-    "imatge_solucio": "examens/2011_sep_sol.pdf"
+    "imatge_solucio": "examens/2011_sep_sol.pdf",
+    "id": "4-CM-4501450347514750"
   }
 ]

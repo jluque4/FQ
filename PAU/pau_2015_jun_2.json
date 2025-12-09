@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P1) Dues càrregues elèctriques de 0,03 μC cadascuna, però de signe contrari, es troben separades 40,0 cm.\n(a) Representeu i calculeu el vector del camp elèctric en el punt que forma un triangle equilàter amb la posició de les càrregues. Calculeu també el potencial elèctric en el mateix punt.\n(b) Si modifiquem la distància entre les càrregues fins a duplicar-la, en quant varia l’energia potencial elèctrica de la distribució? Expliqueu si augmenta o disminueix.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "4-CE-42524257425342504254"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P2) En un nucli atòmic radioactiu s’esdevenen dues desintegracions successives representades en la gràfica Z–N.\n(a) Escriviu les equacions nuclears i nom de cada desintegració; indiqueu nom, Z i A de tots els nuclis.\n(b) Si el període de semidesintegració és 10,64 h, calculeu el temps perquè es desintegrin el 10,0% dels nuclis.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P3) Opció A — L’Sputnik 1 va ser el primer satèl·lit artificial. Massa 83,6 kg, període 96,2 min.\n(a) Expliqueu si pot ser geostacionari i calculeu-ne l'altura en cas d'òrbita circular.\n(b) A latitud 45,5°, la velocitat deguda a la rotació terrestre és 325 m/s. Calculeu l’energia que va caldre subministrar per situar-lo en òrbita.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "4-CG-400140014002"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — Dues partícules carregades es mouen en un camp magnètic uniforme de 4,50×10⁻¹ T que surt del paper.\n(a) Determineu el signe de les càrregues i calculeu-ne la velocitat.\n(b) Calculeu els radis de les trajectòries i la freqüència del moviment de Q2.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "4-CM-4501450245094503"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció A — La veu soprano va del do₃ (261,7 Hz) al re₅ (1174,7 Hz).\n(a) Calculeu les longituds d’ona corresponents.\n(b) A 10,0 m l’oient percep 80 dB. Calculeu la potència emesa.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "5-ON-550955025503"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P3) Opció B —\n(a) Demostreu que la velocitat d’escapament és v_esc = sqrt(2GM/R).\n(b) Amb velocitat inicial igual a la meitat de v_esc de la Lluna, calculeu l’altura màxima assolida.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "4-CG-40034002"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Opció B — Una boia descriu un MHS amb amplitud 0,5 m i període 2,0 s.\n(a) Escriviu l’equació del moviment.\n(b) Calculeu la velocitat màxima i l’energia cinètica màxima de la boia (massa 1,5 kg).",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "5-VI-500050055008"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — Un fil infinit amb 2 A es troba a 5 cm del centre d’una espira de 500 mA i diàmetre 2,0 cm.\n(a) Calculeu el camp produït pel fil i per l’espira al centre.\n(b) Determineu el camp total i el valor de la intensitat necessària perquè B = 0 al centre.",
     "imatge_enunciat": "examens/2015_jun_2.pdf",
-    "imatge_solucio": "examens/2015_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2015_jun_2_sol.pdf",
+    "id": "4-CM-450045084503"
   }
 ]

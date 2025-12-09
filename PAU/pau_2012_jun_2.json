@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) El febrer del 2009 es va descobrir CoRoT-7b... òrbita circular de 2,58×10^9 m i període 20,5 h. Massa 2,90×10^25 kg, radi 1,07×10^7 m.\na) Calculeu la massa de l’estel CoRoT-7.\nb) Calculeu g a la superfície del planeta i la velocitat d’escapament.\nDada: G = 6,67×10^-11.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "4-CG-400140054003"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) Disposem d’una molla de k = 4,00 N/m i longitud natural 20,0 cm. Penjada verticalment, suportant una plataforma de massa 20 g.\na) Determineu la lectura del dial en equilibri.\nb) Afegim M = 300 g i desplacem 10 cm: calculeu la velocitat quan torna a passar per l’equilibri.\nDada: g = 9,81 m/s².",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "5-VI-500450055008"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P3) Opció A — L’urani 235 pot desintegrar-se en múltiples canals. Completeu:\n235U + 1n → 95Sr + 139Xe + 2n.\nIndiqueu protons i neutrons del 235U.\nb) Calculeu l’energia alliberada segons les masses donades.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "6-NU-660066076608"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — Un electró es llança i travessa regions A i B: A té un camp E cap a l’esquerra, B té un camp cap avall.\na) Indiqueu direcció i sentit del camp A i descriviu el moviment a B.\nb) Amb E = 40×10^3 N/C i longitud 5,00 cm, calculeu ΔV i l’increment d’energia cinètica.\nDada: q_e = −1,60×10^-19 C.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "4-CE-4257425142544253"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció A — En un selector, E = 20,0 N/C i B = 2,50×10^-3 T.\na) Determineu la velocitat dels ions que no es desvien.\nb) Calculeu la distància d’impacte dels ions de triti (massa 3u).\nDades: 1u = 1,67×10^-27 kg, q = 1,60×10^-19 C.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "4-CM-425245014502"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció B — Dos ions positius A i B entren en B = 0,42 T amb v = 3×10^5 m/s i càrrega igual.\na) Calculeu la força magnètica sobre cada ió.\nb) Determineu rA/rB sabent que mA = 2 mB.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "4-CM-45014502"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P4) Opció B — Plutoni amb T½ = 6,58×10^3 anys.\na) Percentatge restant d’aquí a un segle.\nb) Longitud d’ona de De Broglie per Ec = 1,00×10^-13 J.\nDades: h = 6,62×10^-34 J·s, mα = 6,68×10^-27 kg.",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "6-NU-660266016257"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — Electroscopi amb dues esferes iguals unides per fils de 3,00 cm i angle 30°.\na) Feu el diagrama de forces i trobeu la tensió.\nb) Calculeu la càrrega de cada esfera.\nDades: m = 1,00 mg; k = 9,00×10^9 N·m²/C²; g = 9,80 m/s².",
     "imatge_enunciat": "examens/2012_jun_2.pdf",
-    "imatge_solucio": "examens/2012_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2012_jun_2_sol.pdf",
+    "id": "4-CE-425742514251"
   }
 ]

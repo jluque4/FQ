@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) Ceres és el planeta nan més petit del Sistema Solar... Té un període orbital de 4,60 anys, massa 9,43×10^20 kg i radi 477 km.\na) Calculeu la intensitat del camp gravitatori a la superfície, la velocitat i l'energia mínima per escapar.\nb) Calculeu la distància mitjana entre Ceres i el Sol a partir de la Terra i del període orbital.\nDada: G = 6,67×10^-11.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "4-CG-4005400340024001"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) Som sensibles a vibracions de 6,0 Hz; per a amàx = 6,0 m/s²-Calculeu: a) l'amplitud. b) La constant elàstica d'una molla per a una massa de 85 kg que oscil·li a 6,0 Hz.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "5-VI-500650085004"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció A — Entre dues làmines separades 3,0 m hi ha E = 1,5×10^3 N/C.\nUna llentia metàl·lica amb càrrega -5,0×10^-5 C i massa 12 g penja d'un fil de 1,5 m.\na) Representeu forces i calculeu l'angle d'equilibri.\nb) Calculeu la diferència de potencial entre la posició d'equilibri i la vertical.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "4-CE-4252425142574253"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P4) Opció A — Producció de 241Am a partir de 240Pu.\na) Completeu coeficients i identifiqueu la partícula capturada i el tipus de desintegració.\nb) Calculeu el percentatge desintegrat des de 1944.\nDada: T½(Am-241)=432 anys.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció A — Espira circular de radi 4 cm en B = 0,50 T formant 60°.\na) Calculeu el flux i expliqueu si hi ha fem.\nb) Quan B disminueix linealment, calculeu la fem induïda segons la gràfica donada.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "4-CI-47504751"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P3) Opció B — Quadrat de 2,00 m amb Q1 = 9 μC i Q2 = -9 μC.\na) Calculeu E al centre.\nb) Amb Q3 = 7 μC, calculeu el treball per portar-la al vèrtex inferior dret.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "4-CE-4252425342544257"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P4) Opció B — Desintegració del 40K en 40Ar.\na) Escriviu la reacció β.\nb) Si hi ha 10 g de 40K i 10 g de 40Ar, determineu la massa de 40K després de 5×10^9 anys i l’edat de la roca.\nDada: T½ = 1,25×10^9 anys.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — Espira triangular de costat 4 m que entra en una regió amb B constant.\na) Determineu ε(t) i el valor de B sabent que a t=4 s, ε = 160 V.\nb) Representeu ε(t) entre 0 i 8 s i indiqueu el sentit del corrent induït.",
     "imatge_enunciat": "examens/2013_jun_1.pdf",
-    "imatge_solucio": "examens/2013_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2013_jun_1_sol.pdf",
+    "id": "4-CI-475047514503"
   }
 ]

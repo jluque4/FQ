@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) El 15 d’octubre de 2003, la Xina va posar en òrbita la seva primera nau espacial tripulada. La nau tenia una massa de 7 790 kg i un període orbital de 91,2 minuts.\n(a) Calculeu l’altura de l’òrbita sobre la superfície de la Terra.\n(b) Calculeu l’increment d’energia cinètica necessari perquè la nau escapi del camp gravitatori terrestre.\nDADES: G = 6,67·10⁻¹¹ N·m²/kg²; MTerra = 5,98·10²⁴ kg; RTerra = 6,37·10⁶ m.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P2) La gràfica mostra la variació de la massa d’una mostra de iode 131 al llarg del temps.\n(a) Trobeu el període de semidesintegració i la massa restant al cap de 40 dies.\n(b) El iode 131 es desintegra emetent una partícula beta i formant un ió Xe-131. Calculeu l’energia alliberada per desintegració.\nDADES: m(I-131)=130,906125 u; m(Xe⁺-131)=130,904533 u; m_e = 5,486·10⁻⁴ u; 1 u=1,66·10⁻²⁷ kg; c=3·10⁸ m/s.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Opció A — La gràfica mostra Ec(x) d’un oscil·lador harmònic.\n(a) Determineu Ec i Ep per x=0 i x=0,20 m i calculeu la constant elàstica.\n(b) Calculeu la massa de l’oscil·lador si f=(100/2π) Hz.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — L’amplitud del camp elèctric rebut és 0,070 N/C per una ona de 100 MHz.\n(a) Calculeu l’amplitud del camp magnètic i la longitud d’ona. Dibuixeu la configuració E–B.\n(b) Escriviu l’equació del camp elèctric i del camp magnètic.\nDADA: c=3·10⁸ m/s.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció A — En un selector de velocitat, ions entren en una regió amb camps E i B perpendiculars.\n(a) Dibuixeu les forces sobre un ió positiu i calculeu la velocitat dels ions no desviats.\n(b) Expliqueu què passaria si els ions fossin negatius.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Opció B — El dibuix mostra una ona estacionària en una corda.\n(a) Indiqueu els nodes, determineu la distància i la longitud d’ona. Calculeu l’amplitud de les ones incident i reflectida.\n(b) Sabent que f = 30 Hz, escriviu l’equació de l’ona inicial i calculeu la velocitat de propagació.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció B — En tres vèrtexs d’un quadrat de 15 cm hi ha Q1=+1 μC, Q2=−2 μC i Q3=+1 μC.\n(a) Calculeu el camp elèctric al quart vèrtex.\n(b) Calculeu el potencial en el punt i el treball necessari per portar-hi una càrrega de 7 μC.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P5) Opció B — Tenim una espira a prop d’un fil rectilini indefinit.\n(a) Justifiqueu si apareix corrent induït movent l’espira en direccions x i y.\n(b) Dibuixeu el camp magnetostàtic del fil i la força sobre cada costat de l’espira.",
     "imatge_enunciat": "examens/2010_jun_3.pdf",
-    "imatge_solucio": "examens/2010_jun_3_sol.pdf"
+    "imatge_solucio": "examens/2010_jun_3_sol.pdf",
+    "id": ""
   }
 ]

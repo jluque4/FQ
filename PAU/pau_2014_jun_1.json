@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) El Meteosat és un satèl·lit meteorològic ... segueix una òrbita geostacionària.\na) A quina distància de la superfície terrestre es troba el Meteosat?\nb) Quina és l’energia cinètica del Meteosat? Quina energia mínima caldria proporcionar-li perquè s’allunyés indefinidament de la Terra?\nDades: G = 6,67×10⁻¹¹, RTerra = 6 370 km, MTerra = 5,97×10²⁴ kg, mMeteosat = 2,00×10³ kg.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "4-CG-4001400040024003"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Una càrrega Q1 = +1,00×10⁻⁸ C a l’origen i Q2 = –2,00×10⁻⁸ C al semieix Y positiu a 3 m.\na) Calculeu el camp i el potencial al punt A (4 m, 0). Dibuixeu esquema dels camps.\nb) Calculeu el treball del camp al traslladar 1,00 C des d’A fins a B (4,00 , 3,00) m.\nDada: k = 8,99×10⁹.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "4-CE-4252425342544257"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "P3) Opció A — En espectroscòpia de fotoemissió UV: λ = 23,7 nm produeix electrons amb Ec = 47,7 eV.\na) Calculeu la funció de treball en J i eV.\nb) Determineu el llindar de longitud d’ona i expliqueu l’efecte d’augmentar la potència del feix.\nDades: h = 6,63×10⁻³⁴, c = 3×10⁸, 1 eV = 1,60×10⁻¹⁹ J.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "6-QM-6252625062536257"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — Un transformador amb Np = 1000 i Ns = 20.\na) Determineu Vs quan s’aplica 220 V al primari.\nb) Calculeu la intensitat al primari i la potència consumida.\nNegligiu pèrdues.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "4-CI-47544756"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció A — La trompeta es modela com un tub tancat–obert de longitud l0 = 0,975 m.\na) Calculeu λ i f dels tres primers modes estacionaris.\nb) Per a f = 247 Hz (segon mode) determineu nova longitud efectiva i increment Δl.\nDada: v = 340 m/s.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "5-ON-550555075508"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 6 — Física nuclear",
     "text": "P3) Opció B — Restes arqueològiques contenen 9,5×10⁸ àtoms C-14/gram; en vida n’hi havia 6,9×10⁹.\na) Determineu l’antiguitat sabent que T1/2 = 5760 anys.\nb) Escriviu C-14 → β− + ν̅ i calculeu el defecte de massa per nucleó.\nDades: masses p, n, e⁻ i C-14 proporcionades.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "6-NU-6602660166006607"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció B — Una vareta llisca sobre una forca amb x(t) = 1 − 0,3 sin(32t) dins B = 0,5 T.\na) Calculeu el flux en t = 0 i Φ(t).\nb) Determineu la FEM induïda i el seu valor màxim.",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "4-CI-47504751"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció B — El timbre d’una escola dóna 50 dB a 7,0 m.\na) Calculeu la intensitat en aquest punt.\nb) Determineu la potència del timbre i a quina distància deixa de ser percebut.\nDada: I0 = 1,0×10⁻¹² W/m².",
     "imatge_enunciat": "examens/2014_jun_1.pdf",
-    "imatge_solucio": "examens/2014_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2014_jun_1_sol.pdf",
+    "id": "5-ON-55035502"
   }
 ]

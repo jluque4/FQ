@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori",
     "text": "P1) Un satèl·lit de 2000 kg de massa gira en una òrbita circular a una altura de 3630 km sobre la superfície de la Terra. a) Calculeu el període i la velocitat del satèl·lit. En passar pel punt P augmenta la velocitat fins a 7,00×10^3 m/s i passa a una òrbita el·líptica amb apogeu de 9530 km. b) Calculeu Ec, Ep i Em en els punts P i A en la nova òrbita. Dades: MTerra = 5,97×10^24 kg, G = 6,67×10^-11, RTerra = 6370 km.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "4-CG-400140004002"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P2) Segons el model de Bohr, l’àtom d’hidrogen té un electró que descriu una òrbita circular estable. Radi mínim 5,29×10^-11 m. a) Calculeu la força elèctrica i la freqüència de gir. b) Calculeu l’energia mecànica de l’electró, negligint Ep gravitacional. Dades: k = 8,99×10^9, qe = −1,60×10^-19 C, me = 9,11×10^-31 kg.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "4-CE-4251425842534250"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "P3) Opció A — Il·luminem coure amb llum de diverses freqüències i mesurem Ec dels electrons emesos. a) Expliqueu el llindar de freqüència i calculeu-lo a partir de la gràfica. b) Calculeu h a partir del pendent i la velocitat dels electrons per λ = 1,2×10^-7 m. Dades: c = 3×10^8 m/s, me = 9,11×10^-31 kg.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "6-QM-6255625662526253"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció A — Un fil rectilini de 5 m i massa 100 g és horitzontal sota l'acció d’un camp magnètic uniforme. a) Calculeu el mòdul, direcció i sentit del camp perquè es mantingui suspès amb I = 0,3 A. b) Enrotllem el fil formant una espira circular al pla xy: calculeu la FEM induïda per un camp variable B = 0,1[cos(10πt)i + cos(10πt)j].",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "4-CM-4506450347514750"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció A — A partir d’una gràfica de T² en funció de m, calculeu k. Amb amplitud 0,10 m, determineu Ec màxima. b) Amb k = 150 N/m, m = 1,5 kg i A = 0,20 m, calculeu a_max i el treball del fregament fins a aturar el moviment.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "5-VI-500650045008"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 6 — Física moderna",
     "text": "P3) Opció B — Tub de buit amb diferència de potencial de 3 V i fotons de 10 eV. a) Calculeu freqüència i longitud d’ona i el camp E. b) Calculeu Ec dels electrons emesos i el treball d’extracció del coure.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "6-QM-62526257425262506253"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 4 — Electromagnetisme",
     "text": "P4) Opció B — Electrons travessen un selector amb B = 0,040 T cap avall i E = 250 V/m. a) Dibuixeu forces i calculeu la velocitat que permet travessar sense desviació. b) Amb v = 1,25×10^4 m/s i només B, determineu freqüència, radi i sentit del moviment circular.",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "4-CM-42524501450245094503"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P5) Opció B — Ressonància en un tub amb aigua per a 440 Hz a h = 19 cm i 57 cm. a) Dibuixeu esquemes de l’ona estacionària i calculeu v_so. b) Per potència 0,01 W a 3 m, calculeu el nivell sonor. Dades: I0 = 10^-12 W/m².",
     "imatge_enunciat": "examens/2014_sep.pdf",
-    "imatge_solucio": "examens/2014_sep_sol.pdf"
+    "imatge_solucio": "examens/2014_sep_sol.pdf",
+    "id": "5-ON-55055507550855025503"
   }
 ]
