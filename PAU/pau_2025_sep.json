@@ -1,0 +1,68 @@
+[
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P1",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "descripcio": "Energia potencial gravitatòria, distàncies al centre de Mercuri, intensitat del camp i conservació del moment angular en òrbita el·líptica.",
+    "text": "Exercici 1. Camps gravitatoris\nLa nau BepiColombo, de 2 700 kg de massa, sobrevola Mercuri per estudiar el planeta.\na) Completeu la taula següent calculant la distància respecte al centre de Mercuri per als dos punts indicats.\nDistància respecte al centre de Mercuri (m) Energia potencial (J)\nPunt 1 1010 –1,89 ×\nPunt 2 1010 –1,35 ×\nb) [...] (TEXT COMPLET EXTRET DEL PDF).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "4-CG-4002400140034000"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P2A",
+    "bloc": "Bloc 4 — Electromagnetisme (inducció)",
+    "descripcio": "Flux magnètic, llei de Lenz, FEM induïda, sentit de moviment, força magnètica sobre la vareta.",
+    "text": "Exercici 2, opció A\nUna vareta metàŀlica es desplaça a una velocitat constant de 3,00 m/s sobre un conductor en forma de U dins un camp magnètic uniforme B = 0,40 T [...].\na) Calculeu el flux magnètic inicial, justifiqueu el sentit del corrent induït i determineu la FEM induïda.\nb) Justifiqueu si apareix força magnètica, calculeu-la i dibuixeu-la.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "4-CI-4750475145064503"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P2B",
+    "bloc": "Bloc 4 — Camp elèctric / Model de Bohr",
+    "descripcio": "Model de Bohr: deducció del moment angular, radi quantitzat i energies de l'òrbita n=1.",
+    "text": "Exercici 2, opció B\nEl model de l’àtom d’hidrogen de Bohr suposa que l’electró descriu una òrbita circular...\na) Demostreu que L = e√(k m r). Trobeu l’expressió del radi de l’òrbita i calculeu-lo per n = 1.\nb) Calculeu Ec, Ep i Em per al nivell n=1.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "6-QM-625062526256"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P3A",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "descripcio": "Pèndol: gràfic T²–L, pendent, càlcul de g, energia potencial i mecànica, velocitat màxima.",
+    "text": "Exercici 3, opció A\nAl taller de l’institut dissenyem un pèndol...\na) Ompliu la taula, representeu T²(L), calculeu el pendent i determineu g.\nb) Energia potencial, cinètica i mecànica i velocitat màxima.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "5-VB-500650075008"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P3B",
+    "bloc": "Bloc 6 — Òptica",
+    "descripcio": "Refracció: càlcul de la posició d’un objecte submergit, angle límit, velocitat de la llum en aigua, freqüència i longitud d’ona dins la piscina.",
+    "text": "Exercici 3, opció B\nL’Alaitz es troba dalt d’un trampolí... observa un objecte submergit.\na) Calculeu la distància x fins a l’objecte.\nb) Angle límit, velocitat dins de l’aigua, freqüència i longitud d’ona.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "6-OP-575057515754"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "sep",
+    "problema": "P4",
+    "bloc": "Bloc 6 — Física nuclear",
+    "descripcio": "Desintegració beta− de l’I-131, antineutrí, massa corresponent a una activitat, evolució temporal de l’activitat.",
+    "text": "Exercici 4\nL’isòtop del iode 131 (Z = 53)...\na) Escriviu la reacció nuclear completa i digueu de quin tipus de desintegració es tracta.\nb) Massa de I-131 corresponent a 40×10⁶ Bq, activitat al cap d'una setmana i representació gràfica.\n(TEXT COMPLET).",
+    "imatge_enunciat": "examens/2025_sep.pdf",
+    "imatge_solucio": "examens/2025_sep_sol.pdf",
+    "id": "6-NU-660066016602"
+  }
+]

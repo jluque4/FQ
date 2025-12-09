@@ -1,0 +1,79 @@
+[
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P1",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "descripcio": "Telescopi James Webb al punt L2: forces gravitatòries del Sol i la Terra, moviment circular i constant de Kepler.",
+    "text": "El JWST orbita el Sol al punt de Lagrange L2 del sistema Sol-Terra. Es demanen les forces gravitatòries del Sol i la Terra sobre el telescopi, la força total i el període orbital considerant òrbita circular al voltant del Sol, i la constant de Kepler per al sistema Terra-Sol, discutint si és aplicable al telescopi.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "4-CG-40054001"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P2",
+    "bloc": "Bloc 4 — Camp elèctric",
+    "descripcio": "Gotes de tinta carregades en una impressora: camp elèctric uniforme, acceleració, velocitat i desviació parabòlica.",
+    "text": "Una impressora de tinta accelera gotes amb càrrega negativa dins dues regions amb camps elèctrics uniformes. En la primera zona el camp és horitzontal i accelera les gotes sense desviar-les; es demana dibuixar les línies de camp, identificar ànode i càtode i calcular la velocitat de sortida a partir de la diferència de potencial. A la segona zona el camp és vertical i limita, es demanen l’acceleració de les gotes i el tipus de trajectòria que descriuen.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "4-CE-425242514257"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P3",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "descripcio": "Interferència de dos altaveus coherents: longitud d'ona, representació sobre dues rectes i variació d’intensitat en diferents situacions.",
+    "text": "Dos altaveus separats emeten la mateixa ona sonora harmònica en fase. Es demana calcular la longitud d’ona i representar qualitativament l’amplitud sobre dues rectes associades a diferent camí recorregut per les ones, identificant el tipus d’interferència en un punt donat. Després es pregunta com canvien el so percebut (freqüència i intensitat) si un altaveu deixa de funcionar, si un altaveu es desplaça una distància determinada i si es canvia el punt d’observació a un lloc equidistant dels dos altaveus.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "5-ON-5508550955105511"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P4",
+    "bloc": "Bloc 4 — Electromagnetisme (inducció)",
+    "descripcio": "Detector de metalls: camp magnètic d’una espira amb corrent altern i inducció en anell conductor; tensió induïda per un imant en moviment.",
+    "text": "Es descriu el funcionament bàsic d’un detector de metalls format per una espira de corrent altern i un anell conductor soterrat. Es demana dibuixar el camp magnètic creat per l’espira i explicar, amb Faraday i Lenz, com l’anell genera un camp magnètic i perquè cal corrent altern perquè el detector funcioni. A la segona part, un imant es desplaça cap a una bobina i s’enregistra la tensió induïda; cal triar entre diversos gràfics de V(t) el que correspon a l’experiència i explicar com canviarien amplitud i escala temporal si el moviment de l’imant fos el doble de ràpid.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "4-CI-4750475145004503"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P5",
+    "bloc": "Bloc 6 — Física nuclear",
+    "descripcio": "Desintegració β− del rubidi-87 en estronci-87 i datació de roques a partir del període de semidesintegració.",
+    "text": "L’isòtop 87Rb es desintegra i forma 87Sr amb un període de semidesintegració molt llarg. Es demana escriure l’equació nuclear de desintegració i identificar el tipus de desintegració (beta menys). A partir de la proporció actual de Rb i Sr en unes roques amb fòssils i assumint que inicialment no hi havia 87Sr, cal calcular l’edat de les roques utilitzant la llei exponencial de desintegració radioactiva.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "6-NU-66006602"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P6",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "descripcio": "Microscopi de forces atòmiques: moviment harmònic simple de la punta, amplitud, període, freqüència angular, equació del moviment, acceleració màxima i massa equivalent.",
+    "text": "Es presenta el funcionament d’un AFM, on la punta oscil·la verticalment com una massa subjecta a una molla. A partir d’un gràfic de la posició en funció del temps s’han de determinar l’amplitud, el període i la freqüència angular, escriure l’equació del moviment harmònic simple i calcular l’acceleració màxima. En una segona part, sabent la constant elàstica de la molla, es demana obtenir la massa equivalent de la punta i raonar si un augment del període observat correspon a una pèrdua o a un guany de massa.",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "5-VI-500050065007"
+  },
+  {
+    "any": 2024,
+    "convocatoria": "jun2",
+    "problema": "P7",
+    "bloc": "Bloc 6 — Física nuclear",
+    "descripcio": "Formació de plutoni-239 a partir d’urani-238 mitjançant captures de neutrons i desintegracions β−, i energia alliberada en la desintegració alfa del plutoni.",
+    "text": "Es descriu la producció de 239Pu en un reactor: un neutró d’alta energia és capturat per 238U formant 239U, que desintegra β− per donar 239Np, el qual finalment desintegra β− per produir 239Pu. Es demana escriure les tres reaccions nuclears respectant la conservació de nucleons i càrrega. A la segona part, el plutoni 239 desintegra emetent una partícula alfa i formant urani 235; es demana escriure la reacció i calcular l’energia alliberada a partir del defecte de massa i la relació E = Δmc².",
+    "imatge_enunciat": "examens/2024_jun_2.pdf",
+    "imatge_solucio": "examens/2024_jun_2_sol.pdf",
+    "id": "6-NU-66006602"
+  }
+]
