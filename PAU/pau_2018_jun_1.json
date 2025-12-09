@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) Segons el model atòmic de Bohr, en l’àtom d’hidrogen en estat fonamental l’electró està separat del protó per una distància mitjana r = 5,30 × 10–11 m.\na) Quin és el mòdul de la força elèctrica del protó sobre l’electró? Quina acceleració li provoca?\nb) Calculeu el potencial elèctric (en V) a la distància r del protó i l’energia potencial (en eV) de la distribució de càrregues.\nDades: Massa de l’electró, me = 9,11 × 10–31 kg. Càrrega elemental, e = 1,60 × 10–19 C. 1 eV = 1,60 × 10–19 J.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "4-CE-4251425842534250"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P2) Una vegada més, Einstein tenia raó. Cent anys després d’haver predit l’existència d’ones gravitatòries, han estat detectades. Igual que les ones gravitatòries, els forats negres també van ser descrits per la teoria general de la relativitat. Les idees bàsiques relatives als forats negres es poden entendre amb les lleis de Newton.\na) L’any 1783 John Michell va publicar que un cos esfèric amb la mateixa densitat que el Sol i 500 vegades el seu radi tindria una velocitat d’escapament superior a la velocitat de la llum. Calculeu la massa del cos i aquesta velocitat d’escapament.\nb) Calculeu el mòdul de la intensitat del camp gravitatori que el cos crea a la seva superfície. Quina força fa sobre 1 µg situat a la superfície?\nDades: G = 6,67 × 10–11 N·m²·kg–2; Massa del Sol = 1,99 × 10^30 kg; Radi del Sol = 6,96 × 10^8 m.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "4-CG-400340054006"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P3) Un protó en repòs és accelerat en el sentit positiu de l’eix x fins a assolir una velocitat d’1,00 × 10^5 m·s–1. Aleshores penetra en un espectròmetre de masses on hi ha un camp magnètic.\na) Calculeu la força (mòdul, direcció i sentit) que actua sobre el protó.\nb) Calculeu el camp magnètic (mòdul, direcció i sentit) tal que un electró amb la mateixa velocitat segueixi la mateixa trajectòria.\nDades: Càrrega elemental, e = 1,60 × 10–19 C. Massa del protó = 1,67 × 10–27 kg. Massa de l’electró = 9,11 × 10–31 kg.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "4-CM-450145024503"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Les ones del mar fan navegar un vaixell a la deriva, de manera que es mou 2,00 m en vertical des del punt més alt al punt més baix cada 6,28 s.\na) Escriviu l’equació del moviment suposant que a l’instant inicial és al punt més alt.\nb) Determineu la velocitat i l’acceleració inicials del vaixell.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "5-VI-5000500650055008"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P5) El poloni, 210Po, és un emissor natural de partícules α.\na) Escriviu la reacció de desintegració del 210Po sabent que es genera un isòtop del plom.\nb) Sabent que el període de semidesintegració és de 138 dies, quina quantitat de 210Po queda en 10 g després de 69 dies?\nDada: Nombre atòmic del poloni, Z(Po) = 84.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P3) a) El bacteri Aquaspirillum magnetotacticum conté magnetosomes sensibles als camps magnètics. El camp magnètic terrestre és de 5,00 × 10–5 T. Si circulen 100 A per una línia submarina, a partir de quina distància el camp deixarà d’afectar els bacteris?\nb) Dos fils rectilinis i infinits separats 10 m tenen un corrent de 100 A entrant al paper. Representeu el camp magnètic i la força entre els conductors, i calculeu la força sobre 2,00 m del conductor.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "4-CM-450045074503"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P4) Un gos borda amb una potència de 2,00 mW.\na) Si el so es distribueix uniformement, quin és el nivell d’intensitat sonora a 5,00 m?\nb) Si bordaven dos gossos, quin seria el nivell d’intensitat sonora?\nDades: Intensitat llindar I0 = 1,00 × 10–12 W·m–2.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "5-ON-55025503"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P5) Sobre un metall alcalí incideix llum de longitud d’ona λ = 3,00 × 10^2 nm. Els fotoelectrons emesos tenen energia cinètica màxima de 2,00 eV.\na) Calculeu l’energia (en eV) d’un fotó incident.\nb) Determineu el treball d’extracció.\nDades: 1 eV = 1,60 × 10–19 J; h = 6,63 × 10–34 J·s; c = 3,00 × 10^8 m·s–1.",
     "imatge_enunciat": "examens/2018_jun_1.pdf",
-    "imatge_solucio": "examens/2018_jun_1_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_1_sol.pdf",
+    "id": "6-QM-625262536250"
   }
 ]

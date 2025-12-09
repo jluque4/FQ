@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) La gràfica següent mostra la variació de l’energia potencial en funció de l’altura d’un cos de 2,00 kg de massa a la superfície d’un planeta amb un radi de 5 000 km.\na) Calculeu l’acceleració de la gravetat a la superfície del planeta i la massa d’aquest.\nb) Deduïu l’expressió de la velocitat d’escapament a partir del principi de conservació de l’energia i calculeu-la.\nDada: G = 6,67 × 10–11 N m² kg–2.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "4-CG-4005400540034002"
   },
   {
     "any": 2017,
@@ -17,7 +18,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P2) En un estadi el públic fa l’onada per celebrar la bona actuació de l’equip local. L’onada és tan gran que dos espectadors de la mateixa fila separats com a mínim per 50 m es mouen igual i ho fan cada 10 s.\na) Si modelitzéssim aquesta onada a l’estadi com una ona, de quin tipus d’ona estaríem parlant? Calculeu-ne la longitud d’ona i la pulsació (freqüència angular).\nb) Un espectador es mou 1,0 m verticalment quan s’aixeca i s’asseu per fer passar l’onada. Escriviu l’equació del moviment d’aquest espectador considerant que descriu un moviment harmònic simple i que en l’instant inicial es troba assegut, és a dir, en la seva posició mínima.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "5-ON-55095510550750005006"
   },
 
   {
@@ -28,7 +30,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P3) Una partícula α (4/2 He) es dirigeix directament cap al nucli d’un àtom d’urani (238/92 U). El radi del nucli d’urani és aproximadament de 0,008 pm.\na) Compareu quantitativament els valors del mòdul de la intensitat del camp elèctric degut al nucli d’urani en dos punts, A i B, situats a 0,008 nm i 0,008 pm, respectivament, del centre del nucli.\nb) Quanta energia cinètica ha de tenir, com a mínim, la partícula α quan passa pel punt A per arribar fins al punt B? (Ignoreu la influència dels electrons.)\nDades: Càrrega elemental = 1,60 × 10–19 C. Nombre atòmic de l’urani = 92.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "4-CE-425242504254"
   },
 
   {
@@ -39,7 +42,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P4) Dues mostres radioactives tenen, en un moment donat, 1,00 × 10–1 mol cadascuna. Les mostres són de dos isòtops diferents del radó: 222Rn i 224Rn, amb períodes de semidesintegració de 3,82 dies i 1,80 hores. El primer presenta una desintegració α que produeix un isòtop del poloni; el segon presenta una desintegració β– que produeix un isòtop del franci.\na) Escriviu les equacions nuclears de les dues desintegracions i calculeu quants àtoms de 224Rn no s’hauran desintegrat quan restin 9,00 × 10–2 mol del 222Rn.\nb) L’energia que es desprèn per cada desintegració de 222Rn és de 5,590 MeV. Calculeu el defecte de massa corresponent.\nDades: NA = 6,022 × 10^23 mol–1; c = 3,00 × 10^8 m s–1; 1 eV = 1,60 × 10–19 J.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "6-NU-6600660166026607"
   },
 
   {
@@ -50,7 +54,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P5) Una bobina rectangular de 2,0 cm × 1,5 cm té 300 espires i gira en una regió on hi ha un camp magnètic uniforme de 0,4 T.\na) Escriviu l’equació de la força electromotriu induïda en funció del temps si la bobina gira a 60 rev/min.\nb) Si la bobina té una resistència R = 1,0 Ω, quin corrent màxim pot circular-hi?",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "4-CI-475047514753"
   },
 
   {
@@ -61,7 +66,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P3) El iode 131 (131I) s’utilitza en radioteràpia després d’una tiroidectomia. Té un període de semidesintegració de 8,02 dies i es transforma en xenó mitjançant una emissió β– seguida d’una emissió γ de 364 keV.\na) Escriviu les equacions nuclears dels processos i calculeu el percentatge que quedarà després de 24,06 dies.\nb) Calculeu la longitud d’ona dels fotons γ.\nDades: h = 6,62 × 10–34 J·s; m_e = 9,11 × 10–31 kg; c = 3,00 × 10^8 m s–1; 1 eV = 1,60 × 10–19 J.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "6-NU-66006601660262526257"
   },
 
   {
@@ -72,7 +78,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Dues càrregues de 3,0 µC estan localitzades a x = 0 m, y = 2,0 m i a x = 0 m, y = –2,0 m. Dues càrregues més, de valor Q, són a x = 4,0 m, y = 2,0 m i x = 4,0 m, y = –2,0 m.\na) Si a l’origen el camp elèctric és 4,0 × 10^3 N C–1 en la direcció +x, calculeu el valor de Q.\nb) Si Q = 2,0 µC, calculeu la força sobre un protó situat a l’origen.\nDada: Càrrega elemental = 1,60 × 10–19 C.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "4-CE-425242574251"
   },
 
   {
@@ -83,7 +90,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P5) La bobina d’un transformador té 2 000 espires, una longitud de 10 cm i un nucli de ferro. Per la bobina circula un corrent de 2 A.\na) Calculeu el camp i el flux magnètic a l’interior de la bobina.\nb) Estimeu el nombre d’electrons que circulen pel cable en un minut.\nDades: µ = 5,00 × 10−4 T·m·A–1; càrrega elemental = 1,60 × 10−19 C.",
     "imatge_enunciat": "examens/2017_sep.pdf",
-    "imatge_solucio": "examens/2017_sep_sol.pdf"
+    "imatge_solucio": "examens/2017_sep_sol.pdf",
+    "id": "4-CM-450047504251"
   }
 ]
 

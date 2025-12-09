@@ -15,7 +15,7 @@ bloc4:
         "4005": "Intensitat del camp gravitatori (g = GM/r²)"
         "4006": "Força gravitatòria entre dos cossos"
         "4007": "Radi crític on v_esc < c (criteri de Schwarzschild Newtonià)"
-        "4008": "Velocitat de llançament per assolir òrbita circular"   # NOU
+        "4008": "Velocitat de llançament per assolir òrbita circular"
 
     camp_electric:
       id: "CE"
@@ -38,12 +38,13 @@ bloc4:
         "4500": "Camp magnètic generat per corrent (Oersted)"
         "4501": "Força de Lorentz (qvB)"
         "4502": "Moviment circular / trajectòria en camp B"
-        "4503": "Superposició de camps magnètics"
+        "4503": "Superposició de camps magnètics i interpretació vectorial"
         "4504": "Càlcul del camp magnètic terrestre"
         "4505": "Condició del selector de velocitats (v = E/B)"
         "4506": "Força magnètica sobre un conductor recte"
         "4507": "Força entre dos fils paral·lels"
         "4508": "Camp magnètic d'una espira circular (Biot–Savart)"
+        "4509": "Freqüència del ciclotró (f = qB / 2πm)"
 
     induccio:
       id: "CI"
@@ -53,8 +54,10 @@ bloc4:
         "4751": "Llei de Faraday (FEM induïda)"
         "4752": "Regla de Lenz"
         "4753": "Corrent induït I = ε/R"
-        "4754": "Transformador ideal: equacions principals"        # NOU
-        "4755": "Relació d’espires i tensió (V1/V2 = n1/n2)"      # NOU
+        "4754": "Transformador ideal: equacions principals"
+        "4755": "Relació d’espires i tensió (V1/V2 = n1/n2)"
+        "4756": "Intensitat en un transformador (Ip, Is)"
+        "4757": "Rendiment d’un transformador (η = Pout/Pin)"
 
 # --------------------------------------------------------------
 
@@ -76,24 +79,30 @@ bloc5:
         "5006": "Període MHS (T)"
         "5007": "Força elàstica F = -kx"
         "5008": "Acceleració màxima en MHS"
-        "5755": "Moviment circular projectat (relació amb MHS)"
+        "5009": "Determinació de k amb gràfic T²–m"
 
     ones:
       id: "ON"
       rang: [5250, 5499]
       items:
+        "5250": "Longitud d’ona d'una ona electromagnètica (λ = 2π/k)"
+        "5251": "Velocitat de propagació d’ona EM (v = ω/k)"
+        "5252": "Índex de refracció n = c/v"
+        "5253": "Direcció de propagació i relació E–B en ona EM"
         "5500": "Interferència: màxims i mínims"
         "5501": "Diferència de fase / camins"
         "5502": "Intensitat sonora (I)"
         "5503": "Nivell sonor (dB)"
         "5504": "Energia acústica"
-        "5505": "Harmònics en tub obert"
+        "5505": "Harmònics en tub obert/corda"
         "5506": "Nodes i ventres en ones estacionàries"
         "5507": "Longitud d’ona (λ) en ones estacionàries"
         "5508": "Velocitat del so a partir de λ i f"
         "5509": "Velocitat d’una ona superficial (v = λ·f)"
         "5510": "Determinació de la freqüència d’una ona superficial"
-        "5511": "Potència sonora irradiada (P = I·A)"              # NOU
+        "5511": "Potència sonora irradiada (P = I·A)"
+        "5512": "Equació general d’una ona sonora"
+        "5513": "Efecte Doppler"
 
     ones_estacionaries:
       id: "OS"
@@ -109,6 +118,7 @@ bloc5:
         "5752": "Equació de lents (1/f = 1/s + 1/s')"
         "5753": "Ampliació / mida de la imatge"
         "5754": "Diagrama de raigs"
+        "5755": "Moviment circular projectat (relació amb MHS)"
 
 # --------------------------------------------------------------
 
@@ -121,8 +131,8 @@ bloc6:
       id: "RE"
       rang: [6000, 6249]
       items:
-        "6000": "Redshift gravitatori"                              # NOU
-        "6001": "Variació de freqüència per diferència de potencial gravitatori"  # NOU
+        "6000": "Redshift gravitatori"
+        "6001": "Variació de freqüència per diferència de potencial gravitatori"
 
     quantica:
       id: "QM"
@@ -133,9 +143,13 @@ bloc6:
         "6252": "Energia del fotó (E = hf)"
         "6253": "Energia cinètica / velocitat de l’electró"
         "6254": "Longitud d’ona de De Broglie"
-        "6255": "Freqüència / longitud d’ona llindar en efecte fotoelèctric"
-        "6256": "Relació experimental V_f – f (mètode del potencial invers)"
-        "6257": "Condició d’emissió fotoelèctrica per λ donada"
+        "6255": "Freqüència / longitud d’ona llindar"
+        "6256": "Relació experimental V_f – f"
+        "6257": "Condició d’emissió fotoelèctrica"
+        "6258": "Condició d’energia per crear parella (h·f ≥ 2mc²)"
+        "6259": "Longitud d’ona mínima per materialització"
+        "6260": "Radi de Bohr i escales orbitals en sistemes hidrogenoides"
+        "6261": "Massa equivalent d’un fotó a partir de E = mc²"
 
     nuclear:
       id: "NU"
@@ -153,5 +167,7 @@ bloc6:
         "6609": "Desintegració beta menys (β–)"
         "6610": "Emissió gamma"
         "6611": "Balanç global de reaccions nuclears"
+        "6612": "Anihilació i antipartícula (e⁺e⁻ → γγ)"
+
 
 

@@ -8,7 +8,7 @@
     "text": "P1) a) Un satèl·lit descriu una trajectòria circular de radi R al voltant d’una massa central. El temps que triga a donar-hi una volta sencera és T. Deduïu l’expressió per calcular la intensitat del camp gravitatori g en funció de R i T. Considerant l’òrbita de la Lluna (384×10^6 m, 27,3 dies), calculeu g en els punts de l’òrbita. [1,25p]\nb) Deduïu l’expressió de l’energia cinètica mínima necessària perquè un coet de massa m pugui escapar d’un objecte astronòmic de massa M i radi R. Compareu l’energia mínima d’escapament de la Terra i la Lluna utilitzant MTerra = 81,3 MLluna i RTerra = 3,67 RLluna. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"4-CG-4001400040034002"
   },
   {
     "any": 2022,
@@ -19,7 +19,7 @@
     "text": "P2) Un dipol elèctric està format per dues càrregues ±Q. a) Representeu 12 línies de camp i 3 línies equipotencials per càrrega dins el requadre. [1,25p]\nb) Q = 1,50 μC, posada a x = −5 cm i x = +5 cm. Calculeu el camp elèctric i el potencial a l’origen, donant components o mòdul-direcció-sentit. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"4-CE-4257425642524253"
   },
   {
     "any": 2022,
@@ -30,7 +30,7 @@
     "text": "P3) El moviment d’una anguila es modelitza com una ona transversal generada al cap, de freqüència 0,50 Hz, amplitud 5,00 cm i λ = 20,0 cm.\na) Calculeu v, ω, k i deduïu l’equació d’ona satisfent les condicions inicials. [1,25p]\nb) Determineu la velocitat i acceleració màximes de l’osciŀlació. Per a una anguila de 58,0 cm determineu velocitat i acceleració transversals a la cua al cap de 10 s. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"5-ON-55125509551050085005"
   },
   {
     "any": 2022,
@@ -41,7 +41,7 @@
     "text": "P4) Un ciclotró accelera partícules positives dins de dues 'D' semicirculars amb un camp magnètic perpendicular i un camp elèctric altern.\na) Deduïu v = rB(q/m), comproveu que el temps dins d’una D no depèn de v i deduïu la freqüència de l’alta tensió. [1,25p]\nb) Per r = 0,50 m i B = 0,20 T determineu la velocitat final dels protons, la longitud d’ona de De Broglie i el radi necessari per arribar a 0,1c. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"4-CM-45024509450545026254"
   },
   {
     "any": 2022,
@@ -52,7 +52,7 @@
     "text": "P5) El radó 222Rn es desintegra successivament fins arribar al plom 206Pb.\na) Escriviu totes les reaccions nuclears de la cadena de desintegració. [1,25p]\nb) A partir del gràfic d’una de les desintegracions d’una mostra inicial de 8×10^23 nuclis, determineu T1/2, identifiqueu el nucli corresponent i calculeu el temps perquè es desintegrin 7,95×10^23 nuclis. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"6-NU-660066026601"
   },
   {
     "any": 2022,
@@ -63,7 +63,7 @@
     "text": "P6) L’aterratge del Perseverance consisteix en un descens controlat de 20,0 m amb g uniforme.\na) A partir de ΔV = 74,4 J/kg determineu g i identifiqueu l’esquema correcte de línies equipotencials. [1,25p]\nb) Si el vehicle descendeix a velocitat constant, determineu el treball fet per la grua. Massa del vehicle: 1025 kg. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"4-CG-400540024004"
   },
   {
     "any": 2022,
@@ -74,7 +74,7 @@
     "text": "P7) A partir de l’espectre de freqüències determineu si l’instrument és un oboè o un piano i calculeu la longitud del tub o corda.\na) Identificació i càlcul de L. [1,25p]\nb) Un quintet genera 80 dB a 1,5 m. Calculeu la potència sonora de cada instrument. [1,25p]\nDada: I0 = 10^−12 W/m².",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"5-ON-550555075511"
   },
   {
     "any": 2022,
@@ -85,7 +85,7 @@
     "text": "P8) El càtode és de cesi i té freqüència llindar f0 = 4,59×10^14 Hz.\na) Calculeu el treball d’extracció i determineu per a quins làsers (blau, verd, infraroig) s’obté emissió, completant la taula i representant Ec vs f. [1,25p]\nb) Amb un làser de 8×10^14 Hz, determineu velocitat i longitud d’ona de De Broglie dels electrons emesos. [1,25p]",
     "imatge_enunciat": "examens/2022_jun_1.pdf",
     "imatge_solucio": "examens/2022_jun_1_sol.pdf",
-    "id":""
+    "id":"6-QM-6250625662576254"
   }
 ]
 

@@ -8,7 +8,7 @@
     "text": "P1) La trajectòria de la Terra al voltant del Sol és una el·lipse [...] a) Dibuixeu una òrbita clarament el·líptica indicant el Sol i la posició de la Terra un dia d’hivern. Utilitzant arguments d’energia, justifiqueu per què la velocitat és mínima a l’afeli. Quina és la distància a l’afeli? b) Quina intensitat de camp gravitatori genera el Sol a la seva superfície? Quin és el pes d’una massa de 10 kg? Dades: G, MTerra, MSol, RSol.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"4-CG-4002400040014005"
   },
 
   {
@@ -20,7 +20,7 @@
     "text": "P2) Dues esferes conductores idèntiques estan unides per una molla [...] a) Quan les esferes estan carregades i separades 1,00 m, calculeu la força aplicada per la molla i la càrrega de cada esfera. b) Un electró es troba equidistant de les dues esferes. Calculeu el mòdul del camp elèctric i l’acceleració, i representeu direccions i sentits. Dades: k, me, |e|.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"4-CE-425142524257"
   },
 
   {
@@ -32,7 +32,7 @@
     "text": "P3) El moviment dels insectes en una teranyina és un MHS. L’aranya sola produeix una vibració de 12 Hz, i aranya + insecte de 10 Hz. a) Calculeu la massa de l’aranya. b) Calculeu la constant elàstica i indiqueu on s’assoleixen màxima velocitat i màxima acceleració.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"5-VI-5006500450055008"
   },
 
   {
@@ -44,7 +44,7 @@
     "text": "P4) Un protó es mou en direcció positiva de l’eix OY amb camps E→ = 3,0×10^5 k→ N/C i B→ = 0,60 i→ T. a) Representeu les forces que actuen i determineu quan no es desvia. b) Analitzeu el cas d’un electró amb velocitat 5×10^5 j→ m/s i indiqueu si es desvia i en quin sentit.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"4-CM-4251450045014505"
   },
 
   {
@@ -56,7 +56,7 @@
     "text": "P5) La datació per carboni 14 és una eina útil per estimar l’edat de restes òssies. a) Escriviu la reacció nuclear de formació del 14C a partir del nitrogen i jutgeu si absorbeix o allibera energia. b) Una mostra B té un 23% menys de 14C que una mostra A recent. Quina edat té la mostra B? Dades: T1/2 = 5730 anys, masses atòmiques.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"6-NU-6600660266016607"
   },
 
   {
@@ -68,7 +68,7 @@
     "text": "P6) Un imant es mou cap a una espira en el pla XZ. a) Dibuixeu línies de camp i determineu si s’indueix corrent i el seu sentit. b) Si l’imant s’allunya, determineu si apareix força i en quin sentit, justificant amb la llei de Lenz.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"4-CI-475047514752"
   },
 
   {
@@ -80,7 +80,7 @@
     "text": "P7) Una corda de 40 cm vibra i genera un espectre amb pics A, B, C i D. a) Representeu els modes estacionaris, identifiqueu nodes i ventres, i calculeu les longituds d’ona i la velocitat. b) Si la corda passa a 20 cm, determineu les noves longituds d’ona i freqüències.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"5-ON-5505550655075508"
   },
 
   {
@@ -92,6 +92,6 @@
     "text": "P8) Tenim una fotocèl·lula amb material alcalí (W = 1,20 eV) i un feix de 10^7 fotons/s de longitud d’ona 500 nm. a) Calculeu l’energia cinètica dels electrons emesos. b) Si augmentem la intensitat del feix 10 vegades, què canvia en l’emissió? Justifiqueu-ho. Dades: h, c.",
     "imatge_enunciat": "examens/2020_sep.pdf",
     "imatge_solucio": "examens/2020_sep_sol.pdf",
-    "id":""
+    "id":"6-QM-62506252625362556257"
   }
 ]

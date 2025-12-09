@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) El 6 d’agost de 2012, el robot Curiosity va ser dipositat damunt la superfície de Mart per una càpsula d’entrada atmosfèrica ideada pel Mars Science Laboratory. Aquesta càpsula va iniciar l’entrada a l’atmosfera a 125 km de la superfície de Mart i a una velocitat de 5 845 m s–1. Les tècniques usades en el descens van fer que el vehicle arribés a la superfície marciana a una velocitat de només 0,60 m s–1. Tenint en compte que la massa del Curiosity és de 899 kg, calculeu:\na) L’increment de l’energia mecànica del vehicle en el descens.\nb) El mòdul de la intensitat de camp gravitatori que fa Mart en el punt inicial del descens del Curiosity i la força (mòdul, direcció i sentit) que el planeta fa sobre el robot en aquest punt.\nDades: Massa de Mart, MMart = 6,42 × 10^23 kg. Radi de Mart, RMart = 3,39 × 10^6 m. G = 6,67 × 10–11 N·m²·kg–2.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "4-CG-400240054006"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P2) Per un fil recte molt llarg circula un corrent d’1,5 A en el sentit positiu de la direcció y, seguint la línia x = –3,0 cm. Un altre fil amb les mateixes característiques, pel qual també circula un corrent d’1,5 A en el sentit positiu de la direcció y, segueix la línia x = 3,0 cm, com mostra la figura.\na) Calculeu el camp magnètic (mòdul, direcció i sentit) en x = 0 i feu un esquema que justifiqui el resultat.\nb) Calculeu el camp magnètic (mòdul, direcció i sentit) en x = 5,0 cm i feu un esquema que justifiqui el resultat.\nDada: μ0 = 4π × 10−7 T·m·A–1.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "4-CM-45004503"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Un tub d’un orgue de la basílica de la Sagrada Família està obert pels dos extrems i fa 1,0 m de longitud.\na) Calculeu les freqüències i les longituds d’ona de les ones estacionàries que es poden propagar per aquest tub.\nb) Si el tub estigués ple d’heli, el so s’hi propagaria a una velocitat de 975,0 m·s–1. En aquest cas, quines serien les freqüències?\nDada: Velocitat del so en l’aire = 343,0 m·s–1.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "5-ON-550555075508"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Un núvol elèctricament carregat està situat a 4,7 km d’altura sobre el terra. La diferència de potencial entre la base del núvol i el terra és de 2,3 × 10^6 V. Suposem que el camp elèctric en aquesta regió és uniforme i que la càrrega elèctrica del núvol és positiva. Una gota d’aigua que es troba entre el núvol i el terra té una massa d’1,3 mg i una càrrega de valor Q. En un moment donat, la gota ascendeix cap al núvol amb una velocitat constant de 2 m·s–1 (sense tenir en compte els corrents d’aire ni el fregament).\na) Dibuixeu un esquema de la situació descrita pel problema i representeu-hi les càrregues elèctriques implicades i els camps vectorials (gravitatori i elèctric). Calculeu la intensitat del camp elèctric que hi ha entre el núvol i el terra, i indiqueu-ne el mòdul, la direcció i el sentit.\nb) Calculeu el valor de la càrrega Q (en nC) i expliqueu raonadament quin signe hauria de tenir.\nDades: g = 9,81 m·s–2.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "4-CE-425242574251"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P5) L’isòtop radioactiu fluor 18 es fa servir com a radiofàrmac en tomografies per emissió de positrons (TEP). Quan es desintegra radioactivament, aquest isòtop desprèn un positró que s’anihila ràpidament amb un electró de l’entorn i produeix dos fotons gamma amb la mateixa energia. Aquests fotons, detectats per l’aparell mèdic, permeten obtenir imatges útils per a la diagnosi. El període de semidesintegració del fluor 18 és de 109,77 minuts i podem escriure l’equació de la desintegració de la manera següent: 18F → Y + positró + νe.\na) Indiqueu quants protons i quants neutrons té el nucli de fluor 18. Calculeu els coeficients A, B, C i D de l’equació i la freqüència dels fotons gamma detectats per l’aparell de la tomografia.\nb) Calculeu el temps que ha de transcórrer perquè el nombre de nuclis de fluor 18 que queden sense desintegrar en el cos del pacient sigui l’1 % dels que hi havia a l’inici de la prova.\nDades: c = 3,00 × 10^8 m·s–1. m_e = 9,11 × 10–31 kg. h = 6,63 × 10–34 J·s.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "6-NU-6600660262526257"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Les boies marines s’utilitzen sovint per a mesurar l’alçària de l’onatge. Una d’aquestes boies es mou seguint una oscil·lació harmònica de 3,00 m d’amplitud i 0,10 Hz de freqüència i l’ona es propaga a una velocitat de 0,50 m·s–1.\na) Calculeu la longitud d’ona i el nombre d’ona.\nb) Escriviu l’equació de les ones que fan moure la boia suposant que la fase inicial és zero.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "5-ON-55095512"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Dues càrregues elèctriques (Q1 i Q2) estan disposades tal com mostra la figura. Coneixem les dades següents: Q1 = 2,00 mC, Q2 = –4,00 mC, x = 5,00 m i d = 3,00 m.\na) Representeu i calculeu el camp elèctric (mòdul, direcció i sentit) en el punt P, i calculeu també el potencial elèctric en el mateix punt.\nb) Canviem les dues càrregues Q1 i Q2 per unes altres amb valors diferents, però situades en la mateixa posició que les originals. Amb aquesta nova configuració, el camp elèctric creat per les dues càrregues sobre el segment x s’anul·la a 1 m de distància de la nova càrrega Q1. Expliqueu raonadament quin serà el signe d’aquestes càrregues i calculeu la relació que hi haurà entre els seus valors.\nDada: k = 8,99 × 10^9 N·m²·C–2.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "4-CE-425242534257"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P5) La irradiància solar que arriba a la superfície de la Terra (potència incident per unitat de superfície) és aproximadament de 1 400 W·m–2. Suposem que l’energia mitjana dels fotons que hi arriben és de 2,20 eV.\na) Quina és la longitud d’ona mitjana (en nm) dels fotons que arriben a la Terra?\nb) Calculeu el nombre de fotons que incideixen sobre una superfície d’1,00 cm² cada segon.\nDades: c = 3,00 × 10^8 m·s–1. h = 6,63 × 10–34 J·s. 1 eV = 1,602 × 10–19 J.",
     "imatge_enunciat": "examens/2016_sep.pdf",
-    "imatge_solucio": "examens/2016_sep_sol.pdf"
+    "imatge_solucio": "examens/2016_sep_sol.pdf",
+    "id": "6-QM-6252"
   }
 ]

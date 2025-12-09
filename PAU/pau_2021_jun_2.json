@@ -8,7 +8,7 @@
     "text": "P1) El 20 de juliol de 1969, la missió nord-americana Apollo 11 va aconseguir que l’ésser humà trepitgés per primera vegada la Lluna.\na) Dibuixeu les línies de camp gravitatori i les superfícies equipotencials al voltant de la Lluna en un pla que la contingui. Indiqueu si el potencial gravitatori augmenta o disminueix quan ens allunyem de la superfície de la Lluna. A quina distància de la superfície de la Lluna començà la maniobra d’allunatge si en aquest punt g = 1,306 m/s²?\nb) Quina energia mínima han d’aportar els motors a la nau per a poder escapar-se de la gravetat de la Lluna, partint de la seva superfície?\nDades: G = 6,67×10⁻¹¹ N·m²·kg⁻², mLluna = 7,35×10²² kg, mnau = 45,7×10³ kg, rLluna = 1,74×10³ km.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"4-CG-400540034002"
   },
   {
     "any": 2021,
@@ -19,7 +19,7 @@
     "text": "P2) Una espira conductora circular de 25 cm de radi descansa sobre el pla XY i està sotmesa al camp B(t) = 0,014·t² k.\na) Representeu les línies de camp magnètic a través de l’espira. S’indueix un corrent a l’espira? Justifiqueu-ho.\nb) Determineu el flux magnètic en funció del temps i la força electromotriu induïda, indicant el sentit del corrent.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"4-CI-475047514752"
   },
   {
     "any": 2021,
@@ -30,7 +30,7 @@
     "text": "P3) Una corda de 60 cm té els extrems fixats i oscil·la amb 200 Hz en un mode amb quatre nodes. El punt central té amplitud 2 cm.\na) Calculeu la velocitat de propagació de l’ona, la longitud d’ona i la velocitat vertical màxima al centre.\nb) Determineu l’amplitud a 10 cm i 20 cm d’un extrem, justificant les respostes.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"5-ON-5506550555075508"
   },
   {
     "any": 2021,
@@ -41,7 +41,7 @@
     "text": "P4) Una mostra que podria ser lunar conté 0,84 µg d’Ar-40 i 0,10 µg de K-40. El període de semidesintegració és 1,248×10⁹ anys.\na) Escriviu la reacció de desintegració del ⁴⁰₁₉K.\nb) Determineu si la mostra pot procedir de la Lluna justificant-ho numèricament.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"6-NU-660066026601"
   },
   {
     "any": 2021,
@@ -52,7 +52,7 @@
     "text": "P5) L’electroforesi permet estudiar fragments de DNA carregats.\na) Determineu el signe de la càrrega i el mòdul de la força electrostàtica sobre el fragment. Dibuixeu línies de camp i força.\nb) Si l'acceleració és 2,13×10⁻² m/s², determineu-ne la massa. Què passaria si hi hagués fricció?\nDades: |q| = 2,00×10⁻¹⁸ C, ΔV =115 V, d=18 cm.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"4-CE-425742514252"
   },
   {
     "any": 2021,
@@ -63,7 +63,7 @@
     "text": "P6) Una saltadora de 60 kg fa 6 oscil·lacions en 30 s amb una corda de longitud inicial 30 m i amplitud 4 m.\na) Calculeu f, T, ω i escriviu l’equació del moviment.\nb) Determineu la constant elàstica i la longitud de la corda al punt d’equilibri.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"5-VI-5006500050045007"
   },
   {
     "any": 2021,
@@ -74,7 +74,7 @@
     "text": "P7) Tres càrregues Q1 = –3 µC, Q2 = 2 µC i Q3 = 3 µC estan als punts (0,0), (2,0) i (0,2) m.\na) Determineu les components i el mòdul de la força sobre Q2 i dibuixeu-ne la direcció.\nb) Calculeu el treball per portar una càrrega de 5 µC des de molt lluny fins a (2,2) m.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"4-CE-425242514254"
   },
   {
     "any": 2021,
@@ -85,7 +85,7 @@
     "text": "P8) Millikan va mesurar l’energia dels fotoelectrons per determinar h.\na) Expliqueu la nova concepció de la llum segons Einstein i calculeu el treball d’extracció per a un metall amb f_llindar = 4,39×10¹⁴ Hz.\nb) Amb llum de λ = 420 nm, s’arrenquen electrons? Calculeu Ec i la longitud d’ona associada.\nDades: me, h, c.",
     "imatge_enunciat": "examens/2021_jun_2.pdf",
     "imatge_solucio": "examens/2021_jun_2_sol.pdf",
-    "id":""
+    "id":"6-QM-62506255625362576254"
   }
 ]
 

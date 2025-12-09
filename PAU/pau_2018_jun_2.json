@@ -7,7 +7,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P1) Orcus (2004 DW), un objecte del Sistema Solar descobert el febrer del 2004, és un dels cossos celestes més grans del cinturó de Kuiper i un dels candidats a ser considerat, en el futur, planeta nan per la Unió Astronòmica Internacional (UAI). Orcus té, aproximadament, una massa de 6,41 × 10^20 kg, un radi de 459 km i un període orbital de 248 anys.\n a) Calculeu la distància mitjana entre Orcus i el Sol en unitats astronòmiques (UA).\n b) Determineu la velocitat d’escapament (deduïu la fórmula tenint en compte l’energia del cos que s’escapa) i la intensitat del camp gravitatori a la seva superfície.\n Dades: Radi orbital mitjà de la Terra = 1,00 UA. Període orbital de la Terra = 1,00 any. G = 6,67 × 10–11 N·m²·kg–2.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "4-CG-4001400040034005"
   },
 
   {
@@ -18,7 +19,8 @@
     "bloc": "Bloc 6 — Física relativista, quàntica, nuclear i de partícules",
     "text": "P2) L’isòtop 99mTc, tecneci metaestable, s’utilitza com a radiotraçador en medicina, i té un període de semidesintegració de 6 hores, un temps suficient perquè s’acumuli en l’òrgan que es vol estudiar sense que perduri gaire temps en l’organisme. Aquest isòtop és un emissor γ amb una energia d’uns 140 keV, i se’n pot generar una imatge. El tecneci és l’element 43 de la taula periòdica.\n a) Escriviu el nombre màssic, el nombre atòmic i el nombre de neutrons que conté aquest isòtop. Escriviu la reacció de desintegració γ que es produeix.\n b) Si un pacient rep una dosi de 2 ng de l’isòtop, quina quantitat romandrà al seu cos passades 24 hores, si suposem que no n’ha eliminat gens per l’orina?",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "6-NU-660066026601"
   },
 
   {
@@ -29,7 +31,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Una massa esfèrica d’acer de 0,300 kg està subjecta a una vareta metàl·lica prima i de massa negligible. Aquesta vareta està clavada verticalment a una massa fixa i pot oscil·lar lliurement. Si apliquem una força de 8,00 N sobre l’esfera, aquesta es desplaça 4,0 cm. Suposeu que aquest desplaçament és rectilini i horitzontal.\n a) Calculeu la constant elàstica k. Deduïu, a partir de la segona llei de Newton, la fórmula per obtenir la freqüència d’oscil·lació i calculeu el període.\n b) Deduïu, a partir de l’equació del moviment harmònic simple, la fórmula de l’acceleració màxima i calculeu-la.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "5-VI-500450065008"
   },
 
   {
@@ -40,7 +43,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Quatre càrregues estan situades en els vèrtexs d’un quadrat de 4,00 m de costat. Els valors de les càrregues són Q1 = 1,00 µC, Q2 = –2,00 µC, Q3 = 2,00 µC i Q4 = –1,00 µC. El punt C és a la intersecció de les diagonals i el punt A és al mig del segment que va de Q1 a Q2.\n a) Representeu i calculeu el vector camp elèctric en el punt C.\n b) Calculeu la diferència de potencial entre A i C.\n Dada: k = 8,99 × 10^9 N·m²·C–2.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "4-CE-425242574253"
   },
 
   {
@@ -51,7 +55,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P5) Una bobina formada per 200 espires quadrades de 4,00 cm de costat gira en un camp magnètic uniforme de 1,25 × 10–2 T.\n a) Escriviu l’equació de la força electromotriu induïda quan gira a 10 voltes/s i calculeu-ne el valor en t = 1,28 s.\n b) Representeu la FEM en funció del temps per dos períodes i determineu-ne els valors màxim i eficaç.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "4-CI-475047514751"
   },
 
   {
@@ -62,7 +67,8 @@
     "bloc": "Bloc 5 — Vibracions i ones",
     "text": "P3) Hem recollit el so d’un instrument musical i n’hem obtingut l’espectre. El pic B té una freqüència de 880 Hz.\n a) Determineu si el so és pur o complex. Identifiqueu la freqüència fonamental i la del proper harmònic no representat.\n b) Si el pic C arriba a 87 dB i el F a 60 dB, quantes vegades és més gran la intensitat del pic C que la del pic F?",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "5-ON-550555035502"
   },
 
   {
@@ -73,7 +79,8 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P4) Un electró és projectat dins d’un camp elèctric uniforme E = –2 000 j N·C–1 amb velocitat inicial v0 = 10^6 i m·s–1.\n a) Compareu la força gravitatòria amb la força elèctrica sobre l’electró.\n b) Quant s’haurà desviat verticalment quan hagi recorregut 1,0 cm en la direcció x?\n Dades: qe = 1,60 × 10–19 C; me = 9,10 × 10–31 kg; g = 9,81 m·s–2.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "4-CE-42514252"
   },
 
   {
@@ -84,6 +91,7 @@
     "bloc": "Bloc 4 — Camp gravitatori i electromagnètic",
     "text": "P5) Un generador simplificat té una espira circular de radi 5,00 cm en un camp magnètic de 60 mT i gira a 300 rpm.\n a) Calculeu el flux magnètic en tres instants separats 45°.\n b) Determineu en quin instant la FEM és zero i calculeu-la en els altres dos.",
     "imatge_enunciat": "examens/2018_jun_2.pdf",
-    "imatge_solucio": "examens/2018_jun_2_sol.pdf"
+    "imatge_solucio": "examens/2018_jun_2_sol.pdf",
+    "id": "4-CI-47504751"
   }
 ]

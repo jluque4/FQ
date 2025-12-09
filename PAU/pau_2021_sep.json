@@ -8,7 +8,7 @@
     "text": "P1) Un dels mètodes emprats per a detectar exoplanetes és el trànsit planetari. El gràfic mostra la variació de lluminositat provocada pel trànsit d’un planeta que descriu una òrbita circular al voltant d’un estel de massa pràcticament idèntica a la del Sol. La constant de Kepler del sistema és igual a la del Sistema Solar.\na) Calculeu el període i el radi de l’òrbita. [1,25 punts]\nb) Determineu el mòdul de la velocitat i l’acceleració centrípeta del planeta. [1,25 punts]\nDada: Radi orbital mitjà de la Terra = 1,00 ua = 1,50×10¹¹ m.",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"4-CG-400140004004"
   },
   {
     "any": 2021,
@@ -19,7 +19,7 @@
     "text": "P2) En soldadura per feix d’electrons, els electrons s’acceleren mitjançant un camp elèctric creat per 15 kV entre càtode i ànode separats 1,50 cm.\na) Calculeu el mòdul del camp, representeu la trajectòria i indiqueu quina placa és a potencial més alt. [1,25 punts]\nb) Determineu l’energia i el mòdul de la velocitat de l’electró en arribar a l’ànode. Si la peça està al mateix potencial que l’ànode, quina velocitat d’impacte té? [1,25 punts]\nDades: me = 9,11×10⁻³¹ kg, |e| = 1,602×10⁻¹⁹ C.",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"4-CE-4252425742544258"
   },
   {
     "any": 2021,
@@ -30,7 +30,7 @@
     "text": "P3) La corda d’un violí fa 32 cm i vibra amb freq. fonamental 196 Hz.\na) Quina és la longitud d’ona del primer harmònic? Representeu el segon harmònic, nodes i ventres. [1,25 punts]\nb) Calculeu la freqüència i la longitud d’ona del so en aire produït pel primer harmònic. [1,25 punts]\nDada: v_so = 340 m/s.",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"5-ON-5505550655075508"
   },
   {
     "any": 2021,
@@ -41,7 +41,7 @@
     "text": "P4) En una cambra de boira s’observa una traça d’un electró que prové d’una desintegració β.\na) Escriviu la reacció de desintegració d’un neutró. [1,25 punts]\nb) Calculeu l’energia alliberada i expresseu-la en keV. [1,25 punts]\nDades: 1 eV = 1,602×10⁻¹⁹ J, c = 3,00×10⁸ m/s, 1 u = 1,66054×10⁻²⁷ kg.\nMasses (u): neutró 1,008665; protó 1,007276; electró 5,4858×10⁻⁴; antineutrí ≈ 0.",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"6-NU-660066076603"
   },
   {
     "any": 2021,
@@ -52,7 +52,7 @@
     "text": "P5) Un cable d’alta tensió porta 200 A en una zona on B = 35 μT, inclinada 50° cap avall.\na) Calculeu la força magnètica sobre 100 m de cable i representeu direcció i sentit. [1,25 punts]\nb) Davall del cable hi ha tres espires (A, B, C). Indiqueu en quines s’indueix corrent degut al camp variable produït pel corrent altern. [1,25 punts]",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"4-CM-4506450347504752"
   },
   {
     "any": 2021,
@@ -63,7 +63,7 @@
     "text": "P6) Un violinista interpreta un solo. Quatre violins més s’hi afegeixen.\na) Quants decibels augmenta el nivell d’intensitat del so? [1,25 punts]\nb) Si cinc violins produeixen 76,98 dB, determineu la intensitat sonora d’un sol violí. [1,25 punts]\nDada: I₀ = 10⁻¹² W/m².",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"5-ON-55035502"
   },
   {
     "any": 2021,
@@ -74,7 +74,7 @@
     "text": "P7) Un alternador té una bobina de 100 espires de dimensions 2,0×1,6 cm i gira a 60 Hz dins d’un camp uniform d’1,0×10⁻¹ T.\na) Calculeu el flux quan el camp és perpendicular i per a un angle general θ. [1,25 punts]\nb) Determineu l’expressió de la fem induïda i el valor màxim. [1,25 punts]",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"4-CI-47504751"
   },
   {
     "any": 2021,
@@ -85,7 +85,7 @@
     "text": "P8) En un experiment fotoelèctric, il·luminem un metall amb llum verda (546,1 nm) i s’observa un potencial de frenada de 0,376 V.\na) Determineu el treball d’extracció i el llindar de freqüència. [1,25 punts]\nb) Repetiu els càlculs per llum groga (587,5 nm). [1,25 punts]\nDades: me = 9,11×10⁻³¹ kg, |e| = 1,602×10⁻¹⁹ C, 1 eV = 1,602×10⁻¹⁹ J, c = 3×10⁸ m/s, h = 6,63×10⁻³⁴ J·s.",
     "imatge_enunciat": "examens/2021_sep.pdf",
     "imatge_solucio": "examens/2021_sep_sol.pdf",
-    "id":""
+    "id":"6-QM-6250625562566257"
   }
 ]
 
