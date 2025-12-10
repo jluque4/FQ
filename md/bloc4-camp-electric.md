@@ -309,3 +309,159 @@ $$
 perquè els vectors són iguals i oposats.
 
 ---
+
+# 4 — Llei de Gauss 
+
+### Ampliació — No entra a les PAU
+
+La llei de Gauss estableix que el flux del camp elèctric que travessa una superfície tancada depèn de la càrrega elèctrica situada a l’interior. És una eina molt potent per calcular camps elèctrics en situacions amb simetria (formes esfèriques, cilíndriques o planes infinities), ja que permet obtenir resultats de manera ràpida sense haver d’aplicar la llei de Coulomb punt per punt.
+
+---
+
+# **5 — Potencial elèctric i energia potencial elèctrica**
+
+El **camp elèctric** és un camp **conservatiu**, igual que el camp gravitatori.
+Això permet introduir dues magnituds molt útils:
+
+* el **potencial elèctric** $V$ (energia per unitat de càrrega)
+* l’**energia potencial elèctrica** $E_p$ (energia d’una càrrega en el camp)
+
+Aquestes magnituds permeten descriure el camp **en termes d’energia**, cosa que simplifica molts problemes de treball, moviments de càrregues i càlculs energètics.
+
+---
+
+## **5.1 — Potencial elèctric d'una càrrega puntual**
+
+Quan una càrrega crea un camp elèctric, en qualsevol punt d’aquest camp hi ha associada una energia per unitat de càrrega. Aquesta magnitud rep el nom de potencial elèctric.
+
+> El potencial indica quant treball faria el camp per portar una càrrega unitària des de l’infinit fins a un punt del camp.
+
+|     ![Potencial d’una càrrega puntual](img/bloc4/35.png)    |
+| :-------------------------------------------------------: |
+| *Potencial d’una càrrega puntual en un punt A.* |
+
+$$
+V_A = - W_{\infty \rightarrow A} = - \int_{\infty}^{r_A} \vec{F} \cdot \mathrm{d}\vec{r}
+$$
+
+El potencial elèctric creat per una càrrega $Q$ en un punt situat a distància $r$ és:
+
+$$
+V = k\cdot \frac{Q}{r}
+$$
+
+on $k = \frac{1}{4\pi\varepsilon_0}$ és la constant de Coulomb.
+
+Característiques importants:
+
+* El potencial és una **magnitud escalar**.
+* Depèn del **signe de la càrrega** que crea el camp (Q positiva → V positiu; Q negativa → V negatiu).
+* L’**infinit** es pren com a **referència de potencial zero** ($V_\infty = 0$).
+
+---
+
+## **5.2 — Potencial elèctric d’un sistema de càrregues**
+
+El **potencial elèctric total** creat per diverses càrregues és la **suma de les quantitats escalars** dels potencials que crea cadascuna:
+
+$$
+V_{total} = \sum_i k\frac{Q_i}{r_i}
+$$
+
+Això s’anomena **principi de superposició**.
+
+| ![Superposició de potencials elèctrics](img/bloc4/36.png) |
+|:-------------------------------------------------------------:|
+| *El $V_{total}$ és la suma escalar de tots els $V_i$ individuals.* |
+
+---
+
+## **5.3 — Energia potencial elèctrica**
+
+Si una càrrega $q$ es troba en un punt on el potencial és $V$, la seva **energia potencial elèctrica** és:
+
+$$
+E_p = q \cdot V = k\cdot\frac{Q\cdot q}{r}
+$$
+
+Aquesta energia representa la **capacitat del camp per fer treball** sobre la càrrega.
+
+Observacions:
+
+* Si $Q$ i $q$ tenen **el mateix signe**, $E_p$ és **positiva** (repulsió).
+* Si són de **signe oposat**, $E_p$ és **negativa** (atracció).
+* En allunyar-nos (r → ∞), $E_p$ tendeix a **zero**.
+
+---
+
+## **5.4 — Diferència de potencial i treball**
+
+La **diferència de potencial** entre dos punts A i B es defineix com el **treball canviat de signe** realitzat per la força elèctrica en desplaçar 1 C de B fins a A :
+
+$$
+\Delta V_{AB} = V(A)-V(B)
+$$
+
+El treball fet pel camp sobre una càrrega $q$ és:
+
+$$
+W = - q\cdot \Delta V
+$$
+
+Això confirma que el camp elèctric és **conservatiu**: el treball només depèn dels punts inicial i final.
+
+---
+
+## **5.5 — Relació entre camp elèctric i potencial**
+
+El camp elèctric és la **variació espacial del potencial**:
+
+$$
+E = -\frac{dV}{dr}
+$$
+
+Això implica:
+
+* El camp **apunta cap on el potencial disminueix**.
+* Una càrrega **positiva** es mou espontàniament cap a **potencials més petits**.
+* Una càrrega **negativa** es mou cap a **potencials més grans**.
+
+Si a més el **camp elèctric és constant**, podem expressar aquesta relació de forma incremental, és a dir:
+
+$$
+E = -\frac{\Delta V}{\Delta r}
+$$
+
+---
+
+## **5.6 — Superfícies equipotencials**
+
+En el camp elèctric, igual que en el gravitatori:
+
+|        ![Superfícies equipotencials](img/bloc4/37.png)        |
+| :-----------------------------------------------------: |
+| *Superfícies equipotencials ⟂ a les línies de camp.* |
+
+* Una **superfície equipotencial** és el conjunt de punts on $V$ és constant.
+* El camp elèctric és **perpendicular** a les equipotencials.
+* Desplaçar-se dins d’una equipotencial implica **treball zero**.
+
+Són especialment útils per interpretar gràficament diferències de potencial i intensitat del camp.
+
+|        ![Superfícies equipotencials condensador](img/bloc4/38.png)        |
+| :-----------------------------------------------------: |
+| *Superfícies equipotencials en un condensador.* |
+
+---
+
+## **— Conclusió CE5**
+
+| Concepte           | Expressió                 | Comentari                              |
+| ------------------ | ------------------------- | -------------------------------------- |
+| Potencial elèctric | $V = kQ/r$                | Energia per unitat de càrrega          |
+| Energia potencial  | $E_p = qV$                | Depèn del signe de $q$ i $Q$           |
+| Superposició       | $V_{tot} = \sum kQ_i/r_i$ | Suma escalar                           |
+| Treball del camp   | $W = -q \cdot \Delta V$   | Depèn només de A i B                   |
+| Relació $E$–$V$    | $E = -dV/dr$              | El camp apunta cap a potencials menors |
+
+---
