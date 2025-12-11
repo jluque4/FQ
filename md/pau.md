@@ -19,6 +19,24 @@ Els subgrups són:
 
 **Temàtica**: Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
 
+---
+
+#### NASA’s Curiosity Landing — Point of View d’un dels seus enginyers (Mark Rober)
+---
+
+En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar durant 7 anys al projecte del rover **Curiosity**, mostra amb imatges reals i personals què significaven els “7 minuts de terror” del seu descens sobre Mart (6 d’agost de 2012).
+
+- **Problema 18 — PAU 2016 — Setembre — P1**  
+  Increment de l’energia mecànica del Curiosity durant el descens i càlcul del **camp gravitatori i de la força** que Mart exerceix sobre el rover. (Fa referència directa a la fase final del descens mostrada al vídeo.)
+
+- **Problema 22 — PAU 2015 — Setembre — P1**  
+  Càlcul de la **velocitat d’escapament del Curiosity** des de la superfície de Mart.  
+  (Relacionat amb la física orbital i energètica del rover un cop a Mart.)
+
+[![Curiosity Landing POV](https://img.youtube.com/vi/PCKogFDM3Zg/0.jpg)](https://www.youtube.com/watch?v=PCKogFDM3Zg)
+
+*Vídeo mostrant l’aterratge del rover **Curiosity** a Mart (2012).*
+
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
 | 1 | 2024 | P1 | Telescopi James Webb al punt L2: forces gravitatòries del Sol i la Terra, moviment circular i constant de Kepler. | <a href="PAU/examens/2024_jun_2.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2024_jun_2_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
