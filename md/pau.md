@@ -131,7 +131,7 @@ En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar duran
 
 ### 4. Principi de superposició, força, camp i potencial gravitatori.
 
-****Temàtica****: Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **$Fg = G·m1·m2/r²**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
+****Temàtica****: Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **Fg = G·m1·m2/r²**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|---|:--:|:--:|
