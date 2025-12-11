@@ -15,13 +15,8 @@ Els subgrups són:
 
 ---
 
-### 1. Òrbites circulars
-
-**Temàtica**: Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
-
----
-
 #### NASA’s Curiosity Landing — Point of View d’un dels seus enginyers (Mark Rober)
+
 ---
 
 En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar durant 7 anys al projecte del rover **Curiosity**, mostra amb imatges reals i personals què significaven els “7 minuts de terror” del seu descens sobre Mart (6 d’agost de 2012).
@@ -36,6 +31,10 @@ En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar duran
 [![Curiosity Landing POV](https://img.youtube.com/vi/PCKogFDM3Zg/0.jpg)](https://www.youtube.com/watch?v=PCKogFDM3Zg)
 
 *Vídeo mostrant l’aterratge del rover **Curiosity** a Mart (2012).*
+
+### 1. Òrbites circulars
+
+**Temàtica**: Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
