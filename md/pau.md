@@ -148,6 +148,7 @@ Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnèti
 **Temàtica**: energia i potencial elèctric, força electrostàtica, superposició de camps, treball elèctric, camp a partir del potencial, línies de camp, acceleració per camp elèctric.
 
 Camp Elèctric — models PAU típics:
+
 1. Càrrega en un **camp elèctric uniforme** - plaques paral·leles, condensador, canó electrònic.
 2. **Equilibri de forces** amb camp elèctric - gota carregada, esfera penjada, electroscopi.
 3. **Camp i potencial** creats per **càrregues puntuals fixes** - càrregues situades als vèrtexs (baricentre, centre etc...), camp/potencial en un punt, energia del sistema.
