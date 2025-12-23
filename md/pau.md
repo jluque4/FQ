@@ -469,7 +469,7 @@ Aquest bloc recull tres grans àrees de la física moderna: relativitat (RE), qu
 | 35 | 2009 | Q4A | Efecte fotoelèctric: energia cinètica dels electrons i nombre de fotons emesos per la font. | <a href="PAU/examens/2009_sep.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2009_sep_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
 | 36 | 2008 | Q4A | Efecte fotoelèctric: energia cinètica màxima i condicions d'emissió per a una altra longitud d’ona. | <a href="PAU/examens/2008_jun_1.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2008_jun_1_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
 
-### 3. Física Nuclear (NU)
+### 3. Física Nuclear
 
 **Temàtica**: desintegracions alfa, beta i gamma; activitat i evolució temporal; semivida; defecte de massa i energia d’enllaç; estabilitat nuclear; fissió i energia alliberada; captura de neutrons; balanç en reaccions nuclears; anihilació matèria–antimatèria.
 
