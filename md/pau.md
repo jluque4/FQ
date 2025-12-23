@@ -231,6 +231,14 @@ Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnèti
 
 **Temàtica**: força de Lorentz (qvB); moviment circular en camps magnètics; superposició vectorial de camps B; conductors rectes i forces sobre fils; camp magnètic d’espira (Biot–Savart); selector de velocitats; ciclotró i freqüència de gir; camp magnètic terrestre.
 
+Camp Magnètic — models PAU típics:
+1. **Càrrega en moviment** — trajectòria circular.
+2. **Dos camps perpendiculars** — selector de velocitats.
+3. **Camp uniforme + ions** — espectròmetre de masses.
+4. **Corrent + conductor** — força sobre fils.
+5. **Bobina + imant** — altaveu / motor / relé.
+6. **Fils llargs** — interacció magnètica.
+
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
 | 1 | 2025 | P2 | Camp magnètic produït per un llamp núvol-terra modelat com un fil infinit; línies de camp, gràfica B(r), força sobre un electró. | <a href="PAU/examens/2025_jun_1.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2025_jun_1_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
@@ -282,6 +290,13 @@ Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnèti
 ### 3. Inducció Electromagnètica 
 
 **Temàtica**: flux magnètic; llei de Faraday; llei de Lenz; FEM induïda; corrent induït (I = ε/R); transformadors ideals (equacions principals); relació d’espires; intensitats i potències; rendiment energètic.
+
+Inducció Electromagnètica — models PAU típics:
+1. **Espira amb Φ variable** — FEM induïda
+2. **Vareta mòbil** — FEM + força de fre
+3. **Bobina giratòria** — alternador
+4. **Dues bobines** — transformador
+5. **Imant en moviment** — corrent induït
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
