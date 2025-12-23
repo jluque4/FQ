@@ -147,6 +147,15 @@ Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnèti
 
 **Temàtica**: energia i potencial elèctric, força electrostàtica, superposició de camps, treball elèctric, camp a partir del potencial, línies de camp, acceleració per camp elèctric.
 
+Camp Elèctric — models PAU típics:
+1. Càrrega en un **camp elèctric uniforme** - plaques paral·leles, condensador, canó electrònic.
+2. **Equilibri de forces** amb camp elèctric - gota carregada, esfera penjada, electroscopi.
+3. **Camp i potencial** creats per **càrregues puntuals fixes** - càrregues situades als vèrtexs (baricentre, centre etc...), camp/potencial en un punt, energia del sistema.
+4. **Superposició i simetria** - punt on el camp elèctric és zero, configuracions simètriques, càrregues iguals o oposades.
+5. **Energia potencial i treball** del camp elèctric - treball necessari per portar una càrrega, energia de formació, variació de l’energia potencial.
+6. **Línies de camp i equipotencials** - dibuixos de línies o mapes de potencial, deduir signes de càrregues, preguntes qualitatives.
+7. **Dispositius** i aplicacions de camp elèctric - canó electrònic, accelerador lineal, impressora d’injecció, electroforesi, motor iònic.
+
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|:---|:--:|:--:|
 | 1 | 2025 | P2A | Experiment de Millikan: esquemes, camp E, càrrega de la gota i pèrdua d’un electró. | <a href="PAU/examens/2025_jun_2.pdf"><img src="img/pdf_a.png" width="29"/></a> | <a href="PAU/examens/2025_jun_2_sol.pdf"><img src="img/pdf_b.png" width="32"/></a> |
