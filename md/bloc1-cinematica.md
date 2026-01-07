@@ -266,7 +266,7 @@ $$
 \vec{a}_m = \frac{\Delta \vec{v}}{\Delta t} = \frac{\vec{v}_2 - \vec{v}_1}{t_2 - t_1}
 $$
 
-| ![Acceleració mitjana entre dos instants](img/bloc1/13.png) |
+| ![Acceleració mitjana entre dos instants](img/bloc1/1.jpg) |
 |:--:|
 | L’acceleració mitjana indica com varia la velocitat al llarg del temps. |
 
@@ -305,7 +305,7 @@ $$
 - En una gràfica **velocitat–temps (v–t)**, la **pendent** indica l’acceleració.
 - En una gràfica **acceleració–temps (a–t)**, l’**àrea sota la corba** indica la variació de velocitat.
 
-| ![Interpretació gràfica de l’acceleració](img/bloc1/14.png) |
+| ![Interpretació gràfica de l’acceleració](img/bloc1/1.jpg) |
 |:--:|
 | La pendent de $v(t)$ és l’acceleració; l’àrea sota $a(t)$ és el canvi de velocitat. |
 
@@ -325,3 +325,229 @@ $$
 > - La **velocitat** és la derivada de la posició.  
 > - L’**acceleració** és la derivada de la velocitat.  
 > - Les gràfiques $r(t)$, $v(t)$ i $a(t)$ estan relacionades per derivació i integració successiva.
+
+---
+
+# 4 — Cinemàtica 1D
+
+---
+
+## 4.1 MRU
+
+---
+
+## 4.2 MRUA
+
+---
+
+### a. Caiguda lliure
+
+---
+
+# 5 — Cinemàtica 2D
+
+---
+
+## **5.1 — De cinemàtica 1D a 2D**
+
+> *1D (moviment en una recta)*
+
+* Només hi ha **una direcció possible**.
+* El **mòdul** indica “quant val” la magnitud.
+* El **signe (+ / −)** indica el **sentit**.
+* **No hi ha ambigüitat**: un sol nombre és suficient.
+
+En aquest cas:
+
+* la **velocitat** i l’**acceleració** estan sempre **sobre la mateixa recta**
+* tots els vectors són **colineals**
+
+> En cinemàtica 1D, l’acceleració només pot fer **augmentar o disminuir la velocitat**
+> (canvi del mòdul o del sentit).
+
+Es pot treballar només amb **magnituds amb signe**.
+
+---
+
+> *2D (moviment en el pla)*
+
+* Hi ha **infinites direccions possibles**.
+* El **mòdul** ja no indica cap on apunta la magnitud.
+* El **signe no és suficient** per descriure la direcció.
+* **Cal indicar mòdul, direcció i sentit**.
+
+En aquest cas:
+
+* la **velocitat** i l’**acceleració** **no han de tenir la mateixa direcció**
+* el moviment pot ser **corb**, encara que el mòdul de la velocitat sigui constant
+
+> En cinemàtica 2D, la velocitat pot canviar **de mòdul**, **de direcció** o de totes dues coses alhora.
+
+És necessari utilitzar **vectors**.
+
+---
+
+> *Components intrínsecs de l’acceleració*
+
+En un moviment en el pla, l’acceleració pot produir **dos efectes físics diferents** sobre el moviment:
+
+* **Canviar el mòdul de la velocitat**
+* **Canviar la direcció de la velocitat**
+
+| ![Components intrínsecs de l’acceleració](img/bloc1/14.png) |
+|:--------------------------------------:|
+| *Components intrínsecs de l’acceleració.* |
+
+Per aquest motiu, en cinemàtica 2D es descompon l’acceleració en:
+
+$$
+a = a_t + a_n
+$$
+
+* **Acceleració tangencial** $a_t$
+
+$$
+a_t = \frac{dv}{dt}
+$$
+
+  * paral·lela a la velocitat
+  * responsable del **canvi del mòdul** de la velocitat
+
+* **Acceleració normal** $a_n$
+
+$$
+a_n = \frac{v^2}{R}
+$$
+
+  * perpendicular a la velocitat
+  * responsable del **canvi de direcció** del moviment
+
+> En 1D tota l’acceleració és tangencial.
+> En 2D pot aparèixer també una acceleració normal.
+
+---
+
+## 5.2 — Llançament parabòlic
+
+En cinemàtica 2D, el moviment d’un mòbil en el pla **no s’analitza com un moviment nou**, sinó com la **composició de dos moviments rectilinis independents**, un en cada eix del sistema de referència.
+
+Aquesta manera de procedir és una **extensió directa del model utilitzat en cinemàtica 1D**:
+es defineixen els paràmetres del moviment, s’escriuen les equacions en funció del temps i s’apliquen les condicions del problema.
+
+| ![llançament parabòlic](img/bloc1/13.png) |
+|:--------------------------------------:|
+| *Llançament parabòlic.* |
+
+---
+
+> *1. Modelització del moviment en dos eixos*
+
+S’escull un sistema de referència amb:
+
+* eix **X** horitzontal
+* eix **Y** vertical
+
+El moviment es descriu mitjançant **dos problemes de cinemàtica 1D**, un per a cada eix, que comparteixen el **mateix temps**.
+
+---
+
+> *2. Paràmetres del moviment*
+
+Els paràmetres que defineixen el moviment del mòbil es desglossen per components:
+
+* Posició inicial: $x_0,\ y_0$
+
+* Velocitat inicial: $v_{0x},\ v_{0y}$
+
+* Acceleració: $a_{0x},\ a_{0y}$
+
+* temps: $t_0$
+
+Aquests paràmetres són **constants** i caracteritzen el moviment particular del mòbil.
+
+---
+
+> *3. Variables dependents del temps*
+
+Les magnituds cinemàtiques es descriuen mitjançant funcions del temps, com ja s’ha fet en cinemàtica 1D:
+
+* Posició: $x(t),\ y(t)$
+
+* Velocitat: $v_x(t),\ v_y(t)$
+
+* Acceleració: $a_x(t),\ a_y(t)$
+
+Cada una d’aquestes funcions correspon a **un moviment rectilini en una sola direcció**.
+
+---
+
+> *4. Model general en cada eix*
+
+Cada eix pot seguir un model diferent:
+
+* **Moviment rectilini uniforme (MRU)**
+  quan l’acceleració és nul·la
+
+* **Moviment rectilini uniformement accelerat (MRUA)**
+  quan l’acceleració és constant
+
+Les equacions del moviment s’escriuen **independentment en cada eix**, substituint els paràmetres corresponents al model adequat.
+
+---
+
+> *5. Equacions particulars del moviment*
+
+Un cop escollit el model per a cada eix, s’obtenen les equacions:
+
+* $x(t)$, $v_x(t)$ i $a_x(t)$ a partir del model de l’eix X
+* $y(t)$, $v_y(t)$ i $a_y(t)$a partir del model de l’eix Y
+
+Aquestes equacions descriuen completament l’evolució del moviment en funció del temps.
+
+---
+
+> *6. Composició vectorial del moviment*
+
+Tot i que el moviment es resol per eixos, el moviment real és **únic i té lloc en el pla**.
+Per aquest motiu, les magnituds cinemàtiques s’expressen també en forma vectorial:
+
+$$
+\vec r(t) = x(t)\cdot \hat\imath + y(t)\cdot \hat\jmath
+$$
+
+$$
+\vec v(t) = v_x(t)\cdot\hat\imath + v_y(t)\cdot\hat\jmath
+$$
+
+$$
+\vec a(t) = a_x(t)\cdot\hat\imath + a_y(t)\cdot\hat\jmath
+$$
+
+Aquestes expressions permeten descriure **la direcció i el sentit del moviment** en cada instant.
+
+---
+
+> *7. Aplicació de les condicions del problema*
+
+La resolució dels problemes es fa imposant les condicions específiques de cada situació sobre les funcions del moviment, com ja es feia en cinemàtica 1D.
+
+Exemples habituals:
+
+* $y(t)=0$ : impacte amb el terra
+* $v_y(t)=0$ : alçada màxima
+* $x_A(t)=x_B(t)$ i $y_A(t)=y_B(t)$ : trobada de dos mòbils
+
+Aquestes condicions permeten determinar el temps corresponent i, a partir d’aquest, la resta de magnituds del moviment.
+
+---
+
+**Idea clau**
+
+> En cinemàtica 2D, un moviment es resol com **dos moviments rectilinis en 1D**
+> que comparteixen el mateix temps, però es descriu mitjançant **vectors**.
+
+| ![llançament parabòlic](img/bloc1/14.jpg) |
+|:--------------------------------------:|
+| *Llançament parabòlic.* |
+
+---

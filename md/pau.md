@@ -32,6 +32,8 @@ En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar duran
 
 *Vídeo mostrant l’aterratge del rover **Curiosity** a Mart (2012).*
 
+---
+
 ### 1. Òrbites circulars
 
 **Temàtica**: Problemes en què la dinàmica principal és un satèl·lit o un cos en **òrbita circular**, amb càlculs de velocitat orbital, període, radi, força centrípeta, o relació entre magnituds circulars.
@@ -129,9 +131,9 @@ En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar duran
 
 ---
 
-### 4. Principi de superposició, força, camp i potencial gravitatori.
+### 4. Principi de superposició de $\vec F$, $\vec g$ i $V$.
 
-****Temàtica****: Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **Fg = G·m1·m2/r²**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
+****Temàtica****: Problemes centrats en el càlcul del **camp gravitatori**, força entre cossos mitjançant **$F_g = \frac{G·m1·m2}{r²}$**, punts d’equilibri, o **superposició de camps** generats per diversos cossos massius.
 
 | N | Any | ID | Descripció | Enunciat | Solució |
 |--|--|--|---|:--:|:--:|
@@ -142,6 +144,31 @@ En aquest vídeo, l’enginyer de la NASA **Mark Rober**, que va treballar duran
 # Bloc 4 — Camp electromagnètic
 
 Aquest bloc inclou tres subàrees principals: camp elèctric (CE), camp magnètic (CM) i inducció electromagnètica (CI). Cada subàrea conté els conceptes essencials del currículum i la taula corresponent de problemes PAU.
+
+---
+
+#### The Big Misconception About Electricity — Veritasium
+
+---
+
+En aquest vídeo divulgatiu, el canal **Veritasium** planteja una pregunta aparentment senzilla però profundament reveladora:
+**com arriba realment l’energia elèctrica des d’una font fins a un dispositiu?**
+
+A partir d’un exemple extrem (un circuit amb fils de centenars de milers de quilòmetres), el vídeo mostra que la idea habitual que **“els electrons transporten l’energia”** és incorrecta, i introdueix una visió molt més acurada des del punt de vista físic:
+
+> **L’energia elèctrica es transmet a través de l’espai mitjançant l’acció conjunta del camp elèctric i del camp magnètic.**
+
+El vídeo connecta directament amb conceptes clau del bloc d’electromagnetisme:
+
+* la seva propagació per l’espai,
+* la coexistència dels camps **elèctric $\vec E$** i **magnètic $\vec B$**,
+* i el fet que és la **combinació d’aquests camps** la que explica el flux d’energia en circuits reals.
+
+[![Veure el vídeo: *The Big Misconception About Electricity*](https://img.youtube.com/vi/bHIhgxav9LY/0.jpg)](https://www.youtube.com/watch?v=bHIhgxav9LY)
+
+*Vídeo divulgatiu sobre la naturalesa real del transport d’energia elèctrica.*
+
+---
 
 ### 1. Camp Elèctric
 
