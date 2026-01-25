@@ -551,3 +551,5 @@ Aquestes condicions permeten determinar el temps corresponent i, a partir d’aq
 | *Llançament parabòlic.* |
 
 ---
+
+## 5.3 — Moviment circular
