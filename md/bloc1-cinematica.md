@@ -552,4 +552,120 @@ Aquestes condicions permeten determinar el temps corresponent i, a partir d’aq
 
 ---
 
-## 5.3 — Moviment circular
+## 5.3 — Magnituds moviment circular
+
+**El moviment circular** és un moviment en el pla en què la trajectòria és una **circumferència**.
+
+En aquest tipus de moviment:
+
+* la distància del mòbil al centre $R$ **és constant**
+* el canvi fonamental **no és una translació**, sinó una **rotació**
+
+Per descriure una rotació, cal introduir **magnituds angulars**, de manera anàloga a les magnituds lineals utilitzades en els moviments rectilinis.
+
+---
+
+### a. Angle recorregut
+
+La posició del mòbil es pot descriure mitjançant l’**angle girat** $\varphi$, mesurat respecte d’una direcció de referència.
+
+| ![Moviment circular](img/bloc1/15.png) |
+|:--------------------------------------:|
+| *L’estudi del moviment circular se simplifica utilitzant les coordenades polars.* |
+
+> La unitat en el SI: **radiant (rad)**. Un radiant és l’angle que comprèn un arc de circumferència de longitud igual al radi. 
+
+| ![Radiant](img/bloc1/17.png) |
+|:--------------------------------------:|
+| *Representació gràfica d'un radiant.* |
+
+---
+
+### b. Desplaçament angular
+
+El desplaçament del mòbil es pot mesurar de dues maneres:
+
+* **Increment de l’angle girat**
+  $$
+  \Delta\varphi = \varphi - \varphi_0
+  $$
+
+* **Arc recorregut** $s$, longitud de la trajectòria sobre la circumferència:
+
+  $$
+  s = r \cdot \Delta\varphi
+  $$
+
+| ![Desplaçament angular](img/bloc1/16.png) |
+|:--------------------------------------:|
+| *Desplaçament angular i conveni de signes.* |
+
+---
+
+### c. Velocitat angular
+
+La velocitat de gir es mesura mitjançant la **velocitat angular** (**rad/s**):
+
+* **Velocitat angular mitjana**
+  $$
+  \omega_m = \frac{\Delta\varphi}{\Delta t} = \frac{\varphi - \varphi_0}{t - t_0}
+  $$
+
+| ![Velocitat angular](img/bloc1/18.png) |
+|:--------------------------------------:|
+| *Velocitat angular.* |
+
+* **Velocitat angular instantània**
+  $$
+  \omega = \frac{d\varphi}{dt}
+  $$
+
+* És un vector de direcció perpendicular al pla de gir i el sentit del qual està marcat per la regla de la mà dreta.
+
+| ![Velocitat angular](img/bloc1/19.png) |
+|:--------------------------------------:|
+| *Representació del vector velocitat angular.* |
+
+---
+
+### d. Acceleració angular
+
+Si la velocitat angular varia amb el temps, es defineix l’**acceleració angular** (**rad/s²**):
+
+$$
+\alpha = \frac{d\omega}{dt}
+$$
+
+* És un vector de direcció perpendicular al pla de gir i el sentit del qual està marcat per la regla de la mà dreta.
+
+---
+
+### e. Relació amb les magnituds lineals
+
+Les magnituds angulars es poden relacionar amb les lineals mitjançant el radi $r$:
+
+$$
+v = \omega \cdot r
+\qquad
+a_t = \alpha \cdot r
+$$
+
+---
+
+### f. Període
+
+El període $T$ (en $s$) és la magnitud que mesura el temps que triga el mòbil a fer una volta en un moviment circular.
+
+---
+
+### g. Freqüència
+
+La freqüència $f$ (en $Hz$) és la magnitud que mesura el nombre de voltes que fa un mòbil en un segon en un moviment circular.
+
+$$
+f = \frac{1}{T}
+$$
+
+---
+
+## 5.4 — MCU
