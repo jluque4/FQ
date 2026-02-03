@@ -102,7 +102,7 @@ Quatre estacions científiques han estat instal·lades a la superfície d’un p
 
 Els quatre mòduls formen els vèrtexs d’un **quadrat de costat $L = 12 \text{ m}$**.
 
-![Figura](md/square.png)
+![Figura](img/square.png)
 
 **a)** Determineu el **mòdul, la direcció i el sentit del camp gravitatori total** al centre del quadrat creat per les quatre masses, aplicant estrictament el **principi de superposició**.
 
