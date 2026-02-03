@@ -645,6 +645,8 @@ $$
 Les magnituds angulars es poden relacionar amb les lineals mitjançant el radi $r$:
 
 $$
+s = r \cdot \varphi
+\qquad
 v = \omega \cdot r
 \qquad
 a_t = \alpha \cdot r
