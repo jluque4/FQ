@@ -671,3 +671,90 @@ $$
 ---
 
 ## 5.4 — MCU
+
+El **moviment circular uniforme (MCU)** és el moviment circular més senzill.
+
+> És el moviment en què un mòbil descriu una **circumferència** i recorre **arcs i angles iguals en intervals de temps iguals**.
+
+En aquest moviment:
+- el **radi** de la trajectòria és constant
+- la **velocitat angular** és constant
+- el **mòdul de la velocitat lineal** és constant
+- la **direcció de la velocitat** canvia contínuament
+- la velocitat lineal és sempre **tangent** a la trajectòria
+- l’acceleració és **perpendicular** a la velocitat
+
+| ![Moviment circular uniforme](img/bloc1/20.png) |
+|:--------------------------------------:|
+| *Vectors velocitat i acceleració en el MCU.* |
+
+---
+
+> *Equació del moviment angular*
+
+Com que la **velocitat angular és constant**, la posició angular varia de manera uniforme amb el temps.
+
+L’equació del moviment angular és:
+
+$$
+\phi(t) = \phi_0 + \omega \ \cdot (t - t_0)
+$$
+
+Aquesta expressió és **l’anàloga angular del moviment rectilini uniforme (MRU)**.
+
+---
+
+> *Velocitat en el MCU*
+
+La **velocitat angular** és constant:
+
+$$
+\omega = \text{constant} = \frac{d\phi}{dt}
+$$
+
+La **velocitat lineal** està relacionada amb la velocitat angular mitjançant el radi de la trajectòria:
+
+$$
+v = \omega \cdot R
+$$
+
+Encara que el **mòdul de la velocitat** és constant, el vector velocitat canvia contínuament de direcció.
+
+---
+
+> *Acceleració en el MCU*
+
+En el moviment circular uniforme **no hi ha acceleracció angular**:
+
+$$
+\alpha = 0
+$$
+
+per tant tampoc hi ha **acceleració tangencial**, ja que el mòdul de la velocitat no varia:
+
+$$
+a_t = \alpha \cdot r = 0
+$$
+
+L’acceleració és exclusivament **normal (o centrípeta)** i és responsable del canvi de direcció del moviment:
+
+$$
+a_n = \frac{v^2}{r}
+$$
+
+Utilitzant la relació entre velocitat lineal i angular, també es pot expressar com:
+
+$$
+a_n = \omega^2 R
+$$
+
+Aquesta acceleració està dirigida **cap al centre de la circumferència**.
+
+Par tant l'acceleració del sistema seria únicament l'acceleracií normal:
+
+$$
+a = a_t + a_n = 0 + \frac{v^2}{r}
+$$
+
+---
+
