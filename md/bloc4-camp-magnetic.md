@@ -804,8 +804,6 @@ on:
 * $\Phi$ és el **flux magnètic**,
 * $\dfrac{d\Phi}{dt}$ és la **variació del flux magnètic amb el temps**.
 
-> **La força electromotriu induïda en un circuit és proporcional a la velocitat amb què varia el flux magnètic que el travessa.**
-
 **Important**
 
 No és el valor del flux el que indueix corrent, sinó **la seva variació**. Això vol dir que:
