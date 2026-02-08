@@ -48,7 +48,7 @@ Un dipol elèctric és un sistema de dues càrregues puntuals d’igual magnitud
 
 **a)** Representeu dins del requadre adjunt les **línies de camp elèctric** creades per un dipol elèctric. Representeu la projecció de les **superfícies equipotencials** en el pla de la figura. **Orientació**: per al camp elèctric dibuixeu 12 línies de camp i 3 línies equipotencials per cada càrrega. 
 
-![Gràfics](md/tmp/63.png)
+![Gràfics](img/bloc4/63.png)
 
 **b)** El valor de la càrrega és $|Q| = 2 \text{ μC}$, la càrrega positiva està situada a $–6 \text{ cm}$ i la càrrega negativa està situada a $6 \text{ cm}$. Calculeu el **camp elèctric** creat pel dipol elèctric i també el valor del **potencial elèctric** a **l’origen de coordenades**. Per a les magnituds vectorials podeu donar les components o el mòdul, la direcció i el sentit. 
 
@@ -80,7 +80,7 @@ $ K = \frac{1}{4\pi \epsilon_0} = 8.99\times 10^{9} \text{ N·m}^2\text{C}^{-2}$
 
 Un canó electrònic que dispara electrons els accelera, mitjançant un **camp elèctric uniforme** generat per dues plaques metàŀliques (A i B), des del repòs fins a una velocitat de **$2,00 × 10^6 \text{ m·s}^{–1}$** (figura 1). Dins del canó, els electrons inicien el recorregut a la placa A i viatgen cap a la placa B, per on surten horitzontalment **cap a la dreta** per un petit orifici. Les dues plaques són paraŀleles i estan separades per **$4$ cm**. 
 
-![Gràfics](md/tmp/67.png) 
+![Gràfics](img/bloc4/67.png) 
 
 **a)** Calculeu la **diferència de potencial** entre les dues plaques i indiqueu quina placa té el **potencial més alt** i quina té el **potencial més baix** justificant la resposta. Dibuixeu la figura 1 i representeu-hi les **línies de camp elèctric** entre les dues plaques. 
 
