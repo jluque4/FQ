@@ -853,6 +853,8 @@ $$
 \vec a = \vec a_t + \vec a_n
 $$
 
+On el mòdul de l'acceleració total serà:
+
 $$
 a = \sqrt{a_t^2 + a_n^2}
 $$
