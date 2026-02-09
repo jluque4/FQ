@@ -773,6 +773,10 @@ En aquest moviment:
   - una component **tangencial**
   - una component **normal**
 
+| ![Moviment circular uniformement accelerat](img/bloc1/21.png) |
+|:--------------------------------------:|
+| *Vectors velocitat i acceleració en el MCUA.* |
+
 ---
 
 > *Equació del moviment angular en el MCUA*
