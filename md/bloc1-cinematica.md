@@ -847,10 +847,14 @@ $$
 
 #### Acceleració total
 
-L’acceleració total és la suma dels dos components intrínsecs:
+L’acceleració total és la suma vectorial dels dos components intrínsecs:
 
 $$
 \vec a = \vec a_t + \vec a_n
+$$
+
+$$
+a = \sqrt{a_t^2 + a_n^2}
 $$
 
 En el MCUA:
