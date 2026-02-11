@@ -697,7 +697,7 @@ Com que la **velocitat angular és constant**, la posició angular varia de mane
 L’equació del moviment angular és:
 
 $$
-\phi(t) = \phi_0 + \omega \ \cdot (t - t_0)
+\varphi(t) = \varphi_0 + \omega \ \cdot (t - t_0)
 $$
 
 Aquesta expressió és **l’anàloga angular del moviment rectilini uniforme (MRU)**.
@@ -709,7 +709,7 @@ Aquesta expressió és **l’anàloga angular del moviment rectilini uniforme (M
 La **velocitat angular** és constant:
 
 $$
-\omega = \text{constant} = \frac{d\phi}{dt}
+\omega = \text{constant} = \frac{d\varphi}{dt}
 $$
 
 La **velocitat lineal** està relacionada amb la velocitat angular mitjançant el radi de la trajectòria:
@@ -784,7 +784,7 @@ En aquest moviment:
 Les equacions angulars del MCUA són anàlogues a les del MRUA:
 
 $$
-\phi(t) = \phi_0 + \omega_0\cdot(t - t_0) + \frac{1}{2}\cdot\alpha\cdot(t - t_0)^2
+\varphi(t) = \varphi_0 + \omega_0\cdot(t - t_0) + \frac{1}{2}\cdot\alpha\cdot(t - t_0)^2
 $$
 
 ---

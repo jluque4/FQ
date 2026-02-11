@@ -887,31 +887,31 @@ Els alternadors són la base de:
 
 > *força electromotriu que proporciona l’alter­nador*
 
-Tenint en compte la definició de flux, i considerant que els vectors $\vec B$ i $\vec S$ formen un angle $\theta$, podem escriure:
+Tenint en compte la definició de flux, i considerant que els vectors $\vec B$ i $\vec S$ formen un angle $\varphi$, podem escriure:
 
 $$
-\Phi = \vec B \cdot \vec S = B \cdot S \cdot \cos\theta
+\Phi = \vec B \cdot \vec S = B \cdot S \cdot \cos\varphi
 $$
 
-Observem que els mòduls de $\vec B$ i $\vec S$ són magnituds constants i només l’angle $\theta$ és una variable que depèn del temps.
-Si suposem que el moviment de rotació del rotor és constant i que té lloc a una velocitat an­gular $\omega$, podem substituir l’angle per $\theta = \omega t$ i formular l’expressió anterior d’aquesta manera:
+Observem que els mòduls de $\vec B$ i $\vec S$ són magnituds constants i només l’angle $\varphi$ és una variable que depèn del temps.
+Si suposem que el moviment de rotació del rotor és constant i que té lloc a una velocitat an­gular $\omega$, podem substituir l’angle per $\varphi = \varphi_0 + \omega t$ i formular l’expressió anterior d’aquesta manera:
 
 $$
-\Phi = B \cdot S \cdot \cos\omega t
+\Phi = B \cdot S \cdot \cos(\varphi_0 + \omega t)
 $$
 
 Per tant, obtenim una expressió que demostra que el flux magnètic que travessa l’espira depèn només del temps.
 Si derivem l’expressió anterior respecte de t obtenim que:
 
 $$
-\varepsilon = -\frac{d\Phi}{dt} = B \cdot S \cdot \omega \cdot \sin\omega t
+\varepsilon = -\frac{d\Phi}{dt} = B \cdot S \cdot \omega \cdot \sin(\varphi_0 + \omega t)
 $$
 
 que és la **força electromotriu instantània induïda** en l’alternador simple.
 Fins ara hem considerat un rotor amb una espira, però si en conté N podem augmentar la FEM N vegades.
 
 $$
-\boxed{\varepsilon = N \cdot B \cdot S \cdot \omega \cdot \sin\omega t}
+\boxed{\varepsilon = N \cdot B \cdot S \cdot \omega \cdot \sin(\varphi_0 + \omega t)}
 $$
 
 | ![Representacio de la femm d'un alternador](img/bloc4/58.png) | 
