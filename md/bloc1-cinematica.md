@@ -697,7 +697,7 @@ Com que la **velocitat angular és constant**, la posició angular varia de mane
 L’equació del moviment angular és:
 
 $$
-\phi(t) = \phi_0 + \omega \ \cdot (t - t_0)
+\varphi(t) = \varphi_0 + \omega \ \cdot (t - t_0)
 $$
 
 Aquesta expressió és **l’anàloga angular del moviment rectilini uniforme (MRU)**.
@@ -709,7 +709,7 @@ Aquesta expressió és **l’anàloga angular del moviment rectilini uniforme (M
 La **velocitat angular** és constant:
 
 $$
-\omega = \text{constant} = \frac{d\phi}{dt}
+\omega = \text{constant} = \frac{d\varphi}{dt}
 $$
 
 La **velocitat lineal** està relacionada amb la velocitat angular mitjançant el radi de la trajectòria:
@@ -757,4 +757,113 @@ a = a_t + a_n = 0 + \frac{v^2}{r}
 $$
 
 ---
+
+## 5.5 — MCUA
+
+> El **moviment circular uniformement accelerat (MCUA)** és un moviment circular en què la **velocitat angular varia de manera uniforme amb el temps**.
+
+És l’anàleg angular del **moviment rectilini uniformement accelerat (MRUA)**.
+
+En aquest moviment:
+- la trajectòria continua sent una **circumferència** (radi constant)
+- la **velocitat angular no és constant**
+- el **mòdul de la velocitat lineal varia**
+- la direcció de la velocitat canvia contínuament
+- l’acceleració té **dos components**:
+  - una component **tangencial**
+  - una component **normal**
+
+| ![Moviment circular uniformement accelerat](img/bloc1/21.png) |
+|:--------------------------------------:|
+| *Vectors velocitat i acceleració en el MCUA.* |
+
+---
+
+> *Equació del moviment angular en el MCUA*
+
+Les equacions angulars del MCUA són anàlogues a les del MRUA:
+
+$$
+\varphi(t) = \varphi_0 + \omega_0\cdot(t - t_0) + \frac{1}{2}\cdot\alpha\cdot(t - t_0)^2
+$$
+
+---
+
+> *Equació de la velocitat angular en el MCUA*
+
+L’equació de la velocitat angular és:
+
+$$
+\omega(t) = \omega_0 + \alpha \cdot(t - t_0)
+$$
+
+La velocitat lineal està relacionada amb la velocitat angular mitjançant el radi:
+
+$$
+v(t) = \omega(t)\cdot r
+$$
+
+Com que $\omega$ varia amb el temps, el **mòdul de la velocitat lineal també varia**.
+
+---
+
+> *Acceleració en el MCUA*
+
+En el moviment circular uniforme **l'acceleracció angular** és constant:
+
+$$
+\alpha = \text{constant}
+$$
+
+---
+
+Per tant, en el MCUA apareixen **dos components de l’acceleració**:
+
+#### Acceleració tangencial
+
+És la responsable del **canvi del mòdul de la velocitat**:
+
+$$
+a_t = \alpha \cdot r
+$$
+
+- és **paral·lela** a la velocitat
+- pot augmentar o disminuir la rapidesa del moviment
+
+---
+
+#### Acceleració normal (centrípeta)
+
+És la responsable del **canvi de direcció** de la velocitat:
+
+$$
+a_n = \frac{v^2}{r} = \omega^2 \cdot r
+$$
+
+- és **perpendicular** a la velocitat
+- apunta cap al **centre de la circumferència**
+
+---
+
+#### Acceleració total
+
+L’acceleració total és la suma vectorial dels dos components intrínsecs:
+
+$$
+\vec a = \vec a_t + \vec a_n
+$$
+
+On el mòdul de l'acceleració total serà:
+
+$$
+a = \sqrt{a_t^2 + a_n^2}
+$$
+
+En el MCUA:
+- $a_t \neq 0$
+- $a_n \neq 0$
+
+---
+
+
 
