@@ -51,3 +51,119 @@ $$
 | ![Descomposició de forces](img/bloc2/2.png) |
 |:--------------------------------------:|
 | *Descomposició de forces.* |
+
+---
+
+# 3 — Principals tipus de forces
+
+En els problemes de dinàmica apareixen diferents tipus de forces associades a interaccions entre cossos. Les forces més habituals són:
+
+- pes
+- força normal
+- força de tensió
+- força de fregament
+- força elàstica
+
+---
+
+## 3.1 — Pes $\vec P$
+
+El **pes** és la força amb què la Terra atrau un cos a causa de la interacció gravitatòria. Característiques:
+
+- direcció **vertical**
+- sentit **cap al centre de la Terra**
+- aplicat al **centre de massa del cos**
+
+$$
+\vec P = m\vec g
+$$
+
+on
+
+- $m$ és la massa del cos
+- $\vec g$ és l’acceleració de la gravetat
+
+| ![Força pes](img/bloc2/3.png) |
+|:--------------------------------------:|
+| *Força pes.* |
+
+---
+
+## 3.2 — Força normal $\vec N$
+
+La **força normal** és la força que exerceix una superfície sobre un cos que està en contacte amb ella. Característiques:
+
+- és **perpendicular** a la superfície de contacte
+- apareix com a reacció al fet que el cos pressiona la superfície
+
+En una superfície horitzontal i sense altres forces verticals:
+
+$$
+N = P
+$$
+
+| ![Força normal](img/bloc2/4.png) |
+|:--------------------------------------:|
+| *Força normal.* |
+
+---
+
+## 3.3 — Força de tensió $\vec T$
+
+La **tensió** és la força que actua sobre un cos quan és estirat per una **corda, cable o fil**. Característiques:
+
+- té la **direcció del fil o corda**
+- sempre **estira el cos**
+- apareix en sistemes de cossos units per cordes o cables
+
+| ![Força tensió](img/bloc2/5.jpg) |
+|:--------------------------------------:|
+| *Força de tensió.* |
+
+---
+
+## 3.4 — Força de fregament $\vec F_r$
+
+La **força de fregament** és una força de contacte que apareix entre dues superfícies i que **s’oposa al moviment relatiu** entre elles. Actua **paral·lela a la superfície de contacte**. Es poden distingir dos tipus:
+
+> *Fregament estàtic*
+
+Actua quan el cos **està en repòs**.
+
+$$
+F_{r} \le \mu_s \cdot N
+$$
+
+on $\mu_s$ és el **coeficient de fregament estàtic**.
+
+> *Fregament dinàmic*
+
+Actua quan el cos **ja està en moviment**.
+
+$$
+F_{r} = \mu_d \cdot N
+$$
+
+on $\mu_d$ és el **coeficient de fregament dinàmic**.
+
+---
+
+## 3.5 — Força elàstica $\vec F_e$
+
+La **força elàstica** apareix quan un cos elàstic es deforma. Un exemple típic és una **molla**.
+La relació entre la força i la deformació ve donada per la **llei de Hooke**:
+
+$$
+\vec F_e = -k \cdot \vec x
+$$
+
+on
+
+- $k$ és la **constant elàstica**
+- $x$ és la **deformació respecte a la posició d’equilibri**
+
+El signe negatiu indica que la força és **recuperadora**, és a dir, s’oposa a la deformació.
+
+| ![Força elàstica](img/bloc2/6.png) |
+|:--------------------------------------:|
+| *Força elàstica.* |
