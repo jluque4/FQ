@@ -157,4 +157,107 @@ Si representem l’elongació $x$ en funció del temps $t$, obtenim el **diagram
 
 ---
 
+## 2.3 — Velocitat i acceleració del MHS
 
+Podem determinar la **velocitat** i l’**acceleració** d’un moviment harmònic simple derivant l’equació del moviment respecte del temps. Partim de l’equació del moviment:
+
+$$
+x(t)=A\sin(\omega t+\varphi_0)
+$$
+
+---
+
+> *Velocitat*
+
+La **velocitat instantània** és la derivada de la posició respecte del temps:
+
+$$
+v(t)=\frac{dx}{dt}
+$$
+
+Derivant l’equació del moviment obtenim:
+
+$$
+v(t)=A\omega\cos(\omega t+\varphi_0)
+$$
+
+D’aquesta expressió es dedueix que:
+
+- la velocitat és **màxima quan el mòbil passa per la posició d’equilibri** $(x=0)$  
+- la velocitat és **nul·la als punts extrems** $(x=\pm A)$
+
+El valor màxim de la velocitat és:
+
+$$
+v_{max}=A\omega
+$$
+
+---
+
+> *Acceleració*
+
+L’**acceleració instantània** és la derivada de la velocitat respecte del temps:
+
+$$
+a(t)=\frac{dv}{dt}
+$$
+
+Derivant l’expressió de la velocitat obtenim:
+
+$$
+a(t)=-A\omega^2\sin(\omega t+\varphi_0)
+$$
+
+Si comparem aquesta expressió amb la del moviment:
+
+$$
+x(t)=A\sin(\omega t+\varphi_0)
+$$
+
+podem escriure:
+
+$$
+\boxed{a(t)=-\omega^2 x(t)}
+$$
+
+Aquesta relació mostra una propietat fonamental del moviment harmònic simple:
+
+> **l’acceleració és proporcional a l’elongació i té sentit contrari.**
+
+---
+
+> *Valors màxims i mínims del MHS*
+
+De les expressions anteriors es dedueix:
+
+$$
+v_{max}=A\omega
+$$
+
+$$
+a_{max}=A\omega^2
+$$
+
+Així:
+
+- la **velocitat és màxima a la posició d’equilibri**
+- l’**acceleració és màxima als extrems de l’oscil·lació** $(x=\pm A)$
+
+| ![Valors màxims i mínims del MHS](img/bloc5/10.png) |
+|:--------------------------------------:|
+| *Valors màxims i mínims del MHS.* |
+
+---
+
+> *Desfasament entre les magnituds*
+
+Les tres magnituds del moviment harmònic simple **no estan en fase**.
+
+- la **velocitat** està desfasada **$\frac{\pi}{2}$ rad** respecte de l’elongació
+- l’**acceleració** està desfasada **$\pi$ rad** respecte de l’elongació 
+
+Això es pot observar clarament si representem conjuntament els diagrames:
+
+| ![Desfasament entre les magnituds](img/bloc5/11.png) |
+|:--------------------------------------:|
+| *Desfasament entre les magnituds.* |
