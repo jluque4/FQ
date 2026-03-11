@@ -271,7 +271,7 @@ Aquest mètode permet identificar les forces que intervenen i aplicar correctame
 
 ---
 
-> *1 — Llegir atentament l’enunciat*
+> *Llegir atentament l’enunciat*
 
 Identificar:
 
@@ -285,7 +285,7 @@ Identificar:
 
 ---
 
-> *2 — Definir el sistema de referència i identificar totes les forces*
+> *Definir el sistema de referència i identificar totes les forces*
 
 Triar un sistema d’eixos adequat:
 
@@ -302,7 +302,7 @@ Dibuixar totes les forces que actuen sobre cada cos:
 
 ---
 
-> *3 — Descompondre les forces en components*
+> *Descompondre les forces en components*
 
 Si alguna força no és paral·lela als eixos escollits, cal **descompondre-la en components**.
 
@@ -318,7 +318,7 @@ $$
 
 ---
 
-> *4 — Aplicar la segona llei de Newton*
+> *Aplicar la segona llei de Newton*
 
 Aplicar la segona llei a cada eix de coordenades i cada cos.
 
@@ -348,13 +348,19 @@ $\text{Eix y: } m_1 g - F_{12} = m_1 a$
 
 ---
 
-> *5 — Substituir les dades i resoldre les equacions*
+> *Substituir les dades i resoldre les equacions*
 
 Introduir els valors coneguts i resoldre el sistema d’equacions per trobar les incògnites.
 
+$T - \mu  m_3 g = m_3 a$
+
+$m_2 g + F_{12} - T = m_2 a$
+
+$m_1 g - F_{12} = m_1 a$
+
 ---
 
-> *7 — Interpretar el resultat*
+> *Interpretar el resultat*
 
 Comprovar:
 
