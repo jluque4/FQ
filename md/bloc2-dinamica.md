@@ -256,3 +256,110 @@ Aquestes forces formen un **parell acció–reacció**.
 | ![Tercera llei de Newton](img/bloc2/9.png) |
 |:--------------------------------------:|
 | *Parell d’acció i reacció entre dos cossos.* |
+
+---
+
+---
+
+# 5 — Diagrama de forces DCL
+
+Per resoldre problemes de dinàmica és molt útil representar totes les forces que actuen sobre un cos mitjançant un **diagrama del cos lliure (DCL)**.
+
+Un **diagrama del cos lliure** consisteix a representar un cos aïllat i dibuixar totes les forces que actuen sobre ell.
+
+Aquest mètode permet identificar les forces que intervenen i aplicar correctament les **lleis de Newton**.
+
+---
+
+> *1 — Llegir atentament l’enunciat*
+
+Identificar:
+
+- els cossos que intervenen
+- les magnituds conegudes
+- les magnituds que es volen determinar
+
+| ![Diagrama de forces](img/bloc2/10.png) |
+|:--------------------------------------:|
+| *Diagrama de forces.* |
+
+---
+
+> *2 — Definir el sistema de referència i identificar totes les forces*
+
+Triar un sistema d’eixos adequat:
+
+- normalment **un eix en la direcció del moviment**
+- l’altre **perpendicular**
+
+Això simplifica el plantejament de les equacions.
+
+Dibuixar totes les forces que actuen sobre cada cos:
+
+| ![Diagrama del cos lliure](img/bloc2/11.png) |
+|:--------------------------------------:|
+| *diagrama del cos lliure.* |
+
+---
+
+> *3 — Descompondre les forces en components*
+
+Si alguna força no és paral·lela als eixos escollits, cal **descompondre-la en components**.
+
+Per exemple:
+
+$$
+F_x = F \cos\theta
+$$
+
+$$
+F_y = F \sin\theta
+$$
+
+---
+
+> *4 — Aplicar la segona llei de Newton*
+
+Aplicar la segona llei a cada eix de coordenades i cada cos.
+
+$$
+\sum \vec{F} = m\vec{a} 
+$$
+
+Equacions per a cada cos:
+
+* Cos 3:
+
+$\text{Eix x: } T - F_r = m_3 a$
+
+$\text{Eix y: } N_3 - m_3 g = 0$
+
+* Cos 2:
+
+$\text{Eix x: No hi ha forces}$
+
+$\text{Eix y: } m_2 g + F_{12} - T = m_2 a$
+
+* Cos 1:
+
+$\text{Eix x: No hi ha forces}$
+
+$\text{Eix y: } m_1 g - F_{12} = m_1 a$
+
+---
+
+> *5 — Substituir les dades i resoldre les equacions*
+
+Introduir els valors coneguts i resoldre el sistema d’equacions per trobar les incògnites.
+
+---
+
+> *7 — Interpretar el resultat*
+
+Comprovar:
+
+- que les **unitats siguin correctes**
+- que el **resultat tingui sentit físic**
+- que el **sentit de les forces o acceleracions sigui coherent**
+
+---
