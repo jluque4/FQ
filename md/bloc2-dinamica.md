@@ -167,3 +167,92 @@ El signe negatiu indica que la força és **recuperadora**, és a dir, s’oposa
 | ![Força elàstica](img/bloc2/6.png) |
 |:--------------------------------------:|
 | *Força elàstica.* |
+
+---
+
+# 4 — Lleis de Newton
+
+Les **lleis de Newton** descriuen la relació entre les forces que actuen sobre un cos i el seu moviment. Aquestes lleis constitueixen la base de la dinàmica clàssica.
+
+---
+
+## 4.1 — Principi d’inèrcia
+
+Anomenem **inèrcia** la resistència dels cossos a canviar el seu estat de moviment.
+
+> Si la **força resultant** que actua sobre un cos és nul·la, el cos manté el seu estat de repòs o de moviment rectilini uniforme.
+
+$$
+\sum \vec F = 0
+$$
+
+En aquestes condicions:
+
+- el cos pot romandre **en repòs**
+- o moure’s amb **velocitat constant**
+
+Això significa que **no és necessària cap força per mantenir un moviment rectilini uniforme**.
+
+Un exemple és un cos en repòs damunt d’una taula: el **pes** i la **força normal** tenen el mateix mòdul i sentits oposats, de manera que la força resultant és nul·la.
+
+| ![Primera llei de Newton](img/bloc2/7.png) |
+|:--------------------------------------:|
+| *Cos en equilibri: la força resultant és nul·la.* |
+
+---
+
+## 4.2 — Principi fonamental de la dinàmica
+
+La **segona llei de Newton** relaciona la força resultant que actua sobre un cos amb l’acceleració que experimenta.
+
+$$
+\sum \vec F = m \vec a
+$$
+
+on
+
+- $m$ és la **massa del cos**
+- $\vec a$ és l’**acceleració**
+
+Aquesta expressió indica que:
+
+- l’acceleració és **proporcional a la força resultant**
+- l’acceleració té **la mateixa direcció i sentit que la força resultant**
+- la **massa mesura la inèrcia** del cos (resistència a canviar el moviment)
+
+A partir d’aquesta llei es defineix la unitat de força del SI:
+
+$$
+1 \text{ }N = 1 \text{ } kg \cdot m/s^2
+$$
+
+| ![Segona llei de Newton](img/bloc2/8.png) |
+|:--------------------------------------:|
+| *La força resultant produeix una acceleració.* |
+
+---
+
+## 4.3 — Principi d’acció i reacció
+
+> Quan un cos exerceix una força sobre un altre cos, el segon cos exerceix simultàniament una força sobre el primer.
+
+Aquestes forces tenen:
+
+- **mateix mòdul**
+- **mateixa direcció**
+- **sentits oposats**
+
+$$
+\vec F_{AB} = - \vec F_{BA}
+$$
+
+Aquestes forces formen un **parell acció–reacció**.
+
+És important remarcar que aquestes forces:
+
+- actuen sobre **cossos diferents**
+- per tant **no s’anul·len entre si**
+
+| ![Tercera llei de Newton](img/bloc2/9.png) |
+|:--------------------------------------:|
+| *Parell d’acció i reacció entre dos cossos.* |
