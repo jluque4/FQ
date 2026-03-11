@@ -261,3 +261,200 @@ Això es pot observar clarament si representem conjuntament els diagrames:
 | ![Desfasament entre les magnituds](img/bloc5/11.png) |
 |:--------------------------------------:|
 | *Desfasament entre les magnituds.* |
+
+---
+
+## 2.4 — Dinàmica del MHS
+
+Fins ara hem descrit el moviment harmònic simple des del punt de vista **cinemàtic**. Ara veurem quin és l’origen físic d’aquest moviment utilitzant la **segona llei de Newton**.
+
+---
+
+### a. Sistema massa–molla
+
+Considerem un cos de massa $m$ unit a una molla de constant elàstica $k$.
+
+| ![Dinàmica del moviment harmònic simple MHS](img/bloc5/12.png) |
+|:--------------------------------------:|
+| *Dinàmica del moviment harmònic simple MHS.* |
+
+Segons la **llei de Hooke**, la força que exerceix la molla és proporcional a l’elongació:
+
+$$
+F_e = -kx
+$$
+
+El signe negatiu indica que la força sempre té sentit oposat al desplaçament. Aplicant la **segona llei de Newton**:
+
+$$
+F = ma
+$$
+
+obtenim:
+
+$$
+ma = -kx
+$$
+
+o bé
+
+$$
+a = -\frac{k}{m}x
+$$
+
+Comparant amb l’expressió general del moviment harmònic simple $a = -\omega^2 x$ deduïm que:
+
+$$
+-\omega^2 x = -\frac{k}{m}x
+$$
+
+i per tant:
+
+$$
+\boxed{\omega = \sqrt{\frac{k}{m}}}
+$$
+
+Per tant, el **període d’oscil·lació** del sistema massa–molla és:
+
+$$
+T = 2\pi \sqrt{\frac{m}{k}}
+$$
+
+Aquest resultat mostra que el període depèn:
+
+- de la **massa del cos**
+- de la **constant elàstica de la molla**
+
+però **no depèn de l’amplitud de l’oscil·lació**.
+
+---
+
+### b. Pèndol senzill
+
+Un **pèndol senzill** està format per una massa $m$ suspesa d’un fil de longitud $l$.
+
+| ![Pèndol que es mou amb moviment harmònic simple MHS](img/bloc5/13.png) |
+|:--------------------------------------:|
+| *Pèndol que es mou amb moviment harmònic simple MHS.* |
+
+Quan el pèndol es separa de la vertical un angle $\theta$, el pes es pot descompondre en dues components:
+
+- component **normal**:  $p_n = mg\cos\theta$
+- component **tangencial**:  $p_t = mg\sin\theta$
+
+La component tangencial és la responsable del moviment i actua com una **força restauradora**. Aplicant la segona llei de Newton en direcció tangencial:
+
+$$
+F_t = -mg\sin\theta
+$$
+
+Si l’angle és petit, es pot fer l’aproximació $\sin\theta \approx \theta$ i, tenint en compte que la longitud d’arc és $s = l\cdot \theta$ i $s \approx x$ s’obté una equació equivalent a la del moviment harmònic simple:
+
+$$
+m \cdot -\omega^2 x = -m\cdot g \cdot \frac{x}{l} 
+$$
+
+Per tant,
+
+$$
+\boxed{\omega = \sqrt{\frac{g}{l}}}
+$$
+
+i el **període d’oscil·lació del pèndol** és:
+
+$$
+T = 2\pi \sqrt{\frac{l}{g}}
+$$
+
+En aquest cas el període depèn:
+
+- de la **longitud del fil**
+- de l’**acceleració de la gravetat**
+
+i **no depèn de la massa del cos**.
+
+---
+
+---
+
+## 2.5 — Energia del MHS
+
+El moviment harmònic simple també es pot estudiar des del punt de vista energètic. En el cas d’un sistema **massa–molla**, l’energia mecànica del sistema és la suma de:
+
+---
+
+> *Energia cinètica*
+
+L’energia cinètica del cos és:
+
+$$
+E_c=\frac{1}{2}mv^2
+$$
+
+Aquesta energia depèn de la velocitat del cos.
+
+- És **màxima a la posició d’equilibri**, on la velocitat és màxima.
+- És **nul·la als punts extrems**, on la velocitat és zero.
+
+---
+
+> *Energia potencial elàstica*
+
+L’energia potencial associada a la molla és:
+
+$$
+E_p=\frac{1}{2}kx^2
+$$
+
+Aquesta energia depèn de l’elongació de la molla.
+
+- És **màxima als punts extrems** de l’oscil·lació.
+- És **nul·la a la posició d’equilibri**.
+
+---
+
+> *Conservació de l’energia mecànica*
+
+Com que la força elàstica és una **força conservativa**, l’energia mecànica del sistema es manté constant:
+
+$$
+E = E_c + E_p
+$$
+
+Substituint les expressions de l’energia:
+
+$$
+E = \frac{1}{2}mv^2 + \frac{1}{2}kx^2
+$$
+
+El valor de l’energia mecànica és el mateix en qualsevol punt del moviment.
+
+---
+
+> *Interpretació del moviment*
+
+Durant l’oscil·lació es produeix una transformació contínua entre energia cinètica i energia potencial:
+
+- **a la posició d’equilibri**
+
+$$
+E_p = 0, \quad E_c = E_m = \frac{1}{2} m (A\omega)^2
+$$
+
+- **als punts extrems**
+
+$$
+E_c = 0, \quad E_p = E_m = \frac{1}{2}kA^2
+$$
+
+Així, l’energia del sistema es transforma constantment entre **energia cinètica i energia potencial**, mentre que la **energia mecànica total es conserva**.
+
+$$
+\frac{1}{2} m (A\omega)^2 = \frac{1}{2}kA^2
+$$
+
+Analogament per a un pèndol senzill la $E_{c_{max}} = E_{p_{max}}$:
+
+$$
+\frac{1}{2} m v_{max}^2 = mgy_{max}
+$$
