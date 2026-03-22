@@ -458,3 +458,138 @@ Analogament per a un pèndol senzill la $E_{c_{max}} = E_{p_{max}}$:
 $$
 \frac{1}{2} m v_{max}^2 = mgy_{max}
 $$
+
+---
+
+---
+
+# 3 — Moviment ondulatori
+
+## 3.1 — Concepte d'ona
+
+Una **ona** és una **pertorbació que es propaga en l’espai i en el temps**, transportant energia però **sense transport de matèria**.
+
+| ![Ones generades en una corda](img/bloc5/15.png) |
+|:-----------------------------------:|
+| *Ones generades en una corda.* | 
+
+En un moviment ondulatori:
+
+- els punts del medi **oscil·len al voltant d’una posició d’equilibri**
+- aquesta oscil·lació **es transmet als punts veïns**
+- l’energia es propaga, però les partícules del medi **no es desplacen globalment**
+
+---
+
+### a. Classificació de les ones
+
+> *Classificació de les ones segons les dimensions de propagació*
+
+- **Ones unidimensionals:** que són les ones que es propaguen en una única direcció, és a dir, en una dimensió. 
+- **Ones bidimensionals:** que són les ones que es propaguen en un pla, és a dir, en dues dimensions.
+- **Ones tridimensionals:** que són les ones que es propaguen en l’espai, és a dir, en tres dimensions. 
+
+| ![Ones generades en una corda](img/bloc5/17.png) | ![Ones generades en una corda](img/bloc5/18.png) | ![Ones generades en una corda](img/bloc5/19.png) |
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+| *Ones generades en una corda.* | *Ones a la superfície d’un líquid.* | *So produït per un diapasó.* | 
+
+> *Classificació de les ones segons el medi de propagació*
+
+- **Ones mecàniques:**: que són les ones que necessiten un medi per propagar-se. En aquest cas, el que oscil.la al pas de l’ona són les partícules del medi. 
+- **Ones electromagnètiques:** que són les ones que no necessiten un medi per transmetre’s i que, per tant, es poden propagar en el buit, tot i que també es propaguen en certs medis.
+
+> *Classificació de les ones en longitudinals i transversals*
+
+- **Ones longitudinals:** que són les ones en les quals la direcció d’oscil.lació de les par­tícules del medi és la mateixa que la direcció de propagació de l’ona.
+- **Ones transversals:** que són les ones en les quals la direcció d’oscil.lació de les partícules del medi és perpendicular a la direcció de propagació de l’ona.
+
+| ![Classificació de les ones en longitudinals i transversals](img/bloc5/16.png) |
+|:-----------------------------------:|
+| *Classificació de les ones en longitudinals i transversals.* | 
+
+---
+
+---
+
+## 3.2 — Ones harmòniques
+
+Una **ona harmònica** és una pertorbació que consisteix en un **moviment harmònic simple (MHS)** que es propaga a través de les particules que formen el medi.
+
+---
+
+### a. Magnituds ondulatòries
+
+> *Longitud d’ona $\lambda$*
+
+És la longitud que hi ha entre dos punts consecutius que es troben en el mateix estat de vibració, és a dir, que es troben en la mateixa fase. Es mesura en $m$.
+
+| ![Longitud d’ona $\lambda$](img/bloc5/20.png) |
+|:-----------------------------------:|
+| *Longitud d’ona $\lambda$.* | 
+
+> *Nombre d'ona $k$*
+
+Indica el nombre de vegades que es repeteix una ona en una longitud igual a 2$\pi$ metres. Es mesura amb $rad/m$.
+
+$$
+k = \frac{2\pi}{\lambda}
+$$
+
+> *Velocitat de la fase $v$*
+
+La velocitat de propagació de l’ona és:
+
+$$
+v = \frac{\lambda}{T} = \lambda \cdot f
+$$
+
+També es pot expressar com:
+
+$$
+v = \frac{\omega}{k}
+$$
+
+### b. Equació d’ona
+
+Si l’ona es propaga amb velocitat $v$, el retard entre dos punts separats una distància $x$ és:
+
+$$
+t' = t - \frac{x}{v}
+$$
+
+Això significa que el punt en $x$ oscil·la com ho feia el punt origen en un instant anterior. Substituïm aquest retard en l’equació del MHS:
+
+$$
+y(x,t)=A\sin\left[\omega\left(t-\frac{x}{v}\right)+\varphi_0\right]
+$$
+
+Definim una nova magnitud, anomenada **nombre d’ona $k$**:
+
+$$
+k = \frac{\omega}{v}
+$$
+
+i obtenim l’equació final d’una ona harmònica que es propaga en una direcció (eix X):
+
+$$
+\boxed{y(x,t)=A\sin(\omega t - kx + \varphi_0) = A\sin(\frac{2\pi t}{T} - \frac{2\pi x}{\lambda} + \varphi_0)}
+$$
+
+
+Aquesta expressió descriu:
+
+- la **posició** $y$ d’un punt del medi  
+- en funció de la seva posició $x$ 
+- i del temps $t$
+
+És una combinació de:
+
+- moviment en el temps → $\omega t $  
+- propagació en l’espai → $kx$
+- el signe **−** indica que l’ona es desplaça en el sentit positiu de l’eix X
+
+| ![Evolució de l’ona al llarg del temps](img/bloc5/21.png) |
+|:-----------------------------------:|
+| *Evolució de l’ona al llarg del temps.* | 
+
+---
