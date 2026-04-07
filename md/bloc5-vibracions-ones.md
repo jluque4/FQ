@@ -593,3 +593,92 @@ Aquesta expressió descriu:
 | *Evolució de l’ona al llarg del temps.* | 
 
 ---
+
+# 4 — Fenòmens ondulatoris
+
+Quan una ona es propaga per un medi, pot trobar-se amb obstacles, canvis de medi o altres ones. En aquestes situacions, el moviment ondulatori experimenta determinades transformacions que reben el nom de **fenòmens ondulatoris**.
+
+Aquests fenòmens permeten explicar molts comportaments observables de les ones, com ara:
+
+- el rebot d’una ona sobre una superfície,
+- el canvi de direcció en passar d’un medi a un altre,
+- la superposició de dues ones,
+- o la capacitat d’una ona de rodejar obstacles.
+
+> Els fenòmens ondulatoris descriuen el comportament de les ones quan interactuen amb el medi, amb obstacles o amb altres ones.
+
+---
+
+## a. El concepte de raig
+
+Per estudiar la propagació d’una ona és útil introduir el concepte de **raig**.
+
+> Un **raig** és una línia imaginària que indica la **direcció de propagació de l’ona** i és sempre **perpendicular als fronts d’ona**.
+
+
+Considerem un **front d'ona** com:
+
+> El front d’ona és el conjunt de punts del medi als quals arriba la pertorbació en un instant de temps determinat.
+
+| ![Raig i front d'ona](img/bloc5/22.png) |
+|:--------------------------------------:|
+| *Raigs i fronts d’ona.* |
+
+Això ens permet representar de manera senzilla:
+
+- cap a on es propaga l’ona,
+- com canvia de direcció,
+- i com interacciona amb superfícies o canvis de medi.
+
+---
+
+## b. Reflexió
+
+La **reflexió** és el fenomen ondulatori que es produeix quan una ona arriba a una superfície i **rebota**, canviant la seva direcció de propagació però mantenint-se en el mateix medi.
+
+| ![Reflexió d'una ona](img/bloc5/23.png) |
+|:--------------------------------------:|
+| *Reflexió d’una ona.* |
+
+---
+
+> *Elements de la reflexió*
+
+- **Raig incident**: raig que arriba a la superfície  
+- **Raig reflectit**: raig que surt després del rebot  
+- **Normal**: recta perpendicular a la superfície en el punt d’impacte  
+- **Angle d’incidència** $ \theta_i $: angle entre el raig incident i la normal  
+- **Angle de reflexió** $ \theta_r $: angle entre el raig reflectit i la normal  
+
+---
+
+> *Llei de la reflexió*
+
+> L’angle d’incidència és igual a l’angle de reflexió i només canvia la **direcció de propagació** de l'ona.
+
+$$
+\boxed{\theta_i = \theta_r}
+$$
+
+---
+
+> *Tipus de reflexió*
+
+**Reflexió especular** (superfície llisa):
+
+- els raigs reflectits mantenen una direcció ordenada  
+- exemple: mirall  
+
+**Reflexió difusa** (superfície rugosa):
+
+- els raigs es dispersen en diferents direccions  
+- exemple: paret  
+
+---
+
+
+
+
+
+
+
