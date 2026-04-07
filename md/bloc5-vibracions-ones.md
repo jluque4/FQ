@@ -622,7 +622,7 @@ Considerem un **front d'ona** com:
 
 | ![Raig i front d'ona](img/bloc5/22.png) |
 |:--------------------------------------:|
-| *Raigs i fronts d’ona.* |
+| *Raigs i fronts d’ona en el fenòmen de la refracció.* |
 
 Això ens permet representar de manera senzilla:
 
@@ -647,8 +647,8 @@ La **reflexió** és el fenomen ondulatori que es produeix quan una ona arriba a
 - **Raig incident**: raig que arriba a la superfície  
 - **Raig reflectit**: raig que surt després del rebot  
 - **Normal**: recta perpendicular a la superfície en el punt d’impacte  
-- **Angle d’incidència** $ \theta_i $: angle entre el raig incident i la normal  
-- **Angle de reflexió** $ \theta_r $: angle entre el raig reflectit i la normal  
+- **Angle d’incidència** $ \alpha_i $: angle entre el raig incident i la normal  
+- **Angle de reflexió** $ \alpha_r $: angle entre el raig reflectit i la normal  
 
 ---
 
@@ -657,7 +657,7 @@ La **reflexió** és el fenomen ondulatori que es produeix quan una ona arriba a
 > L’angle d’incidència és igual a l’angle de reflexió i només canvia la **direcció de propagació** de l'ona.
 
 $$
-\boxed{\theta_i = \theta_r}
+\boxed{\alpha_i = \alpha_r}
 $$
 
 ---
@@ -676,6 +676,55 @@ $$
 
 ---
 
+---
+
+## c. Refracció
+
+> La **refracció** és el fenomen ondulatori que es produeix quan una ona passa d’un medi a un altre i **canvia la seva direcció de propagació** a causa del canvi de velocitat.
+
+| ![Refracció d'una ona](img/bloc5/24.png) |
+|:--------------------------------------:|
+| *Reflexió i refracció d’una ona.* |
+
+---
+
+> *Elements de la refracció*
+
+- **Raig incident**: raig que arriba a la superfície de separació  
+- **Raig refractat**: raig que entra en el nou medi  
+- **Normal**: recta perpendicular a la superfície  
+- **Angle d’incidència** $ \alpha_i $ 
+- **Angle de refracció** $ \alpha_r\prime $
+
+Quan l’ona canvia de medi:
+
+- la **velocitat** canvia  
+- la **longitud d’ona** canvia  
+- la **freqüència es manté constant**
+
+---
+
+> *llei de Snell*
+
+$$
+\boxed{\frac{\sin \alpha_i}{\sin \alpha_r\prime} = \frac{v_1}{v_2}}
+$$
+
+on:
+
+- $v_1$ és la velocitat en el primer medi  
+- $v_2$ és la velocitat en el segon medi  
+
+Com que $v = \lambda f$ i la **freqüència es manté constant**:
+
+$$
+\frac{\lambda_1}{\lambda_2} = \frac{v_1}{v_2}
+$$
+
+- si l’ona entra en un medi **més lent** → es desvia cap a la normal  
+- si entra en un medi **més ràpid** → s’allunya de la normal  
+
+---
 
 
 
