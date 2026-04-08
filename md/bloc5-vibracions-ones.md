@@ -726,6 +726,96 @@ $$
 
 ---
 
+---
+
+## d. Interferència
+
+> La **interferència** és el fenomen ondulatori que es produeix quan dues o més ones coincideixen en un mateix punt de l’espai.
+
+---
+
+> *Principi de superposició*
+
+Quan dues o més ones es troben, la deformació resultant és la suma de les deformacions individuals:
+
+$$
+\sum_i y = y_1 + y_2 + y_3 \text{ ...}
+$$
+
+| ![Interferència de dues ones unidimen­sionals d’amplituds i freqüències diferents.](img/bloc5/25.png) |
+|:--------------------------------------:|
+| *Interferència de dues ones unidimen­sionals.* |
+
+
+| ![Interferència de dues ones coherents.](img/bloc5/26.png) |
+|:--------------------------------------:|
+| *Interferència de dues ones coherents.* |
+
+---
+
+> *Tipus d’interferència*
+
+Considerem un punt genèric P, que és a una distància $r_1$ de la font $F_1$, i a una distància $r_2$ de la font $F_2$. Per trobar la funció d’ona resultant, sumem ambdós moviments ondulatoris:
+
+| ![Dues fonts coherents que emeten ones transversals circulars](img/bloc5/27.png) |
+|:--------------------------------------:|
+| *Dues fonts coherents que emeten ones transversals circulars* |
+
+
+$$
+y = y_1 + y_2 = A_0 sin(ω t − k r_1) + A_0 sin(ω t − k r_2) = A_0 [sin(ω t − k r_1) + sin (ω t − k r_2)] 
+$$
+
+aplicant la relació trigonometrica $sin\alpha + sin\beta = 2 \cdot cos[\frac{1}{2} (\alpha - \beta)] \cdot sin[\frac{1}{2} (\alpha + \beta)]$ obtenim:
+
+$$
+y = 2A_0 cos[k(\frac{r_2-r_1}{2})] \cdot sin(\omega t - k(\frac{r_2+r_1}{2}))
+$$
+
+---
+
+#### a. Interferència constructiva
+
+Es produeix quan les ones arriben en fase. Si recordem que el nombre d’ona k i la longitud d’ona λ estan relacionats:
+
+$$
+\Delta r = n\lambda \quad (n = 0,1,2,\ldots)
+$$
+
+- les amplituds es **sumen**
+- s’obté una **amplitud màxima**
+
+---
+
+#### b. Interferència destructiva
+
+Es produeix quan les ones arriben en oposició de fase.
+
+$$
+\Delta r = \left(n+\frac{1}{2}\right)\lambda
+$$
+
+- les amplituds es **cancel·len**
+- s’obté una **amplitud nul·la**
+
+---
+
+#### c. Interferència parcialment constructiva.
+
+En funció de les distàncies als focus, es produeix una gradació entre la interferència constructiva i la interferència destructiva.
+
+La diferència de camins és:
+
+$$
+\Delta r = |r_1 - r_2|
+$$
+
+on:
+
+$r_1$ i $r_2$ són les distàncies des de cada focus
+
+---
+
 
 
 
