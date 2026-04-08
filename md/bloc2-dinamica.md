@@ -25,7 +25,7 @@ La magnitud fonamental de la dinàmica és la **força**.
 
 ---
 
-## 2.1 — Concepte de força
+### 2.1 — Concepte de força
 
 > Una **força** és tota causa capaç d’alterar l’estat de moviment d’un cos o de provocar-ne una deformació.
 
@@ -66,7 +66,7 @@ En els problemes de dinàmica apareixen diferents tipus de forces associades a i
 
 ---
 
-## 3.1 — Pes $\vec P$
+### 3.1 — Pes $\vec P$
 
 El **pes** és la força amb què la Terra atrau un cos a causa de la interacció gravitatòria. Característiques:
 
@@ -89,7 +89,7 @@ on
 
 ---
 
-## 3.2 — Força normal $\vec N$
+### 3.2 — Força normal $\vec N$
 
 La **força normal** és la força que exerceix una superfície sobre un cos que està en contacte amb ella. Característiques:
 
@@ -108,7 +108,7 @@ $$
 
 ---
 
-## 3.3 — Força de tensió $\vec T$
+### 3.3 — Força de tensió $\vec T$
 
 La **tensió** és la força que actua sobre un cos quan és estirat per una **corda, cable o fil**. Característiques:
 
@@ -122,7 +122,7 @@ La **tensió** és la força que actua sobre un cos quan és estirat per una **c
 
 ---
 
-## 3.4 — Força de fregament $\vec F_r$
+### 3.4 — Força de fregament $\vec F_r$
 
 La **força de fregament** és una força de contacte que apareix entre dues superfícies i que **s’oposa al moviment relatiu** entre elles. Actua **paral·lela a la superfície de contacte**. Es poden distingir dos tipus:
 
@@ -148,7 +148,7 @@ on $\mu_d$ és el **coeficient de fregament dinàmic**.
 
 ---
 
-## 3.5 — Força elàstica $\vec F_e$
+### 3.5 — Força elàstica $\vec F_e$
 
 La **força elàstica** apareix quan un cos elàstic es deforma. Un exemple típic és una **molla**.
 La relació entre la força i la deformació ve donada per la **llei de Hooke**:
@@ -176,7 +176,7 @@ Les **lleis de Newton** descriuen la relació entre les forces que actuen sobre 
 
 ---
 
-## 4.1 — Principi d’inèrcia
+### 4.1 — Principi d’inèrcia
 
 Anomenem **inèrcia** la resistència dels cossos a canviar el seu estat de moviment.
 
@@ -201,7 +201,7 @@ Un exemple és un cos en repòs damunt d’una taula: el **pes** i la **força n
 
 ---
 
-## 4.2 — Principi fonamental de la dinàmica
+### 4.2 — Principi fonamental de la dinàmica
 
 La **segona llei de Newton** relaciona la força resultant que actua sobre un cos amb l’acceleració que experimenta.
 
@@ -232,7 +232,7 @@ $$
 
 ---
 
-## 4.3 — Principi d’acció i reacció
+### 4.3 — Principi d’acció i reacció
 
 > Quan un cos exerceix una força sobre un altre cos, el segon cos exerceix simultàniament una força sobre el primer.
 
@@ -369,3 +369,183 @@ Comprovar:
 - que el **sentit de les forces o acceleracions sigui coherent**
 
 ---
+
+# 6 — Dinàmica del moviment circular
+
+En l’estudi del moviment circular, hem vist que l’acceleració es pot expressar en funció de les seves **components intrínseques**:
+
+$$
+\vec a = \vec a_t + \vec a_n
+$$
+
+on:
+
+- $\vec a_t$ és l’**acceleració tangencial**, responsable del canvi en el mòdul de la velocitat:
+
+$$
+a_t = \frac{dv}{dt}
+$$
+
+
+- $\vec a_n$ és l’**acceleració normal o centrípeta**, responsable del canvi en la direcció:
+
+$$
+a_n = \frac{v^2}{R}
+$$
+
+A partir d’aquesta descomposició, podem aplicar la **segona llei de Newton** en cada direcció i obtenir la descripció completa de la dinàmica del moviment circular.
+
+Aplicant la segona llei de Newton:
+
+$$
+\sum \vec F = m \vec a
+$$
+
+i utilitzant la descomposició de l’acceleració:
+
+$$
+\sum \vec F = m \vec a_t + m \vec a_n
+$$
+
+> En un moviment circular, hi ha dues dinàmiques independents:
+>
+> - una que modifica la velocitat (direcció tangencial)
+> - una que fa girar el cos (direcció radial)
+
+Podem definir dues components de la força:
+
+> *Força tangencial*
+
+$$
+\sum F_t = m a_t = m \frac{dv}{dt}
+$$
+
+- responsable de canviar el **mòdul de la velocitat**
+- accelera o frena el moviment
+
+> *Força normal (centrípeta)*
+
+$$
+\sum F_t = m a_n = m \frac{v^2}{R}
+$$
+
+- responsable de canviar la **direcció**
+- sempre apunta cap al centre
+
+---
+
+---
+
+### 6.1 — Cos lligat a una corda
+
+En aquest apartat estudiem diferents situacions en què un cos es mou en una trajectòria circular lligat a una corda.
+
+---
+
+> *Cos que gira en un pla horitzontal*
+
+Considerem un cos que gira sobre una superfície horitzontal sense fregament, lligat a una corda.
+
+| ![Superfície horitzontal que no presenta fregament](img/bloc2/12.png) |
+|:--------------------------------------:|
+| *Superfície horitzontal que no presenta fregament.* |
+
+#### Forces que actuen
+
+- pes $mg$ (vertical cap avall)
+- normal $N$ (vertical cap amunt)
+- tensió $T$ (cap al centre)
+
+#### Anàlisi
+
+En la direcció vertical:
+
+$$
+N - mg = 0
+$$
+
+En la direcció radial:
+
+$$
+T = m \frac{v^2}{r}
+$$
+
+#### Conclusions
+
+- el moviment és **circular uniforme**
+- la tensió és la **força centrípeta**
+
+---
+
+> *Cos que gira en un pla vertical*
+
+En aquest cas el cos gira en una circumferència vertical.
+
+| ![Cos que gira en un pla vertical](img/bloc2/13.png) |
+|:--------------------------------------:|
+| *Cos que gira en un pla vertical.* |
+
+#### Forces que actuen
+
+- pes $mg$
+- tensió $T$
+
+#### Anàlisi
+
+La direcció radial canvia segons la posició.
+
+Per exemple:
+
+##### Punt més baix
+
+$$
+T - mg = m \frac{v^2}{r}
+$$
+
+##### Punt més alt
+
+$$
+T + mg = m \frac{v^2}{r}
+$$
+
+#### Conclusions
+
+- el moviment **no és uniforme**
+- la velocitat canvia
+- la tensió varia al llarg de la trajectòria
+
+---
+
+> *Pèndol cònic*
+
+Un cos penja d’una corda i gira descrivint una circumferència horitzontal. La corda forma un angle constant $\alpha$ amb la vertical.
+
+| ![Cos que gira en un pla horitzontal](img/bloc2/14.png) |
+|:--------------------------------------:|
+| *Cos que gira en un pla horitzontal.* |
+
+#### Forces que actuen
+
+- pes $mg$
+- tensió $T$
+
+#### Descomposició de la tensió
+
+Component vertical:
+
+$$
+T \cos\alpha = mg
+$$
+
+Component radial:
+
+$$
+T \sin\alpha = m \frac{v^2}{r}
+$$
+
+#### Conclusions
+
+- el moviment és **circular uniforme**
+- la tensió té dues funcions:
+  - equilibrar el pes
+  - proporcionar la força centrípeta
