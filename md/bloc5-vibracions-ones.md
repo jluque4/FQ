@@ -816,8 +816,34 @@ $r_1$ i $r_2$ són les distàncies des de cada focus
 
 ---
 
+## d. Efecte Doppler
 
+L’**efecte Doppler** és el fenomen pel qual la **freqüència percebuda d’una ona canvia** quan hi ha moviment relatiu entre la font i l’observador.
 
+| ![Efecte Doppler](img/bloc5/28.png) | ![Efecte Doppler](img/bloc5/29.png) |
+|:----------------------------------:|:----------------------------------:|
+| *Font emissora d’ones transversals en repòs.* | *Efecte Doppler: compressió i dilatació de les ones.* |
 
+- si la font i l’observador **s’apropen** → la freqüència percebuda **augmenta**  
+- si **s’allunyen** → la freqüència percebuda **disminueix**
 
+Quan la font es mou:
 
+- les ones es **comprimeixen** davant seu → $\lambda$ més petita  
+- les ones s’**estiren** darrere → $\lambda$ més gran  
+
+per tant, la freqüència percebuda és:
+
+$$
+\boxed{f' = f \cdot \frac{v \pm v_o}{v \mp v_f}}
+$$
+
+on:
+
+- $ f' $ → freqüència observada  
+- $ f $ → freqüència emesa  
+- $ v $ → velocitat de l’ona  
+- $ v_o $ → velocitat de l’observador  
+- $ v_f $ → velocitat de la font  
+
+---
