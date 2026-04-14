@@ -609,12 +609,21 @@ Aquests fenòmens permeten explicar molts comportaments observables de les ones,
 
 ---
 
-## a. El concepte de raig
+### a. Principi de Huygens
+
+El **principi de Huygens** és un model que permet explicar com es propaguen les ones.
+
+> Cada punt d’un front d’ona es comporta com una font d’ones secundàries.
+
+El nou front d’ona en un instant posterior és l’embolcall (superfície tangent) de totes aquestes ones secundàries.
+
+| ![Principi de Huygens](img/bloc5/30.png) |
+|:--------------------------------------:|
+| *Construcció del front d’ona segons Huygens.* |
 
 Per estudiar la propagació d’una ona és útil introduir el concepte de **raig**.
 
 > Un **raig** és una línia imaginària que indica la **direcció de propagació de l’ona** i és sempre **perpendicular als fronts d’ona**.
-
 
 Considerem un **front d'ona** com:
 
@@ -632,7 +641,7 @@ Això ens permet representar de manera senzilla:
 
 ---
 
-## b. Reflexió
+### b. Reflexió
 
 La **reflexió** és el fenomen ondulatori que es produeix quan una ona arriba a una superfície i **rebota**, canviant la seva direcció de propagació però mantenint-se en el mateix medi.
 
@@ -678,7 +687,7 @@ $$
 
 ---
 
-## c. Refracció
+### c. Refracció
 
 > La **refracció** és el fenomen ondulatori que es produeix quan una ona passa d’un medi a un altre i **canvia la seva direcció de propagació** a causa del canvi de velocitat.
 
@@ -728,7 +737,7 @@ $$
 
 ---
 
-## d. Interferència
+### d. Interferència
 
 > La **interferència** és el fenomen ondulatori que es produeix quan dues o més ones coincideixen en un mateix punt de l’espai.
 
@@ -816,7 +825,7 @@ $r_1$ i $r_2$ són les distàncies des de cada focus
 
 ---
 
-## d. Efecte Doppler
+### e. Efecte Doppler
 
 L’**efecte Doppler** és el fenomen pel qual la **freqüència percebuda d’una ona canvia** quan hi ha moviment relatiu entre la font i l’observador.
 
@@ -847,3 +856,163 @@ on:
 - $ v_f $ → velocitat de la font  
 
 ---
+
+### f. Difracció
+
+La **difracció** és el fenomen pel qual una ona **es desvia i s’expandeix** en trobar un obstacle o en travessar una obertura que té unes dimensions comparables a la longitud d’ona i que n’impedeix la propagació.
+
+| ![Difracció](img/bloc5/31.png) |
+|:-----------------------------:|
+| *Difracció d’una ona.* |
+
+---
+
+> La difracció és significativa quan la mida de l’obstacle o de l’obertura és comparable amb la longitud d’ona:
+
+$$
+\text{mida} \approx \lambda
+$$
+
+---
+
+#### Conseqüències
+
+- les ones poden **rodejar obstacles**  
+- poden **penetrar en zones d’ombra geomètrica**  
+
+---
+
+#### Exemples
+
+- el so es pot sentir darrere d’una porta  
+- les ones de l’aigua envolten obstacles  
+- la llum es difracta en escletxes petites  
+
+---
+
+---
+
+# 5 — Ones estacionàries
+
+Les **ones estacionàries** es formen per la superposició de dues ones **coherents** (mateixa amplitud, longitud d’ona i freqüència) que es propaguen en sentits oposats.
+
+---
+
+| ![Ones estacionàries](img/bloc5/32.png) |
+|:-----------------------------:|
+| *Ones estacionàries.* |
+
+$$
+y = y_i + y_r = A_0 sin(ω t + k x) + (-A_0) sin(ω t − k x) = A_0 [sin(ω t + k x) - sin (ω t − k x)] 
+$$
+
+aplicant la relació trigonometrica $sin\alpha - sin\beta = 2 \cdot sin[\frac{1}{2} (\alpha - \beta)] \cdot cos[\frac{1}{2} (\alpha + \beta)]$ obtenim:
+
+$$
+\boxed{y(x,t) = 2A_0 sin(k x) \cdot cos(\omega t)}
+$$
+
+---
+
+> *Interpretació*
+
+Comparant l'expressió obtinguda amb l'equació del MHS obtenim:
+
+$$
+y(x,t) = A(x) \cdot cos(\omega t)
+$$
+
+on l'amplitud seria:
+
+$$
+A(x) = 2A_0 sin(k x)
+$$
+
+A diferència d’una ona progressiva:
+
+- **no hi ha propagació d’energia**
+- el patró d’oscil·lació és fix en l’espai
+
+Per això s’anomenen **ones estacionàries**.
+
+---
+
+> *Nodes i ventres*
+
+#### Nodes
+
+Són punts on l’elongació és sempre nul·la:
+
+$$
+\sin(kx) = 0
+$$
+
+Per tant la posició dels nodes:
+
+$$
+\boxed{x = n \cdot \frac{\lambda}{2}} \text{  amb n = 0,1,2...}
+$$
+
+#### Ventres (antinodes)
+
+Són punts on l’amplitud és màxima:
+
+$$
+\sin(kx) = \pm 1
+$$
+
+Per tant la posició dels ventres:
+
+$$
+\boxed{x = n \cdot \frac{\lambda}{4}}  \text{  amb n = 1,3,5... es a dir són múltiples imparells}
+$$
+
+
+| ![Nodes i ventres en una ona estacionària.](img/bloc5/33.png) |
+|:-----------------------------:|
+| *Nodes i ventres en una ona estacionària.* |
+
+---
+
+### a. Modes de vibració d’una corda amb extrems fixos
+
+Suposem ara que la corda està fixada pels seus dos extrems i sigui L la seva longitud, com que els extrems fixos es comporten com a **nodes** tenim:
+
+$$
+L = n \cdot \frac{\lambda}{2} \rightarrow \lambda_n = \frac{2L}{n} \text{  amb n = 1,2,3...}
+$$
+
+| ![Ones estacionàries produïdes en una corda fixa pels seus extrems](img/bloc5/34.png) |
+|:-----------------------------:|
+| *Ones estacionàries produïdes en una corda fixa pels seus extrems.* |
+
+---
+
+### b. Modes de vibració d’una corda amb un extrem fix i un extrem lliure
+
+Considerem ara el cas d’una corda que té un extrem fix i l’altre lliure a una distància L, l'extrem fixe es comportarà com un **node** i l'extrem lliure com un **ventre**:
+
+$$
+L = n \cdot \frac{\lambda}{4} \rightarrow \lambda_n = \frac{4L}{n} \text{  amb n = 1,3,5...}
+$$
+
+| ![Ones estacionàries produïdes en una corda amb un extrem fix i un extrem lliure](img/bloc5/35.png) |
+|:-----------------------------:|
+| *Ones estacionàries produïdes en una corda amb un extrem fix i un extrem lliure.* |
+
+Nota:
+> Aquesta situació també es dona en el cas de les ones sonores produïdes en una columna d’aire que vibra i que està confinada en un tub
+
+---
+
+### c. Modes de vibració en una columna d’aire amb extrems lliures
+
+Es pot demostrar que aquest cas és anàleg al d'una corda fixada pels seus dos extrems però intercanviant els nodes pels ventres.
+
+$$
+L = n \cdot \frac{\lambda}{2} \rightarrow \lambda_n = \frac{2L}{n} \text{  amb n = 1,2,3...}
+$$
+
+| ![Modes de vibració en una columna d’aire amb extrems lliures](img/bloc5/36.png) |
+|:-----------------------------:|
+| *Modes de vibració en una columna d’aire amb extrems lliures.* |
