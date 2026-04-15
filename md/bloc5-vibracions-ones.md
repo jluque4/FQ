@@ -859,7 +859,7 @@ on:
 
 ### f. Difracció
 
-La **difracció** és el fenomen pel qual una ona **es desvia i s’expandeix** en trobar un obstacle o en travessar una obertura que té unes dimensions comparables a la longitud d’ona i que n’impedeix la propagació.
+La **difracció** és el fenomen pel qual una ona experimenta una distorsió o variació en la direcció de propagació d’una ona quan aquesta troba en la seva transmissió un obstacle que té unes dimensions comparables a la longitud d’ona i que n’impedeix la propagació.
 
 | ![Difracció](img/bloc5/31.png) |
 |:-----------------------------:|
