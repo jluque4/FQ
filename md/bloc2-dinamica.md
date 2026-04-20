@@ -549,3 +549,13 @@ $$
 - la tensió té dues funcions:
   - equilibrar el pes
   - proporcionar la força centrípeta
+
+---
+
+### 6.2 — El rotor
+
+---
+
+### 6.3 — Peralt d'una corba
+
+---
