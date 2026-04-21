@@ -1016,3 +1016,44 @@ $$
 | ![Modes de vibració en una columna d’aire amb extrems lliures](img/bloc5/36.png) |
 |:-----------------------------:|
 | *Modes de vibració en una columna d’aire amb extrems lliures.* |
+
+---
+
+# 6 — Òptica geomètrica
+
+### 6.1 — Naturalesa de la llum
+
+La **llum** és una **ona electromagnètica**, formada per dos camps que varien en el temps i en l’espai seguint un **moviment harmònic simple** de manera que el camp elèctric $\vec{E}$ i el camp magnètic $\vec{B}$ de l’ona estan en fase i són perpendiculars entre si, i també són perpendiculars a la direcció de propagació de l'ona, representada per $\vec{c}$ és a dir, aquestes ones són transversals:
+
+$$
+\vec{E}(x,t)=E_0 \sin(\omega t - kx) \cdot \vec{j}
+$$
+
+$$
+\vec{B}(x,t)=B_0 \sin(\omega t - kx) \cdot \vec{k}
+$$
+
+$$
+\vec{c} = c \cdot \vec{i}
+$$
+
+| ![Ona electromagnètica](img/bloc5/37.png) |
+|:-----------------------------:|
+| *Ona electromagnètica.* |
+
+La velocitat de propagació en el buit és:
+
+$$
+c = 3 \cdot 10^8 \text{m/s}
+$$
+
+i compleix:
+
+$$
+c = \lambda f
+$$
+
+> La llum és una ona formada per camps $E$ i $B$ que oscil·len harmònicament i es propaguen en el buit.
+
+
+---
