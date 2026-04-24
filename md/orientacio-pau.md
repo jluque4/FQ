@@ -71,3 +71,16 @@ Les ponderacions serveixen per donar més valor a la qualificació obtinguda a l
 | *[Ponderacions 2027](https://universitats.gencat.cat/web/.content/02_preinscripcio/enllac-documents/Ponderacions-2027_v1.pdf)* |
 
 ## 6. Simulació
+
+| ![Simulació nota PAU](img/ex/simulacio_pau.png) |
+|:--------------------------------------:|
+| *[Simulació nota PAU](https://docs.google.com/spreadsheets/d/15ERAOcoOJv4IDWemmew10GY6lGvBFNoz/edit?usp=sharing&ouid=115777642491943098502&rtpof=true&sd=true)* |
+
+| ![Estadístiques PAU 2025](img/ex/estadistiques_pau.png) |
+|:--------------------------------------:|
+| *[Estadístiques PAU 2025](https://universitats.gencat.cat/web/.content/01_acces_i_admissio/pau/documents/informes_i_estad/pau_estadistiques_2025.pdf)* |
+
+| ![Notes de tall](img/ex/notes_tall.png) |
+|:--------------------------------------:|
+| *[Notes de tall](https://universitats.gencat.cat/web/.content/02_preinscripcio/enllac-documents/notes-de-tall/Notes-de-tall-via-PAU-CFGS_2021_2025.pdf)* |
+
