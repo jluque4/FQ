@@ -145,6 +145,7 @@ Un cop completada la simulació:
 - Escull un **grau universitari**
 - Busca la seva **nota de tall**
 - Compara-la amb la teva **nota d’admissió simulada**
+- Compara les teves notes amb les **notes mijanes de catalunya** per a cada assignatura
 
 Respon:
 
