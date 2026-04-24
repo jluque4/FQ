@@ -124,7 +124,7 @@ Per simular la nota de cada examen de la PAU:
 
 ---
 
-| ![Simulació nota PAU](img/ex/simulacio_pau_1.png) |
+| ![Simulació nota PAU](img/ex/simulacio_pau.png) |
 |:--------------------------------------:|
 | *[Simulació nota PAU](https://docs.google.com/spreadsheets/d/15ERAOcoOJv4IDWemmew10GY6lGvBFNoz/edit?usp=sharing&ouid=115777642491943098502&rtpof=true&sd=true)* |
 
