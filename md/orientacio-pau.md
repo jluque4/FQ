@@ -150,7 +150,7 @@ Un cop completada la simulació:
 Respon:
 
 - Quina és la teva nota d’admissió?
-- Estàs per sobre o per sota de la nota de tall?
+- Estàs per sobre o per sota de la nota de tall? 
 - Quines assignatures et convé millorar?
 - Quina estratègia seguiràs per arribar-hi?
 
