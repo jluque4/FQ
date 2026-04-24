@@ -138,7 +138,7 @@ Per simular la nota de cada examen de la PAU:
 
 ---
 
-### 7 — Reflexió
+### 7 — Informe
 
 Un cop completada la simulació:
 
