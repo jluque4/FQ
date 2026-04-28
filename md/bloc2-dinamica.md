@@ -559,3 +559,137 @@ $$
 ### 6.3 — Peralt d'una corba
 
 ---
+
+# 7 — Conservació de la quantitat de moviment
+
+---
+
+Un dels objectius fonamentals de la física és poder **predir com evolucionarà un sistema** a partir de les seves condicions inicials. Fins ara hem utilitzat les lleis de Newton per descriure el moviment, treballant amb magnituds com:
+
+- força  
+- massa  
+- velocitat  
+- acceleració  
+
+Aquest enfocament és molt útil quan es coneixen les forces que actuen sobre els cossos.
+
+---
+
+> *Limitacions de les lleis de Newton*
+
+En moltes situacions reals, però, aquest plantejament resulta difícil d’aplicar:
+
+- quan no es coneixen les forces  
+- quan hi intervenen molts cossos  
+- quan les interaccions són molt complexes o molt ràpides  
+
+En aquests casos, cal introduir **noves magnituds** que permetin descriure el moviment d’una manera més global.
+
+---
+
+> *Noves magnituds dinàmiques*
+
+Per estudiar aquests sistemes introduïm dues noves magnituds:
+
+- la **quantitat de moviment**
+- l’**impuls mecànic**
+
+Aquestes magnituds permeten:
+
+- reformular les lleis de Newton d’una manera més general  
+- simplificar l’estudi de sistemes complexos  
+- analitzar situacions com xocs o explosions  
+
+---
+
+> En molts casos, és més útil estudiar com canvia el moviment global d’un sistema que no pas analitzar detalladament totes les forces que hi actuen.
+
+---
+
+### 7.1 — Quantitat de moviment
+
+> La **quantitat de moviment** d’un cos és una magnitud vectorial definida com:
+
+$$
+\vec p = m \vec v
+$$
+
+on:
+
+- $m$ és la massa  
+- $\vec v$ és la velocitat  
+- és una magnitud **vectorial**
+- té la mateixa direcció i sentit que la velocitat  
+- depèn de la massa i de la velocitat  
+
+---
+
+### 7.2 — Relació amb la segona llei de Newton
+
+Si la massa és constant:
+
+$$
+\sum \vec F = m \vec a = m \frac{\Delta \vec v}{\Delta t} =  \frac{m (\vec v - \vec v_0)}{\Delta t}  =  \frac{m \cdot \vec v - m \cdot \vec v_0}{\Delta t} =  \frac{\vec p - \vec p_0}{\Delta t}  =  \frac{\Delta \vec p}{\Delta t}
+$$
+
+$$
+\sum \vec F = \frac{d\vec p}{dt}
+$$
+
+> **Interpretació:**  
+> La força resultant és igual a la variació temporal de la quantitat de moviment.
+
+---
+
+### 7.3 — Impuls mecànic
+
+> L’**impuls mecànic** d’una força és el producte de la força pel temps durant el qual actua.
+
+$$
+\vec I = \vec F \cdot \Delta t
+$$
+
+on:
+
+- $\vec F$ és la força  
+- $\Delta t$ és el temps d’aplicació  
+
+A partir de la relació anterior:
+
+$$
+\sum \vec F = \frac{d\vec p}{dt}
+$$
+
+Multiplicant per $\Delta t$:
+
+$$
+\vec I = \Delta \vec p
+$$
+
+> **Teorema de l’impuls:**  
+> L’impuls d’una força és igual a la variació de la quantitat de moviment.
+
+---
+
+### 7.4 — Conservació de la quantitat de moviment
+
+Si la força resultant externa és nul·la:
+
+$$
+\sum \vec F_{ext} = 0
+$$
+
+aleshores:
+
+$$
+\vec p = \text{constant}
+$$
+
+> **Principi de conservació:**  
+> En absència de forces externes, la quantitat de moviment d’un sistema es conserva.
+
+| ![Principi de conservació quantitat de moviment](img/bloc2/16.png) |
+|:--------------------------------------:|
+| *Principi de conservació quantitat de moviment.* |
+
+---
