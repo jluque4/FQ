@@ -461,8 +461,6 @@ $$
 
 ---
 
----
-
 # 3 — Moviment ondulatori
 
 ## 3.1 — Concepte d'ona
@@ -1064,11 +1062,7 @@ $$
 
 > *Distància focal*
 
-La distància focal és la distància entre el centre òptic i el focus del sistema (lent o mirall):
-
-$$
-f = \text{distància centre–focus}
-$$
+- La **distància focal** és la distància entre el centre òptic i el focus del sistema (lent o mirall)
 
 ---
 
@@ -1117,7 +1111,7 @@ Es defineix un sistema de coordenades cartesianes amb:
 
 ---
 
-### b. Augment lateral ($\beta$)
+### B. Augment lateral ($\beta$)
 
 L’augment lateral mesura la relació entre la mida de la imatge i la de l’objecte:
 
@@ -1154,7 +1148,20 @@ on:
 
 ---
 
-### d. Sistemes òptics: miralls i lents
+> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
+
+
+### d. Taula resum d’òptica geomètrica
+
+| Sistema            | Focus objecte | Focus imatge | Equació general           | Augment lateral |
+|--------------------| -----| -------|------------------------------------------|-----------------|
+| **Mirall pla**     | $ s' = -s $ | $ f' = \infty $ | $ s' = -s $              | $ \beta = 1 $ |
+| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ f' = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
+| **Lent**           | $P = \frac{1}{f}$ | $P = \frac{1}{f'}$ | $ \frac{1}{f} = \frac{1}{s'} - \frac{1}{s} $ | $ \beta = \frac{s'}{s} $ |
+
+---
+
+### e. Sistemes òptics: miralls i lents
 
 > *Elements d’un sistema òptic*
 
@@ -1162,7 +1169,7 @@ on:
 - **Centre de curvatura (C)**: És el centre de l'esfera que genera el mirall
 - **Radi de curvatura (R)**: És la distància des del centre de curvatura (C) fins al vèrtex del mirall (V)
 - **Eix principal**: recta horitzontal que passa pel centre  
-- **Focus (F)**: punt tal que els raigs que en proven es transformen en paral·lels a l’eix  
+- **Focus objecte (F)**: punt tal que els raigs que en proven es transformen en paral·lels a l’eix  
 - **Focus imatge (F')**: punt on convergeixen els raigs paral·lels (o les seves prolongacions)  
 - **Distància focal (f)**: distància entre el focus i el centre òptic  
 
@@ -1195,25 +1202,3 @@ on:
 | *Lent biconvexa.* |
 
 ---
-
-> *Equació de les imatges*
-
-Per a miralls i lents:
-
-$$
-\frac{1}{f} = \frac{1}{s} + \frac{1}{s'}
-$$
-
----
-
-### d. Taula resum d’òptica geomètrica
-
-| Sistema            | Focus | Equació general                          | Augment lateral |
-|--------------------|-------|------------------------------------------|-----------------|
-| **Mirall pla**     | $ f = \infty $ | $ s' = -s $                            | $ \beta = 1 $ |
-| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
-| **Lent**           | $ f $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = \frac{s'}{s} $ |
-
----
-
-> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
