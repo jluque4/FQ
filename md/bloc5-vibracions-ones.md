@@ -1133,7 +1133,9 @@ on:
 #### Interpretació
 
 - $\beta > 0$ → imatge dreta  
-- $\beta < 0$ → imatge invertida    
+- $\beta < 0$ → imatge invertida 
+- $\beta > 1$ → imatge més gran que l'objecte  
+- $\beta < 1$ → imatge més petita que l'objecte    
 
 ---
 
@@ -1156,11 +1158,41 @@ on:
 
 > *Elements d’un sistema òptic*
 
-- **Centre òptic (O)**: centre de la lent o del mirall  
+- **Vertex (V)**: centre de la lent o del mirall 
+- **Centre de curvatura (C)**: És el centre de l'esfera que genera el mirall
+- **Radi de curvatura (R)**: És la distància des del centre de curvatura (C) fins al vèrtex del mirall (V)
 - **Eix principal**: recta horitzontal que passa pel centre  
 - **Focus (F)**: punt tal que els raigs que en proven es transformen en paral·lels a l’eix  
 - **Focus imatge (F')**: punt on convergeixen els raigs paral·lels (o les seves prolongacions)  
 - **Distància focal (f)**: distància entre el focus i el centre òptic  
+
+> *Sistema de rajos*
+
+- El **raig paral.lel** a l’eix òptic, que, d’acord amb la definició de focus, passa per F.
+- El **raig focal**, definit com aquell que passa pel focus F, i que, d’acord amb aquesta definició, es reflecteix paral.lelament a l’eix òptic.
+- El **raig radial** que passa pel centre de curvatura; aquest raig es reflecteix perpendicularment a la superfície del mirall i, per tant, coincideix amb el raig reflectit.
+
+---
+
+> *Miralls*
+
+| ![Mirall convex](img/bloc5/42.png) | ![Mirall concau](img/bloc5/39.png)|
+|:-----------------------------:|:-----------------------------:|
+| *Mirall convex.* |  *Mirall concau.* |
+
+| ![Mirall convex](img/bloc5/43.png) | ![Mirall concau](img/bloc5/44.png)| ![Mirall concau](img/bloc5/46.png)|
+|:-----------------------------:|:-----------------------------:| :-----------------------------:|
+| *Mirall convex.* |  *Mirall concau.* |  *Mirall concau.* |
+
+> *Lents*
+
+| ![Lent biconvexa](img/bloc5/40.png) | ![Lent bicòncava](img/bloc5/41.png) |
+|:-----------------------------:|:-----------------------------:|
+| *Lent biconvexa.* |  *Lent bicòncava.* |
+
+| ![Lent biconvexa](img/bloc5/45.png) |
+|:-----------------------------:|
+| *Lent biconvexa.* |
 
 ---
 
@@ -1170,38 +1202,6 @@ Per a miralls i lents:
 
 $$
 \frac{1}{f} = \frac{1}{s} + \frac{1}{s'}
-$$
-
----
-
-> *Augment en funció de les distàncies*
-
-- Miralls:
-
-$$
-\beta = -\frac{s'}{s}
-$$
-
-- Lents:
-
-$$
-\beta = \frac{s'}{s}
-$$
-
----
-
-> *Cas especial: mirall pla*
-
-En un mirall pla:
-
-$$
-f = \infty
-\quad \Rightarrow \quad
-s' = -s
-$$
-
-$$
-\beta = 1
 $$
 
 ---
