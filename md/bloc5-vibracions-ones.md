@@ -1019,9 +1019,9 @@ $$
 
 ---
 
-# 6 — Òptica geomètrica
+# 6 — Òptica
 
-### 6.1 — Naturalesa de la llum
+## 6.1 — Naturalesa de la llum
 
 La **llum** és una **ona electromagnètica**, formada per dos camps que varien en el temps i en l’espai seguint un **moviment harmònic simple** de manera que el camp elèctric $\vec{E}$ i el camp magnètic $\vec{B}$ de l’ona estan en fase i són perpendiculars entre si, i també són perpendiculars a la direcció de propagació de l'ona, representada per $\vec{c}$ és a dir, aquestes ones són transversals:
 
@@ -1058,4 +1058,162 @@ $$
 
 ---
 
-### 6.2 — ôptica geomètrica
+## 6.2 — Òptica geomètrica
+
+### a. Sistema òptic
+
+> *Distància focal*
+
+La distància focal és la distància entre el centre òptic i el focus del sistema (lent o mirall):
+
+$$
+f = \text{distància centre–focus}
+$$
+
+---
+
+> *Posició de l’objecte i de la imatge*
+
+- $s$: distància de l’objecte al centre òptic  
+- $s'$: distància de la imatge al centre òptic  
+
+---
+
+> ***criteri DIN** — Sistema de referència*
+
+Es defineix un sistema de coordenades cartesianes amb:
+
+- origen al centre òptic  
+- eix principal horitzontal  
+- la llum es propaga d’esquerra a dreta  
+
+#### Conveni de signes
+
+- cap a la dreta → positiu  
+- cap a l’esquerra → negatiu  
+- cap amunt → positiu  
+- cap avall → negatiu  
+
+| ![Sistema òptic](img/bloc5/38.png) |
+|:-----------------------------:|
+| *Sistema òptic.* |
+
+---
+
+> *Interpretació*
+
+- $s < 0$ → objecte real situat abans del sistema òptic, al costat d’on ve la llum.
+- $s' > 0$ → imatge situada a la dreta del sistema.
+- $s' < 0$ → imatge situada a l’esquerra del sistema.
+
+*Interpretació física*
+
+- **Imatge real** → els raigs es tallen realment.
+- **Imatge virtual** → només es tallen les prolongacions dels raigs.
+
+---
+
+> Les distàncies en òptica es mesuren sempre respecte del centre òptic i amb un conveni de signes.
+
+---
+
+### b. Augment lateral ($\beta$)
+
+L’augment lateral mesura la relació entre la mida de la imatge i la de l’objecte:
+
+$$
+\beta = \frac{y'}{y}
+$$
+
+on:
+
+- $y'$ → mida de la imatge  
+- $y$ → mida de l’objecte  
+
+#### Interpretació
+
+- $\beta > 0$ → imatge dreta  
+- $\beta < 0$ → imatge invertida    
+
+---
+
+### c. Potència d’una lent
+
+La potència d’una lent es defineix com:
+
+$$
+P = \frac{1}{f}
+$$
+
+on:
+
+- $f$ → distància focal (en metres)  
+- $P$ → potència (en diòptries)
+
+---
+
+### d. Sistemes òptics: miralls i lents
+
+> *Elements d’un sistema òptic*
+
+- **Centre òptic (O)**: centre de la lent o del mirall  
+- **Eix principal**: recta horitzontal que passa pel centre  
+- **Focus (F)**: punt tal que els raigs que en proven es transformen en paral·lels a l’eix  
+- **Focus imatge (F')**: punt on convergeixen els raigs paral·lels (o les seves prolongacions)  
+- **Distància focal (f)**: distància entre el focus i el centre òptic  
+
+---
+
+> *Equació de les imatges*
+
+Per a miralls i lents:
+
+$$
+\frac{1}{f} = \frac{1}{s} + \frac{1}{s'}
+$$
+
+---
+
+> *Augment en funció de les distàncies*
+
+- Miralls:
+
+$$
+\beta = -\frac{s'}{s}
+$$
+
+- Lents:
+
+$$
+\beta = \frac{s'}{s}
+$$
+
+---
+
+> *Cas especial: mirall pla*
+
+En un mirall pla:
+
+$$
+f = \infty
+\quad \Rightarrow \quad
+s' = -s
+$$
+
+$$
+\beta = 1
+$$
+
+---
+
+### d. Taula resum d’òptica geomètrica
+
+| Sistema            | Focus | Equació general                          | Augment lateral |
+|--------------------|-------|------------------------------------------|-----------------|
+| **Mirall pla**     | $ f = \infty $ | $ s' = -s $                            | $ \beta = 1 $ |
+| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
+| **Lent**           | $ f $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = \frac{s'}{s} $ |
+
+---
+
+> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
