@@ -1148,20 +1148,7 @@ on:
 
 ---
 
-> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
-
-
-### d. Taula resum d’òptica geomètrica
-
-| Sistema            | Focus objecte | Focus imatge | Equació general           | Augment lateral |
-|--------------------| -----| -------|------------------------------------------|-----------------|
-| **Mirall pla**     | $ s' = -s $ | $ f' = \infty $ | $ s' = -s $              | $ \beta = 1 $ |
-| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ f' = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
-| **Lent**           | $P = \frac{1}{f}$ | $P = \frac{1}{f'}$ | $ \frac{1}{f} = \frac{1}{s'} - \frac{1}{s} $ | $ \beta = \frac{s'}{s} $ |
-
----
-
-### e. Sistemes òptics: miralls i lents
+### d. Sistemes òptics: miralls i lents
 
 > *Elements d’un sistema òptic*
 
@@ -1178,6 +1165,18 @@ on:
 - El **raig paral.lel** a l’eix òptic, que, d’acord amb la definició de focus, passa per F.
 - El **raig focal**, definit com aquell que passa pel focus F, i que, d’acord amb aquesta definició, es reflecteix paral.lelament a l’eix òptic.
 - El **raig radial** que passa pel centre de curvatura; aquest raig es reflecteix perpendicularment a la superfície del mirall i, per tant, coincideix amb el raig reflectit.
+
+---
+
+> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
+
+### d. Taula resum d’òptica geomètrica
+
+| Sistema            | Focus objecte | Focus imatge | Equació general           | Augment lateral |
+|--------------------| -----| -------|------------------------------------------|-----------------|
+| **Mirall pla**     | $ s' = -s $ | $ f' = \infty $ | $ s' = -s $              | $ \beta = 1 $ |
+| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ f' = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
+| **Lent**           | $P = \frac{1}{f}$ | $P = \frac{1}{f'}$ | $ \frac{1}{f} = \frac{1}{s'} - \frac{1}{s} $ | $ \beta = \frac{s'}{s} $ |
 
 ---
 
