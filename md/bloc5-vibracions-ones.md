@@ -461,8 +461,6 @@ $$
 
 ---
 
----
-
 # 3 — Moviment ondulatori
 
 ## 3.1 — Concepte d'ona
@@ -1019,9 +1017,9 @@ $$
 
 ---
 
-# 6 — Òptica geomètrica
+# 6 — Òptica
 
-### 6.1 — Naturalesa de la llum
+## 6.1 — Naturalesa de la llum
 
 La **llum** és una **ona electromagnètica**, formada per dos camps que varien en el temps i en l’espai seguint un **moviment harmònic simple** de manera que el camp elèctric $\vec{E}$ i el camp magnètic $\vec{B}$ de l’ona estan en fase i són perpendiculars entre si, i també són perpendiculars a la direcció de propagació de l'ona, representada per $\vec{c}$ és a dir, aquestes ones són transversals:
 
@@ -1058,4 +1056,148 @@ $$
 
 ---
 
-### 6.2 — ôptica geomètrica
+## 6.2 — Òptica geomètrica
+
+### a. Sistema òptic
+
+> *Distància focal*
+
+- La **distància focal** és la distància entre el centre òptic i el focus del sistema (lent o mirall)
+
+---
+
+> *Posició de l’objecte i de la imatge*
+
+- $s$: distància de l’objecte al centre òptic  
+- $s'$: distància de la imatge al centre òptic  
+
+---
+
+> ***criteri DIN** — Sistema de referència*
+
+Es defineix un sistema de coordenades cartesianes amb:
+
+- origen al centre òptic  
+- eix principal horitzontal  
+- la llum es propaga d’esquerra a dreta  
+
+#### Conveni de signes
+
+- cap a la dreta → positiu  
+- cap a l’esquerra → negatiu  
+- cap amunt → positiu  
+- cap avall → negatiu  
+
+| ![Sistema òptic](img/bloc5/38.png) |
+|:-----------------------------:|
+| *Sistema òptic.* |
+
+---
+
+> *Interpretació*
+
+- $s < 0$ → objecte real situat abans del sistema òptic, al costat d’on ve la llum.
+- $s' > 0$ → imatge situada a la dreta del sistema.
+- $s' < 0$ → imatge situada a l’esquerra del sistema.
+
+*Interpretació física*
+
+- **Imatge real** → els raigs es tallen realment.
+- **Imatge virtual** → només es tallen les prolongacions dels raigs.
+
+---
+
+> Les distàncies en òptica es mesuren sempre respecte del centre òptic i amb un conveni de signes.
+
+---
+
+### B. Augment lateral ($\beta$)
+
+L’augment lateral mesura la relació entre la mida de la imatge i la de l’objecte:
+
+$$
+\beta = \frac{y'}{y}
+$$
+
+on:
+
+- $y'$ → mida de la imatge  
+- $y$ → mida de l’objecte  
+
+#### Interpretació
+
+- $\beta > 0$ → imatge dreta  
+- $\beta < 0$ → imatge invertida 
+- $\beta > 1$ → imatge més gran que l'objecte  
+- $\beta < 1$ → imatge més petita que l'objecte    
+
+---
+
+### c. Potència d’una lent
+
+La potència d’una lent es defineix com:
+
+$$
+P = \frac{1}{f}
+$$
+
+on:
+
+- $f$ → distància focal (en metres)  
+- $P$ → potència (en diòptries)
+
+---
+
+### d. Sistemes òptics: miralls i lents
+
+> *Elements d’un sistema òptic*
+
+- **Vertex (V)**: centre de la lent o del mirall 
+- **Centre de curvatura (C)**: És el centre de l'esfera que genera el mirall
+- **Radi de curvatura (R)**: És la distància des del centre de curvatura (C) fins al vèrtex del mirall (V)
+- **Eix principal**: recta horitzontal que passa pel centre  
+- **Focus objecte (F)**: punt tal que els raigs que en proven es transformen en paral·lels a l’eix  
+- **Focus imatge (F')**: punt on convergeixen els raigs paral·lels (o les seves prolongacions)  
+- **Distància focal (f)**: distància entre el focus i el centre òptic  
+
+> *Sistema de rajos*
+
+- El **raig paral.lel** a l’eix òptic, que, d’acord amb la definició de focus, passa per F.
+- El **raig focal**, definit com aquell que passa pel focus F, i que, d’acord amb aquesta definició, es reflecteix paral.lelament a l’eix òptic.
+- El **raig radial** que passa pel centre de curvatura; aquest raig es reflecteix perpendicularment a la superfície del mirall i, per tant, coincideix amb el raig reflectit.
+
+---
+
+> Tots els sistemes òptics es resolen amb el mateix model de raigs i la mateixa equació; només canvien els signes.
+
+### d. Taula resum d’òptica geomètrica
+
+| Sistema            | Focus objecte | Focus imatge | Equació general           | Augment lateral |
+|--------------------| -----| -------|------------------------------------------|-----------------|
+| **Mirall pla**     | $ s' = -s $ | $ f' = \infty $ | $ s' = -s $              | $ \beta = 1 $ |
+| **Mirall esfèric** | $ f = \frac{R}{2} $ | $ f' = \frac{R}{2} $ | $ \frac{1}{f} = \frac{1}{s} + \frac{1}{s'} $ | $ \beta = -\frac{s'}{s} $ |
+| **Lent**           | $P = \frac{1}{f}$ | $P = \frac{1}{f'}$ | $ \frac{1}{f} = \frac{1}{s'} - \frac{1}{s} $ | $ \beta = \frac{s'}{s} $ |
+
+---
+
+> *Miralls*
+
+| ![Mirall convex](img/bloc5/42.png) | ![Mirall concau](img/bloc5/39.png)|
+|:-----------------------------:|:-----------------------------:|
+| *Mirall convex.* |  *Mirall concau.* |
+
+| ![Mirall convex](img/bloc5/43.png) | ![Mirall concau](img/bloc5/44.png)| ![Mirall concau](img/bloc5/46.png)|
+|:-----------------------------:|:-----------------------------:| :-----------------------------:|
+| *Mirall convex.* |  *Mirall concau.* |  *Mirall concau.* |
+
+> *Lents*
+
+| ![Lent biconvexa](img/bloc5/40.png) | ![Lent bicòncava](img/bloc5/41.png) |
+|:-----------------------------:|:-----------------------------:|
+| *Lent biconvexa.* |  *Lent bicòncava.* |
+
+| ![Lent biconvexa](img/bloc5/45.png) |
+|:-----------------------------:|
+| *Lent biconvexa.* |
+
+---
