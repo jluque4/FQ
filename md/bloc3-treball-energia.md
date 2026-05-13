@@ -100,3 +100,60 @@ $$
 $$
 
 El signe final del treball dependrà del sentit de la força respecte el desplaçament.
+
+---
+
+# 3 — Energia
+
+L’energia és una magnitud associada a la capacitat d’un sistema per produir canvis o transformacions.
+
+Al llarg d’un procés físic, l’energia pot:
+- transferir-se entre cossos,
+- transformar-se d’un tipus a un altre,
+- o conservar-se dins del sistema.
+
+> En física, l’energia és la capacitat que té un cos per realitzar treball.
+
+### a) Energia cinètica
+
+En l’apartat anterior hem definit el treball mecànic com la transferència d’energia produïda per una força al llarg d’un desplaçament. Ara estudiarem el membre dret de l’expressió obtinguda a partir de la segona llei de Newton:
+
+$$
+\int m·\vec v · d\vec v
+$$
+
+i integrant entre una velocitat inicial i una final per una massa constant:
+
+$$
+m\int_{v_i}^{v_f} v·dv = m\left[\frac12 v^2\right]_{v_i}^{v_f}
+$$
+
+obtenim:
+
+$$
+\frac12 mv_f^2-\frac12 mv_i^2
+$$
+
+Aquesta expressió suggereix definir una nova magnitud física anomenada **energia cinètica**:
+
+$$
+\boxed{
+E_c=\frac12 mv^2
+}
+$$
+
+> L’energia cinètica representa l’energia associada al moviment d’un cos.
+
+Per tant, el membre dret de la igualtat es pot escriure com:
+
+$$
+\Delta E_c = E_{c_f}-E_{c_i}
+$$
+
+i obtenim finalment el **principi del treball i l’energia cinètica**:
+
+$$
+\boxed{W=\Delta E_c}
+$$
+
+> El treball total realitzat sobre un cos és igual a la variació de la seva energia cinètica.
