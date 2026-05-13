@@ -84,16 +84,16 @@ $$
 
 ---
 
-### b) La força varia linealment amb la distància
+### b) La força varia linealment amb la posició
 
 Quan la força varia amb la posició, el treball ja no es pot calcular simplement multiplicant força per desplaçament.
 En aquests casos és necessari calcular l’àrea sota la corba $F-x$, per exemple en el cas d'una molla que segueix la llei de Hooke:
 
 | ![Força varia linealment amb la distància.](img/bloc3/3.png) | ![Treball força constant](img/bloc3/4.png) |
 |:--------------------------------------:|:--------------------------------------:|
-| *Força varia amb la distància segons la llei de Hooke.* | *Treball fet per la força F aplicada a la molla.* |
+| *Força varia amb la posició segons la llei de Hooke.* | *Treball fet per la força F aplicada a la molla.* |
 
-Obtenim que el treball realitzat per una **força** que varia **linealment amb la distància** és:
+Obtenim que el treball realitzat per una **força** que varia **linealment amb la posició** és:
 
 $$
 |W|=\frac12·k·\Delta r^2
