@@ -96,7 +96,7 @@ En aquests casos és necessari calcular l’àrea sota la corba $F-x$, per exemp
 Obtenim que el treball realitzat per una **força** que varia **linealment amb la distància** és:
 
 $$
-|W|=\frac12 k\Delta r^2
+|W|=\frac12·k·\Delta r^2
 $$
 
 El signe final del treball dependrà del sentit de la força respecte el desplaçament.
