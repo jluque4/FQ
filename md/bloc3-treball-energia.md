@@ -103,6 +103,16 @@ El signe final del treball dependrà del sentit de la força respecte el despla�
 
 ---
 
+### c) Força variable
+
+És el cas més general. També calculem el treball amb l’àrea ombrejada fent el mateix raonament anterior.
+
+| ![Força variable.](img/bloc3/5.png) |
+|:--------------------------------------:|
+| *Calculem l’àrea total ombrejada i obtenim el treball total.* |
+
+---
+
 # 3 — Energia
 
 L’energia és una magnitud associada a la capacitat d’un sistema per produir canvis o transformacions.
