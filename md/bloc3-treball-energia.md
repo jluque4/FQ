@@ -167,3 +167,65 @@ $$
 $$
 
 > El treball total realitzat sobre un cos és igual a la variació de la seva energia cinètica.
+
+### b) Forces conservatives
+
+> Es diu que una força és conservativa qual el treball que realitza per desplaçar un cos d'un punt A a un punt B npmés depèn de les posicions inicial i final i no del cami seguit.
+
+Són forces conservatives: el pes, la força electrostàtica i la força elàstica. La força de fregament és una força no conservativa.
+
+| ![Força conservativa.](img/bloc3/6.png) | 
+|:--------------------------------------:|
+| *Treballs efectuats per la força aplicada en diferents re­correguts.* |
+
+Les forces conservatives permeten definir una nova forma d’energia associada a la posició del sistema anomenada **energia potencial**.
+
+### c) Energia potencial
+
+> És l’energia que té un cos per la seva posició en una zona de l’espai on actuen forces conservatives.
+
+| ![Energia potencial.](img/bloc3/7.png) | 
+|:--------------------------------------:|
+| *Variació de l'energia potencial associada al pes d'un cos.* |
+
+Definim la variació de l’energia potencial d’una partícula com el treball, can­viat de signe, realitzat per una força conservativa sobre la par­tícula; aquest treball és igual a la disminució d’energia potencial que experimenta la partícula.
+
+$$
+W = −ΔE_p
+$$
+
+> *Energia potencial gravitatòria*
+
+L’energia potencial gravitatòria és l’energia que té un cos per la posició que ocupa dins d’una zona de l’espai on actuïn forces gravitatòries.
+
+| ![Energia potencial gravitatòria.](img/bloc3/8.png) | 
+|:--------------------------------------:|
+| *Energia potencial gravitatòria.* |
+
+$$
+W_p = \vec F · \Delta \vec y = m·g·h_A - m·g·H_b = −(Ep_B − Ep_A) = -\Delta E_p
+$$
+
+En general, l’energia potencial gravitatòria d’un cos de massa m situat a una altura h val:
+
+$$
+\boxed{E_p = m·g·h}
+$$
+
+> *Energia potencial elàstica*
+
+L’energia potencial elàstica és l’energia que té un cos elàstic en virtut del seu estat de deformació.
+
+| ![Energia potencial elàstica.](img/bloc3/9.png) | 
+|:--------------------------------------:|
+| *Deformació de la molla en aplicar una força externa.* |
+
+$$
+W_{molla} = \int \vec F · \Delta \vec x = \frac12·k·x_A^2 - \frac12·k·x_B^2 = −(Ep_B − Ep_A) = -\Delta E_p
+$$
+
+En general, l’energia potencial elàstica d’un cos de massa m i constant k és:
+
+$$
+\boxed{E_p = \frac12·k·x^2}
+$$
