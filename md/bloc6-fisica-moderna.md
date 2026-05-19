@@ -114,3 +114,129 @@ $$
 $$
 
 L’eV és l’energia que guanya un electró quan travessa una diferència de potencial d’1 volt.
+
+---
+
+## 2.2 — L’efecte fotoelèctric
+
+La teoria ondulatòria de la llum predeia que l’energia transportada depenia únicament de la **intensitat** de la radiació.
+
+> *Segons la física clàssica*
+
+- una llum molt intensa sempre hauria d’arrencar electrons d’un metall;
+- qualsevol freqüència de llum hauria de funcionar si s’espera prou temps;
+- els electrons haurien de guanyar energia progressivament.
+
+Tanmateix, els experiments mostraven un comportament completament diferent.
+
+> *Què s’observa experimentalment?*
+
+Quan s’il·lumina una placa metàl·lica amb radiació electromagnètica:
+
+- només s’emeten electrons si la freqüència de la llum supera un valor mínim;
+- l’emissió és **instantània**;
+- l’energia dels electrons depèn de la **freqüència**, no de la intensitat.
+
+Aquest fenomen rep el nom d’**efecte fotoelèctric**.
+
+> *La interpretació d’Einstein*
+
+Per explicar aquest fenomen, **Albert Einstein** va proposar que la llum està formada per **fotons**, cadascun amb energia:
+
+$$
+E = hf
+$$
+
+Quan un fotó impacta sobre un electró del metall, li transfereix tota la seva energia.
+
+Aquesta energia es reparteix de la manera següent:
+
+- una part s’utilitza per arrencar l’electró del metall;
+- la resta es transforma en energia cinètica de l’electró emès.
+
+Això es resumeix en el **balanç energètic de l’efecte fotoelèctric**:
+
+$$
+E_{fotó} = W_0 + E_c
+$$
+
+on:
+
+- $E_{fotó}$: energia del fotó incident.
+- $W_0$: **treball d’extracció** (energia mínima necessària per arrencar un electró).
+- $E_c$: energia cinètica màxima de l’electró emès.
+
+Com que:
+
+$$
+E_{fotó}=hf=\frac{hc}{\lambda}
+$$
+
+també podem escriure:
+
+$$
+hf = W_0 + E_c
+$$
+
+> *La freqüència llindar*
+
+Cada metall necessita una energia mínima per arrencar electrons. Per això existeix una **freqüència llindar** $f_0$:
+
+- Si $f<f_0$ → **no hi ha emissió d’electrons**.
+- Si $f>f_0$ → sí que hi ha efecte fotoelèctric.
+
+La freqüència llindar compleix:
+
+$$
+W_0 = h f_0
+$$
+
+o equivalentment:
+
+$$
+\lambda_0=\frac{c}{f_0}
+$$
+
+> *Concepte clau*
+
+La intensitat de la llum indica **quants fotons arriben**, però:
+
+> **l’energia de cada electró depèn només de la freqüència de la llum.**
+
+Per això:
+
+- **llum més energètica (freqüència alta)** → electrons més ràpids;
+- **llum més intensa** → més electrons emesos.
+
+---
+
+## 2.3 — La dualitat ona-corpuscle
+
+La radiació electromagnètica té propietats ondulatòries (reflexió, refracció, interferència, etc.), però de vegades presenta propietats corpusculars, com és el cas de la interacció amb la matèria (efecte fotoelèctric), De Broglie va estendre a totes les partícules la dualitat ona-corpuscle.
+
+> *hipòtesi de De Broglie*
+
+Segons De Broglie, qualsevol partícula en moviment té associada una longitud d’ona anomenada **longitud d’ona de De Broglie**:
+
+$$
+\lambda = \frac{h}{p} = \frac{h}{m·v}
+$$
+
+on:
+
+- $\lambda$: longitud d’ona associada a la partícula (m)
+- $h = 6,63 \times 10^{-34}\ \text{J·s}$: constant de Planck
+- $m$: massa de la partícula (kg)
+- $v$: velocitat de la partícula (m/s)
+
+> *Interpretació física*
+
+La longitud d’ona associada a la matèria és molt petita per objectes macroscòpics.
+
+Per exemple:
+
+- una pilota → longitud d’ona pràcticament nul·la;
+- un electró → longitud d’ona apreciable.
+
+Per això els efectes ondulatoris de la matèria només són observables a **escala microscòpica**.
+
