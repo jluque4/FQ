@@ -107,6 +107,10 @@ Això implica que:
 - **més freqüència → més energia**
 - **menys longitud d’ona → més energia**
 
+| ![Diagrama de l'espectre electromagnètic.](img/bloc6/8.png) |
+|:--------------------------------------:|
+| *Diagrama de l'espectre electromagnètic.* |
+
 La intensitat de la llum indica **quants fotons arriben**, però no l’energia de cada fotó. En física quàntica és habitual expressar energies en **electró-volts (eV)**:
 
 $$
