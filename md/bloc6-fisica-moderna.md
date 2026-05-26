@@ -240,3 +240,234 @@ Per exemple:
 
 Per això els efectes ondulatoris de la matèria només són observables a **escala microscòpica**.
 
+# 3 — Física nuclear
+
+## 3.1 — Composició dels nuclis atòmics
+
+L’àtom està format per:
+
+- un **nucli central**, on es concentra pràcticament tota la massa;
+- una **escorça electrònica**, formada per electrons.
+
+El **nucli atòmic** està format per dues partícules:
+
+- **protons** → tenen càrrega positiva;
+- **neutrons** → no tenen càrrega elèctrica.
+
+Els protons i els neutrons reben el nom de **nucleons**.
+
+| ![Partícules constituents de l’àtom i el seu nucli.](img/bloc6/3.png) |
+|:--------------------------------------:|
+| *Partícules constituents de l’àtom i el seu nucli.* |
+
+| Partícula | Símbol | Càrrega | Situació |
+|-----------|---------|----------|-----------|
+| Protó | $p$ | $+1$ | Nucli |
+| Neutró | $n$ | $0$ | Nucli |
+| Electró | $e^-$ | $-1$ | Escorça |
+
+> *Notació nuclear*
+
+Els nuclis es representen mitjançant la notació:
+
+$$
+{}^A_ZX
+$$
+
+on:
+
+- $X$: símbol químic de l’element
+- $Z$: És el **nombre de protons** del nucli. El nombre de protons determina l’element químic.
+- $A$: És el nombre total de nucleons (protons + neutrons), per tant:
+
+$$
+A = Z + N
+$$
+
+| ![Notació nuclear.](img/bloc6/4.png) |
+|:--------------------------------------:|
+| *Notació nuclear.* |
+
+> *Partícules elementals*
+
+| ![Model estàndard de les partícules elementals.](img/bloc6/5.png) |
+|:--------------------------------------:|
+| *Model estàndard de les partícules elementals.* |
+
+> *Isòtops*
+
+Els **isòtops** són àtoms del mateix element químic que tenen:
+
+> **el mateix nombre de protons $Z$ però diferent nombre de neutrons $N$.**
+
+Per tant:
+
+- tenen propietats químiques semblants,
+- però poden tenir estabilitat nuclear diferent.
+
+Per exemple, els isòtops de l’hidrogen:
+
+$$
+{}^1H,\ {}^2H,\ {}^3H
+$$
+
+## 3.2 — Estabilitat nuclear
+
+> **Si els protons tenen càrrega positiva i es repel·leixen elèctricament, per què el nucli no es desintegra?**
+
+El nucli es manté unit gràcies a una altra interacció fonamental: la **força nuclear forta**.
+
+Aquesta força:
+
+- actua entre **protons i neutrons** (nucleons),
+- és **molt més intensa** que la repulsió elèctrica,
+- té un **abast molt curt**, limitat a dimensions comparables a la mida del nucli atòmic.
+
+La força nuclear forta és atractiva i permet mantenir units els nucleons malgrat la repulsió elèctrica entre protons. Per això els nuclis atòmics poden existir i ser estables.
+uan aquest equilibri és adequat, el nucli és **estable**. Però si la repulsió elèctrica esdevé massa gran o hi ha un desequilibri entre protons i neutrons, el nucli pot tornar-se **inestable**.
+
+Tanmateix, a mesura que augmenta el nombre de nucleons:
+
+- hi ha més protons repel·lint-se;
+- la repulsió electrostàtica augmenta;
+- la força nuclear forta no creix igual, perquè només actua a distàncies molt petites.
+
+Per aquest motiu:
+
+> **Els nuclis molt grans tendeixen a ser menys estables.**
+
+## 3.3 — Radioactivitat natural
+
+> La **radioactivitat** és el procés pel qual un nucli atòmic inestable es transforma espontàniament en un altre nucli més estable mitjançant l’emissió de radiació.
+
+Aquest fenomen té diverses característiques importants:
+
+- és **espontani**, no cal provocar-lo;
+- és **aleatori**, no podem predir quan es desintegrarà un nucli concret;
+- és independent de factors externs com:
+  - temperatura,
+  - pressió,
+  - estat químic.
+
+Per tant:
+
+> **No podem saber quan es desintegrarà un nucli individual, però sí predir el comportament estadístic d’un gran nombre de nuclis.**
+
+Aquest comportament estadístic ens permetrà definir posteriorment conceptes com:
+
+- **semivida**
+- **constant radioactiva**
+- **activitat radioactiva**
+
+### a) Les reaccions nuclears
+
+Les transformacions radioactives s’expressen mitjançant **reaccions nuclears**. En qualsevol reacció nuclear es compleixen dues lleis de conservació molt importants:
+
+- **La suma dels nombres màssics $A$ es conserva.**
+- **La suma dels nombres atòmics $Z$ es conserva.**
+
+Aquest principi és fonamental per completar correctament les reaccions nuclears.
+
+### b) Tipus principals de radiacions
+
+> *Radiació alfa $\alpha$*
+
+Es produeix quan una àtom emet una particula $\alpha$ (nucli de He):
+
+$$
+{}^{238}\_{92}\text{U} \rightarrow {}^{234}\_{90}\text{Th}+{}^{4}\_{2}\text{He}
+$$
+
+| ![Esquema d’un procés de desintegració per emissió d’una partícula α.](img/bloc6/6.png) |
+|:--------------------------------------:|
+| *Esquema d’un procés de desintegració per emissió d’una partícula α.* |
+
+---
+
+> *Radiació $\beta^-$*
+
+En aquesta desintegració **un neutró es transforma en un protó** emetent un electró ${}^{1}\_{0}n^0 \rightarrow {}^{1}\_{1}p^+ + {}^0\_{-1}e^-$
+
+$$
+{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e
+$$
+
+---
+
+> *Radiació $\beta^+$*
+
+En aquest cas **un protó es transforma en un neutró** emetent un positró ${}^{1}\_{1}p^+ \rightarrow {}^{1}\_{0}n^0 + {}^0\_{1}e^+$
+
+$$
+{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e
+$$
+
+| ![Esquema d’un procés de desintegració per emissió d’una partícula β.](img/bloc6/7.png) |
+|:--------------------------------------:|
+| *Esquema d’un procés de desintegració per emissió d’una partícula β.* |
+
+---
+
+> *Radiació gamma $\gamma$*
+
+La radiació gamma consisteix en l’emissió de **radiació electromagnètica molt energètica**. No implica expulsió de nucleons.
+
+Per tant:
+
+- el nombre màssic **no canvia**;
+- el nombre atòmic **no canvia**.
+
+La radiació gamma acostuma a produir-se després d’una desintegració alfa o beta, quan el nucli encara es troba en un estat energètic excitat per retornar al estat fonamental.
+
+$$
+{}^{60}\_{27}Co^* \rightarrow {}^{60}\_{27}Co + \gamma
+$$
+
+---
+
+## 3.4 — Llei de desintegració radioactiva
+
+La velocitat de desintegració d'ina mostra radioactiva no és constant amb el temps, sinó que la seva variació és de manera **exponencial** i segueix la llei següent:
+
+$$
+N=N_0e^{-\lambda t}
+$$
+
+Aquesta expressió mostra que:
+
+> **La quantitat de material radioactiu disminueix exponencialment amb el temps.**
+
+on:
+
+- $N$: nombre de nuclis que queden després d’un temps $t$
+- $N_0$: nombre inicial de nuclis
+- $t$: temps transcorregut
+- $\lambda$: constant radioactiva de desintegració (unitats $s^{-1}$)
+
+Aquesta constant representa la **probabilitat de desintegració** d’un nucli per unitat de temps.
+
+Per tant:
+
+- valor gran de $\lambda$ → nucli molt inestable;
+- valor petit de $\lambda$ → nucli més estable.
+
+> *La semivida o període de semidesintegració*
+
+> Mesura **el temps necessari perquè es desintegri la meitat dels nuclis d’una mostra radioactiva.**
+
+La semivida i la constant radioactiva estan relacionades per:
+
+$$
+T_{1/2}=\frac{\ln 2}{\lambda}
+$$
+
+Si una substància té $T_{1/2}=10\ \text{anys}$ llavors:
+
+| Temps | Quantitat restant |
+|--------|-------------------|
+| 0 anys | 100 % |
+| 10 anys | 50 % |
+| 20 anys | 25 % |
+| 30 anys | 12,5 % |
+
+---
