@@ -390,20 +390,20 @@ $$
 
 > *Radiació $\beta^-$*
 
-En aquesta desintegració **un neutró es transforma en un protó** emetent un electró ${}^{1}\_{0}n^0 \rightarrow {}^{1}\_{1}p^+ + {}^0\_{-1}e^-$
+En aquesta desintegració **un neutró es transforma en un protó** emetent un electró ${}^{1}\_{0}n^0 \rightarrow {}^{1}\_{1}p + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
 
 $$
-{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e
+{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
 $$
 
 ---
 
 > *Radiació $\beta^+$*
 
-En aquest cas **un protó es transforma en un neutró** emetent un positró ${}^{1}\_{1}p^+ \rightarrow {}^{1}\_{0}n^0 + {}^0\_{1}e^+$
+En aquest cas **un protó es transforma en un neutró** emetent un positró ${}^{1}\_{1}p^+ \rightarrow {}^{1}\_{0}n + {}^0\_{1}e + {}^0\_{0}\nu$
 
 $$
-{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e
+{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e + {}^0\_{0}\nu$
 $$
 
 | ![Esquema d’un procés de desintegració per emissió d’una partícula β.](img/bloc6/7.png) |
@@ -473,5 +473,156 @@ Si una substància té $T_{1/2}=10\ \text{anys}$ llavors:
 | 10 anys | 50 % |
 | 20 anys | 25 % |
 | 30 anys | 12,5 % |
+
+---
+
+## 3.5 — Activitat radioactiva
+
+> L’activitat d’una mostra radioactiva, A, es defineix com el nombre de desintegracions que es donen per unitat de temps, de manera que representa la velocitat de desintegració.
+
+$$
+A=-\frac{dN}{dt} = \lambda N = A_0 e^{-\lambda t} = A_0\left(\frac12\right)^{t/T_{1/2}}
+$$
+
+on:
+
+- $A$: activitat radioactiva
+- $A_0$: Activitat inicial $A_0 = \lambda N_0$
+- $N$: nombre de nuclis radioactius
+- $\lambda$: constant radioactiva
+
+El signe negatiu indica que:
+
+> **el nombre de nuclis disminueix amb el temps.**
+
+> *Unitat de l’activitat: el becquerel (Bq)*
+
+La unitat de l’activitat radioactiva en el Sistema Internacional és el **becquerel (Bq)**
+
+$$
+1\ \text{Bq}=1\ \text{desintegració/s} = s^{-1}
+$$
+
+És a dir:
+
+> **Una activitat d’1 Bq significa que es produeix una desintegració cada segon.**
+
+Algunes vegades es fa servir també el Curie(Ci) : $ 1 Ci = 3,7·10^{10} Bq$
+
+---
+
+## 3.6 — Energia nuclear
+
+Podríem pensar que la massa d’un nucli és exactament igual a la suma de les masses dels seus protons i neutrons. Tanmateix, experimentalment s’observa que:
+
+> **La massa real del nucli és lleugerament inferior a la suma de les masses dels nucleons separats.**
+
+Aquesta diferència rep el nom de **defecte de massa**:
+
+$$
+\Delta m = \sum m_{nucleons} - m_{nucli}
+$$
+
+La massa “desapareguda” s’ha transformat en energia que segons la teoria de la relativitat d’Einstein:
+
+$$
+E=\Delta m · c^2
+$$
+
+on:
+
+- $E$: energia alliberada o absorbida (J)
+- $\Delta m$: defecte de massa (kg)
+- $c$: velocitat de la llum
+
+Aquesta expressió mostra que:
+
+> **Una petita quantitat de massa pot transformar-se en una enorme quantitat d’energia.**
+
+Això explica l’elevada energia alliberada en les reaccions nuclears.
+
+---
+
+> *Energia d’enllaç nuclear*
+
+L’energia associada a la unió dels nucleons rep el nom d’**energia d’enllaç nuclear**. Es defineix com:
+
+> l’energia necessària per separar completament tots els nucleons d’un nucli o és l’energia alliberada quan el nucli es forma.
+
+Com més gran és l’energia d’enllaç **més estable és el nucli.**
+
+---
+
+> *Energia d’enllaç per nucleó*
+
+Per comparar l’estabilitat de diferents nuclis es fa servir la **energia d’enllaç per nucleó**:
+
+$$
+\frac{E}{A}
+$$
+
+on:
+
+- $E$: energia d’enllaç total
+- $A$: nombre de nucleons
+
+Experimentalment s’observa que:
+
+> **Els nuclis més estables tenen una energia d’enllaç per nucleó més elevada.**
+
+---
+
+## 3.7 — Fissió i fusió nuclear
+
+Hem vist que les reaccions nuclears poden alliberar grans quantitats d’energia quan es produeix un defecte de massa. Aquesta energia es pot obtenir principalment de dues maneres:
+
+> **En la fissió, un nucli pesant es trenca.**
+
+> **En la fusió, dos nuclis lleugers s’uneixen.**
+
+---
+
+### a) Fissió nuclear
+
+La **fissió nuclear** consisteix en la ruptura d’un **nucli pesant** en dos nuclis més petits. Aquest procés acostuma a iniciar-se quan el nucli captura un neutró.
+
+| ![Esquema d’una reacció de fissió nuclear.](img/bloc6/9.png) |
+|:--------------------------------------:|
+| *Esquema simplificat d’una reacció de fissió nuclear.* |
+
+En aquest procés:
+
+- es formen nuclis més estables;
+- es produeix un **defecte de massa**;
+- part de la massa es transforma en energia.
+
+Els neutrons produïts poden provocar noves fissions:
+
+> **reacció en cadena**
+
+Aquest principi és el que utilitzen:
+
+- les **centrals nuclears**;
+- les **bombes de fissió**.
+
+
+### b) Fusió nuclear
+
+La **fusió nuclear** consisteix en la unió de **nuclis lleugers** per formar un nucli més pesant.
+
+| ![Esquema d’una reacció de fusió nuclear.](img/bloc6/10.png) |
+|:--------------------------------------:|
+| *Esquema simplificat d’una reacció de fusió nuclear.* |
+
+Perquè es produeixi la fusió cal:
+
+> **temperatures extremadament elevades**
+
+que permetin superar la repulsió elèctrica entre nuclis positius.
+
+Aquest procés és el responsable de l’energia emesa:
+
+- pel **Sol**;
+- per les **estrelles**.
 
 ---
