@@ -53,6 +53,8 @@ Per entendre millor el context històric de la física moderna, el debat entre r
 
 **No cal entendre tota la part matemàtica del vídeo**, ja que tracta conceptes molt més avançats dels que entren a les PAU. L’objectiu és entendre el **context històric i científic** del naixement de la física moderna i les dificultats que van portar al desenvolupament de la relativitat, la física quàntica i la física de partícules.
 
+---
+
 # 2 — Física quàntica
 
 La física clàssica descriu correctament molts fenòmens macroscòpics, però a escala microscòpica apareixen comportaments que no es poden explicar amb els models tradicionals.
@@ -243,6 +245,8 @@ Per exemple:
 - un electró → longitud d’ona apreciable.
 
 Per això els efectes ondulatoris de la matèria només són observables a **escala microscòpica**.
+
+---
 
 # 3 — Física nuclear
 
