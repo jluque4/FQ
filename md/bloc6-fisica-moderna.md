@@ -407,7 +407,7 @@ $$
 En aquest cas **un protó es transforma en un neutró** emetent un positró ${}^{1}\_{1}p^+ \rightarrow {}^{1}\_{0}n + {}^0\_{1}e + {}^0\_{0}\nu$
 
 $$
-{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e + {}^0\_{0}\nu$
+{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e + {}^0\_{0}\nu
 $$
 
 | ![Esquema d’un procés de desintegració per emissió d’una partícula β.](img/bloc6/7.png) |
