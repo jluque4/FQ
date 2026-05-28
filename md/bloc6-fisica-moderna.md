@@ -397,7 +397,7 @@ $$
 En aquesta desintegració **un neutró es transforma en un protó** emetent un electró ${}^{1}\_{0}n^0 \rightarrow {}^{1}\_{1}p + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
 
 $$
-{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
+{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}
 $$
 
 ---
