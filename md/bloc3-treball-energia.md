@@ -16,22 +16,30 @@ $$
 F(x)
 $$
 
+---
+
 Per obtenir aquesta nova formulació partim de la segona llei de Newton $\vec F=m\vec a$ i de la definició d’acceleració $\vec a = \frac{d\vec v}{dt}$, substituint:
 
 $$
 \vec F = m\frac{d\vec v}{dt}
 $$
 
-utilitzant que $\vec v=\frac{d\vec r}{dt}$ i per tant $d\vec r = \vec v·dt$ podem escriure:
+Ara utilitzem la **regla de la cadena** per expressar l’acceleració en funció de la posició en lloc del temps:
 
 $$
-\vec F \cdot d\vec r = m·\vec v·d\vec v
+\frac{d\vec v}{dt} = \frac{d\vec v}{d\vec r} \cdot \frac{d\vec r}{dt}
 $$
 
-Integrant entre una posició inicial i una final obtenim l'expressió matemàtica:
+Com que $\frac{d\vec r}{dt}=\vec v$ i reorganitzant obtenim:
 
 $$
-\boxed{\int \vec F \cdot d\vec r = \int m·\vec v·d \vec v}
+\vec F\cdot d\vec r = m\vec v\cdot d\vec v
+$$
+
+Integrant entre una situació inicial i una final obtenim l’expressió matemàtica fonamental:
+
+$$
+\boxed{\int \vec F \cdot d\vec r = \int m\vec v \cdot d\vec v}
 $$
 
 > Aquesta expressió és fonamental perquè permet estudiar el moviment sense necessitat de conèixer l’evolució temporal del sistema.
