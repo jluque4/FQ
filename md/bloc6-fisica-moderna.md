@@ -332,7 +332,7 @@ Aquesta força:
 - té un **abast molt curt**, limitat a dimensions comparables a la mida del nucli atòmic.
 
 La força nuclear forta és atractiva i permet mantenir units els nucleons malgrat la repulsió elèctrica entre protons. Per això els nuclis atòmics poden existir i ser estables.
-uan aquest equilibri és adequat, el nucli és **estable**. Però si la repulsió elèctrica esdevé massa gran o hi ha un desequilibri entre protons i neutrons, el nucli pot tornar-se **inestable**.
+Quan aquest equilibri és adequat, el nucli és **estable**. Però si la repulsió elèctrica esdevé massa gran o hi ha un desequilibri entre protons i neutrons, el nucli pot tornar-se **inestable**.
 
 Tanmateix, a mesura que augmenta el nombre de nucleons:
 
@@ -397,7 +397,7 @@ $$
 En aquesta desintegració **un neutró es transforma en un protó** emetent un electró ${}^{1}\_{0}n^0 \rightarrow {}^{1}\_{1}p + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
 
 $$
-{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}$
+{}^{14}\_{6}C \rightarrow {}^{14}\_{7}N + {}^0\_{-1}e + {}^0\_{0}\bar{\nu}
 $$
 
 ---
@@ -407,7 +407,7 @@ $$
 En aquest cas **un protó es transforma en un neutró** emetent un positró ${}^{1}\_{1}p^+ \rightarrow {}^{1}\_{0}n + {}^0\_{1}e + {}^0\_{0}\nu$
 
 $$
-{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e + {}^0\_{0}\nu$
+{}^{22}\_{11}Na \rightarrow {}^{22}\_{10}Ne + {}^0\_{+1}e + {}^0\_{0}\nu
 $$
 
 | ![Esquema d’un procés de desintegració per emissió d’una partícula β.](img/bloc6/7.png) |
@@ -435,7 +435,7 @@ $$
 
 ## 3.4 — Llei de desintegració radioactiva
 
-La velocitat de desintegració d'ina mostra radioactiva no és constant amb el temps, sinó que la seva variació és de manera **exponencial** i segueix la llei següent:
+La velocitat de desintegració d'una mostra radioactiva no és constant amb el temps, sinó que la seva variació és de manera **exponencial** i segueix la llei següent:
 
 $$
 N=N_0e^{-\lambda t}
@@ -631,4 +631,470 @@ Aquest procés és el responsable de l’energia emesa:
 
 ---
 
-# 4 — Teoria de la relativitat
+# 4 — Física relativista
+
+## 4.1 — Repòs i moviment relatiu
+
+Galileu va plantejar una pregunta fonamental:
+
+> **Podem distingir entre estar aturats i moure’ns a velocitat constant?**
+
+Imaginem una persona dins d’un tren amb les finestres completament tapades.
+
+A l’interior del vagó pot:
+
+- deixar caure una pilota,
+- caminar,
+- observar objectes moure’s.
+
+Si el tren es mou amb velocitat constant, tots els experiments mecànics es comportaran exactament igual que si el tren estigués aturat. Per tant:
+
+> **No existeix cap experiment mecànic capaç de distingir el repòs del moviment rectilini uniforme.**
+
+Aquest resultat es coneix com el:
+
+**Principi de relativitat de Galileu** i estableix que:
+
+> **Les lleis de la mecànica són les mateixes per a tots els observadors que es mouen amb velocitat constant.**
+
+---
+
+### a) Sistemes de referència inercials
+
+Per descriure matemàticament el moviment, considerem ara dos observadors:
+
+- observador $S$, en repòs;
+- observador $S'$, movent-se cap a la dreta amb velocitat constant $\vec{u}$.
+
+Quan els dos observadors coincideixen:
+
+> **sincronitzen els seus rellotges** i fixen $t=t'=0$
+
+Així, els seus orígens coincideixen inicialment.
+
+Suposem ara que ocorre un esdeveniment qualsevol (per exemple, l’explosió d’un petard).
+
+L’observador $S$ li assigna coordenades $(x,t)$ mentre que l’observador $S'$ assigna $(x',t')$
+
+|        ![Sistema de referència en moviment relatiu.](img/bloc6/11.png)        |
+| :---------------------------------------------------------------------------: |
+| *Dos observadors descriuen el mateix esdeveniment amb coordenades diferents.* |
+
+Segons la física clàssica:
+
+> **el temps és absolut**
+
+Per tant $t=t'$. Les diferències només apareixen en la posició. Al cap d’un temps $t$, l’origen de $S'$ s’ha desplaçat una distància $ut$ respecte de $S$. Per això les coordenades espacials es relacionen mitjançant la **transformació galileana**:
+
+$$
+x'=x-ut
+$$
+
+Equivalentment:
+
+$$
+x=x'+ut
+$$
+
+Aquesta relació simplement ens diu que:
+
+> **cada observador mesura la posició restant el moviment del seu propi sistema de referència.**
+
+Aquest model funciona perfectament amb objectes quotidians. Per exemple, si un objecte es mou amb velocitat $\vec{v}$ respecte d’un observador, un altre observador en moviment mesurarà una velocitat diferent:
+
+$$
+v'=v-u
+$$
+
+És a dir:
+
+> **la velocitat depèn de l’observador.**
+
+---
+
+## 4.2 — Postulats de la relativitat
+
+Hem vist que, segons Galileu, **les velocitats depenen de l’observador.** Per tant, si la Terra es mou respecte d’una estrella llunyana, esperaríem que la velocitat de la llum també variés.
+
+| ![Moviment de la Terra respecte de les estrelles fixes.](img/bloc6/12.png)    |
+| :---------------------------------------------------------------------------: |
+| *Moviment de la Terra respecte de les estrelles fixes.* |
+
+Quan la Terra s’apropa a l’estrella amb velocitat $v$ la física clàssica prediu:
+
+$$
+c+v
+$$
+
+Sis mesos després, quan la Terra se n’allunya a velocitat $-v$ esperaríem:
+
+$$
+c-v
+$$
+
+És a dir:
+
+> **la velocitat de la llum hauria de dependre del moviment de la Terra.**
+
+Aquest era l’objectiu de l’experiment de **Michelson i Morley**:
+
+> **detectar el moviment de la Terra mesurant canvis en la velocitat de la llum.**
+
+Tanmateix, el resultat experimental va ser sorprenent:
+
+> **La velocitat de la llum era sempre la mateixa.**
+
+Independentment:
+
+- del moviment de la Terra,
+- de l’època de l’any,
+- de la direcció observada.
+
+Sempre s’obtenia:
+
+$$
+c=3,0\times10^8\ \text{m/s}
+$$
+
+Aquest resultat creava un greu problema per a la física clàssica. Si la llum obeís la suma galileana de velocitats:
+
+> **podríem detectar el moviment rectilini uniforme.**
+
+Però això contradiria el principi de relativitat de Galileu:
+
+> **el repòs i el MRU han de ser físicament equivalents.**
+
+La natura sembla, doncs, “conspirar” perquè no puguem distingir:
+
+> repòs ≡ moviment rectilini uniforme. La llum també sembla “amagar” el moviment rectilini uniforme.
+
+---
+
+Per resoldre aquesta contradicció, Einstein va formular dos postulats fonamentals.
+
+### a) Primer postulat de la relativitat restringida
+
+> **Les lleis de la física es verifiquen de manera idèntica en tots els sistemes inercials.**
+
+---
+
+### b) Segon postulat de la relativitat restringida
+
+> **La velocitat de la llum al buit és una constant universal invariant per a tots els observadors inercials.**
+
+Això significa que:
+
+$$
+c=3,0\times10^8\ \text{m/s}
+$$
+
+per a qualsevol observador. Tanmateix, això planteja una nova pregunta:
+
+> **Com és possible que tots els observadors mesurin la mateixa velocitat de la llum si les velocitats haurien de sumar-se?**
+
+---
+
+## 4.3 — Transformacions de Lorentz
+
+Els postulats d’Einstein plantegen un problema aparent: 
+
+> “Si la llum és constant per a tots, llavors potser no estem mesurant igual el temps i les distàncies.”
+
+És a dir:
+
+> **cada observador pot acusar l’altre de mesurar incorrectament les distàncies o el temps transcorregut.**
+
+Per això, Einstein modifica les transformacions de Galileu introduint un factor corrector:
+
+$$
+x'=\gamma(x-ut)
+$$
+
+i, per simetria entre observadors:
+
+$$
+x=\gamma(x'+ut')
+$$
+
+El fet que aparegui el mateix factor per als dos observadors és conseqüència del **primer postulat de la relativitat: tots els sistemes inercials són equivalents.**
+
+> *Obtenció del factor de Lorentz*
+
+Per determinar $\gamma$, considerem un cas molt especial, **un pols de llum** que surt exactament quan els dos observadors coincideixen. Com que tots dos han de mesurar la mateixa velocitat de la llum:
+
+$$
+c=\frac{x}{t} \text{ i } c=\frac{x'}{t'}
+$$
+
+Substituint aquestes expressions en les noves transformacions i simplificant s’obté:
+
+$$
+\gamma^2=\frac{1}{1-\frac{u^2}{c^2}}
+$$
+
+i finalment:
+
+$$
+\gamma=\frac{1}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+Aquest factor rep el nom de **factor de Lorentz** i substituint-lo en les noves expressions obtenim les **transformacions de Lorentz**:
+
+$$
+x'=\frac{x-ut}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+Aïllant de manera anàloga el temps i substituint el factor de Lorentz s’obté:
+
+$$
+t'=\frac{t-\frac{ux}{c^2}}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+La conclusió és profunda:
+
+> **el temps deixa de ser absolut** i **les mesures d’espai i temps depenen del moviment de l’observador.**
+
+---
+
+## 4.4 — Dilatació del temps
+
+Una de les conseqüències més sorprenents de les transformacions de Lorentz és que:
+
+> **el temps mesurat entre dos esdeveniments depèn de l’observador.**
+
+| ![Dilatació del temps.](img/bloc6/13.jpg)    |
+| :---------------------------------------------------------------------------: |
+| *Dilatació del temps.* |
+
+Considerem un rellotge en repòs respecte de l’observador $S$.
+
+Triem dos esdeveniments molt simples:
+
+- primer tic del rellotge;
+- segon tic del rellotge.
+
+Com que el rellotge està en repòs per a $S$, els dos tics es produeixen al mateix lloc:
+
+$$
+\Delta x=0
+$$
+
+El temps mesurat per aquest observador és el **temps propi**:
+
+$$
+\Delta t_0
+$$
+
+El temps propi és:
+
+> **el temps mesurat per l’observador que està en repòs respecte del rellotge.**
+
+Ara considerem un altre observador $S'$, que veu aquest rellotge en moviment amb velocitat $u$, a partir de les transformacions de Lorentz s’obté:
+
+$$
+\Delta t'=\frac{\Delta t_0}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+Com que:
+
+$$
+\sqrt{1-\frac{u^2}{c^2}}<1
+$$
+
+aleshores $\Delta t'>\Delta t_0$, per tant:
+
+> **un rellotge en moviment sembla anar més lent.** Aquest fenomen rep el nom de **dilatació del temps**
+
+### a) Interpretació física
+
+Hem vist que un **rellotge de llum** sembla anar més lent quan es mou respecte d’un observador.
+
+La pregunta natural és:
+
+> **I què passa amb qualsevol altre tipus de rellotge?**
+
+Imaginem que dins del tren tenim dos rellotges diferents:
+
+- un **rellotge de llum** (basat en un feix de llum entre dos miralls),
+- un **rellotge de sorra**.
+
+Suposem que el rellotge de llum es retardés amb el moviment, però el de sorra no. Aleshores, comparant els dos rellotges podríem detectar que el tren s’està movent amb **moviment rectilini uniforme**.
+
+És a dir:
+
+> el moviment uniforme deixaria una “empremta” física detectable.
+
+Però això violaria el **primer postulat de la relativitat**:
+
+> **cap experiment físic intern pot distingir el repòs del moviment rectilini uniforme.**
+
+Per tant, la conclusió és inevitable:
+
+> **tots els processos físics s’han de retardar exactament igual**
+
+No importa el mecanisme:
+
+* rellotges mecànics,
+* rellotges atòmics,
+* rellotges de sorra,
+* rellotges electrònics.
+
+I encara més important:
+
+> **també els rellotges biològics.**
+
+El cos humà és, en certa manera, un rellotge:
+
+* envellim,
+* metabolitzem,
+* les cèl·lules es divideixen,
+* passen processos químics continus.
+
+Seguint el principi de relativitat, aquests processos també han de ralentir-se quan el cos es mou a velocitats molt elevades. Aquesta és la idea darrere de la famosa:
+
+### b) **Paradoxa dels bessons**
+
+Imaginem dos bessons:
+
+- un es queda a la Terra;
+- l’altre viatja en una nau a una velocitat molt gran i després torna.
+
+Per a l’observador de la Terra:
+
+> el rellotge del bessó viatger ha anat més lent.
+
+Per tant, quan torni:
+
+> **el bessó viatger serà més jove** com a conseqüència directa de la dilatació temporal.
+
+Aquest efecte s’ha comprovat experimentalment amb:
+
+- rellotges atòmics en avions,
+- satèl·lits GPS,
+- partícules subatòmiques (muons) que viuen més temps quan viatgen a velocitats properes a la de la llum.
+
+---
+
+## 4.5 — Contracció de l’espai
+
+De manera anàloga a la **dilatació temporal**, les transformacions de Lorentz també impliquen una conseqüència sorprenent sobre les longituds.
+
+> **la longitud mesurada per un observador respecte del qual l’objecte es desplaça és menor que la longitud pròpia.**
+
+La relació matemàtica és:
+
+$$
+L=L_0\sqrt{1-\frac{u^2}{c^2}}
+$$
+
+on:
+
+* $L_0$ és la longitud pròpia,
+* $L$ és la longitud observada,
+* $u$ és la velocitat relativa,
+* $c$ és la velocitat de la llum.
+
+Per tant:
+
+> **quan la velocitat augmenta, la longitud observada disminueix.**
+
+---
+
+## 4.6 — Teoria de la relativitat
+
+La base de la teoria de la relativitat consistiria a:
+
+> **substituir les transformacions de Galileu per les transformacions de Lorentz i reinterpretar tota la física clàssica a partir d’elles.**
+
+En física clàssica assumíem que:
+
+- el temps era absolut,
+- l’espai era absolut,
+- les velocitats se sumaven de manera natural.
+
+Tanmateix, Einstein mostra que això deixa de ser cert quan les velocitats s’apropen a la velocitat de la llum. A partir de les transformacions de Lorentz:
+
+$$
+x'= \frac{x-ut}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+$$
+t'=\frac{t-\frac{ux}{c^2}}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+espai i temps deixen de ser independents. Passem a descriure els fenòmens físics utilitzant quatre coordenades:
+
+$$
+(x,y,z,t)
+$$
+
+és a dir:
+
+> **quatre dimensions de l’espai-temps.**
+
+La idea central és la següent:
+
+> **Agafem les lleis de la física clàssica i les reinterpretem utilitzant les transformacions de Lorentz, acceptant les conseqüències allà on ens portin.**
+
+I aquestes conseqüències són sorprenents:
+
+- el temps es dilata;
+- les longituds es contrauen;
+- la simultaneïtat deixa de ser absoluta;
+
+---
+
+Una altra conseqüència fonamental de la relativitat és que:
+
+> **massa i energia no són conceptes independents.**
+
+Quan Einstein reinterpreta la mecànica clàssica utilitzant les transformacions de Lorentz, descobreix que l’expressió de l’energia cinètica també ha de modificar-se. En relativitat, l’energia cinètica d’un cos és:
+
+$$
+E_c=\frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}-mc^2
+$$
+
+Observem que:
+
+- si la velocitat és petita $v \ll c$, recuperem aproximadament la física clàssica;
+- però quan $v$ s’apropa a la velocitat de la llum, els efectes relativistes esdevenen molt importants.
+
+L’energia total relativista d’una partícula es defineix com:
+
+$$
+E=\frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}
+$$
+
+Ara apareix una idea sorprenent. Quan el cos està en repòs $v=0$ aleshores:
+
+$$
+\sqrt{1-\frac{v^2}{c^2}}=1
+$$
+
+i obtenim:
+
+$$
+\boxed{E_0=mc^2}
+$$
+
+anomenada:
+
+> **energia de repòs**.
+
+Això significa que:
+
+> **fins i tot un cos en repòs té energia associada.**
+
+És a dir:
+
+> **la massa mateixa és una forma d’energia emmagatzemada.**
+
+Per aquest motiu:
+
+> **una petita quantitat de massa pot transformar-se en una enorme quantitat d’energia**, fet que explica l’energia alliberada en:
+
+* **fissió nuclear**
+* **fusió nuclear**
+
+
+
