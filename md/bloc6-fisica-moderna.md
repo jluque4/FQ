@@ -866,9 +866,7 @@ Una de les conseqüències més sorprenents de les transformacions de Lorentz é
 | :---------------------------------------------------------------------------: |
 | *Dilatació del temps.* |
 
-Considerem un rellotge en repòs respecte de l’observador $S$.
-
-Triem dos esdeveniments molt simples:
+Considerem un rellotge en repòs respecte de l’observador $S$. Triem dos esdeveniments molt simples:
 
 - primer tic del rellotge;
 - segon tic del rellotge.
@@ -907,9 +905,7 @@ aleshores $\Delta t'>\Delta t_0$, per tant:
 
 ### a) Interpretació física
 
-Hem vist que un **rellotge de llum** sembla anar més lent quan es mou respecte d’un observador.
-
-La pregunta natural és:
+Hem vist que un **rellotge de llum** sembla anar més lent quan es mou respecte d’un observador. La pregunta natural és:
 
 > **I què passa amb qualsevol altre tipus de rellotge?**
 
