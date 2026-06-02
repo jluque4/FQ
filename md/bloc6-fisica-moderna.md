@@ -890,7 +890,7 @@ El temps propi és:
 Ara considerem un altre observador $S'$, que veu aquest rellotge en moviment amb velocitat $u$, a partir de les transformacions de Lorentz s’obté:
 
 $$
-\Delta t'=\frac{\Delta t_0}{\sqrt{1-\frac{u^2}{c^2}}}
+\Delta t'=\frac{\Delta t_0 - 0 \frac{u}{c^2}}{\sqrt{1-\frac{u^2}{c^2}}}
 $$
 
 Com que:
