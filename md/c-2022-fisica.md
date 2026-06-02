@@ -76,7 +76,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## Bloc 5 — Vibracions i ones
+## Bloc 5 — Vibracions, ones i òptica
 
 **Continguts clau (C-2022):**
 - Moviment harmònic simple (MHS).  
