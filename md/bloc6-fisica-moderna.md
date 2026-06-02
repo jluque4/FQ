@@ -639,9 +639,7 @@ Galileu va plantejar una pregunta fonamental:
 
 > **Podem distingir entre estar aturats i moure’ns a velocitat constant?**
 
-Imaginem una persona dins d’un tren amb les finestres completament tapades.
-
-A l’interior del vagó pot:
+Imaginem una persona dins d’un tren amb les finestres completament tapades. A l’interior del vagó pot:
 
 - deixar caure una pilota,
 - caminar,
@@ -670,11 +668,7 @@ Quan els dos observadors coincideixen:
 
 > **sincronitzen els seus rellotges** i fixen $t=t'=0$
 
-Així, els seus orígens coincideixen inicialment.
-
-Suposem ara que ocorre un esdeveniment qualsevol (per exemple, l’explosió d’un petard).
-
-L’observador $S$ li assigna coordenades $(x,t)$ mentre que l’observador $S'$ assigna $(x',t')$
+Així, els seus orígens coincideixen inicialment. Suposem ara que ocorre un esdeveniment qualsevol (per exemple, l’explosió d’un petard). L’observador $S$ li assigna coordenades $(x,t)$ mentre que l’observador $S'$ assigna $(x',t')$
 
 |        ![Sistema de referència en moviment relatiu.](img/bloc6/11.png)        |
 | :---------------------------------------------------------------------------: |
