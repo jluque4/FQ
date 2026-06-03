@@ -884,7 +884,7 @@ El temps propi és:
 Ara considerem un altre observador $S'$, que veu aquest rellotge en moviment amb velocitat $u$, a partir de les transformacions de Lorentz s’obté:
 
 $$
-\Delta t'=\frac{\Delta t_0 - 0 \frac{u}{c^2}}{\sqrt{1-\frac{u^2}{c^2}}}
+\Delta t=\frac{\Delta t_0 - 0 \frac{u}{c^2}}{\sqrt{1-\frac{u^2}{c^2}}}
 $$
 
 Com que:
@@ -893,7 +893,7 @@ $$
 \sqrt{1-\frac{u^2}{c^2}}<1
 $$
 
-aleshores $\Delta t'>\Delta t_0$, per tant:
+aleshores $\Delta t>\Delta t_0$, per tant:
 
 > **un rellotge en moviment sembla anar més lent.** Aquest fenomen rep el nom de **dilatació del temps**
 
