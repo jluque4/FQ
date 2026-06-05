@@ -1017,9 +1017,83 @@ $$
 
 ---
 
-# 6 — Òptica
+# 6 — Ones sonores
 
-## 6.1 — Naturalesa de la llum
+## 6.1 — Intensitat sonora
+
+> *El so transporta energia*
+
+Una ona sonora transporta energia des del focus fins al medi que l’envolta. A mesura que ens allunyem del focus, aquesta energia es reparteix sobre superfícies cada vegada més grans i el so es va debilitant.
+
+---
+
+> *Intensitat sonora*
+
+La intensitat sonora és la potència transmesa per unitat de superfície perpendicular a la direcció de propagació:
+
+$$
+I=\frac{P}{S}
+$$
+
+on:
+
+- $I$ → intensitat sonora $(W/m^2)$
+- $P$ → potència de la font $(W)$
+- $S$ → superfície
+
+---
+
+> *So esfèric*
+
+En una ona sonora esfèrica:
+
+$$
+S=4\pi r^2
+$$
+
+i, per tant:
+
+$$
+\boxed{I=\frac{P}{4\pi r^2}}
+$$
+
+---
+
+> La intensitat disminueix amb el quadrat de la distància:
+
+$$
+I\propto \frac{1}{r^2}
+$$
+
+$$
+\frac{I_1}{I_2} = \frac{A_1^2}{A_2^2} = \frac{r_1^2}{r_2^2}
+$$
+
+---
+
+## 6.2 — El decibel
+
+L’oïda humana pot detectar sons molt febles i molt intensos. Per això s’utilitza una escala logarítmica anomenada **nivell sonor** o **nivell d’intensitat sonora**, mesurada en decibels (dB).
+
+$$
+\boxed{\beta=10\log\left(\frac{I}{I_0}\right)}
+$$
+
+on:
+
+- $\beta$ → nivell sonor (dB)
+- $I$ → intensitat sonora
+- $I_0=10^{-12}\,W/m^2$ → llindar d’audició
+
+---
+
+> El decibel no mesura energia directament, sinó una comparació logarítmica respecte del llindar d’audició.
+
+---
+
+# 7 — Òptica
+
+## 7.1 — Naturalesa de la llum
 
 La **llum** és una **ona electromagnètica**, formada per dos camps que varien en el temps i en l’espai seguint un **moviment harmònic simple** de manera que el camp elèctric $\vec{E}$ i el camp magnètic $\vec{B}$ de l’ona estan en fase i són perpendiculars entre si, i també són perpendiculars a la direcció de propagació de l'ona, representada per $\vec{c}$ és a dir, aquestes ones són transversals:
 
@@ -1056,7 +1130,7 @@ $$
 
 ---
 
-## 6.2 — Òptica geomètrica
+## 7.2 — Òptica geomètrica
 
 ### a. Sistema òptic
 
