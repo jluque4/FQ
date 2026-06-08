@@ -4,7 +4,7 @@
 
 # Grau de dificultat
 
-| Dificultat | Fàcil | Mitjà | Dificil |
+| Dificultat | Fàcil | Mitjà | Difícil |
 |:---:|:---:|:---:|:---:|
 | Codi | 🟢 | 🟡 | 🔴 |
 
