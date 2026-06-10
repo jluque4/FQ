@@ -1,0 +1,68 @@
+[
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P1A",
+    "descripcio": "Nanosatèl·lit en òrbita circular al voltant de la Terra: període orbital, increment d’energia potencial, energia mecànica i òrbita tancada.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Exercici 1. Camps gravitatoris — Opció A\nA finals de l’any 2025, la Generalitat de Catalunya va llançar a l’espai un nanosatèl·lit que descriu una òrbita circular al voltant de la Terra a una altura aproximada de 500 km per sobre de la superfície terrestre.\n(a) A partir de la llei de la gravitació universal, deduïu l’expressió del període orbital en funció del radi orbital i de la massa de la Terra, i calculeu el període orbital del nanosatèl·lit.\n(b) Sabent que la massa del nanosatèl·lit és d’11,1 kg, calculeu l’increment d’energia potencial gravitatòria del satèl·lit en passar de la superfície terrestre a l’òrbita. Calculeu també l’energia mecànica del satèl·lit a l’òrbita. Es tracta d’una òrbita tancada? Justifiqueu la resposta.\nDades: G = 6,67·10⁻¹¹ N·m²·kg⁻²; MT = 5,98·10²⁴ kg; RT = 6370 km.",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "4-CG-40014002"
+  },
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P1B",
+    "descripcio": "Cometa Halley: òrbita el·líptica, periheli i afeli, semieix major, període orbital i velocitat al periheli per conservació del moment angular.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Exercici 1. Camps gravitatoris — Opció B\nEdmond Halley va estudiar registres històrics d’observacions de cometes i va concloure que diverses observacions corresponien al mateix objecte, actualment conegut com el cometa Halley.\n(a) Feu un dibuix esquemàtic de l’òrbita el·líptica del cometa Halley, indicant-ne el periheli i l’afeli. Calculeu el semieix major de l’el·lipse i el període orbital del cometa. Raoneu si Edmond Halley va poder observar el cometa que porta el seu nom més d’una vegada.\n(b) Raoneu en quin punt de l’òrbita el cometa assoleix la velocitat màxima. A partir de les dades que es faciliten, calculeu la velocitat del cometa Halley quan passa pel periheli de l’òrbita, indicant clarament els principis físics que heu emprat.\nDades: G = 6,67·10⁻¹¹ N·m²·kg⁻²; MSol = 1,99·10³⁰ kg; rP = 0,575 ua; vA = 896 m/s; rA = 35,3 ua; 1 ua = 1,50·10¹¹ m.",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "4-CG-400140044002"
+  },
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P2",
+    "descripcio": "Tub de raigs X: camp elèctric uniforme, força sobre l’electró, energia cinètica, velocitat, energia d’un fotó de raigs X i velocitat final de l’electró.",
+    "bloc": "Bloc 4 — Camp electromagnètic",
+    "text": "Exercici 2. Camps electromagnètics\nEls raigs X es generen mitjançant un tub on s’ha fet el buit i que conté dues plaques de tungstè. La placa negativa (càtode) s’escalfa i emet electrons, els quals són accelerats cap a la placa positiva (ànode). En xocar contra aquesta altra placa, els electrons s’aturen bruscament i es generen els raigs X.\n(a) La diferència de potencial entre dues plaques d’un tub de raigs X és de 70,0 kV i la separació entre elles és de 2,00 cm. Calculeu el mòdul del camp elèctric, suposant que és constant i uniforme entre les plaques, i el mòdul de la força elèctrica que experimenta un electró dins del tub. Representeu el camp elèctric entre plaques i la força elèctrica que actua sobre l’electró.\n(b) Determineu l’energia cinètica i la velocitat d’un electró quan arriba a l’ànode, suposant que parteix del repòs des del càtode. Sabent que en el xoc amb l’ànode l’electró perd part de la seva energia, que es transforma en un fotó de raigs X amb longitud d’ona 1,00 nm, calculeu l’energia d’aquest fotó i la nova velocitat de l’electró després de l’emissió.\nDades: |e| = 1,602·10⁻¹⁹ C; me = 9,11·10⁻³¹ kg; c = 3,00·10⁸ m/s; h = 6,63·10⁻³⁴ J·s. Nota: negligiu els efectes del camp magnètic terrestre i els efectes relativistes.",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "4-CE-4252425142546252"
+  },
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P3",
+    "descripcio": "Vibració d’un telèfon mòbil: MHS, ona mecànica transversal, equació d’ona, longitud d’ona, intensitat sonora i nivell en decibels.",
+    "bloc": "Bloc 5 — Vibracions i ones",
+    "text": "Exercici 3. Vibracions i ones\nUn telèfon mòbil conté un motor vibrador que genera un moviment harmònic simple al llarg de l’eix y al xassís del dispositiu quan es reben trucades o notificacions. Suposem que aquest moviment té una amplitud de 2,00 mm i una freqüència de 150 Hz.\n(a) Escriviu l’equació de moviment del telèfon si inicialment es troba a la posició d’equilibri y = 0 m. Quan es col·loca el telèfon damunt d’una superfície metàl·lica rígida, les vibracions es transmeten al material i generen ones mecàniques transversals que es propaguen a 3200 m/s. Calculeu la longitud d’ona de l’ona mecànica i escriviu l’equació de l’ona corresponent, suposant propagació en el sentit positiu de l’eix x, posició inicial d’equilibri i amplitud 2,00 mm.\n(b) Suposant que el telèfon emet una potència acústica d’1,00 mW durant la vibració i que el so es propaga per l’aire de manera isotròpica, calculeu el nivell d’intensitat sonora que percebrà una persona situada a 3,00 m del telèfon.\nDades: I0 = 10⁻¹² W·m⁻². Nota: assumiu que el front d’ona és esfèric.",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "5-ON-500050065508550955025503"
+  },
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P4A",
+    "descripcio": "Cesi-137 de Txernòbil: desintegració beta menys, percentatge restant després de 40 anys i temps perquè l’activitat baixi fins al llindar segur.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "Exercici 4. Física relativista, quàntica, nuclear i de partícules — Opció A\nEnguany fa 40 anys de l’accident nuclear més greu de la història. La central nuclear de Txernòbil va alliberar una gran quantitat de materials radioactius a l’atmosfera. En particular, cesi-137 (¹³⁷₅₅Cs), que en desintegrar-se mitjançant una emissió β− genera un nucli de bari. Aquest isòtop té una vida mitjana llarga, 30,17 anys, i representa un perill durant dècades.\n(a) Escriviu la reacció de desintegració del cesi-137. Calculeu quin percentatge de la quantitat inicial de cesi-137 queda avui, 40 anys després de l’accident.\n(b) En una zona a uns 10,0 km de la central es va detectar una concentració inicial de 6,00·10⁵ Bq·m⁻² de cesi-137 immediatament després de l’accident. Es considera segur tornar a habitar una zona afectada quan la concentració estigui per sota de 3,70·10⁴ Bq·m⁻². Quin any podrà tornar-se a habitar aquesta zona si només considerem la desintegració natural del cesi-137?",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "6-NU-660066016602"
+  },
+  {
+    "any": 2026,
+    "convocatoria": "jun",
+    "problema": "P4B",
+    "descripcio": "Efecte fotoelèctric: funció de treball, potencial de frenada, velocitat màxima dels electrons i comparació amb llum verda i vermella.",
+    "bloc": "Bloc 6 — Física moderna",
+    "text": "Exercici 4. Física relativista, quàntica, nuclear i de partícules — Opció B\nEn un experiment d’efecte fotoelèctric, fem incidir una llum monocromàtica sobre el càtode d’una cèl·lula fotoelèctrica. Quan s’il·lumina el càtode amb llum blava de longitud d’ona 460 nm, s’observa un corrent fotoelèctric. Aplicant una diferència de potencial de com a mínim 0,50 V entre càtode i ànode, el corrent desapareix completament.\n(a) Calculeu l’energia mínima necessària per a arrencar un electró del càtode, funció de treball, i la velocitat màxima amb què surten els electrons emesos quan no s’aplica cap diferència de potencial.\n(b) Determineu quina diferència de potencial caldria aplicar per a anul·lar el corrent fotoelèctric si primer el càtode s’il·lumina amb llum verda de longitud d’ona 520 nm i després amb llum vermella de longitud d’ona 650 nm. Justifiqueu els resultats obtinguts.\nDades: |e| = 1,602·10⁻¹⁹ C; me = 9,11·10⁻³¹ kg; c = 3,00·10⁸ m/s; h = 6,63·10⁻³⁴ J·s.",
+    "imatge_enunciat": "examens/2026_jun_1.pdf",
+    "imatge_solucio": "examens/2026_jun_1_sol.pdf",
+    "id": "6-QM-6252625062566253"
+  }
+]
