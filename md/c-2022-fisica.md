@@ -39,14 +39,14 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 - Llei de la inèrcia i **lleis de Newton**.  
 - Fricció, tensió, força normal i pes.  
 - Moment d’una força i condicions d’equilibri rotacional.  
-- Moment lineal i impuls mecànic.  
 - Aplicacions reals: esports, enginyeria, mobilitat i tecnologia.
 
 ---
 
-## Bloc 3 — Energia
+## Bloc 3 — Treball i Energia
 
 **Continguts clau (C-2022):**
+- Moment lineal i impuls mecànic.  
 - Treball i potència com a formes de transferència d’energia.  
 - Energia cinètica i potencial: relació i transformacions.  
 - Conservació de l’energia mecànica.  
@@ -179,6 +179,54 @@ preguntes.
 - Un o més resultats amb un nombre molt elevat de xifres significatives (6 xifres
 significatives) o amb només una xifra significativa es penalitzen amb 0,10 punts en
 aquest problema.
+
+---
+
+## 6.2 — Avaluació ordinària de 1r BTX física
+
+A 1r de Batxillerat, l’avaluació ordinària de la matèria es basarà principalment en l'estimació del grau d'assoliment del es competències mitjançant proves corresponents als diferents blocs de continguts.
+
+| Codi    | Bloc                             | Continguts principals                                                                                                                                                           |
+| ----- | :-------------------------------------------- |:---------------------------------------------------------------------------- |
+| B0 | Càlcul vectorial                | Magnituds escalars i vectorials, components, operacions amb vectors, mòdul, direcció i sentit, i aplicació del càlcul vectorial a situacions físiques.                          |
+| B1A | Cinemàtica 1D                  | Moviment rectilini uniforme, moviment rectilini uniformement accelerat, equacions del moviment i interpretació de gràfiques posició-temps, velocitat-temps i acceleració-temps. |
+| B1B | Cinemàtica 2D                  | Moviment en dues dimensions, composició de moviments, tir horitzontal, tir parabòlic i moviment circular.                                                                       |
+| B2 | Estàtica i Dinàmica             | Forces, lleis de Newton, diagrames de forces, força normal, pes, tensió, fregament, plans inclinats, sistemes de cossos i dinàmica circular.                                    |
+| B3 | Treball i energia | Treball mecànic, energia cinètica, energia potencial, conservació de l’energia mecànica, potència, impuls, quantitat de moviment i xocs.                                        |
+
+La **nota final ordinària de 1r de Batxillerat** serà la mitjana aritmètica de les qualificacions obtingudes en aquests cinc blocs:
+
+$$
+\text{Nota física 1BTX}=\frac{B0+B1A+B1B+B2+B3}{5}
+$$
+
+La **nota de cada trimestre** es calcularà com la mitjana aritmètica dels exàmens realitzats fins a la data de tancament de l’avaluació corresponent. Per tant, la qualificació trimestral tindrà un caràcter acumulatiu i reflectirà el progrés de l’alumnat en els blocs treballats fins aquell moment.
+
+Per aprovar la matèria, la nota final ordinària haurà de ser igual o superior a 5.
+
+---
+
+## 6.3 — Avaluació ordinària de 2n BTX física
+
+A 2n de Batxillerat, l’avaluació ordinària de la matèria es basarà principalment en l’estimació del grau d’assoliment de les competències mitjançant proves corresponents als diferents blocs de continguts.
+
+| Codi | Bloc                                      | Continguts principals                                                                                                                                                                         |
+| ---- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| B4A  | Camp gravitatori                          | Camp gravitatori, intensitat de camp, potencial gravitatori, energia potencial gravitatoria, òrbites circulars, velocitat orbital, velocitat d’escapament i lleis de Kepler.                  |
+| B4B  | Camp elèctric                             | Llei de Coulomb, camp elèctric, potencial elèctric, energia potencial elèctrica, moviment de càrregues en camps elèctrics i aplicacions dels camps electrostàtics.                            |
+| B4C  | Camp magnètic i inducció electromagnètica | Camp magnètic, força de Lorentz, moviment de càrregues en camps magnètics, força sobre corrents, camp creat per corrents, flux magnètic, inducció electromagnètica i lleis de Faraday i Lenz. |
+| B5   | Vibracions, ones i òptica                 | Moviment harmònic simple, energia en oscil·lacions, moviment ondulatori, ones sonores, interferències, ones estacionàries, òptica geomètrica, miralls i lents.                                |
+| B6   | Física moderna                            | Relativitat especial, física quàntica, efecte fotoelèctric, dualitat ona-corpuscle, física nuclear, radioactivitat, reaccions nuclears i energia nuclear.                                     |
+
+La **nota final ordinària de 2n de Batxillerat** serà la mitjana aritmètica de les qualificacions obtingudes en aquests cinc blocs:
+
+$$
+\text{Nota física 2BTX}=\frac{B4A+B4B+B4C+B5+B6}{5}
+$$
+
+La **nota de cada trimestre** es calcularà com la mitjana aritmètica dels exàmens realitzats fins a la data de tancament de l’avaluació corresponent. Per tant, la qualificació trimestral tindrà un caràcter acumulatiu i reflectirà el progrés de l’alumnat en els blocs treballats fins aquell moment.
+
+Per aprovar la matèria, la nota final ordinària haurà de ser igual o superior a 5.
 
 ---
 
