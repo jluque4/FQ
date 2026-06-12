@@ -314,3 +314,73 @@ $$
 $$
 
 on $W_{nc}$ és el treball realitzat per les forces no conservatives.
+
+---
+
+### e) Potència mecànica i rendiment
+
+Fins ara hem estudiat **quant treball** realitza una força o **quanta energia** es transfereix. Ara introduirem una nova magnitud que ens permet quantificar **la rapidesa amb què es produeix aquesta transferència d’energia**. Aquesta magnitud rep el nom de **potència**.
+
+> La potència és el treball realitzat per unitat de temps.
+
+$$
+\boxed{P=\frac{W}{\Delta t}}
+$$
+
+La unitat de la potència al Sistema Internacional és el **watt (W)**:
+
+$$
+\boxed{1\ W = 1\ \frac{J}{s}}
+$$
+
+---
+
+Quan una força és constant i el moviment és rectilini podem obtenir una expressió molt útil de la potència. Com que $W = \vec F\cdot \Delta \vec r$ i $ v=\frac{\Delta r}{\Delta t}$ substituint:
+
+$$
+P=\frac{\vec F\cdot \Delta \vec r}{\Delta t} = F·v·\cos\alpha
+$$
+
+on $\alpha$ és l’angle entre la força aplicada i la velocitat.
+
+> Aquesta expressió mostra que la potència augmenta quan una mateixa força actua sobre un cos que es mou més ràpidament.
+
+---
+
+En qualsevol màquina o sistema real, no tota l’energia subministrada es transforma en energia útil. Una part es dissipa en forma de:
+
+- calor,
+- fregament,
+- vibracions,
+- soroll,
+- deformacions.
+
+Per això definim el **rendiment**:
+
+> El rendiment indica quina fracció de l’energia o potència subministrada és realment aprofitada pel sistema.
+
+Matemàticament:
+
+$$
+\boxed{\eta=\frac{E_{útil}}{E_{subministrada}}}
+$$
+
+o equivalentment:
+
+$$
+\boxed{\eta=\frac{P_{útil}}{P_{subministrada}}}
+$$
+
+El rendiment sovint s’expressa en tant per cent:
+
+$$
+\boxed{\eta{\text{\%}}=\frac{P_{útil}}{P_{subministrada}}\cdot100}
+$$
+
+En qualsevol sistema real:
+
+$$
+\boxed{0<\eta<1}
+$$
+
+és a dir, el rendiment sempre és inferior al 100%.
