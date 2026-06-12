@@ -296,7 +296,13 @@ La millora només s’aplicarà si la qualificació obtinguda en la prova de mil
 
 En cap cas la presentació a la prova de millora podrà perjudicar la nota ja obtinguda. Si el resultat de la prova és igual o inferior a la nota final ordinària, es mantindrà la qualificació anterior.
 
-La millora màxima possible serà de **+2 punts** sobre la nota final ordinària, aplicant-se de manera proporcional fins al 10.
+La millora màxima possible serà de **+2 punts** sobre la nota final ordinària, aplicant-se de manera proporcional fins al 10 i sense que la nota final pugui superar en cap cas el 10.
+
+Si anomenem $N_o$ la nota final ordinària del curs i $N_m$ la nota obtinguda a la prova de millora, la nota final després de la millora es calcularà segons l’expressió per a $N_m > N_o$:
+
+$$
+N_{\text{final}}=\min\left(10,\ N_o + 2 \cdot \frac{N_m - N_o}{10 - N_o}\right)
+$$
 
 ---
 
