@@ -19,7 +19,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 # 2 — Blocs de contingut de 1r de Batxillerat
 
-## Bloc 1 — Cinemàtica
+### Bloc 1 — Cinemàtica
 
 **Continguts clau (C-2022):**
 - Descripció del moviment d’un cos puntual en una i dues dimensions.  
@@ -31,7 +31,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## Bloc 2 — Estàtica i Dinàmica
+### Bloc 2 — Estàtica i Dinàmica
 
 **Continguts clau (C-2022):**
 - Concepte de **força** com a causa del canvi de moviment.  
@@ -43,7 +43,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## Bloc 3 — Treball i Energia
+### Bloc 3 — Treball i Energia
 
 **Continguts clau (C-2022):**
 - Moment lineal i impuls mecànic.  
@@ -59,7 +59,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 # 3 — Blocs de contingut de 2n de Batxillerat
 
-## Bloc 4 — Camp gravitatori i electromagnètic
+### Bloc 4 — Camp gravitatori i electromagnètic
 
 **Continguts clau (C-2022):**
 - Concepte general de **camp físic**.  
@@ -76,7 +76,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## Bloc 5 — Vibracions, ones i òptica
+### Bloc 5 — Vibracions, ones i òptica
 
 **Continguts clau (C-2022):**
 - Moviment harmònic simple (MHS).  
@@ -88,7 +88,7 @@ Aquesta continuïtat permet un **aprenentatge progressiu i competencial**, integ
 
 ---
 
-## Bloc 6 — Física relativista, quàntica, nuclear i de partícules
+### Bloc 6 — Física relativista, quàntica, nuclear i de partícules
 
 **Continguts clau (C-2022):**
 - **Física relativista:** teoria especial i conseqüències.  
@@ -151,7 +151,10 @@ Les respostes han de demostrar **domini conceptual, claredat i raonament lògic*
 > Els errors no es penalitzaran doblement si deriven d’un resultat previ.  
 > Solucions correctes per procediments alternatius es valoraran favorablement.
 
-## 6.1 — Criteris generals de qualificació
+---
+
+### 6.1 — Criteris generals de qualificació
+
 - Les respostes s’han d’ajustar a l’enunciat de la pregunta. Es valora sobretot que
 l’alumnat demostri que té clars els conceptes de caràcter físic sobre els quals tracta
 cada pregunta.
@@ -182,9 +185,9 @@ aquest problema.
 
 ---
 
-## 6.2 — Avaluació ordinària de 1r BTX física
+### 6.2 — Avaluació ordinària de 1r BTX física
 
-A 1r de Batxillerat, l’avaluació ordinària de la matèria es basarà principalment en l'estimació del grau d'assoliment del es competències mitjançant proves corresponents als diferents blocs de continguts.
+A 1r de Batxillerat, l’avaluació ordinària de la matèria es basarà principalment en l’estimació del grau d’assoliment de les competències mitjançant proves corresponents als diferents blocs de continguts.
 
 | Codi    | Bloc                             | Continguts principals                                                                                                                                                           |
 | ----- | :-------------------------------------------- |:---------------------------------------------------------------------------- |
@@ -206,13 +209,13 @@ Per aprovar la matèria, la nota final ordinària haurà de ser igual o superior
 
 ---
 
-## 6.3 — Avaluació ordinària de 2n BTX física
+### 6.3 — Avaluació ordinària de 2n BTX física
 
 A 2n de Batxillerat, l’avaluació ordinària de la matèria es basarà principalment en l’estimació del grau d’assoliment de les competències mitjançant proves corresponents als diferents blocs de continguts.
 
 | Codi | Bloc                                      | Continguts principals                                                                                                                                                                         |
 | ---- | :---------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| B4A  | Camp gravitatori                          | Camp gravitatori, intensitat de camp, potencial gravitatori, energia potencial gravitatoria, òrbites circulars, velocitat orbital, velocitat d’escapament i lleis de Kepler.                  |
+| B4A  | Camp gravitatori                          | Camp gravitatori, intensitat de camp, potencial gravitatori, energia potencial gravitatòria, òrbites circulars, velocitat orbital, velocitat d’escapament i lleis de Kepler.                  |
 | B4B  | Camp elèctric                             | Llei de Coulomb, camp elèctric, potencial elèctric, energia potencial elèctrica, moviment de càrregues en camps elèctrics i aplicacions dels camps electrostàtics.                            |
 | B4C  | Camp magnètic i inducció electromagnètica | Camp magnètic, força de Lorentz, moviment de càrregues en camps magnètics, força sobre corrents, camp creat per corrents, flux magnètic, inducció electromagnètica i lleis de Faraday i Lenz. |
 | B5   | Vibracions, ones i òptica                 | Moviment harmònic simple, energia en oscil·lacions, moviment ondulatori, ones sonores, interferències, ones estacionàries, òptica geomètrica, miralls i lents.                                |
@@ -227,6 +230,73 @@ $$
 La **nota de cada trimestre** es calcularà com la mitjana aritmètica dels exàmens realitzats fins a la data de tancament de l’avaluació corresponent. Per tant, la qualificació trimestral tindrà un caràcter acumulatiu i reflectirà el progrés de l’alumnat en els blocs treballats fins aquell moment.
 
 Per aprovar la matèria, la nota final ordinària haurà de ser igual o superior a 5.
+
+---
+
+### 6.4 — Recuperació i millora de nota
+
+Al final de curs es realitzarà una **prova única de recuperació i millora de nota**, comuna per a tot l’alumnat.
+
+Aquesta prova tindrà dues finalitats:
+
+* **Recuperació de la matèria**, per a l’alumnat que tingui la nota final ordinària suspesa.
+* **Millora de nota**, per a l’alumnat que tingui la matèria aprovada i vulgui intentar millorar la seva qualificació final.
+
+<div style="font-size:0.92em; padding:10px 12px; border-left:4px solid #c0392b; background:#fdf2f2; border-radius:6px;">
+<strong>Important:</strong> Qualsevol infracció durant l’examen o conducta fraudulenta implicarà el <strong>suspens de l’assignatura</strong> i la necessitat de presentar-se a la <strong>recuperació extraordinària de tot el curs</strong>.
+</div>
+
+---
+
+> *Alumnat que s’ha de presentar*
+
+S’haurà de presentar **obligatòriament** a aquesta prova l’alumnat que, un cop calculada la mitjana ordinària dels blocs del curs, tingui una qualificació final inferior a 5.
+
+L’alumnat que tingui la matèria aprovada podrà presentar-s’hi **voluntàriament** per millorar la nota final.
+
+---
+
+> *Estructura de la prova*
+
+La prova estarà organitzada per blocs de contingut. De cada bloc hi haurà **dos problemes a escollir**.
+
+Cada alumne haurà de resoldre un total de **4 problemes**.
+
+L’alumnat que es presenti per **millorar nota** haurà de realitzar **4 problemes**, escollits de manera que la prova sigui representativa del conjunt de la matèria.
+
+L’alumnat que tingui **tots els blocs suspesos** haurà de realitzar també **4 problemes**, corresponents als diferents blocs de la matèria.
+
+L’alumnat que només tingui **alguns blocs suspesos** haurà d’escollir els problemes **exclusivament entre els blocs no superats** fins completar els 4 problemes totals.
+
+Si un alumne té menys de 4 blocs pendents, podrà completar la prova amb problemes addicionals dels blocs suspesos, escollint entre les opcions disponibles.
+
+---
+
+> *Qualificació de la recuperació*
+
+En el cas de l’alumnat que es presenti per recuperar la matèria, la qualificació obtinguda en aquesta prova servirà per valorar si ha assolit els continguts i competències dels blocs no superats durant el curs.
+
+Per poder aprovar la matèria en la recuperació, caldrà obtenir una qualificació igual o superior a 5 en la prova i demostrar un assoliment mínim dels blocs pendents.
+
+La qualificació final que es podrà obtenir després de la recuperació quedarà limitada pels criteris següents:
+
+* Si la qualificació obtinguda en la prova de recuperació és igual o superior a 5 i inferior a 8, la qualificació final de recuperació serà un **5**.
+* Si la qualificació obtinguda en la prova de recuperació és igual o superior a 8, la qualificació final de recuperació serà un **6**.
+* Si la qualificació obtinguda en la prova de recuperació és inferior a 5, la matèria no quedarà recuperada.
+
+Per tant, la qualificació màxima que es podrà obtenir mitjançant la recuperació serà un **6**.
+
+---
+
+> *Millora de nota*
+
+L’alumnat amb la matèria aprovada podrà presentar-se voluntàriament a la prova per intentar millorar la qualificació final. 
+
+La millora només s’aplicarà si la qualificació obtinguda en la prova de millora és superior a la nota final ordinària del curs.
+
+En cap cas la presentació a la prova de millora podrà perjudicar la nota ja obtinguda. Si el resultat de la prova és igual o inferior a la nota final ordinària, es mantindrà la qualificació anterior.
+
+La millora màxima possible serà de **+2 punts** sobre la nota final ordinària, aplicant-se de manera proporcional fins al 10.
 
 ---
 
