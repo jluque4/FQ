@@ -200,7 +200,7 @@ A 1r de Batxillerat, l’avaluació ordinària de la matèria es basarà princip
 La **nota final ordinària de 1r de Batxillerat** serà la mitjana aritmètica de les qualificacions obtingudes en aquests cinc blocs:
 
 $$
-\text{Nota física 1BTX}=\frac{B0+B1A+B1B+B2+B3}{5}
+\text{Nota 1r BTX}=\frac{B0+B1A+B1B+B2+B3}{5}
 $$
 
 La **nota de cada trimestre** es calcularà com la mitjana aritmètica dels exàmens realitzats fins a la data de tancament de l’avaluació corresponent. Per tant, la qualificació trimestral tindrà un caràcter acumulatiu i reflectirà el progrés de l’alumnat en els blocs treballats fins aquell moment.
@@ -224,7 +224,7 @@ A 2n de Batxillerat, l’avaluació ordinària de la matèria es basarà princip
 La **nota final ordinària de 2n de Batxillerat** serà la mitjana aritmètica de les qualificacions obtingudes en aquests cinc blocs:
 
 $$
-\text{Nota física 2BTX}=\frac{B4A+B4B+B4C+B5+B6}{5}
+\text{Nota 2n BTX}=\frac{B4A+B4B+B4C+B5+B6}{5}
 $$
 
 La **nota de cada trimestre** es calcularà com la mitjana aritmètica dels exàmens realitzats fins a la data de tancament de l’avaluació corresponent. Per tant, la qualificació trimestral tindrà un caràcter acumulatiu i reflectirà el progrés de l’alumnat en els blocs treballats fins aquell moment.
