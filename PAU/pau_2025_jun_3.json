@@ -1,0 +1,68 @@
+[
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P1A",
+    "descripcio": "Òrbita de la Terra al voltant del Sol: velocitat orbital, velocitat d’escapament, conservació del moment angular i segona llei de Kepler.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Exercici 1. Camps gravitatoris — Opció A\nConsiderant l’òrbita de la Terra al voltant del Sol com una circumferència de radi RST, deduïu l’expressió de la velocitat orbital de la Terra al voltant del Sol i calculeu aquesta velocitat. Deduïu l’expressió de la velocitat que hauria de tenir la Terra per a allunyar-se indefinidament del Sol i calculeu aquesta velocitat.\n(b) Ara considereu que l’òrbita de la Terra al voltant del Sol és el·líptica. Aplicant la conservació del moment angular, determineu quantes vegades més gran és la velocitat de la Terra al periheli que a l’afeli. A partir de la segona llei de Kepler, justifiqueu que la velocitat al periheli és més gran que a l’afeli.\nDades: G = 6,67·10⁻¹¹ N·m²·kg⁻²; massa del Sol MS = 1,99·10³⁰ kg; distància mitjana Sol-Terra RST = 1,496·10⁸ km; distància Sol-periheli RP = 1,475·10⁸ km; distància Sol-afeli RA = 1,526·10⁸ km.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "4-CG-4000400340044001"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P1B",
+    "descripcio": "Planeta Tau Ceti e: període orbital al voltant d’una estrella i intensitat del camp gravitatori a la superfície.",
+    "bloc": "Bloc 4 — Camp gravitatori",
+    "text": "Exercici 1. Camps gravitatoris — Opció B\nAl voltant de l’estrella Tau Ceti orbiten dos planetes que es trobarien en zona habitable i que, per tant, podrien contenir aigua líquida. Un d’aquests planetes es coneix com a Tau Ceti e.\n(a) Considerant una òrbita circular i a partir de la llei de la gravitació universal de Newton, deduïu l’expressió del període orbital d’un planeta al voltant d’una estrella en funció de la massa de l’estrella i del radi orbital. Quants dies dura un any del planeta Tau Ceti e?\n(b) A partir de la llei de la gravitació universal de Newton, deduïu l’expressió de la intensitat del camp gravitatori a la superfície d’un planeta en funció de la massa del planeta i del seu radi. Quina és l’acceleració de la gravetat a la superfície de Tau Ceti e?\nDades: G = 6,67·10⁻¹¹ N·m²·kg⁻²; massa de l’estrella Tau Ceti MT = 1,56·10³⁰ kg; radi de l’òrbita de Tau Ceti e = 8,05·10¹⁰ m; massa de Tau Ceti e MTe = 2,26·10²⁵ kg; radi de Tau Ceti e RTe = 1,15·10⁷ m.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "4-CG-40014005"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P2",
+    "descripcio": "Dos cables paral·lels amb corrent i espira propera: camp magnètic d’un fil, força entre cables, flux i corrent induït per Lenz.",
+    "bloc": "Bloc 4 — Camp electromagnètic",
+    "text": "Exercici 2. Camps electromagnètics\nTenim dos cables separats per 0,30 m.\n(a) Si per aquests cables hi circula la mateixa intensitat d’1,50 kA i en el mateix sentit, calculeu quin camp magnètic generarà el cable 1 a la distància on es troba el cable 2 i quina força per unitat de longitud rebrà el cable 2. Feu un esquema dels dos cables indicant el sentit del camp magnètic i de la força que rep el cable 2.\n(b) Si ens fixem en un sol cable i tenim una espira rectangular conductora a una certa distància d’aquest i l’anem allunyant, raoneu si apareixerà corrent induït a l’espira. Raoneu també si hi haurà corrent induït si l’espira es desplaça cap amunt. En els casos en què es generi corrent induït, indiqueu-ne el sentit i justifiqueu la resposta.\nDades: el mòdul del camp magnètic creat per un fil infinit és B = μ0I/(2πr); μ0 = 4π·10⁻⁷ T·m·A⁻¹. Nota: negligiu els efectes del camp magnètic terrestre.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "4-CM-450045074503475047514752"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P3",
+    "descripcio": "Projector de súper-8: augment lateral, equació de la lent prima, potència de la lent i diagrama de raigs.",
+    "bloc": "Bloc 5 — Vibracions i ones / Òptica geomètrica",
+    "text": "Exercici 3. Vibracions i ones\nAvui al cinema es projecta una pel·lícula antiga amb el format de súper-8, en què els fotogrames tenen una alçària de 4,00 mm. El projector té una sola lent i es pot variar la posició de la pel·lícula per a focalitzar la imatge a la pantalla. La pantalla és a 16,0 m de la lent del projector i té 2,00 m d’alçària.\n(a) Si sabem que el projector inverteix la imatge, a quina distància de la lent hem de posar la pel·lícula perquè la imatge projectada encaixi exactament a la pantalla? Calculeu la potència que ha de tenir la lent del projector perquè s’obtingui una imatge enfocada.\n(b) Abans de projectar la pel·lícula, l’operador de cabina la vol visionar en una pantalla situada a 20,0 cm de la lent. Quina ha de ser la distància entre la lent i la pel·lícula perquè aquesta quedi enfocada a la pantalla? Feu el diagrama de raigs corresponent en la quadrícula de sota.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "5-OP-5751575257535754"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P4A",
+    "descripcio": "Potassi-40 en el cos humà: nombre de nuclis, activitat radioactiva i desintegració beta menys en calci-40.",
+    "bloc": "Bloc 6 — Física nuclear",
+    "text": "Exercici 4. Física relativista, quàntica, nuclear i de partícules — Opció A\nEl potassi (Z = 19) constitueix el 0,36 % de la nostra massa corporal i el 0,012 % del potassi és potassi 40. L’isòtop potassi 40 és radioactiu, té una massa molar de 40,0 g/mol i un període de semidesintegració d’1,30·10⁹ anys.\n(a) Calculeu el nombre de nuclis del potassi 40. Calculeu també l’activitat del potassi 40 en una persona de 80 kg.\n(b) El 89 % del potassi 40 es desintegra en calci (Z = 20). Escriviu l’equació de la desintegració del potassi 40 en calci incloent-hi totes les partícules que hi intervenen. De quin tipus de desintegració es tracta?\nDada: nombre d’Avogadro NA = 6,022·10²³.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "6-NU-660166026600"
+  },
+  {
+    "any": 2025,
+    "convocatoria": "jun_3",
+    "problema": "P4B",
+    "descripcio": "Efecte fotoelèctric en diferents metalls: condició d’emissió, potencial de frenada, velocitat màxima i massa relativista dels electrons.",
+    "bloc": "Bloc 6 — Física quàntica i relativista",
+    "text": "Exercici 4. Física relativista, quàntica, nuclear i de partícules — Opció B\nEn un experiment d’efecte fotoelèctric, fem incidir una llum monocromàtica sobre diferents superfícies metàl·liques. Els valors de les funcions de treball dels metalls utilitzats són: cesi 2,14 eV, sodi 2,75 eV, potassi 2,30 eV, calci 2,87 eV i alumini 4,28 eV.\n(a) La llum utilitzada té una longitud d’ona λ = 514 nm. Justifiqueu en quins metalls de la taula es produirà l’efecte fotoelèctric. Expliqueu què és el potencial de frenada i com es relaciona amb l’energia cinètica dels electrons. Calculeu el potencial de frenada per a cadascun dels metalls en què hi ha efecte fotoelèctric.\n(b) Fem l’experiment amb una superfície de cesi i una llum de longitud d’ona λ = 300 nm. Calculeu quina serà la velocitat màxima dels electrons emesos. Calculeu també quina seria la massa relativista d’aquests electrons. A partir d’aquests resultats, justifiqueu si cal tenir en compte el comportament relativista en aquest cas.\nDades: |e| = 1,602·10⁻¹⁹ C; me = 9,11·10⁻³¹ kg; c = 3,00·10⁸ m/s; 1 eV = 1,602·10⁻¹⁹ J; h = 6,63·10⁻³⁴ J·s.",
+    "imatge_enunciat": "examens/2025_juny_3.pdf",
+    "imatge_solucio": "examens/2025_juny_3_sol.pdf",
+    "id": "6-QM-62526257625162536002"
+  }
+]

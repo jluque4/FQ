@@ -16,6 +16,10 @@ Aquesta magnitud pot ser de dos tipus principals:
 - **Camp escalar:** només cal un valor numèric en cada punt. Exemples: temperatura, pressió, densitat de l’aire.
 - **Camp vectorial:** cal indicar el **mòdul**, la **direcció** i el **sentit**. Exemples: velocitat del vent, camp de forces.
 
+| ![Exemples de camps](img/bloc4/0.png) |
+|:--------------------------------------:|
+| *[Exemples de camps físics.](https://www.tiempo.com/mapas-meteorologicos/temp2m-penin.html)* |
+
 Un **camp de forces** és, per tant, un **tipus de camp vectorial**.  
 En cada punt de l’espai, si hi col·loquem una partícula, aquesta experimenta una força.  
 
