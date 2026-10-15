@@ -94,7 +94,7 @@
 ---
 
 ## 9 — Dinàmiques de grup i clima d’aula
-- Grup format per 26 alumnes amb **bona convivència general**.  
+- Grup format per 25 alumnes amb **bona convivència general**.  
 - Es treballaran dinàmiques de **cohesió i cooperació** per integrar els nous alumnes.  
 - Objectiu: un ambient **positiu, participatiu i respectuós.**  
 - S’inclouran activitats de tutoria sobre comunicació, gestió emocional i treball en equip.  
