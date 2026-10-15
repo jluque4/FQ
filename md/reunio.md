@@ -17,7 +17,7 @@
 
 ## 2 — Normes i sancions per ús de mòbils i rellotges intel·ligents
 | Infracció | Actuació immediata | Conseqüència |
-|------------|--------------------|---------------|
+|:------------|:--------------------|:---------------|
 | **1a vegada** | Registre d’incidència i comunicació a coordinació. | **Sanció d’un dia d’expulsió.** |
 | **Ús indegut (foto, vídeo o difusió)** | Intervenció de direcció. | **Falta molt greu i pèrdua del dret a activitats externes.** |
 
