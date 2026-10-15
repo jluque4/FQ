@@ -65,7 +65,7 @@
 
 ---
 
-## 7 — Dates rellevants del curs 2025–26 (segons calendari oficial)
+## 7 — Dates rellevants del curs 2026–27 (segons calendari oficial)
 | Mes | Esdeveniment | Observacions |
 |------|:---------------|:--------------|
 | **Setembre** | **8/09** Inici classes Batxillerat | Presentació i acollida del curs. |
