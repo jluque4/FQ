@@ -86,8 +86,8 @@
 ## 8 — Presentació del grup
 - **Grup:** 1r Batxillerat A – Científic  
 - **Aula mare:** 2.1  
-- **Nombre total d’alumnes:** 26  
-  - **24 nois** i **2 noies**  
+- **Nombre total d’alumnes:** 25  
+  - **23 nois** i **2 noies**  
 - Bon clima de treball i participació, amb alguns alumnes provinents d’altres centres.  
 - Objectius de tutoria: **cohesió de grup, orientació acadèmica i acompanyament emocional.**
 
