@@ -174,14 +174,6 @@ Aquesta idea serà essencial per resoldre problemes típics de PAU sobre:
 
 ---
 
-Perfecte — podem reformular **tot l'apartat del camp elèctric** evitant la idea de “càrrega de prova”, que ja no és l’enfocament modern recomanat, i substituint-la per la definició fonamental:
-
-> **El camp elèctric és la força elèctrica per unitat de càrrega.**
-
-A continuació tens l’apartat **3 — Camp elèctric** revisat i ajustat a aquest enfocament.
-
----
-
 # 3 — Camp elèctric
 
 ## 3.1 — Definició
