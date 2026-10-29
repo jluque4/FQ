@@ -336,6 +336,40 @@ $$
 
 ---
 
+## 4.1 — Moviment rectilini uniforme (MRU)
+
+El **moviment rectilini uniforme (MRU)** és un moviment en què el mòbil descriu una **trajectòria rectilínia** amb **velocitat constant**.
+
+Per tant:
+
+$$
+\vec v=\text{constant}
+$$
+
+i l'acceleració és nul·la:
+
+$$
+\vec a=\vec 0
+$$
+
+A continuació estudiarem tres moviments diferents a partir de les posicions que ocupen els mòbils en diferents instants.
+
+| ![Tres casos de MRU](img/bloc1/22.png) |
+|:---------------------------------------------:|
+| *Posicions dels mòbils A, B i C en diferents instants de temps.* |
+
+### Taula de dades
+
+| $t$ (s) | **Mòbil A** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) | **Mòbil B** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) | **Mòbil C** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 0 | $0\hat{\imath}$ | $2\hat{\imath}$ | $\vec 0$ | $4\hat{\imath}$ | $-\hat{\imath}$ | $\vec 0$ | — | — | — |
+| 1 | $2\hat{\imath}$ | $2\hat{\imath}$ | $\vec 0$ | $3\hat{\imath}$ | $-\hat{\imath}$ | $\vec 0$ | — | — | — |
+| 2 | $4\hat{\imath}$ | $2\hat{\imath}$ | $\vec 0$ | $2\hat{\imath}$ | $-\hat{\imath}$ | $\vec 0$ | $-3\hat{\imath}$ | $3\hat{\imath}$ | $\vec 0$ |
+| 3 | $6\hat{\imath}$ | $2\hat{\imath}$ | $\vec 0$ | $1\hat{\imath}$ | $-\hat{\imath}$ | $\vec 0$ | $0\hat{\imath}$ | $3\hat{\imath}$ | $\vec 0$ |
+| 4 | $8\hat{\imath}$ | $2\hat{\imath}$ | $\vec 0$ | $0\hat{\imath}$ | $-\hat{\imath}$ | $\vec 0$ | $3\hat{\imath}$ | $3\hat{\imath}$ | $\vec 0$ |
+| 5 | — | — | — | — | — | — | $6\hat{\imath}$ | $3\hat{\imath}$ | $\vec 0$ |
+| 6 | — | — | — | — | — | — | $9\hat{\imath}$ | $3\hat{\imath}$ | $\vec 0$ |
+
 ## 4.2 MRUA
 
 ---
