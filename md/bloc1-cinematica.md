@@ -344,7 +344,7 @@ A continuació estudiarem tres moviments diferents a partir de les posicions que
 |:---------------------------------------------:|
 | *Posicions dels mòbils A, B i C en diferents instants de temps.* |
 
-### Taula de dades
+#### Taula de dades
 
 | $t$ (s) | **Mòbil A** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) | **Mòbil B** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) | **Mòbil C** $\vec r$ (m) | $\vec v$ (m/s) | $\vec a$ (m/s²) |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
