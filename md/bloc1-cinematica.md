@@ -336,8 +336,6 @@ $$
 
 ---
 
-## 4.1 — Moviment rectilini uniforme (MRU)
-
 El **moviment rectilini uniforme (MRU)** és un moviment en què el mòbil descriu una **trajectòria rectilínia** amb **velocitat constant**. Per tant $\vec v=\text{constant}$ i l'acceleració és nul·la $\vec a=\vec 0$
 
 A continuació estudiarem tres moviments diferents a partir de les posicions que ocupen els mòbils en diferents instants.
