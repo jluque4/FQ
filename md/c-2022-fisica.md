@@ -306,6 +306,53 @@ $$
 
 ---
 
+### 6.5 — Ús de calculadores
+
+A les PAU es permeten calculadores científiques convencionals, incloses les que resolen equacions de segon grau. No es permeten calculadores programables, gràfiques, amb capacitat d'emmagatzemar documents o programes, comunicació de dades, càlcul simbòlic o intel·ligència artificial.
+
+#### Models de calculadores permesos
+
+---
+
+| Casio | Canon | Citizen | Olympia |
+|:---|:---|:---|:---|
+| fx-82ES PLUS | F-720i | SR-135 (totes les versions) | LCD 8110 |
+| fx-82MS, ES, SX, TL, Super, NS, X | **Elco** | SR-260 (totes les versions) | **Sharp** |
+| fx-82SPX Iberia | ECF-4807 | SR-270x (N, NGR, NPU, etc.) | EL-521VH |
+| fx-82SPX II Iberia | EC-545 | **Lexibook** | EL-531VH |
+| fx-82SPX-S-EH | **HP** | SC100 | EL-531 |
+| fx-82SX Fraction | 10s | **Milan** | EL-520 |
+| fx-82SX PLUS | 300s | M-240 | **Texas Instruments** |
+| fx-85ES PLUS | HP 10s+ | M-2 | TI-30Xs |
+| fx-85MS, ES, WA | | M-139 | TI-30 eco RS |
+| fx-85SPX II | | M-228 | TI-30Xa Solar |
+| fx-85SPX II - BU | | | TI-36X |
+| fx-350MS, ES, TLG, TL | | | |
+| fx-350ES PLUS | | | |
+| fx-350SPX Iberia | | | |
+| fx-550 | | | |
+| fx-590 | | | |
+| FX-82SP CW ClassWiz | | | |
+| Fx-991SP CW | | | |
+| Fx-991SPX Iberia | | | |
+
+---
+
+#### Models de calculadores no permesos
+
+--- 
+
+| Casio | HP | Texas Instruments |
+|:---|:---|:---|
+| FX-9750 | Prime | TI-84, TI-83 |
+| FX-9860 | HP 50g | TI-Nspire, TI-89, TI-92 |
+| FX-CG50 | HP 48G | TI BA II |
+| FX-5800P | HP 12C | |
+
+<div style="font-size:0.92em; padding:10px 12px; border-left:4px solid #c0392b; background:#fdf2f2; border-radius:6px;">
+<strong>Important:</strong> Les llistes són orientatives i no exhaustives. Qualsevol calculadora que compleixi els criteris establerts es podrà utilitzar, encara que no aparegui a la llista de models permesos. En cas de dubte, la decisió final correspon al tribunal. No es facilitaran calculadores alternatives.
+</div>
+
 # 7 — Conclusió
 
 El **Currículum de Física de Batxillerat (C-2022)** integra els fonaments de la mecànica, l’energia i la termodinàmica amb els camps electromagnètics i la física moderna, oferint una visió **completa i coherent del món físic**.
