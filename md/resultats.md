@@ -37,7 +37,7 @@ Aquest document recopila els resultats de les proves de Física de les **PAU** i
 
 A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centre**, amb una fila per curs. Als blocs de 2n també s’inclouen els problemes PAU de referència.
 
-### 3.1. B0 — Càlcul vectorial
+### B0 — Càlcul vectorial
 
 **Llegenda:** pendent de definir quan es disposi de les puntuacions per tipus de problema.
 
@@ -50,7 +50,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.2. B1A — Cinemàtica 1D
+### B1A — Cinemàtica 1D
 
 **Llegenda dels problemes**
 
@@ -70,7 +70,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.3. B1B — Cinemàtica 2D
+### B1B — Cinemàtica 2D
 
 **Llegenda dels problemes**
 
@@ -90,7 +90,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.4. B2 — Dinàmica
+### B2 — Dinàmica
 
 **Llegenda dels problemes**
 
@@ -110,7 +110,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.5. B3 — Treball i energia
+### B3 — Treball i energia
 
 **Llegenda dels problemes**
 
@@ -130,7 +130,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.6. B4A — Camp gravitatori
+### B4A — Camp gravitatori
 
 **Llegenda dels problemes**
 
@@ -158,7 +158,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.7. B4B — Camp elèctric
+### B4B — Camp elèctric
 
 **Llegenda dels problemes**
 
@@ -187,7 +187,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.8. B4C — Camp magnètic i inducció
+### B4C — Camp magnètic i inducció
 
 **Llegenda dels problemes**
 
@@ -215,7 +215,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.9. B5 — Vibracions, ones i òptica
+### B5 — Vibracions, ones i òptica
 
 **Llegenda dels problemes**
 
@@ -245,7 +245,7 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 
 ---
 
-### 3.10. B6 — Física moderna
+### B6 — Física moderna
 
 **Llegenda dels problemes**
 
