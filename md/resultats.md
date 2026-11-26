@@ -181,8 +181,6 @@ A cada bloc hi ha una **llegenda de codis** i una **taula de resultats del centr
 | 2025 | P2a | EF · CU | Experiment de Millikan: equilibri de forces i camp uniforme | 1.41 | 66 % | **5.64** |
 | 2026 | P2 | CU | Tub de raigs X: camp elèctric i moviment d’electrons | 1.59 | 100 % | **6.36** |
 
-*La comparació amb el centre és orientativa: el problema PAU cobreix una part del bloc, mentre que l’examen del centre inclou quatre tipologies.*
-
 ---
 
 ### B4C — Camp magnètic i inducció
