@@ -2,7 +2,7 @@
 
 Aquest document recopila els resultats de les proves de Física de les **PAU** i dels exàmens del **centre**, amb l’objectiu de comparar-ne l’evolució al llarg dels cursos.
 
-- **Centre:** els resultats disponibles corresponen al curs **2025–2026**.
+- **Centre:** els resultats disponibles corresponen al curs **25–26** i **26-27**.
 - **PAU:** es recullen les convocatòries **ordinàries de juny de 2025 i juny de 2026**.
 - **Puntuacions:** cada problema es valora sobre **2,5 punts**; la nota total d’un examen de quatre problemes és sobre **10**.
 
