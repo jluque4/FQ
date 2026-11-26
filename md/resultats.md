@@ -28,8 +28,7 @@ Aquest document recopila els resultats de les proves de Física de les **PAU** i
 |:---:|:---:|:---:|:---:|:---:|
 | 2025 | 1.57 | A: 1.41 / B: 0.92 | A: 1.14 / B: 1.35 | 1.44 |
 | 2026 | A: 1.91 / B: 1.57 | 1.59 | 1.68 | A: 1.87 / B: 1.32 |
-| Total | 1.68 | 1.31 | 1.39 | 1.54 |
-
+| Total | **1.68** | **1.31** | **1.39** | **1.54** |
 
 *Les opcions A/B corresponen a problemes alternatius. Les mitjanes procedeixen de mostres de 543 exàmens (2025) i 760 exàmens (2026).*
 
